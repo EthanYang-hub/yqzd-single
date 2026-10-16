@@ -5,6 +5,11 @@
   const own=(map,key,create)=>{if(!map.has(key))map.set(key,create());return map.get(key);};
   const integer=(value,fallback=1,max=9999)=>{const n=Number(value??fallback);if(!Number.isSafeInteger(n)||n<1||n>max)throw new Error('操作数量无效');return n;};
   const choose=items=>items[Math.floor(Math.random()*items.length)];
+  function createTemperEntry(){
+    const cfg=choose(c.MagicArtifactEntryCfg.list),entry=new d.GDMagicEntry();
+    entry.cfgId=cfg.id;entry.value=Math.max(1,Math.round(cfg.base*(.5+Math.random())));entry.flag=1;
+    return entry;
+  }
   const weighted=(items,weights)=>{let p=Math.random()*weights.reduce((a,b)=>a+b,0);for(let i=0;i<items.length;i++){p-=weights[i];if(p<0)return items[i];}return items[items.length-1];};
   function emit(...names){for(const name of names)ui[name]?.dispatch?.();}
   function commit(){
@@ -108,6 +113,11 @@
       if('costCoin'in cfg)cfg.costCoin=0;if('costItem'in cfg)cfg.costItem=freeArray(cfg.costItem);if(name==='RecycleCfg'){cfg.condition.clear();cfg.limit=0;}
     }
     for(const cfg of c.LevelCfg.list){for(const [type]of cfg.attrLimit)cfg.attrLimit.set(type,Math.max(...c.AttrGrowCfg.list.filter(x=>String(x.attrType)===type).map(x=>x.level),0));}
+    const [cultivation,cc]=await Promise.all([System.import('chunks:///_virtual/attr_level_up_item.ts'),System.import('cc')]);
+    const cultivationItem=cultivation.AttrLevelUpItem.prototype,refreshCultivation=cultivationItem.refreshView;
+    cultivationItem.refreshView=function(){const result=refreshCultivation.call(this);for(const label of this.btn_up.getComponentsInChildren(cc.Label))label.string='一键升满';return result;};
+    cultivationItem._checkUpgradeResources=function(){return c.AttrGrowCfg.list.some(x=>x.attrType===this.curType&&x.level>(r.attrLevel.get(this.curType)||0));};
+    cultivationItem.playLevelUpAnimation=function(){this.stopLevelAnimation();this.refreshView();};
     const [shop,pill,pet,desire,base,gacha,pillUI,petLevel]=await Promise.all(['shop-helper.ts','pill-module.ts','pet-helper.ts','desire-module.ts','base-land-helper.ts','ui-desire-gacha-page.ts','ui-pill.ts','pet-level-up.ts'].map(n=>System.import('chunks:///_virtual/'+n)));
     shop.shopHelper.getMallBuyTimes=()=>0;shop.shopHelper.getShopCanBuy=()=>true;shop.shopHelper.checkMallCfgDown=()=>false;
     shop.shopHelper.getCurLifeCardType=shop.shopHelper.getCurMouthCardType=()=>1;
@@ -139,6 +149,7 @@
     for(const cfg of c.BaseCfg.list)if(cfg.unlockSkillBookId&&!r.roleBase.skill.get(cfg.unlockSkillBookId))r.roleBase.skill.set(cfg.unlockSkillBookId,1);
     const [magic,equipment,task,handbook]=await Promise.all(['magic-artifact-module.ts','equipment-helper.ts','task-helper.ts','handbook-helper.ts'].map(n=>System.import('chunks:///_virtual/'+n)));
     const mp=magic.MagicArtifactModule.prototype;mp.isArtifactOpen=()=>true;mp.canActivateOrUpgradeArtifact=function(id){return !this.isArtifactMaxLevel(id);};mp.canUpgradeStone=function(id){return this.getStoneProgress(id).level<this.getStoneMaxLevel(id);};mp.canAffordTemper=()=>true;mp.getTemperUnlockedSlotCount=function(){return this.getMaxTemperEntrySlotCount();};mp.getTemperUnlockedPlanCount=function(){return this.getMaxTemperPlanCount();};mp.isTemperPlanUnlocked=()=>true;mp.canActivateCollectionLevel=function(){return !this.isCollectionMaxLevel();};
+    const temperCost=mp.getTemperCost;mp.getTemperCost=function(){return temperCost.call(this).map(cost=>({...cost,num:0}));};
     const eh=equipment.equipmentHelper||equipment.EquipmentHelper;eh.isEquipmentSlotUnlock=()=>true;
     eh.getEquipmentBaseAttr=(cfg,level)=>cfg.LevelGrowthAttr[Math.max(0,Math.min(level,cfg.LevelGrowthAttr.length-1))];
     task.taskHelper.getTaskState=id=>c.TaskCfg.getById(id)?d.ETaskState.finish:d.ETaskState.unFinish;
@@ -151,7 +162,9 @@
     for(const cfg of c.MagicArtifactBaseCfg.list){cfg.open=1;const weapon=own(r.magic.magicWeapon,cfg.id,()=>new d.GDMagicWeapon());weapon.cfgId=cfg.id;weapon.level=Math.max(1,weapon.level);}
     for(const cfg of c.MagicArtifactStoneCfg.list){const stone=own(r.magic.gemstone,cfg.id,()=>new d.GDGemstone());stone.cfgId=cfg.id;stone.level=Math.max(1,stone.level);}
     r.magic.refineLevel=Math.max(1,r.magic.refineLevel);if(!r.magic.onUsePlan)r.magic.onUsePlan=1;
-    for(let plan=1;plan<=6;plan++)own(r.magic.plan,plan,()=>new d.GDMagicPlan());
+    // 老存档可能只有空方案；补齐词条才能通过原界面的淬炼检查，已有词条和锁定保持原样。
+    const slots=mp.getMaxTemperEntrySlotCount(),plans=mp.getMaxTemperPlanCount();
+    for(let id=1;id<=plans;id++){const plan=own(r.magic.plan,id,()=>new d.GDMagicPlan());for(let slot=1;slot<=slots;slot++)own(plan.entry,slot,createTemperEntry);}
     for(const cfg of c.EquipmentCfg.list)if(![...r.equipment.bag.values()].some(x=>x.configId===cfg.id))createEquipment(cfg.id);
     for(const cfg of c.MallConfig.list)activatePurchase(cfg);
     for(const cfg of c.ItemCfg.list)if(cfg.type===c.ItemType.PET_ITEM&&(r.bag.get(cfg.id)?.n||0)<1)tools.addItem(cfg.id,1);
@@ -265,11 +278,11 @@
     else if(cmd==='magic_embedgemstone'){if(!weapon)throw new Error('法器不存在');const pos=Number(p.position),stone=Number(p.gemstoneId);if(p.equipped){if(!magic.gemstone.has(stone))throw new Error('敕令不存在');weapon.chessboard.set(pos,stone);}else weapon.chessboard.delete(pos);}
     else if(cmd==='magic_upgradecollection')magic.collectionLevel=Math.min(c.MagicArtifactCollectionCfg.list.length,magic.collectionLevel+1);
     else if(cmd==='magic_refineentry'){
-      const plan=own(magic.plan,magic.onUsePlan||1,()=>new d.GDMagicPlan());for(let slot=1;slot<=6;slot++){if((plan.entry.get(slot)?.flag||0)&(1<<d.MagicEntryFlagBit.lock))continue;const cfg=choose(c.MagicArtifactEntryCfg.list),entry=new d.GDMagicEntry();entry.cfgId=cfg.id;entry.value=Math.max(1,Math.round(cfg.base*(.5+Math.random())));entry.flag=1;plan.entry.set(slot,entry);}magic.refineCount++;magic.refineLevel=Math.min(c.MagicArtifactTemperCfg.list.length,magic.refineLevel+1);
+      const plan=own(magic.plan,magic.onUsePlan||1,()=>new d.GDMagicPlan()),slots=Math.max(...c.MagicArtifactTemperCfg.list.map(x=>x.entryUnlocked||0));for(let slot=1;slot<=slots;slot++){if((plan.entry.get(slot)?.flag||0)&(1<<d.MagicEntryFlagBit.lock))continue;plan.entry.set(slot,createTemperEntry());}magic.refineCount++;magic.refineLevel=Math.min(c.MagicArtifactTemperCfg.list.length,magic.refineLevel+1);
     }else if(cmd==='magic_switchplan')magic.onUsePlan=Number(p.planId??p.id);
     else if(cmd==='magic_changeplanname')own(magic.plan,Number(p.planId??p.id),()=>new d.GDMagicPlan()).name=String(p.name||'方案').slice(0,20);
     else if(cmd==='magic_setrefinesetting')Object.assign(own(magic.plan,magic.onUsePlan||1,()=>new d.GDMagicPlan()).setting,{entryId:p.entryId,quality:Number(p.quality),rate:Number(p.rate)});
-    else if(cmd==='magic_lockentry'||cmd==='magic_unlockentry'){const plan=own(magic.plan,Number(p.planId)||magic.onUsePlan||1,()=>new d.GDMagicPlan()),index=p.index instanceof Map?p.index:new Map([[Number(p.index),cmd==='magic_lockentry']]);index.forEach((locked,key)=>{const entry=plan.entry.get(Number(key));if(entry)entry.flag=locked?entry.flag|(1<<d.MagicEntryFlagBit.lock):entry.flag&~(1<<d.MagicEntryFlagBit.lock);});}
+    else if(cmd==='magic_lockentry'||cmd==='magic_unlockentry'){const plan=own(magic.plan,Number(p.planId)||magic.onUsePlan||1,()=>new d.GDMagicPlan()),index=p.index instanceof Map?p.index:new Map([[Number(p.index),cmd==='magic_lockentry']]);index.forEach((locked,key)=>{const slot=Number(key),max=Math.max(...c.MagicArtifactTemperCfg.list.map(x=>x.entryUnlocked||0));if(!Number.isSafeInteger(slot)||slot<1||slot>max)throw new Error('淬炼词条位置无效');const entry=own(plan.entry,slot,createTemperEntry);entry.flag=locked?entry.flag|(1<<d.MagicEntryFlagBit.lock):entry.flag&~(1<<d.MagicEntryFlagBit.lock);});}
     else return undefined;
     stats();commit();emit('MagicArtifactChanged','popFightPowerUp');return{};
   }

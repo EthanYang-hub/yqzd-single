@@ -196,13 +196,15 @@
   }
   function upgradeHeroAttribute(growId) {
     const role=state.server.ROLE,c=state.configs,d=state.defs;
-    const cfg=c.AttrGrowCfg.getById(Number(growId));
-    if(!cfg)throw new Error('修炼升级配置不存在');
+    const requested=c.AttrGrowCfg.getById(Number(growId));
+    if(!requested)throw new Error('修炼升级配置不存在');
+    // 一次结算到配置最高级，避免逐级发送上千次请求。
+    const cfg=c.AttrGrowCfg.list.filter(row=>row.attrType===requested.attrType).reduce((best,row)=>row.level>best.level?row:best,requested);
     const current=role.attrLevel.get(cfg.attrType)||0;
     const limit=Math.max(...c.AttrGrowCfg.list.filter(row=>row.attrType===cfg.attrType).map(row=>row.level));
     if(limit<=0)throw new Error('该修炼项目尚未解锁');
     if(current>=limit)throw new Error('已达到当前角色等级的修炼上限');
-    if(cfg.level!==current+1)throw new Error('修炼等级已变化，请重试');
+    if(requested.level!==current+1)throw new Error('修炼等级已变化，请重试');
     const previous=current>0?c.AttrGrowCfg.list.find(row=>row.attrType===cfg.attrType&&row.level===current):null;
     if(current>0&&!previous)throw new Error('原修炼等级配置缺失');
     if(!Number.isFinite(cfg.stat)||!Number.isSafeInteger(cfg.costCoin)||cfg.costCoin<0)throw new Error('修炼属性或消耗配置无效');
