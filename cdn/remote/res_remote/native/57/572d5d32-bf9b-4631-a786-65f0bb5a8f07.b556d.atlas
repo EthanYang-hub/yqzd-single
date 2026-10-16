@@ -1,0 +1,209 @@
+
+ui_doufa_logo.png
+size: 1926,1131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DD1
+  rotate: true
+  xy: 1810, 368
+  size: 242, 109
+  orig: 253, 117
+  offset: 3, 5
+  index: -1
+DD2
+  rotate: false
+  xy: 1253, 42
+  size: 244, 115
+  orig: 249, 124
+  offset: 2, 4
+  index: -1
+UI_zhanyaoduijue-10
+  rotate: false
+  xy: 1448, 821
+  size: 194, 308
+  orig: 194, 308
+  offset: 0, 0
+  index: -1
+UI_zhanyaoduijue-11
+  rotate: false
+  xy: 800, 807
+  size: 322, 322
+  orig: 324, 324
+  offset: 1, 1
+  index: -1
+UI_zhanyaoduijue-7
+  rotate: true
+  xy: 605, 450
+  size: 338, 327
+  orig: 338, 327
+  offset: 0, 0
+  index: -1
+UI_zhanyaoduijue-8
+  rotate: true
+  xy: 300, 39
+  size: 352, 348
+  orig: 356, 349
+  offset: 2, 1
+  index: -1
+a1
+  rotate: true
+  xy: 1644, 915
+  size: 214, 277
+  orig: 238, 280
+  offset: 12, 3
+  index: -1
+a2
+  rotate: false
+  xy: 650, 126
+  size: 322, 322
+  orig: 324, 324
+  offset: 1, 1
+  index: -1
+b1
+  rotate: true
+  xy: 1604, 50
+  size: 174, 254
+  orig: 174, 254
+  offset: 0, 0
+  index: -1
+b2
+  rotate: true
+  xy: 1644, 726
+  size: 187, 275
+  orig: 190, 277
+  offset: 1, 2
+  index: -1
+b4
+  rotate: false
+  xy: 1499, 2
+  size: 103, 218
+  orig: 103, 218
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 934, 483
+  size: 322, 322
+  orig: 324, 324
+  offset: 1, 1
+  index: -1
+c1
+  rotate: false
+  xy: 1582, 485
+  size: 226, 239
+  orig: 226, 257
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 1298, 222
+  size: 238, 259
+  orig: 242, 279
+  offset: 2, 2
+  index: -1
+c4
+  rotate: true
+  xy: 993, 8
+  size: 149, 258
+  orig: 149, 258
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 1124, 807
+  size: 322, 322
+  orig: 324, 324
+  offset: 1, 1
+  index: -1
+d1
+  rotate: false
+  xy: 317, 428
+  size: 286, 340
+  orig: 287, 341
+  offset: 1, 0
+  index: -1
+d2
+  rotate: false
+  xy: 2, 34
+  size: 296, 357
+  orig: 300, 361
+  offset: 2, 3
+  index: -1
+d4
+  rotate: false
+  xy: 2, 754
+  size: 276, 375
+  orig: 352, 375
+  offset: 65, 0
+  index: -1
+d5
+  rotate: false
+  xy: 974, 159
+  size: 322, 322
+  orig: 324, 324
+  offset: 1, 1
+  index: -1
+e1
+  rotate: false
+  xy: 494, 790
+  size: 304, 339
+  orig: 304, 341
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 2, 393
+  size: 313, 359
+  orig: 317, 362
+  offset: 2, 1
+  index: -1
+e3
+  rotate: false
+  xy: 280, 770
+  size: 212, 359
+  orig: 212, 359
+  offset: 0, 0
+  index: -1
+e5
+  rotate: false
+  xy: 1258, 483
+  size: 322, 322
+  orig: 324, 324
+  offset: 1, 1
+  index: -1
+f_1
+  rotate: false
+  xy: 767, 8
+  size: 112, 116
+  orig: 122, 124
+  offset: 5, 4
+  index: -1
+f_2
+  rotate: true
+  xy: 650, 8
+  size: 116, 115
+  orig: 126, 123
+  offset: 6, 4
+  index: -1
+f_3
+  rotate: true
+  xy: 1810, 612
+  size: 112, 114
+  orig: 120, 123
+  offset: 5, 5
+  index: -1
+f_4
+  rotate: false
+  xy: 881, 8
+  size: 110, 116
+  orig: 120, 124
+  offset: 0, 3
+  index: -1
+smokewispy9purple
+  rotate: false
+  xy: 1538, 226
+  size: 251, 255
+  orig: 256, 256
+  offset: 5, 0
+  index: -1

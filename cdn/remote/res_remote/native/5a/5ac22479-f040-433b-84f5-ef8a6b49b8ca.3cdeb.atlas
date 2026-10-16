@@ -1,0 +1,41 @@
+
+ui_zengsong.png
+size: 541,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 86
+  size: 360, 118
+  orig: 360, 118
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 8
+  size: 344, 76
+  orig: 344, 76
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 258
+  size: 331, 292
+  orig: 331, 292
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 335, 206
+  size: 344, 204
+  orig: 344, 204
+  offset: 0, 0
+  index: -1
+ruyi
+  rotate: false
+  xy: 348, 2
+  size: 53, 82
+  orig: 56, 82
+  offset: 3, 0
+  index: -1

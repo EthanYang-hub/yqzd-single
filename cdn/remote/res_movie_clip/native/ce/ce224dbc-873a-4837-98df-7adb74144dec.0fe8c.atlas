@@ -1,0 +1,20 @@
+
+roleSkill_spterra_orange.png
+size: 582,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20
+  rotate: false
+  xy: 2, 22
+  size: 462, 44
+  orig: 474, 62
+  offset: 10, 16
+  index: -1
+21
+  rotate: false
+  xy: 466, 2
+  size: 114, 64
+  orig: 114, 64
+  offset: 0, 0
+  index: -1

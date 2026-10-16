@@ -1,0 +1,188 @@
+
+ui_lp_pinji_citiao.png
+size: 972,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Env_MB_shopSouth_smokeSwirl
+  rotate: false
+  xy: 685, 170
+  size: 285, 31
+  orig: 290, 32
+  offset: 2, 1
+  index: -1
+Fire_1
+  rotate: false
+  xy: 769, 103
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+Fire_10
+  rotate: false
+  xy: 278, 93
+  size: 78, 108
+  orig: 78, 108
+  offset: 0, 0
+  index: -1
+Fire_11
+  rotate: false
+  xy: 358, 94
+  size: 79, 107
+  orig: 79, 107
+  offset: 0, 0
+  index: -1
+Fire_12
+  rotate: false
+  xy: 196, 92
+  size: 80, 109
+  orig: 80, 109
+  offset: 0, 0
+  index: -1
+Fire_13
+  rotate: false
+  xy: 439, 96
+  size: 79, 105
+  orig: 79, 105
+  offset: 0, 0
+  index: -1
+Fire_14
+  rotate: false
+  xy: 520, 97
+  size: 77, 104
+  orig: 77, 104
+  offset: 0, 0
+  index: -1
+Fire_15
+  rotate: false
+  xy: 599, 97
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+Fire_16
+  rotate: true
+  xy: 668, 102
+  size: 66, 99
+  orig: 66, 99
+  offset: 0, 0
+  index: -1
+Fire_17
+  rotate: true
+  xy: 895, 122
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+Fire_18
+  rotate: true
+  xy: 895, 82
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Fire_19
+  rotate: true
+  xy: 841, 75
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+Fire_2
+  rotate: true
+  xy: 818, 115
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+Fire_20
+  rotate: false
+  xy: 841, 23
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+Fire_3
+  rotate: false
+  xy: 305, 2
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+Fire_4
+  rotate: false
+  xy: 764, 5
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+Fire_5
+  rotate: false
+  xy: 685, 3
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+Fire_6
+  rotate: true
+  xy: 585, 16
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+Fire_7
+  rotate: true
+  xy: 479, 14
+  size: 80, 104
+  orig: 80, 104
+  offset: 0, 0
+  index: -1
+Fire_8
+  rotate: true
+  xy: 371, 12
+  size: 80, 106
+  orig: 80, 106
+  offset: 0, 0
+  index: -1
+Fire_9
+  rotate: true
+  xy: 196, 10
+  size: 80, 107
+  orig: 80, 107
+  offset: 0, 0
+  index: -1
+ezreal_pulsefire_death_squares
+  rotate: false
+  xy: 2, 9
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+huo1
+  rotate: true
+  xy: 919, 45
+  size: 35, 36
+  orig: 38, 41
+  offset: 0, 2
+  index: -1
+huo2
+  rotate: true
+  xy: 881, 3
+  size: 30, 35
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+huo3
+  rotate: true
+  xy: 919, 9
+  size: 34, 33
+  orig: 38, 36
+  offset: 3, 1
+  index: -1
+huo4
+  rotate: true
+  xy: 881, 35
+  size: 38, 36
+  orig: 40, 40
+  offset: 0, 3
+  index: -1

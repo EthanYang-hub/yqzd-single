@@ -1,0 +1,20 @@
+
+ronghe_leg_elite monster_004.png
+size: 313,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+94
+  rotate: false
+  xy: 2, 2
+  size: 262, 137
+  orig: 262, 137
+  offset: 0, 0
+  index: -1
+qi_D
+  rotate: true
+  xy: 266, 16
+  size: 123, 45
+  orig: 139, 53
+  offset: 0, 3
+  index: -1

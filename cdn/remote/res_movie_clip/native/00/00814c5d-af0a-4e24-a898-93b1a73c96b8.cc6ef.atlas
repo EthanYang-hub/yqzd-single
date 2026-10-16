@@ -1,0 +1,188 @@
+
+petSkill_tiansha_3.png
+size: 781,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Heidao_1
+  rotate: false
+  xy: 586, 67
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+Heidao_2
+  rotate: false
+  xy: 586, 67
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+Heidao_10
+  rotate: false
+  xy: 382, 264
+  size: 185, 86
+  orig: 185, 86
+  offset: 0, 0
+  index: -1
+Heidao_11
+  rotate: false
+  xy: 593, 328
+  size: 186, 89
+  orig: 186, 89
+  offset: 0, 0
+  index: -1
+Heidao_12
+  rotate: false
+  xy: 593, 419
+  size: 186, 91
+  orig: 186, 91
+  offset: 0, 0
+  index: -1
+Heidao_13
+  rotate: false
+  xy: 194, 279
+  size: 186, 86
+  orig: 186, 86
+  offset: 0, 0
+  index: -1
+Heidao_14
+  rotate: false
+  xy: 158, 189
+  size: 183, 88
+  orig: 183, 88
+  offset: 0, 0
+  index: -1
+Heidao_15
+  rotate: false
+  xy: 343, 173
+  size: 182, 89
+  orig: 182, 89
+  offset: 0, 0
+  index: -1
+Heidao_16
+  rotate: false
+  xy: 2, 29
+  size: 174, 90
+  orig: 174, 90
+  offset: 0, 0
+  index: -1
+Heidao_3
+  rotate: true
+  xy: 710, 158
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+Heidao_4
+  rotate: false
+  xy: 158, 121
+  size: 139, 66
+  orig: 139, 66
+  offset: 0, 0
+  index: -1
+Heidao_5
+  rotate: false
+  xy: 479, 81
+  size: 155, 71
+  orig: 155, 71
+  offset: 0, 0
+  index: -1
+Heidao_6
+  rotate: false
+  xy: 304, 11
+  size: 163, 77
+  orig: 163, 77
+  offset: 0, 0
+  index: -1
+Heidao_7
+  rotate: false
+  xy: 304, 90
+  size: 173, 81
+  orig: 173, 81
+  offset: 0, 0
+  index: -1
+Heidao_8
+  rotate: false
+  xy: 527, 154
+  size: 181, 84
+  orig: 181, 84
+  offset: 0, 0
+  index: -1
+Heidao_9
+  rotate: false
+  xy: 569, 240
+  size: 184, 86
+  orig: 184, 86
+  offset: 0, 0
+  index: -1
+X1
+  rotate: false
+  xy: 697, 2
+  size: 75, 63
+  orig: 75, 63
+  offset: 0, 0
+  index: -1
+X2
+  rotate: false
+  xy: 586, 6
+  size: 109, 59
+  orig: 110, 59
+  offset: 0, 0
+  index: -1
+X3
+  rotate: false
+  xy: 469, 3
+  size: 115, 76
+  orig: 115, 76
+  offset: 0, 0
+  index: -1
+daoguang_1
+  rotate: false
+  xy: 636, 67
+  size: 92, 85
+  orig: 116, 112
+  offset: 11, 13
+  index: -1
+daoguang_2
+  rotate: false
+  xy: 194, 367
+  size: 206, 143
+  orig: 225, 164
+  offset: 9, 8
+  index: -1
+daoguang_3
+  rotate: true
+  xy: 2, 121
+  size: 201, 154
+  orig: 224, 173
+  offset: 13, 8
+  index: -1
+daoguang_4
+  rotate: true
+  xy: 402, 352
+  size: 158, 189
+  orig: 188, 212
+  offset: 21, 8
+  index: -1
+daoguang_5
+  rotate: true
+  xy: 178, 25
+  size: 94, 124
+  orig: 150, 140
+  offset: 11, 4
+  index: -1
+healing_glyphShadow
+  rotate: false
+  xy: 527, 240
+  size: 23, 22
+  orig: 24, 24
+  offset: 0, 1
+  index: -1
+trdun_waterfall_splash
+  rotate: false
+  xy: 2, 324
+  size: 190, 186
+  orig: 192, 192
+  offset: 2, 3
+  index: -1

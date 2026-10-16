@@ -1,0 +1,41 @@
+
+ui_zhaohuan_tianshu_up.png
+size: 654,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Zha1
+  rotate: true
+  xy: 400, 38
+  size: 152, 143
+  orig: 200, 201
+  offset: 24, 27
+  index: -1
+flash_holyRing_alabaster_guardian
+  rotate: false
+  xy: 545, 82
+  size: 80, 108
+  orig: 128, 128
+  offset: 25, 9
+  index: -1
+flash_holyRing_golden_spiritLeech
+  rotate: true
+  xy: 545, 2
+  size: 78, 107
+  orig: 128, 128
+  offset: 25, 10
+  index: -1
+hei_L
+  rotate: false
+  xy: 2, 2
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: -1
+hei_R
+  rotate: false
+  xy: 201, 2
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: -1

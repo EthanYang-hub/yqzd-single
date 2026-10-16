@@ -1,0 +1,27 @@
+
+Season_fight_status_Chest.png
+size: 180,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest_light
+  rotate: false
+  xy: 61, 104
+  size: 71, 64
+  orig: 90, 77
+  offset: 10, 6
+  index: -1
+Chest_line
+  rotate: true
+  xy: 2, 170
+  size: 8, 176
+  orig: 10, 180
+  offset: 1, 2
+  index: -1
+Chest_zhuti
+  rotate: false
+  xy: 2, 121
+  size: 57, 47
+  orig: 61, 51
+  offset: 2, 2
+  index: -1

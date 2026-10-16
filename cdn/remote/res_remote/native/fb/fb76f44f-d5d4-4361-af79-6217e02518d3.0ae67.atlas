@@ -1,0 +1,104 @@
+
+ui_tianshujuexing.png
+size: 1832,1770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dddd
+  rotate: false
+  xy: 2, 498
+  size: 1649, 709
+  orig: 1649, 758
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 114
+  size: 773, 382
+  orig: 1011, 401
+  offset: 135, 19
+  index: -1
+eye_lwy_t_sun_26_single
+  rotate: false
+  xy: 1531, 384
+  size: 110, 112
+  orig: 128, 128
+  offset: 8, 8
+  index: -1
+fuzhou_1
+  rotate: true
+  xy: 777, 19
+  size: 160, 448
+  orig: 183, 450
+  offset: 0, 1
+  index: -1
+fuzhou_2
+  rotate: true
+  xy: 1313, 24
+  size: 179, 448
+  orig: 181, 450
+  offset: 2, 1
+  index: -1
+fuzhou_3
+  rotate: false
+  xy: 1653, 707
+  size: 177, 500
+  orig: 188, 515
+  offset: 11, 0
+  index: -1
+fuzhou_4
+  rotate: false
+  xy: 1653, 205
+  size: 177, 500
+  orig: 188, 515
+  offset: 11, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 1313, 325
+  size: 216, 171
+  orig: 227, 175
+  offset: 11, 2
+  index: -1
+guang2
+  rotate: false
+  xy: 777, 181
+  size: 534, 315
+  orig: 569, 348
+  offset: 16, 10
+  index: -1
+jue
+  rotate: false
+  xy: 1227, 2
+  size: 76, 95
+  orig: 84, 109
+  offset: 6, 4
+  index: -1
+lizi
+  rotate: false
+  xy: 2, 1209
+  size: 1791, 559
+  orig: 1793, 639
+  offset: 1, 2
+  index: -1
+shu
+  rotate: true
+  xy: 1313, 251
+  size: 72, 91
+  orig: 81, 115
+  offset: 2, 11
+  index: -1
+tian
+  rotate: true
+  xy: 1227, 99
+  size: 80, 78
+  orig: 91, 104
+  offset: 2, 15
+  index: -1
+xing
+  rotate: false
+  xy: 1531, 297
+  size: 73, 85
+  orig: 78, 89
+  offset: 3, 3
+  index: -1

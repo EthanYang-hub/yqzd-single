@@ -1,0 +1,20 @@
+
+ui_chun_libao.png
+size: 749,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 81
+  size: 540, 121
+  orig: 540, 121
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 544, 2
+  size: 203, 200
+  orig: 203, 200
+  offset: 0, 0
+  index: -1

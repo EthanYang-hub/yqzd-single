@@ -1,0 +1,13 @@
+
+ui_ZB_saoguang.png
+size: 121,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anivia_skn5_wisps
+  rotate: false
+  xy: 2, 2
+  size: 117, 126
+  orig: 128, 128
+  offset: 7, 0
+  index: -1

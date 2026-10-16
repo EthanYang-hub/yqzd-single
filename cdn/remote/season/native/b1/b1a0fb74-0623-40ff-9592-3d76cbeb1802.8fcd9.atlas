@@ -1,0 +1,20 @@
+
+Season_fight_status_Base2.png
+size: 180,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base2_jidi
+  rotate: false
+  xy: 2, 113
+  size: 69, 55
+  orig: 73, 59
+  offset: 2, 2
+  index: -1
+Base2_line
+  rotate: true
+  xy: 2, 170
+  size: 8, 176
+  orig: 10, 180
+  offset: 1, 2
+  index: -1

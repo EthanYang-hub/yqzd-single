@@ -1,0 +1,83 @@
+
+elite monster_2004_bullet.png
+size: 107,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F1
+  rotate: false
+  xy: 54, 50
+  size: 49, 55
+  orig: 50, 56
+  offset: 0, 1
+  index: -1
+F2
+  rotate: true
+  xy: 2, 12
+  size: 36, 54
+  orig: 37, 55
+  offset: 0, 1
+  index: -1
+fuzhou_0
+  rotate: false
+  xy: 2, 2
+  size: 18, 8
+  orig: 32, 16
+  offset: 7, 4
+  index: -1
+fuzhou_1
+  rotate: false
+  xy: 58, 40
+  size: 18, 8
+  orig: 32, 16
+  offset: 7, 4
+  index: -1
+fuzhou_2
+  rotate: false
+  xy: 22, 2
+  size: 18, 8
+  orig: 32, 16
+  offset: 7, 4
+  index: -1
+fuzhou_3
+  rotate: false
+  xy: 58, 30
+  size: 18, 8
+  orig: 32, 16
+  offset: 7, 4
+  index: -1
+fuzhou_4
+  rotate: false
+  xy: 78, 40
+  size: 18, 8
+  orig: 32, 16
+  offset: 7, 4
+  index: -1
+fuzhou_5
+  rotate: false
+  xy: 58, 20
+  size: 18, 8
+  orig: 32, 16
+  offset: 7, 4
+  index: -1
+fuzhou_6
+  rotate: false
+  xy: 78, 30
+  size: 18, 8
+  orig: 32, 16
+  offset: 7, 4
+  index: -1
+fuzhou_7
+  rotate: false
+  xy: 78, 20
+  size: 18, 8
+  orig: 32, 16
+  offset: 7, 4
+  index: -1
+storm_smoke_creepy
+  rotate: false
+  xy: 2, 50
+  size: 50, 55
+  orig: 54, 61
+  offset: 2, 4
+  index: -1

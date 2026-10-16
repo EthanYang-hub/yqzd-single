@@ -1,0 +1,160 @@
+
+roleSkill_fire_orange_bullet.png
+size: 889,471
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 2, 73
+  size: 184, 178
+  orig: 184, 178
+  offset: 0, 0
+  index: -1
+Fire_ball_4
+  rotate: true
+  xy: 757, 236
+  size: 85, 114
+  orig: 87, 118
+  offset: 0, 1
+  index: -1
+G_wei_1
+  rotate: true
+  xy: 563, 177
+  size: 89, 175
+  orig: 90, 178
+  offset: 1, 2
+  index: -1
+G_wei_10
+  rotate: true
+  xy: 369, 93
+  size: 88, 175
+  orig: 90, 178
+  offset: 1, 2
+  index: -1
+G_wei_11
+  rotate: true
+  xy: 740, 151
+  size: 83, 147
+  orig: 85, 150
+  offset: 1, 2
+  index: -1
+G_wei_12
+  rotate: true
+  xy: 208, 208
+  size: 88, 174
+  orig: 90, 177
+  offset: 1, 1
+  index: -1
+G_wei_13
+  rotate: true
+  xy: 384, 183
+  size: 86, 177
+  orig: 89, 180
+  offset: 1, 2
+  index: -1
+G_wei_2
+  rotate: true
+  xy: 188, 118
+  size: 88, 179
+  orig: 90, 182
+  offset: 1, 2
+  index: -1
+G_wei_3
+  rotate: false
+  xy: 778, 323
+  size: 91, 146
+  orig: 93, 149
+  offset: 1, 2
+  index: -1
+G_wei_4
+  rotate: true
+  xy: 528, 2
+  size: 75, 157
+  orig: 79, 160
+  offset: 3, 1
+  index: -1
+G_wei_5
+  rotate: true
+  xy: 2, 3
+  size: 68, 167
+  orig: 72, 173
+  offset: 1, 4
+  index: -1
+G_wei_6
+  rotate: true
+  xy: 718, 68
+  size: 81, 149
+  orig: 84, 152
+  offset: 1, 2
+  index: -1
+G_wei_7
+  rotate: true
+  xy: 360, 4
+  size: 87, 166
+  orig: 88, 170
+  offset: 1, 2
+  index: -1
+G_wei_8
+  rotate: true
+  xy: 546, 79
+  size: 96, 170
+  orig: 98, 173
+  offset: 1, 2
+  index: -1
+G_wei_9
+  rotate: true
+  xy: 188, 21
+  size: 95, 170
+  orig: 97, 173
+  offset: 1, 2
+  index: -1
+Global_SS_Smite_Duel_Shield_SheildFlat
+  rotate: false
+  xy: 2, 253
+  size: 204, 216
+  orig: 204, 216
+  offset: 0, 0
+  index: -1
+huo1_050
+  rotate: true
+  xy: 586, 369
+  size: 100, 190
+  orig: 105, 216
+  offset: 2, 20
+  index: -1
+huo1_051
+  rotate: true
+  xy: 384, 371
+  size: 98, 200
+  orig: 104, 216
+  offset: 3, 9
+  index: -1
+huo1_052
+  rotate: true
+  xy: 572, 268
+  size: 99, 183
+  orig: 104, 218
+  offset: 2, 29
+  index: -1
+huo1_053
+  rotate: true
+  xy: 384, 271
+  size: 98, 186
+  orig: 102, 210
+  offset: 2, 21
+  index: -1
+qiu_di
+  rotate: false
+  xy: 208, 298
+  size: 174, 171
+  orig: 200, 200
+  offset: 13, 13
+  index: -1
+vlad_blood_scroll_03
+  rotate: false
+  xy: 687, 18
+  size: 116, 48
+  orig: 116, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+ronghe_head_monster_3013.png
+size: 940,389
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_tou_1
+  rotate: true
+  xy: 2, 28
+  size: 35, 203
+  orig: 35, 203
+  offset: 0, 0
+  index: -1
+a_tou_2
+  rotate: true
+  xy: 2, 65
+  size: 24, 242
+  orig: 24, 264
+  offset: 0, 22
+  index: -1
+a_tou_3
+  rotate: false
+  xy: 363, 17
+  size: 58, 43
+  orig: 64, 48
+  offset: 3, 2
+  index: -1
+a_tou_4
+  rotate: false
+  xy: 2, 91
+  size: 592, 296
+  orig: 592, 296
+  offset: 0, 0
+  index: -1
+b_tou_1
+  rotate: false
+  xy: 509, 39
+  size: 50, 50
+  orig: 68, 71
+  offset: 16, 2
+  index: -1
+b_tou_2
+  rotate: false
+  xy: 765, 9
+  size: 172, 204
+  orig: 172, 204
+  offset: 0, 0
+  index: -1
+c_tou_1
+  rotate: true
+  xy: 561, 49
+  size: 40, 32
+  orig: 41, 32
+  offset: 1, 0
+  index: -1
+c_tou_2
+  rotate: true
+  xy: 246, 62
+  size: 27, 208
+  orig: 27, 208
+  offset: 0, 0
+  index: -1
+c_tou_3
+  rotate: true
+  xy: 2, 2
+  size: 24, 207
+  orig: 24, 207
+  offset: 0, 0
+  index: -1
+c_tou_4
+  rotate: true
+  xy: 765, 215
+  size: 172, 173
+  orig: 172, 197
+  offset: 0, 24
+  index: -1
+d_tou_1
+  rotate: false
+  xy: 456, 46
+  size: 51, 43
+  orig: 54, 45
+  offset: 1, 0
+  index: -1
+d_tou_2
+  rotate: true
+  xy: 207, 32
+  size: 28, 154
+  orig: 28, 154
+  offset: 0, 0
+  index: -1
+d_tou_3
+  rotate: true
+  xy: 211, 2
+  size: 28, 145
+  orig: 28, 145
+  offset: 0, 0
+  index: -1
+d_tou_4
+  rotate: false
+  xy: 596, 39
+  size: 167, 348
+  orig: 167, 359
+  offset: 0, 0
+  index: -1

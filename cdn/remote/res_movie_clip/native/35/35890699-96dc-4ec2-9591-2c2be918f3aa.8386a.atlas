@@ -1,0 +1,20 @@
+
+monster_3020_effect.png
+size: 114,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chushou_009
+  rotate: false
+  xy: 2, 4
+  size: 102, 48
+  orig: 116, 53
+  offset: 5, 2
+  index: -1
+jian_0
+  rotate: false
+  xy: 106, 2
+  size: 6, 50
+  orig: 6, 55
+  offset: 0, 4
+  index: -1

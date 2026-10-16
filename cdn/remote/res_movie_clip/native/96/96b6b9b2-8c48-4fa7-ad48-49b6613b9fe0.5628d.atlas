@@ -1,0 +1,27 @@
+
+rareSkill_casket_spirit_4_effect.png
+size: 1289,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dao_1
+  rotate: false
+  xy: 523, 12
+  size: 449, 580
+  orig: 457, 597
+  offset: 8, 17
+  index: -1
+dao_2
+  rotate: false
+  xy: 2, 2
+  size: 519, 590
+  orig: 519, 595
+  offset: 0, 5
+  index: -1
+f394351b8f20f3e319f901922aa5a3297e8b16a98dec7-YdqjEK (1)
+  rotate: false
+  xy: 974, 276
+  size: 313, 316
+  orig: 329, 328
+  offset: 12, 8
+  index: -1

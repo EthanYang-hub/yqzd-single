@@ -1,0 +1,41 @@
+
+buff_freeze_0.png
+size: 415,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suibing_1
+  rotate: false
+  xy: 232, 2
+  size: 173, 242
+  orig: 173, 242
+  offset: 0, 0
+  index: -1
+suibing_3
+  rotate: false
+  xy: 246, 246
+  size: 167, 299
+  orig: 167, 299
+  offset: 0, 0
+  index: -1
+suibing_4
+  rotate: true
+  xy: 2, 295
+  size: 250, 242
+  orig: 250, 242
+  offset: 0, 0
+  index: -1
+suibing_5
+  rotate: true
+  xy: 2, 71
+  size: 222, 228
+  orig: 222, 228
+  offset: 0, 0
+  index: -1
+yan_01
+  rotate: false
+  xy: 2, 13
+  size: 56, 56
+  orig: 64, 64
+  offset: 5, 4
+  index: -1

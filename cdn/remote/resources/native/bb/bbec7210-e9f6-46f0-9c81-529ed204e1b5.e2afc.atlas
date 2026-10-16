@@ -1,0 +1,48 @@
+
+ui_jiesuan_down.png
+size: 1142,1142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_bg_battle_jiesuanbeijing01
+  rotate: false
+  xy: 2, 382
+  size: 740, 758
+  orig: 791, 758
+  offset: 0, 0
+  index: -1
+UI_img_battle_heisemengbanqianceng
+  rotate: false
+  xy: 2, 2
+  size: 764, 378
+  orig: 764, 378
+  offset: 0, 0
+  index: -1
+huoxing_1
+  rotate: true
+  xy: 768, 150
+  size: 265, 293
+  orig: 357, 302
+  offset: 60, 0
+  index: -1
+huoxing_2
+  rotate: false
+  xy: 744, 857
+  size: 378, 283
+  orig: 428, 302
+  offset: 48, 0
+  index: -1
+huoxing_3
+  rotate: false
+  xy: 744, 417
+  size: 207, 212
+  orig: 237, 258
+  offset: 21, 0
+  index: -1
+huoxing_4
+  rotate: false
+  xy: 744, 631
+  size: 381, 224
+  orig: 386, 258
+  offset: 4, 16
+  index: -1

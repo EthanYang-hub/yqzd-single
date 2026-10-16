@@ -1,0 +1,76 @@
+
+ui_fengdu_gf_biao.png
+size: 166,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: true
+  xy: 142, 144
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+D_1
+  rotate: true
+  xy: 2, 2
+  size: 59, 61
+  orig: 64, 66
+  offset: 2, 2
+  index: -1
+D_2
+  rotate: true
+  xy: 2, 126
+  size: 67, 73
+  orig: 71, 76
+  offset: 2, 2
+  index: -1
+D_3
+  rotate: false
+  xy: 2, 63
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+D_4
+  rotate: false
+  xy: 86, 191
+  size: 78, 82
+  orig: 82, 84
+  offset: 4, 2
+  index: -1
+F_1
+  rotate: true
+  xy: 77, 128
+  size: 61, 63
+  orig: 66, 68
+  offset: 2, 2
+  index: -1
+F_2
+  rotate: true
+  xy: 77, 65
+  size: 61, 63
+  orig: 66, 68
+  offset: 3, 2
+  index: -1
+F_3
+  rotate: false
+  xy: 65, 2
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+F_4
+  rotate: true
+  xy: 2, 195
+  size: 78, 82
+  orig: 82, 84
+  offset: 4, 2
+  index: -1
+a
+  rotate: true
+  xy: 128, 20
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1

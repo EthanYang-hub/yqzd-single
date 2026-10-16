@@ -1,0 +1,48 @@
+
+ui_zouyin_jiesuan_4.png
+size: 510,726
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_zi_1
+  rotate: false
+  xy: 2, 2
+  size: 128, 108
+  orig: 134, 114
+  offset: 4, 3
+  index: -1
+c_zi_2
+  rotate: true
+  xy: 234, 45
+  size: 65, 92
+  orig: 132, 111
+  offset: 29, 11
+  index: -1
+c_zi_3
+  rotate: true
+  xy: 132, 23
+  size: 87, 100
+  orig: 102, 105
+  offset: 12, 2
+  index: -1
+c_zi_4
+  rotate: false
+  xy: 2, 112
+  size: 284, 284
+  orig: 284, 284
+  offset: 0, 0
+  index: -1
+c_zi_5
+  rotate: true
+  xy: 330, 60
+  size: 664, 178
+  orig: 664, 182
+  offset: 0, 4
+  index: -1
+c_zi_6
+  rotate: false
+  xy: 2, 398
+  size: 326, 326
+  orig: 399, 398
+  offset: 35, 35
+  index: -1

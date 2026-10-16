@@ -1,0 +1,76 @@
+
+roleSkill_wind_blue.png
+size: 616,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 419, 96
+  size: 218, 43
+  orig: 218, 52
+  offset: 0, 5
+  index: -1
+feng_1
+  rotate: false
+  xy: 2, 572
+  size: 436, 42
+  orig: 437, 46
+  offset: 1, 2
+  index: -1
+feng_2
+  rotate: true
+  xy: 2, 12
+  size: 302, 30
+  orig: 306, 32
+  offset: 4, 1
+  index: -1
+gui_1
+  rotate: true
+  xy: 168, 79
+  size: 276, 249
+  orig: 291, 249
+  offset: 0, 0
+  index: -1
+gui_2
+  rotate: true
+  xy: 440, 316
+  size: 298, 156
+  orig: 298, 156
+  offset: 0, 0
+  index: -1
+gui_3
+  rotate: true
+  xy: 464, 74
+  size: 240, 109
+  orig: 240, 109
+  offset: 0, 0
+  index: -1
+gui_4
+  rotate: true
+  xy: 34, 17
+  size: 338, 132
+  orig: 338, 132
+  offset: 0, 0
+  index: -1
+gui_5
+  rotate: false
+  xy: 2, 357
+  size: 423, 213
+  orig: 423, 213
+  offset: 0, 0
+  index: -1
+gui_6
+  rotate: false
+  xy: 316, 22
+  size: 132, 55
+  orig: 155, 84
+  offset: 16, 12
+  index: -1
+lizi
+  rotate: false
+  xy: 168, 2
+  size: 146, 75
+  orig: 150, 94
+  offset: 1, 2
+  index: -1

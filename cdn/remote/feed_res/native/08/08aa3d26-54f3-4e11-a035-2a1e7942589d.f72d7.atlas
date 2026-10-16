@@ -1,0 +1,209 @@
+
+rareSkill_icegirl_atk.png
+size: 1334,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+andi
+  rotate: false
+  xy: 486, 19
+  size: 232, 232
+  orig: 256, 256
+  offset: 12, 12
+  index: -1
+baoh_01
+  rotate: false
+  xy: 1061, 4
+  size: 50, 49
+  orig: 100, 100
+  offset: 2, 3
+  index: -1
+baoh_03
+  rotate: false
+  xy: 1169, 91
+  size: 78, 72
+  orig: 100, 100
+  offset: 5, 11
+  index: -1
+baoh_04
+  rotate: false
+  xy: 1249, 90
+  size: 83, 77
+  orig: 100, 100
+  offset: 7, 14
+  index: -1
+baoh_05
+  rotate: false
+  xy: 977, 93
+  size: 86, 77
+  orig: 100, 100
+  offset: 8, 17
+  index: -1
+baoh_06
+  rotate: true
+  xy: 1166, 4
+  size: 85, 73
+  orig: 100, 100
+  offset: 10, 22
+  index: -1
+baoh_07
+  rotate: false
+  xy: 1241, 18
+  size: 84, 70
+  orig: 100, 100
+  offset: 13, 27
+  index: -1
+baoh_08
+  rotate: true
+  xy: 932, 2
+  size: 51, 65
+  orig: 100, 100
+  offset: 46, 32
+  index: -1
+baoh_09
+  rotate: false
+  xy: 842, 2
+  size: 47, 29
+  orig: 100, 100
+  offset: 49, 35
+  index: -1
+baoh_11
+  rotate: false
+  xy: 1033, 19
+  size: 20, 16
+  orig: 100, 100
+  offset: 75, 46
+  index: -1
+bingzhui
+  rotate: false
+  xy: 720, 39
+  size: 88, 146
+  orig: 100, 150
+  offset: 5, 1
+  index: -1
+glow_lan
+  rotate: false
+  xy: 248, 16
+  size: 236, 235
+  orig: 256, 256
+  offset: 10, 10
+  index: -1
+huan_06
+  rotate: false
+  xy: 810, 96
+  size: 124, 89
+  orig: 128, 128
+  offset: 2, 2
+  index: -1
+huan_1
+  rotate: false
+  xy: 2, 4
+  size: 244, 247
+  orig: 256, 256
+  offset: 5, 5
+  index: -1
+qialang_2_0
+  rotate: false
+  xy: 1219, 169
+  size: 113, 82
+  orig: 128, 86
+  offset: 12, 0
+  index: -1
+qialang_2_1
+  rotate: false
+  xy: 1100, 165
+  size: 117, 86
+  orig: 128, 86
+  offset: 4, 0
+  index: -1
+qialang_2_2
+  rotate: false
+  xy: 978, 172
+  size: 120, 79
+  orig: 128, 86
+  offset: 2, 5
+  index: -1
+qialang_2_3
+  rotate: false
+  xy: 810, 33
+  size: 120, 61
+  orig: 128, 86
+  offset: 3, 25
+  index: -1
+qiliu_0
+  rotate: false
+  xy: 768, 2
+  size: 72, 29
+  orig: 128, 128
+  offset: 26, 6
+  index: -1
+qiliu_1
+  rotate: true
+  xy: 936, 97
+  size: 88, 39
+  orig: 128, 128
+  offset: 18, 17
+  index: -1
+qiliu_2
+  rotate: false
+  xy: 1065, 55
+  size: 99, 52
+  orig: 128, 128
+  offset: 13, 31
+  index: -1
+qiliu_3
+  rotate: false
+  xy: 1065, 109
+  size: 102, 54
+  orig: 128, 128
+  offset: 11, 56
+  index: -1
+suibing_2
+  rotate: true
+  xy: 720, 2
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+suibing_3
+  rotate: true
+  xy: 932, 70
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+suibing_4
+  rotate: true
+  xy: 891, 7
+  size: 24, 35
+  orig: 36, 35
+  offset: 12, 0
+  index: -1
+suibing_5
+  rotate: false
+  xy: 999, 2
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+suibing_6
+  rotate: false
+  xy: 1113, 16
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+xiantiao
+  rotate: false
+  xy: 720, 187
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+xiaoxuehua
+  rotate: false
+  xy: 999, 37
+  size: 60, 54
+  orig: 64, 64
+  offset: 2, 5
+  index: -1

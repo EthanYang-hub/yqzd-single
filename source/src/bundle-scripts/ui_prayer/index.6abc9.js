@@ -1,0 +1,1 @@
+"use strict";var e,r;System.register("chunks:///_virtual/ui_prayer",[],(function(){return{execute:function(){}}})),e="virtual:///prerequisite-imports/ui_prayer",r="chunks:///_virtual/ui_prayer",System.register(e,[r],(function(e,r){return{setters:[function(r){var t={};for(var u in r)"default"!==u&&"__esModule"!==u&&(t[u]=r[u]);e(t)}],execute:function(){}}})); 

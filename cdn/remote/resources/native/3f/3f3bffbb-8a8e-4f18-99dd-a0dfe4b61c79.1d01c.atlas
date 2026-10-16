@@ -1,0 +1,48 @@
+
+ui_nandu_tisheng.png
+size: 844,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22222
+  rotate: false
+  xy: 2, 2
+  size: 686, 106
+  orig: 736, 128
+  offset: 50, 11
+  index: -1
+jiantou
+  rotate: false
+  xy: 751, 9
+  size: 40, 40
+  orig: 44, 48
+  offset: 2, 2
+  index: -1
+zi_1
+  rotate: false
+  xy: 690, 45
+  size: 59, 63
+  orig: 158, 65
+  offset: 2, 1
+  index: -1
+zi_2
+  rotate: true
+  xy: 690, 4
+  size: 39, 53
+  orig: 52, 59
+  offset: 10, 4
+  index: -1
+zi_3
+  rotate: false
+  xy: 751, 51
+  size: 47, 57
+  orig: 58, 59
+  offset: 3, 1
+  index: -1
+zi_4
+  rotate: false
+  xy: 800, 55
+  size: 42, 53
+  orig: 51, 60
+  offset: 6, 5
+  index: -1

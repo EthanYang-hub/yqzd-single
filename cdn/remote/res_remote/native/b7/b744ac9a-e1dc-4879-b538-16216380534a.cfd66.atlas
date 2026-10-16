@@ -1,0 +1,97 @@
+
+ui_zhongkui_beijing_lihui.png
+size: 902,1085
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian_gui_1
+  rotate: true
+  xy: 563, 451
+  size: 203, 295
+  orig: 203, 295
+  offset: 0, 0
+  index: -1
+bian_gui_2
+  rotate: true
+  xy: 313, 527
+  size: 102, 219
+  orig: 102, 219
+  offset: 0, 0
+  index: -1
+bian_gui_3
+  rotate: false
+  xy: 493, 2
+  size: 378, 222
+  orig: 378, 222
+  offset: 0, 0
+  index: -1
+bian_gui_4
+  rotate: false
+  xy: 493, 226
+  size: 385, 223
+  orig: 385, 228
+  offset: 0, 0
+  index: -1
+bian_gui_5
+  rotate: false
+  xy: 2, 24
+  size: 489, 425
+  orig: 489, 434
+  offset: 0, 0
+  index: -1
+bian_gui_6_1
+  rotate: false
+  xy: 2, 456
+  size: 185, 173
+  orig: 185, 173
+  offset: 0, 0
+  index: -1
+bian_gui_7
+  rotate: false
+  xy: 861, 877
+  size: 21, 206
+  orig: 21, 206
+  offset: 0, 0
+  index: -1
+bian_gui_8_1
+  rotate: false
+  xy: 884, 633
+  size: 15, 253
+  orig: 15, 253
+  offset: 0, 0
+  index: -1
+ma_1
+  rotate: false
+  xy: 189, 481
+  size: 122, 148
+  orig: 122, 148
+  offset: 0, 0
+  index: -1
+ma_2
+  rotate: true
+  xy: 563, 656
+  size: 427, 296
+  orig: 427, 296
+  offset: 0, 0
+  index: -1
+ma_3
+  rotate: true
+  xy: 2, 631
+  size: 452, 559
+  orig: 452, 559
+  offset: 0, 0
+  index: -1
+ma_4_1
+  rotate: false
+  xy: 884, 888
+  size: 16, 195
+  orig: 16, 195
+  offset: 0, 0
+  index: -1
+ma_5_1
+  rotate: false
+  xy: 861, 681
+  size: 14, 194
+  orig: 14, 194
+  offset: 0, 0
+  index: -1

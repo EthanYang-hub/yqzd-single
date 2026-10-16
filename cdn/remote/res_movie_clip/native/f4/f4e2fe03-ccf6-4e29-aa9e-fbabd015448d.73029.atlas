@@ -1,0 +1,83 @@
+
+ronghe_weapon1_monster_3004.png
+size: 1514,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hu_G_2
+  rotate: false
+  xy: 571, 63
+  size: 93, 184
+  orig: 93, 184
+  offset: 0, 0
+  index: -1
+hu_G_3
+  rotate: true
+  xy: 811, 37
+  size: 86, 159
+  orig: 86, 159
+  offset: 0, 0
+  index: -1
+hu_G_4
+  rotate: true
+  xy: 1344, 43
+  size: 80, 168
+  orig: 80, 168
+  offset: 0, 0
+  index: -1
+hu_G_5
+  rotate: true
+  xy: 972, 39
+  size: 84, 184
+  orig: 84, 184
+  offset: 0, 0
+  index: -1
+hu_G_6
+  rotate: true
+  xy: 1158, 39
+  size: 84, 184
+  orig: 84, 184
+  offset: 0, 0
+  index: -1
+hu_G_7
+  rotate: true
+  xy: 666, 19
+  size: 104, 143
+  orig: 104, 143
+  offset: 0, 0
+  index: -1
+wuqi_1
+  rotate: true
+  xy: 666, 125
+  size: 122, 820
+  orig: 122, 820
+  offset: 0, 0
+  index: -1
+wuqi_3
+  rotate: true
+  xy: 571, 18
+  size: 43, 88
+  orig: 43, 88
+  offset: 0, 0
+  index: -1
+wuqi_4
+  rotate: true
+  xy: 411, 6
+  size: 32, 89
+  orig: 32, 89
+  offset: 0, 0
+  index: -1
+wuqi_5
+  rotate: true
+  xy: 2, 2
+  size: 245, 407
+  orig: 270, 417
+  offset: 25, 0
+  index: -1
+wuqi_guang_1
+  rotate: false
+  xy: 411, 40
+  size: 158, 207
+  orig: 158, 207
+  offset: 0, 0
+  index: -1

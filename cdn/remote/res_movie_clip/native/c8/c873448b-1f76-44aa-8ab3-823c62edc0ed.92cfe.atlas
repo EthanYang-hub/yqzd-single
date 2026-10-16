@@ -1,0 +1,167 @@
+
+roleSkill_Skulltower_11.png
+size: 1822,478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E1
+  rotate: true
+  xy: 1634, 22
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+E2
+  rotate: true
+  xy: 1634, 97
+  size: 106, 69
+  orig: 109, 72
+  offset: 2, 1
+  index: -1
+E3
+  rotate: false
+  xy: 2, 37
+  size: 464, 439
+  orig: 506, 465
+  offset: 14, 13
+  index: -1
+bule_1
+  rotate: true
+  xy: 1786, 133
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+bule_2
+  rotate: false
+  xy: 1078, 154
+  size: 45, 78
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+bule_3
+  rotate: false
+  xy: 1144, 242
+  size: 282, 234
+  orig: 282, 234
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 765, 119
+  size: 18, 90
+  orig: 18, 90
+  offset: 0, 0
+  index: -1
+d2
+  rotate: true
+  xy: 468, 14
+  size: 195, 295
+  orig: 195, 296
+  offset: 0, 1
+  index: -1
+di_guang
+  rotate: false
+  xy: 468, 211
+  size: 335, 265
+  orig: 335, 285
+  offset: 0, 3
+  index: -1
+dici_1
+  rotate: false
+  xy: 805, 2
+  size: 271, 230
+  orig: 283, 241
+  offset: 1, 11
+  index: -1
+dici_2
+  rotate: true
+  xy: 1663, 205
+  size: 271, 157
+  orig: 321, 164
+  offset: 2, 5
+  index: -1
+red_1
+  rotate: true
+  xy: 765, 83
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+red_2
+  rotate: true
+  xy: 1705, 158
+  size: 45, 79
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+red_3
+  rotate: true
+  xy: 1428, 223
+  size: 253, 233
+  orig: 253, 233
+  offset: 0, 0
+  index: -1
+red_4
+  rotate: false
+  xy: 1399, 2
+  size: 233, 219
+  orig: 253, 233
+  offset: 6, 7
+  index: -1
+red_4_1
+  rotate: true
+  xy: 765, 47
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+red_4_2
+  rotate: true
+  xy: 1705, 111
+  size: 45, 79
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+red_5
+  rotate: false
+  xy: 1144, 7
+  size: 253, 233
+  orig: 253, 233
+  offset: 0, 0
+  index: -1
+red_5_1
+  rotate: true
+  xy: 765, 11
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+red_5_2
+  rotate: true
+  xy: 1712, 64
+  size: 45, 79
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+yellow_1
+  rotate: true
+  xy: 1786, 169
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+yellow_2
+  rotate: true
+  xy: 1712, 17
+  size: 45, 79
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+yellow_3
+  rotate: false
+  xy: 805, 234
+  size: 337, 242
+  orig: 337, 242
+  offset: 0, 0
+  index: -1

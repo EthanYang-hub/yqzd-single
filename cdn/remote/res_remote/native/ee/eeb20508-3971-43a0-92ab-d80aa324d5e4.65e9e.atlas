@@ -1,0 +1,13 @@
+
+ui_anniu_kuang_g.png
+size: 329,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu_guang
+  rotate: false
+  xy: 2, 2
+  size: 325, 110
+  orig: 325, 111
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,104 @@
+
+ui_yan_battle_6.png
+size: 1813,1783
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 935
+  size: 908, 846
+  orig: 908, 846
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1562, 695
+  size: 508, 199
+  orig: 508, 199
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 1562, 346
+  size: 125, 347
+  orig: 172, 387
+  offset: 28, 7
+  index: -1
+a2
+  rotate: false
+  xy: 1551, 158
+  size: 136, 186
+  orig: 147, 225
+  offset: 10, 2
+  index: -1
+a4
+  rotate: false
+  xy: 1689, 317
+  size: 74, 376
+  orig: 107, 418
+  offset: 29, 6
+  index: -1
+a5
+  rotate: false
+  xy: 870, 115
+  size: 104, 87
+  orig: 110, 95
+  offset: 4, 3
+  index: -1
+a6
+  rotate: true
+  xy: 2, 2
+  size: 200, 508
+  orig: 200, 508
+  offset: 0, 0
+  index: -1
+a7
+  rotate: true
+  xy: 512, 57
+  size: 145, 356
+  orig: 194, 356
+  offset: 49, 0
+  index: -1
+a8
+  rotate: false
+  xy: 1689, 92
+  size: 76, 223
+  orig: 103, 385
+  offset: 25, 1
+  index: -1
+guang
+  rotate: false
+  xy: 2, 204
+  size: 983, 729
+  orig: 983, 729
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 912, 989
+  size: 577, 792
+  orig: 606, 871
+  offset: 20, 77
+  index: -1
+tx_1
+  rotate: false
+  xy: 987, 350
+  size: 573, 637
+  orig: 573, 696
+  offset: 0, 5
+  index: -1
+tx_2
+  rotate: true
+  xy: 987, 28
+  size: 320, 562
+  orig: 331, 828
+  offset: 1, 240
+  index: -1
+tx_3
+  rotate: false
+  xy: 1491, 1205
+  size: 320, 576
+  orig: 331, 829
+  offset: 10, 240
+  index: -1

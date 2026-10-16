@@ -1,0 +1,27 @@
+
+ui_dianjiguishou.png
+size: 306,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 51
+  size: 86, 106
+  orig: 86, 106
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 159
+  size: 108, 145
+  orig: 108, 145
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+ui_sajipaihang_biao.png
+size: 1105,941
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9434905e
+  rotate: false
+  xy: 867, 718
+  size: 236, 221
+  orig: 256, 256
+  offset: 2, 5
+  index: -1
+BB2
+  rotate: false
+  xy: 2, 24
+  size: 245, 238
+  orig: 256, 256
+  offset: 2, 11
+  index: -1
+CCCC
+  rotate: true
+  xy: 2, 299
+  size: 233, 234
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+Electricity 014_00000
+  rotate: true
+  xy: 828, 484
+  size: 232, 252
+  orig: 300, 263
+  offset: 21, 7
+  index: -1
+Electricity 014_00002
+  rotate: true
+  xy: 496, 13
+  size: 239, 249
+  orig: 300, 263
+  offset: 6, 7
+  index: -1
+Electricity 014_00004
+  rotate: false
+  xy: 474, 254
+  size: 279, 234
+  orig: 300, 263
+  offset: 7, 16
+  index: -1
+Electricity 014_00006
+  rotate: false
+  xy: 284, 499
+  size: 284, 228
+  orig: 300, 263
+  offset: 4, 18
+  index: -1
+Electricity 014_00008
+  rotate: false
+  xy: 361, 729
+  size: 277, 210
+  orig: 300, 263
+  offset: 14, 20
+  index: -1
+Electricity 014_00010
+  rotate: false
+  xy: 2, 534
+  size: 280, 227
+  orig: 300, 263
+  offset: 13, 29
+  index: -1
+Electricity 014_00013
+  rotate: false
+  xy: 755, 246
+  size: 283, 236
+  orig: 300, 263
+  offset: 5, 18
+  index: -1
+Electricity 014_00015
+  rotate: false
+  xy: 570, 490
+  size: 256, 231
+  orig: 300, 263
+  offset: 13, 17
+  index: -1
+Electricity 014_00017
+  rotate: true
+  xy: 747, 2
+  size: 242, 246
+  orig: 300, 263
+  offset: 19, 2
+  index: -1
+a
+  rotate: true
+  xy: 238, 264
+  size: 233, 234
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 640, 723
+  size: 225, 216
+  orig: 256, 256
+  offset: 17, 20
+  index: -1
+c
+  rotate: false
+  xy: 249, 14
+  size: 245, 238
+  orig: 256, 256
+  offset: 2, 11
+  index: -1
+di
+  rotate: false
+  xy: 183, 763
+  size: 176, 176
+  orig: 180, 180
+  offset: 2, 2
+  index: -1
+v
+  rotate: true
+  xy: 2, 774
+  size: 165, 179
+  orig: 166, 181
+  offset: 1, 1
+  index: -1

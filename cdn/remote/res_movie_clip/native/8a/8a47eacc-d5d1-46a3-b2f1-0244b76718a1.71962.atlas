@@ -1,0 +1,41 @@
+
+ronghe_weapon_elite monster_2011.png
+size: 705,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0188
+  rotate: true
+  xy: 609, 25
+  size: 107, 94
+  orig: 128, 128
+  offset: 12, 15
+  index: -1
+0ce05e38
+  rotate: false
+  xy: 479, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 2
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 34, 2
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 63
+  size: 69, 475
+  orig: 69, 475
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+petSkill_ice1.png
+size: 788,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Graves_Plasma_Trail_01
+  rotate: false
+  xy: 2, 2
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+bian
+  rotate: true
+  xy: 516, 9
+  size: 12, 270
+  orig: 12, 272
+  offset: 0, 1
+  index: -1
+glow_lan
+  rotate: false
+  xy: 516, 23
+  size: 236, 235
+  orig: 256, 256
+  offset: 10, 10
+  index: -1

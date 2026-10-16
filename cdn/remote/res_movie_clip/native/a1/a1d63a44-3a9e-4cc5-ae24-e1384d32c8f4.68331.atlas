@@ -1,0 +1,20 @@
+
+weapon_skill_jian_3.png
+size: 182,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aqw_1
+  rotate: false
+  xy: 151, 2
+  size: 29, 83
+  orig: 30, 84
+  offset: 0, 1
+  index: -1
+aqw_2
+  rotate: true
+  xy: 2, 11
+  size: 74, 147
+  orig: 78, 178
+  offset: 4, 7
+  index: -1

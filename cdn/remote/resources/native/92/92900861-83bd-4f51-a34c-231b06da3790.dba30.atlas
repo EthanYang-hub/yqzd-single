@@ -1,0 +1,48 @@
+
+ui_yinqiqianding.png
+size: 315,315
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 280, 171
+  size: 142, 32
+  orig: 152, 35
+  offset: 9, 1
+  index: -1
+a
+  rotate: true
+  xy: 83, 6
+  size: 90, 77
+  orig: 107, 145
+  offset: 0, 50
+  index: -1
+b
+  rotate: true
+  xy: 229, 34
+  size: 62, 67
+  orig: 84, 83
+  offset: 3, 8
+  index: -1
+c
+  rotate: false
+  xy: 2, 2
+  size: 79, 94
+  orig: 99, 177
+  offset: 7, 72
+  index: -1
+d
+  rotate: true
+  xy: 162, 14
+  size: 82, 65
+  orig: 114, 85
+  offset: 18, 10
+  index: -1
+e
+  rotate: false
+  xy: 2, 98
+  size: 276, 215
+  orig: 284, 216
+  offset: 7, 1
+  index: -1

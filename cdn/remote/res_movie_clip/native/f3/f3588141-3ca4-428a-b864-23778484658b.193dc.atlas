@@ -1,0 +1,83 @@
+
+rareSkill_windbell_3_effect_2.png
+size: 1712,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electricity 032_00006
+  rotate: false
+  xy: 1555, 299
+  size: 155, 205
+  orig: 300, 297
+  offset: 78, 59
+  index: -1
+Electricity 032_00007
+  rotate: true
+  xy: 450, 12
+  size: 214, 246
+  orig: 300, 297
+  offset: 30, 33
+  index: -1
+Electricity 032_00008
+  rotate: true
+  xy: 1551, 19
+  size: 222, 156
+  orig: 300, 297
+  offset: 9, 79
+  index: -1
+Electricity 032_00009
+  rotate: true
+  xy: 1027, 19
+  size: 233, 279
+  orig: 300, 297
+  offset: 58, 2
+  index: -1
+Electricity 032_00010
+  rotate: false
+  xy: 450, 228
+  size: 300, 276
+  orig: 300, 297
+  offset: 0, 0
+  index: -1
+Electricity 032_00011
+  rotate: true
+  xy: 1310, 243
+  size: 261, 243
+  orig: 300, 297
+  offset: 0, 36
+  index: -1
+Electricity 032_00012
+  rotate: true
+  xy: 752, 250
+  size: 254, 273
+  orig: 300, 297
+  offset: 43, 3
+  index: -1
+Electricity 032_00013
+  rotate: false
+  xy: 1027, 254
+  size: 281, 250
+  orig: 300, 297
+  offset: 4, 26
+  index: -1
+Electricity 032_00014
+  rotate: true
+  xy: 1308, 2
+  size: 239, 241
+  orig: 300, 297
+  offset: 10, 30
+  index: -1
+Electricity 032_00015
+  rotate: false
+  xy: 752, 19
+  size: 265, 229
+  orig: 300, 297
+  offset: 13, 33
+  index: -1
+xieyan_2
+  rotate: false
+  xy: 2, 58
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1

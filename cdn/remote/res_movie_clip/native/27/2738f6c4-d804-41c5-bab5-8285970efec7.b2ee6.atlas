@@ -1,0 +1,48 @@
+
+ronghe_shou1_elite monster_2010.png
+size: 479,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0188
+  rotate: false
+  xy: 231, 107
+  size: 107, 94
+  orig: 128, 128
+  offset: 12, 15
+  index: -1
+0ce05e38
+  rotate: false
+  xy: 340, 73
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 171
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 63, 171
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 2
+  size: 69, 475
+  orig: 69, 475
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 124, 108
+  size: 93, 105
+  orig: 93, 109
+  offset: 0, 4
+  index: -1

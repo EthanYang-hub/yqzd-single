@@ -1,0 +1,13 @@
+
+ui_fuzhou_yin.png
+size: 348,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yin_diban
+  rotate: false
+  xy: 2, 2
+  size: 344, 525
+  orig: 344, 525
+  offset: 0, 0
+  index: -1

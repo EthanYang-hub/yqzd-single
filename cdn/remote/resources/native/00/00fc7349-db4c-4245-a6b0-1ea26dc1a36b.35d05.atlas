@@ -1,0 +1,34 @@
+
+ui_chunjie_dikuang.png
+size: 579,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 491, 172
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 491, 117
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 491, 242
+  size: 86, 110
+  orig: 87, 113
+  offset: 1, 3
+  index: -1
+4
+  rotate: true
+  xy: 2, 2
+  size: 350, 487
+  orig: 351, 507
+  offset: 1, 2
+  index: -1

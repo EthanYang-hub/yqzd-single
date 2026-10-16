@@ -1,0 +1,13 @@
+
+ui_zouyin_shuibo.png
+size: 241,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuibo
+  rotate: false
+  xy: 2, 2
+  size: 237, 252
+  orig: 256, 256
+  offset: 0, 4
+  index: -1

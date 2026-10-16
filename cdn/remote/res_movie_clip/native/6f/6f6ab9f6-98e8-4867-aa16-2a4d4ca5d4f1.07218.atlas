@@ -1,0 +1,41 @@
+
+ronghe_shou2_monster_3012.png
+size: 694,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 257, 186
+  orig: 257, 208
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 261, 10
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 572, 33
+  size: 74, 155
+  orig: 74, 155
+  offset: 0, 0
+  index: -1
+suolian_1
+  rotate: true
+  xy: 648, 77
+  size: 111, 44
+  orig: 111, 44
+  offset: 0, 0
+  index: -1
+suolian_2
+  rotate: false
+  xy: 505, 2
+  size: 65, 186
+  orig: 65, 186
+  offset: 0, 0
+  index: -1

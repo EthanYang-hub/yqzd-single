@@ -1,0 +1,69 @@
+
+ui_beijingban1.png
+size: 518,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k_a_1
+  rotate: false
+  xy: 2, 2
+  size: 433, 537
+  orig: 444, 541
+  offset: 11, 1
+  index: -1
+k_a_2
+  rotate: false
+  xy: 497, 332
+  size: 18, 207
+  orig: 18, 207
+  offset: 0, 0
+  index: -1
+k_a_3
+  rotate: false
+  xy: 437, 178
+  size: 58, 175
+  orig: 58, 175
+  offset: 0, 0
+  index: -1
+k_a_4
+  rotate: false
+  xy: 437, 50
+  size: 77, 126
+  orig: 77, 126
+  offset: 0, 0
+  index: -1
+k_a_5
+  rotate: true
+  xy: 437, 355
+  size: 184, 58
+  orig: 184, 58
+  offset: 0, 0
+  index: -1
+lizi_1
+  rotate: false
+  xy: 497, 304
+  size: 14, 26
+  orig: 17, 28
+  offset: 2, 0
+  index: -1
+lizi_2
+  rotate: true
+  xy: 497, 287
+  size: 15, 19
+  orig: 23, 21
+  offset: 1, 1
+  index: -1
+lizi_3
+  rotate: true
+  xy: 437, 23
+  size: 25, 30
+  orig: 31, 33
+  offset: 5, 2
+  index: -1
+lizi_4
+  rotate: false
+  xy: 469, 23
+  size: 30, 25
+  orig: 37, 28
+  offset: 6, 2
+  index: -1

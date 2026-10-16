@@ -1,0 +1,90 @@
+
+ui_saiji_rukou2.png
+size: 1983,722
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_saiji_jifensai2-1
+  rotate: false
+  xy: 1067, 2
+  size: 288, 306
+  orig: 303, 315
+  offset: 7, 3
+  index: -1
+UI_saiji_jifensai2-2
+  rotate: false
+  xy: 1357, 18
+  size: 288, 290
+  orig: 288, 307
+  offset: 0, 8
+  index: -1
+UI_saiji_jifensai2-3
+  rotate: true
+  xy: 637, 302
+  size: 418, 414
+  orig: 433, 425
+  offset: 8, 2
+  index: -1
+UI_saiji_jifensai2-3-1
+  rotate: true
+  xy: 1419, 358
+  size: 362, 194
+  orig: 412, 219
+  offset: 21, 20
+  index: -1
+UI_saiji_jifensai2-3-2
+  rotate: true
+  xy: 1838, 25
+  size: 402, 143
+  orig: 416, 313
+  offset: 6, 151
+  index: -1
+UI_saiji_jifensai2-3-3
+  rotate: false
+  xy: 637, 4
+  size: 428, 296
+  orig: 433, 416
+  offset: 3, 3
+  index: -1
+UI_saiji_jifensai2-3-4
+  rotate: true
+  xy: 1693, 10
+  size: 417, 143
+  orig: 427, 357
+  offset: 5, 9
+  index: -1
+UI_saiji_jifensai2-3-5
+  rotate: false
+  xy: 1615, 512
+  size: 328, 208
+  orig: 388, 418
+  offset: 5, 3
+  index: -1
+UI_saiji_jifensai2-4
+  rotate: true
+  xy: 2, 50
+  size: 670, 633
+  orig: 771, 705
+  offset: 32, 49
+  index: -1
+anniu_B_1
+  rotate: true
+  xy: 1615, 429
+  size: 81, 230
+  orig: 81, 230
+  offset: 0, 0
+  index: -1
+anniu_B_2
+  rotate: false
+  xy: 1615, 350
+  size: 76, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+anniu_B_3
+  rotate: true
+  xy: 1053, 310
+  size: 410, 364
+  orig: 411, 364
+  offset: 1, 0
+  index: -1

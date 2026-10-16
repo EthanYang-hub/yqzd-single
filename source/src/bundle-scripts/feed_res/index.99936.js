@@ -1,0 +1,1 @@
+"use strict";var e,r;System.register("chunks:///_virtual/feed_res",[],(function(){return{execute:function(){}}})),e="virtual:///prerequisite-imports/feed_res",r="chunks:///_virtual/feed_res",System.register(e,[r],(function(e,r){return{setters:[function(r){var t={};for(var u in r)"default"!==u&&"__esModule"!==u&&(t[u]=r[u]);e(t)}],execute:function(){}}})); 

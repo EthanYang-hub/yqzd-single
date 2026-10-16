@@ -1,0 +1,13 @@
+
+ui_pvp_jiesuan_2_lie.png
+size: 365,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lie
+  rotate: false
+  xy: 2, 2
+  size: 361, 455
+  orig: 410, 457
+  offset: 0, 1
+  index: -1

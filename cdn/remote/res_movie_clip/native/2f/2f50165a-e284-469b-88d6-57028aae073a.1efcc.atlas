@@ -1,0 +1,272 @@
+
+weapon_skill_yuangu_3.png
+size: 2033,701
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0165
+  rotate: true
+  xy: 1922, 144
+  size: 122, 109
+  orig: 128, 128
+  offset: 6, 8
+  index: -1
+556
+  rotate: true
+  xy: 993, 6
+  size: 223, 217
+  orig: 256, 256
+  offset: 2, 28
+  index: -1
+A3
+  rotate: true
+  xy: 1875, 268
+  size: 112, 144
+  orig: 114, 156
+  offset: 0, 6
+  index: -1
+A4
+  rotate: true
+  xy: 1706, 158
+  size: 116, 140
+  orig: 121, 148
+  offset: 1, 4
+  index: -1
+A5
+  rotate: false
+  xy: 1414, 261
+  size: 94, 170
+  orig: 105, 179
+  offset: 5, 4
+  index: -1
+S2
+  rotate: false
+  xy: 565, 20
+  size: 426, 179
+  orig: 441, 184
+  offset: 11, 1
+  index: -1
+Trail_fire
+  rotate: false
+  xy: 855, 287
+  size: 125, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+a_quxian_000
+  rotate: true
+  xy: 1721, 276
+  size: 148, 152
+  orig: 162, 164
+  offset: 6, 5
+  index: -1
+a_quxian_001
+  rotate: true
+  xy: 1506, 459
+  size: 240, 148
+  orig: 253, 161
+  offset: 6, 3
+  index: -1
+a_quxian_002
+  rotate: true
+  xy: 1656, 462
+  size: 237, 141
+  orig: 251, 154
+  offset: 8, 4
+  index: -1
+a_quxian_003
+  rotate: true
+  xy: 1212, 18
+  size: 216, 141
+  orig: 234, 157
+  offset: 12, 7
+  index: -1
+a_quxian_004
+  rotate: false
+  xy: 1210, 236
+  size: 202, 133
+  orig: 232, 150
+  offset: 21, 7
+  index: -1
+a_quxian_005
+  rotate: false
+  xy: 1802, 34
+  size: 118, 122
+  orig: 143, 145
+  offset: 15, 12
+  index: -1
+canliu_1
+  rotate: false
+  xy: 691, 204
+  size: 96, 25
+  orig: 99, 27
+  offset: 1, 0
+  index: -1
+canliu_2
+  rotate: false
+  xy: 1237, 372
+  size: 151, 327
+  orig: 162, 347
+  offset: 7, 9
+  index: -1
+dimian
+  rotate: true
+  xy: 1390, 433
+  size: 266, 114
+  orig: 272, 124
+  offset: 5, 3
+  index: -1
+heitiao
+  rotate: false
+  xy: 691, 231
+  size: 393, 38
+  orig: 400, 40
+  offset: 4, 0
+  index: -1
+huo1_049
+  rotate: false
+  xy: 1958, 382
+  size: 73, 117
+  orig: 77, 124
+  offset: 2, 2
+  index: -1
+huo1_050
+  rotate: true
+  xy: 2, 2
+  size: 100, 208
+  orig: 105, 216
+  offset: 2, 2
+  index: -1
+huo1_051
+  rotate: true
+  xy: 1001, 271
+  size: 98, 207
+  orig: 104, 216
+  offset: 3, 2
+  index: -1
+huo1_052
+  rotate: false
+  xy: 1355, 24
+  size: 99, 210
+  orig: 104, 218
+  offset: 2, 2
+  index: -1
+huo1_053
+  rotate: true
+  xy: 1799, 501
+  size: 98, 205
+  orig: 102, 210
+  offset: 2, 2
+  index: -1
+huo1_054
+  rotate: true
+  xy: 1799, 601
+  size: 98, 207
+  orig: 103, 215
+  offset: 3, 2
+  index: -1
+huo1_055
+  rotate: false
+  xy: 337, 7
+  size: 95, 188
+  orig: 100, 191
+  offset: 2, 3
+  index: -1
+huo1_056
+  rotate: false
+  xy: 1510, 292
+  size: 92, 165
+  orig: 99, 169
+  offset: 3, 4
+  index: -1
+huo1_057
+  rotate: true
+  xy: 1799, 426
+  size: 73, 157
+  orig: 79, 161
+  offset: 6, 4
+  index: -1
+jian_2
+  rotate: false
+  xy: 431, 201
+  size: 198, 498
+  orig: 224, 525
+  offset: 16, 12
+  index: -1
+jian_3
+  rotate: false
+  xy: 212, 197
+  size: 217, 502
+  orig: 240, 511
+  offset: 4, 6
+  index: -1
+jian_4
+  rotate: false
+  xy: 2, 104
+  size: 208, 595
+  orig: 267, 615
+  offset: 10, 0
+  index: -1
+qi_1
+  rotate: false
+  xy: 434, 3
+  size: 129, 196
+  orig: 153, 214
+  offset: 6, 8
+  index: -1
+qi_2
+  rotate: false
+  xy: 631, 209
+  size: 58, 60
+  orig: 58, 74
+  offset: 0, 11
+  index: -1
+qi_3
+  rotate: true
+  xy: 1706, 30
+  size: 126, 94
+  orig: 141, 190
+  offset: 6, 2
+  index: -1
+qi_4
+  rotate: true
+  xy: 1604, 298
+  size: 159, 115
+  orig: 172, 229
+  offset: 8, 4
+  index: -1
+qi_5
+  rotate: true
+  xy: 855, 321
+  size: 378, 144
+  orig: 384, 195
+  offset: 2, 50
+  index: -1
+qi_6
+  rotate: true
+  xy: 212, 7
+  size: 188, 123
+  orig: 277, 131
+  offset: 84, 3
+  index: -1
+qi_7
+  rotate: true
+  xy: 1001, 371
+  size: 328, 234
+  orig: 434, 244
+  offset: 100, 4
+  index: -1
+qi_8
+  rotate: true
+  xy: 631, 271
+  size: 428, 222
+  orig: 439, 237
+  offset: 4, 3
+  index: -1
+yun
+  rotate: true
+  xy: 1456, 7
+  size: 252, 248
+  orig: 256, 256
+  offset: 3, 0
+  index: -1

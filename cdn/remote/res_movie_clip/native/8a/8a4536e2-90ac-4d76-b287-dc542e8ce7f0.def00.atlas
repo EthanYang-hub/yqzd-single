@@ -1,0 +1,20 @@
+
+monster_3015_2_bullet1.png
+size: 412,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_GC_a1
+  rotate: false
+  xy: 348, 2
+  size: 62, 140
+  orig: 63, 142
+  offset: 1, 1
+  index: -1
+B_GC_a2
+  rotate: true
+  xy: 2, 21
+  size: 121, 344
+  orig: 121, 344
+  offset: 0, 0
+  index: -1

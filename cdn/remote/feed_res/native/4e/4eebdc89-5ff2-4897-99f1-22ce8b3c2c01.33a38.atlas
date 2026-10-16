@@ -1,0 +1,111 @@
+
+zhandou_renwu.png
+size: 352,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin_006_10
+  rotate: false
+  xy: 338, 63
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+skin_006_11
+  rotate: false
+  xy: 153, 10
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+skin_006_12
+  rotate: true
+  xy: 80, 2
+  size: 29, 33
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+skin_006_13
+  rotate: true
+  xy: 2, 12
+  size: 64, 76
+  orig: 65, 77
+  offset: 1, 0
+  index: -1
+skin_006_2
+  rotate: true
+  xy: 16, 4
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+skin_006_3
+  rotate: false
+  xy: 172, 3
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+skin_006_4
+  rotate: false
+  xy: 136, 4
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+skin_006_5
+  rotate: false
+  xy: 307, 3
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+skin_006_6
+  rotate: true
+  xy: 218, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+skin_006_7
+  rotate: true
+  xy: 168, 35
+  size: 41, 77
+  orig: 43, 77
+  offset: 2, 0
+  index: -1
+skin_006_8
+  rotate: false
+  xy: 115, 8
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+skin_006_9
+  rotate: true
+  xy: 2, 4
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+skin_006_fire_1
+  rotate: false
+  xy: 247, 42
+  size: 89, 34
+  orig: 89, 42
+  offset: 0, 8
+  index: -1
+skin_006_fire_2
+  rotate: true
+  xy: 80, 33
+  size: 43, 86
+  orig: 50, 101
+  offset: 0, 15
+  index: -1
+skin_006_yan
+  rotate: false
+  xy: 250, 6
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1

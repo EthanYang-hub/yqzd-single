@@ -1,0 +1,48 @@
+
+ui_xingtian_zhujiemian_2.png
+size: 977,701
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_20
+  rotate: true
+  xy: 260, 19
+  size: 183, 254
+  orig: 186, 256
+  offset: 1, 1
+  index: -1
+A_24
+  rotate: false
+  xy: 400, 204
+  size: 252, 495
+  orig: 252, 495
+  offset: 0, 0
+  index: -1
+A_25
+  rotate: true
+  xy: 654, 266
+  size: 433, 321
+  orig: 455, 414
+  offset: 13, 0
+  index: -1
+A_26
+  rotate: false
+  xy: 654, 2
+  size: 263, 262
+  orig: 263, 262
+  offset: 0, 0
+  index: -1
+A_27
+  rotate: true
+  xy: 2, 304
+  size: 395, 396
+  orig: 425, 424
+  offset: 15, 14
+  index: -1
+fireball_6
+  rotate: false
+  xy: 2, 46
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

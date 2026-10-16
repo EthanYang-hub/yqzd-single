@@ -1,0 +1,69 @@
+
+petSkill_shanhuagui_biao.png
+size: 859,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoji_1
+  rotate: true
+  xy: 260, 15
+  size: 48, 79
+  orig: 50, 83
+  offset: 1, 2
+  index: -1
+biaoji_10
+  rotate: false
+  xy: 2, 2
+  size: 256, 61
+  orig: 256, 61
+  offset: 0, 0
+  index: -1
+biaoji_2
+  rotate: true
+  xy: 346, 75
+  size: 99, 131
+  orig: 99, 131
+  offset: 0, 0
+  index: -1
+biaoji_3
+  rotate: false
+  xy: 2, 65
+  size: 170, 109
+  orig: 170, 109
+  offset: 0, 0
+  index: -1
+biaoji_4
+  rotate: false
+  xy: 612, 89
+  size: 245, 85
+  orig: 245, 85
+  offset: 0, 0
+  index: -1
+biaoji_5
+  rotate: false
+  xy: 346, 12
+  size: 256, 61
+  orig: 256, 61
+  offset: 0, 0
+  index: -1
+biaoji_7
+  rotate: true
+  xy: 479, 75
+  size: 99, 131
+  orig: 99, 131
+  offset: 0, 0
+  index: -1
+biaoji_8
+  rotate: false
+  xy: 174, 65
+  size: 170, 109
+  orig: 170, 109
+  offset: 0, 0
+  index: -1
+biaoji_9
+  rotate: false
+  xy: 612, 2
+  size: 245, 85
+  orig: 245, 85
+  offset: 0, 0
+  index: -1

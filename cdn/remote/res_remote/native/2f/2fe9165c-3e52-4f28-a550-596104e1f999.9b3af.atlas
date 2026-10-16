@@ -1,0 +1,34 @@
+
+ui_san_he_down.png
+size: 969,866
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Z1
+  rotate: false
+  xy: 2, 351
+  size: 717, 513
+  orig: 717, 513
+  offset: 0, 0
+  index: -1
+Z2
+  rotate: true
+  xy: 441, 9
+  size: 340, 337
+  orig: 340, 337
+  offset: 0, 0
+  index: -1
+Z3
+  rotate: false
+  xy: 2, 2
+  size: 437, 347
+  orig: 437, 347
+  offset: 0, 0
+  index: -1
+eye_fxl_aura_004
+  rotate: false
+  xy: 721, 609
+  size: 246, 255
+  orig: 256, 256
+  offset: 0, 1
+  index: -1

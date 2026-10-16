@@ -1,0 +1,13 @@
+
+ui_fengfdu_xuanzhong.png
+size: 154,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_img_fengduzhanc_xuanzhong
+  rotate: false
+  xy: 2, 2
+  size: 150, 158
+  orig: 150, 158
+  offset: 0, 0
+  index: -1

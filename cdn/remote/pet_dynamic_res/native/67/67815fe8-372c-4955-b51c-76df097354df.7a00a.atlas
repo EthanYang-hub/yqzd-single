@@ -1,0 +1,97 @@
+
+lihui_pet_jiangshi.png
+size: 1759,390
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: true
+  xy: 236, 66
+  size: 322, 309
+  orig: 348, 309
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 1546, 194
+  size: 211, 194
+  orig: 238, 194
+  offset: 27, 0
+  index: -1
+A3
+  rotate: false
+  xy: 1546, 8
+  size: 155, 184
+  orig: 155, 184
+  offset: 0, 0
+  index: -1
+A4
+  rotate: false
+  xy: 547, 98
+  size: 194, 290
+  orig: 250, 319
+  offset: 40, 0
+  index: -1
+A5
+  rotate: false
+  xy: 1229, 194
+  size: 138, 194
+  orig: 138, 194
+  offset: 0, 0
+  index: -1
+B1
+  rotate: true
+  xy: 1369, 105
+  size: 138, 148
+  orig: 138, 148
+  offset: 0, 0
+  index: -1
+B2
+  rotate: true
+  xy: 1139, 128
+  size: 260, 88
+  orig: 260, 88
+  offset: 0, 0
+  index: -1
+B3
+  rotate: false
+  xy: 743, 106
+  size: 394, 282
+  orig: 394, 282
+  offset: 0, 0
+  index: -1
+B4
+  rotate: false
+  xy: 2, 38
+  size: 232, 350
+  orig: 294, 412
+  offset: 62, 0
+  index: -1
+B6
+  rotate: false
+  xy: 1369, 245
+  size: 154, 143
+  orig: 155, 152
+  offset: 1, 9
+  index: -1
+xian_2
+  rotate: true
+  xy: 547, 76
+  size: 20, 997
+  orig: 20, 997
+  offset: 0, 0
+  index: -1
+xian_3
+  rotate: true
+  xy: 236, 39
+  size: 25, 874
+  orig: 25, 874
+  offset: 0, 0
+  index: -1
+xian_4
+  rotate: true
+  xy: 2, 2
+  size: 34, 924
+  orig: 34, 924
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ui_qiyuanjingzi1.png
+size: 692,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h3
+  rotate: true
+  xy: 498, 31
+  size: 227, 192
+  orig: 227, 194
+  offset: 0, 1
+  index: -1
+jingzi_3
+  rotate: false
+  xy: 2, 2
+  size: 264, 256
+  orig: 273, 265
+  offset: 4, 5
+  index: -1
+poison_cloud_diff_04
+  rotate: false
+  xy: 268, 22
+  size: 228, 236
+  orig: 256, 256
+  offset: 12, 12
+  index: -1

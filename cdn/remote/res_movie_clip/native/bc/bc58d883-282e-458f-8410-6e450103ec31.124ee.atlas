@@ -1,0 +1,146 @@
+
+ronghe_body_elite monster_004.png
+size: 1156,1014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+92
+  rotate: false
+  xy: 615, 120
+  size: 157, 146
+  orig: 157, 146
+  offset: 0, 0
+  index: -1
+huo_060
+  rotate: false
+  xy: 615, 12
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+huo_061
+  rotate: false
+  xy: 774, 110
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+huo_062
+  rotate: true
+  xy: 925, 476
+  size: 200, 228
+  orig: 200, 228
+  offset: 0, 0
+  index: -1
+huo_063
+  rotate: true
+  xy: 413, 12
+  size: 306, 200
+  orig: 306, 200
+  offset: 0, 0
+  index: -1
+huo_064
+  rotate: false
+  xy: 2, 3
+  size: 409, 260
+  orig: 409, 260
+  offset: 0, 0
+  index: -1
+huo_065
+  rotate: false
+  xy: 410, 684
+  size: 406, 328
+  orig: 406, 328
+  offset: 0, 0
+  index: -1
+huo_066
+  rotate: true
+  xy: 2, 265
+  size: 411, 328
+  orig: 411, 328
+  offset: 0, 0
+  index: -1
+huo_067
+  rotate: false
+  xy: 2, 678
+  size: 406, 334
+  orig: 406, 334
+  offset: 0, 0
+  index: -1
+huo_068
+  rotate: false
+  xy: 818, 678
+  size: 334, 334
+  orig: 334, 334
+  offset: 0, 0
+  index: -1
+huo_069
+  rotate: false
+  xy: 332, 320
+  size: 334, 356
+  orig: 334, 356
+  offset: 0, 0
+  index: -1
+huo_070
+  rotate: false
+  xy: 668, 268
+  size: 255, 200
+  orig: 255, 200
+  offset: 0, 0
+  index: -1
+huo_071
+  rotate: false
+  xy: 668, 470
+  size: 255, 206
+  orig: 255, 206
+  offset: 0, 0
+  index: -1
+huo_072
+  rotate: true
+  xy: 925, 219
+  size: 255, 150
+  orig: 255, 150
+  offset: 0, 0
+  index: -1
+huo_073
+  rotate: false
+  xy: 745, 2
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+huo_074
+  rotate: false
+  xy: 904, 89
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huo_075
+  rotate: true
+  xy: 1077, 368
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1
+qi_A
+  rotate: false
+  xy: 332, 295
+  size: 76, 23
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+qi_B
+  rotate: true
+  xy: 904, 227
+  size: 39, 19
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+qi_C
+  rotate: true
+  xy: 1077, 272
+  size: 94, 54
+  orig: 99, 69
+  offset: 1, 1
+  index: -1

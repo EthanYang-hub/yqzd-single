@@ -1,0 +1,55 @@
+
+UI_zhanyaoduijue1.png
+size: 908,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_zhanyaoduijue-2
+  rotate: true
+  xy: 721, 128
+  size: 161, 37
+  orig: 161, 37
+  offset: 0, 0
+  index: -1
+UI_zhanyaoduijue-3
+  rotate: false
+  xy: 339, 2
+  size: 437, 77
+  orig: 439, 89
+  offset: 1, 2
+  index: -1
+UI_zhanyaoduijue-4
+  rotate: false
+  xy: 339, 291
+  size: 439, 103
+  orig: 459, 115
+  offset: 10, 6
+  index: -1
+UI_zhanyaoduijue-5
+  rotate: false
+  xy: 339, 83
+  size: 380, 77
+  orig: 380, 89
+  offset: 0, 2
+  index: -1
+UI_zhanyaoduijue-6-1
+  rotate: true
+  xy: 780, 81
+  size: 313, 126
+  orig: 344, 140
+  offset: 0, 0
+  index: -1
+UI_zhanyaoduijue-6-2
+  rotate: false
+  xy: 339, 162
+  size: 279, 127
+  orig: 286, 139
+  offset: 7, 7
+  index: -1
+huaban-6314549942
+  rotate: true
+  xy: 2, 7
+  size: 387, 335
+  orig: 512, 512
+  offset: 76, 58
+  index: -1

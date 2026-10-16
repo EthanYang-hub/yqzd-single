@@ -1,0 +1,139 @@
+
+rareSkill_windkill_2_1.png
+size: 1421,786
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TEMP_Relic_flash_cloudpuff
+  rotate: false
+  xy: 1086, 392
+  size: 242, 247
+  orig: 244, 256
+  offset: 0, 4
+  index: -1
+TEMP_Relic_flash_flare_01_2x2
+  rotate: true
+  xy: 1385, 479
+  size: 255, 31
+  orig: 255, 31
+  offset: 0, 0
+  index: -1
+ecto-trail
+  rotate: true
+  xy: 1269, 136
+  size: 254, 125
+  orig: 256, 128
+  offset: 2, 0
+  index: -1
+ee1
+  rotate: true
+  xy: 948, 6
+  size: 298, 122
+  orig: 298, 142
+  offset: 0, 20
+  index: -1
+gui_2
+  rotate: false
+  xy: 948, 641
+  size: 380, 143
+  orig: 418, 216
+  offset: 15, 25
+  index: -1
+gui_3
+  rotate: false
+  xy: 2, 4
+  size: 400, 178
+  orig: 480, 218
+  offset: 17, 3
+  index: -1
+gui_5
+  rotate: true
+  xy: 1086, 18
+  size: 372, 181
+  orig: 420, 213
+  offset: 12, 14
+  index: -1
+shou_a_1
+  rotate: true
+  xy: 2, 184
+  size: 600, 372
+  orig: 600, 372
+  offset: 0, 0
+  index: -1
+shou_a_3
+  rotate: true
+  xy: 807, 24
+  size: 263, 139
+  orig: 274, 155
+  offset: 6, 7
+  index: -1
+shou_a_4
+  rotate: true
+  xy: 867, 306
+  size: 323, 217
+  orig: 368, 239
+  offset: 0, 12
+  index: -1
+shou_b_1_1~~~
+  rotate: false
+  xy: 404, 2
+  size: 401, 285
+  orig: 401, 285
+  offset: 0, 0
+  index: -1
+tornado_spiral2
+  rotate: false
+  xy: 376, 289
+  size: 489, 495
+  orig: 512, 512
+  offset: 6, 7
+  index: -1
+tx_xuli_0001
+  rotate: false
+  xy: 867, 747
+  size: 77, 37
+  orig: 120, 64
+  offset: 35, 14
+  index: -1
+tx_xuli_0002
+  rotate: false
+  xy: 1330, 736
+  size: 86, 48
+  orig: 120, 64
+  offset: 34, 6
+  index: -1
+tx_xuli_0003
+  rotate: true
+  xy: 1330, 421
+  size: 109, 45
+  orig: 120, 64
+  offset: 11, 5
+  index: -1
+tx_xuli_0004
+  rotate: true
+  xy: 867, 631
+  size: 114, 53
+  orig: 120, 64
+  offset: 2, 6
+  index: -1
+tx_xuli_0005
+  rotate: true
+  xy: 1330, 629
+  size: 105, 53
+  orig: 120, 64
+  offset: 5, 8
+  index: -1
+tx_xuli_0006
+  rotate: true
+  xy: 1330, 532
+  size: 95, 49
+  orig: 120, 64
+  offset: 8, 12
+  index: -1
+tx_xuli_0007
+  rotate: true
+  xy: 1377, 434
+  size: 43, 42
+  orig: 120, 64
+  offset: 12, 18
+  index: -1

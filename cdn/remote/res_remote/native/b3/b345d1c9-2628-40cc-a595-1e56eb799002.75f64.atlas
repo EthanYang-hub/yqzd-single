@@ -1,0 +1,76 @@
+
+ui_xinhuo.png
+size: 1600,585
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 1168, 581
+  orig: 1168, 581
+  offset: 0, 0
+  index: -1
+biaoti
+  rotate: false
+  xy: 1172, 438
+  size: 306, 145
+  orig: 310, 275
+  offset: 2, 73
+  index: -1
+diaoshi
+  rotate: true
+  xy: 1172, 21
+  size: 65, 216
+  orig: 65, 228
+  offset: 0, 12
+  index: -1
+huoyanwen1
+  rotate: true
+  xy: 1404, 59
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: -1
+huoyanwen2
+  rotate: false
+  xy: 1172, 88
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1
+huoyanwen3
+  rotate: false
+  xy: 1480, 450
+  size: 118, 133
+  orig: 118, 133
+  offset: 0, 0
+  index: -1
+huoyanwen4
+  rotate: false
+  xy: 1404, 165
+  size: 111, 120
+  orig: 111, 120
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1172, 264
+  size: 225, 172
+  orig: 225, 172
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 1356, 120
+  size: 46, 142
+  orig: 46, 142
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1399, 287
+  size: 147, 149
+  orig: 147, 149
+  offset: 0, 0
+  index: -1

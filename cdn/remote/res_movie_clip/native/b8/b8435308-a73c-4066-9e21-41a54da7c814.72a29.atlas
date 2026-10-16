@@ -1,0 +1,195 @@
+
+roleSkill_water_forst.png
+size: 584,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E1
+  rotate: true
+  xy: 380, 175
+  size: 30, 150
+  orig: 30, 150
+  offset: 0, 0
+  index: -1
+E2
+  rotate: true
+  xy: 380, 149
+  size: 24, 150
+  orig: 24, 150
+  offset: 0, 0
+  index: -1
+E3
+  rotate: true
+  xy: 252, 122
+  size: 25, 150
+  orig: 25, 150
+  offset: 0, 0
+  index: -1
+baoh_01
+  rotate: true
+  xy: 533, 215
+  size: 50, 49
+  orig: 100, 100
+  offset: 2, 3
+  index: -1
+baoh_03
+  rotate: true
+  xy: 337, 42
+  size: 78, 72
+  orig: 100, 100
+  offset: 5, 11
+  index: -1
+baoh_04
+  rotate: false
+  xy: 411, 70
+  size: 83, 77
+  orig: 100, 100
+  offset: 7, 14
+  index: -1
+baoh_05
+  rotate: false
+  xy: 130, 4
+  size: 86, 77
+  orig: 100, 100
+  offset: 8, 17
+  index: -1
+baoh_06
+  rotate: false
+  xy: 250, 47
+  size: 85, 73
+  orig: 100, 100
+  offset: 10, 22
+  index: -1
+baoh_07
+  rotate: true
+  xy: 496, 63
+  size: 84, 70
+  orig: 100, 100
+  offset: 13, 27
+  index: -1
+baoh_08
+  rotate: true
+  xy: 494, 10
+  size: 51, 65
+  orig: 100, 100
+  offset: 46, 32
+  index: -1
+baoh_09
+  rotate: true
+  xy: 218, 34
+  size: 47, 29
+  orig: 100, 100
+  offset: 49, 35
+  index: -1
+baoh_11
+  rotate: false
+  xy: 426, 16
+  size: 20, 16
+  orig: 100, 100
+  offset: 75, 46
+  index: -1
+bing_5
+  rotate: false
+  xy: 2, 69
+  size: 118, 136
+  orig: 118, 136
+  offset: 0, 0
+  index: -1
+bing_di
+  rotate: false
+  xy: 2, 207
+  size: 529, 58
+  orig: 551, 63
+  offset: 12, 5
+  index: -1
+lizi_6
+  rotate: false
+  xy: 218, 2
+  size: 19, 30
+  orig: 24, 32
+  offset: 2, 2
+  index: -1
+lizi_7
+  rotate: false
+  xy: 532, 161
+  size: 34, 26
+  orig: 39, 30
+  offset: 3, 3
+  index: -1
+lizi_8
+  rotate: false
+  xy: 275, 4
+  size: 40, 41
+  orig: 44, 47
+  offset: 2, 4
+  index: -1
+sui_4
+  rotate: true
+  xy: 411, 34
+  size: 34, 81
+  orig: 34, 82
+  offset: 0, 0
+  index: -1
+suibing_1
+  rotate: true
+  xy: 390, 7
+  size: 25, 34
+  orig: 25, 35
+  offset: 0, 1
+  index: -1
+suibing_3
+  rotate: false
+  xy: 249, 2
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+suibing_4
+  rotate: true
+  xy: 533, 189
+  size: 24, 35
+  orig: 36, 35
+  offset: 12, 0
+  index: -1
+suibing_5
+  rotate: false
+  xy: 356, 7
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+suibing_6
+  rotate: true
+  xy: 317, 5
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 2, 13
+  size: 126, 54
+  orig: 128, 59
+  offset: 0, 1
+  index: -1
+w2
+  rotate: false
+  xy: 122, 83
+  size: 126, 56
+  orig: 128, 60
+  offset: 1, 1
+  index: -1
+w3
+  rotate: false
+  xy: 252, 149
+  size: 126, 56
+  orig: 128, 60
+  offset: 1, 1
+  index: -1
+waypoint_neutral_ringGlow_rays
+  rotate: false
+  xy: 122, 141
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1

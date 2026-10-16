@@ -1,0 +1,146 @@
+
+ui_fulu_tianshu.png
+size: 1398,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: true
+  xy: 1243, 49
+  size: 55, 41
+  orig: 67, 41
+  offset: 9, 0
+  index: -1
+A2
+  rotate: true
+  xy: 816, 20
+  size: 82, 125
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+A3
+  rotate: false
+  xy: 1168, 15
+  size: 35, 89
+  orig: 40, 95
+  offset: 0, 0
+  index: -1
+A4
+  rotate: false
+  xy: 1306, 41
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+A5
+  rotate: true
+  xy: 1258, 8
+  size: 39, 46
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+B1
+  rotate: true
+  xy: 943, 11
+  size: 91, 110
+  orig: 97, 113
+  offset: 0, 0
+  index: -1
+B2
+  rotate: false
+  xy: 1205, 38
+  size: 36, 66
+  orig: 43, 71
+  offset: 4, 0
+  index: -1
+B3
+  rotate: true
+  xy: 1205, 10
+  size: 26, 51
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+B4
+  rotate: false
+  xy: 1274, 127
+  size: 31, 34
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+B5
+  rotate: false
+  xy: 1286, 70
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+Blizzard_cloud
+  rotate: true
+  xy: 2, 20
+  size: 445, 405
+  orig: 512, 512
+  offset: 34, 52
+  index: -1
+Blizzard_cloud2
+  rotate: true
+  xy: 409, 20
+  size: 445, 405
+  orig: 512, 512
+  offset: 34, 52
+  index: -1
+fulu_1_1
+  rotate: true
+  xy: 1274, 106
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+fulu_1_2
+  rotate: false
+  xy: 1114, 5
+  size: 52, 99
+  orig: 76, 172
+  offset: 12, 39
+  index: -1
+fulu_4
+  rotate: true
+  xy: 1045, 106
+  size: 359, 227
+  orig: 363, 227
+  offset: 4, 0
+  index: -1
+qie_1
+  rotate: true
+  xy: 1274, 315
+  size: 150, 122
+  orig: 155, 123
+  offset: 3, 1
+  index: -1
+qie_2
+  rotate: true
+  xy: 1274, 163
+  size: 150, 122
+  orig: 155, 123
+  offset: 3, 1
+  index: -1
+tianshu_1_1
+  rotate: false
+  xy: 1055, 2
+  size: 57, 102
+  orig: 80, 182
+  offset: 13, 45
+  index: -1
+tianshu_1_2
+  rotate: true
+  xy: 1307, 142
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+tianshu_4
+  rotate: true
+  xy: 816, 104
+  size: 361, 227
+  orig: 363, 227
+  offset: 2, 0
+  index: -1

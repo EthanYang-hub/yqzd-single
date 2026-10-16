@@ -1,0 +1,146 @@
+
+ui_zhongkui_beijing.png
+size: 1484,1548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wizard_teleport_obsidian_orbSource
+  rotate: false
+  xy: 828, 801
+  size: 255, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire_a1
+  rotate: false
+  xy: 1239, 31
+  size: 152, 158
+  orig: 152, 158
+  offset: 0, 0
+  index: -1
+fire_a2
+  rotate: false
+  xy: 940, 702
+  size: 119, 97
+  orig: 123, 99
+  offset: 3, 2
+  index: -1
+fire_a3
+  rotate: false
+  xy: 1029, 395
+  size: 227, 184
+  orig: 241, 184
+  offset: 0, 0
+  index: -1
+fire_a4
+  rotate: false
+  xy: 940, 622
+  size: 116, 78
+  orig: 116, 78
+  offset: 0, 0
+  index: -1
+fire_b6
+  rotate: true
+  xy: 940, 507
+  size: 54, 55
+  orig: 59, 63
+  offset: 4, 6
+  index: -1
+fire_b7
+  rotate: false
+  xy: 940, 563
+  size: 87, 57
+  orig: 89, 63
+  offset: 2, 1
+  index: -1
+fire_b8
+  rotate: true
+  xy: 1309, 487
+  size: 185, 160
+  orig: 221, 164
+  offset: 29, 1
+  index: -1
+fire_b9
+  rotate: true
+  xy: 1085, 782
+  size: 275, 246
+  orig: 275, 246
+  offset: 0, 0
+  index: -1
+fire_c10
+  rotate: true
+  xy: 1258, 191
+  size: 294, 208
+  orig: 294, 208
+  offset: 0, 0
+  index: -1
+fire_lizi
+  rotate: false
+  xy: 1061, 581
+  size: 246, 199
+  orig: 250, 200
+  offset: 4, 0
+  index: -1
+green_beijing
+  rotate: false
+  xy: 2, 1171
+  size: 824, 375
+  orig: 824, 375
+  offset: 0, 0
+  index: -1
+green_suolian_1
+  rotate: false
+  xy: 940, 2
+  size: 297, 187
+  orig: 297, 187
+  offset: 0, 0
+  index: -1
+green_suolian_2
+  rotate: true
+  xy: 1342, 1111
+  size: 435, 140
+  orig: 435, 181
+  offset: 0, 41
+  index: -1
+green_zhongkui
+  rotate: true
+  xy: 2, 23
+  size: 769, 467
+  orig: 769, 467
+  offset: 0, 0
+  index: -1
+red_beijing
+  rotate: false
+  xy: 2, 794
+  size: 824, 375
+  orig: 824, 375
+  offset: 0, 0
+  index: -1
+red_suolian_1
+  rotate: false
+  xy: 940, 206
+  size: 297, 187
+  orig: 297, 187
+  offset: 0, 0
+  index: -1
+red_suolian_2
+  rotate: true
+  xy: 1342, 674
+  size: 435, 134
+  orig: 435, 181
+  offset: 0, 47
+  index: -1
+red_zhongkui
+  rotate: true
+  xy: 471, 23
+  size: 769, 467
+  orig: 769, 467
+  offset: 0, 0
+  index: -1
+wizard_spectralBlade_cast_alabaster
+  rotate: false
+  xy: 828, 1059
+  size: 512, 487
+  orig: 512, 512
+  offset: 0, 25
+  index: -1

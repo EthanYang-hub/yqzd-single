@@ -1,0 +1,13 @@
+
+jidi_skill_1_bullet.png
+size: 131,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_fxl_smoke_0001_128d5
+  rotate: false
+  xy: 2, 2
+  size: 127, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+roleSkill_water_white_bullet.png
+size: 680,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BB1
+  rotate: true
+  xy: 487, 32
+  size: 83, 110
+  orig: 83, 110
+  offset: 0, 0
+  index: -1
+BB2
+  rotate: true
+  xy: 377, 20
+  size: 95, 108
+  orig: 95, 108
+  offset: 0, 0
+  index: -1
+BB3
+  rotate: false
+  xy: 599, 5
+  size: 66, 110
+  orig: 66, 110
+  offset: 0, 0
+  index: -1
+BB4
+  rotate: true
+  xy: 260, 20
+  size: 95, 115
+  orig: 95, 115
+  offset: 0, 0
+  index: -1
+bing_zhu
+  rotate: true
+  xy: 260, 117
+  size: 141, 418
+  orig: 145, 427
+  offset: 2, 5
+  index: -1
+eye_lwy_t_mul_58_single
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lizi_1
+  rotate: true
+  xy: 519, 11
+  size: 19, 31
+  orig: 23, 33
+  offset: 2, 2
+  index: -1
+lizi_2
+  rotate: true
+  xy: 552, 11
+  size: 19, 29
+  orig: 23, 33
+  offset: 1, 3
+  index: -1
+lizi_3
+  rotate: true
+  xy: 552, 11
+  size: 19, 29
+  orig: 23, 33
+  offset: 1, 3
+  index: -1
+lizi_4
+  rotate: true
+  xy: 487, 10
+  size: 20, 30
+  orig: 24, 33
+  offset: 1, 2
+  index: -1

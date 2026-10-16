@@ -1,0 +1,48 @@
+
+ui_duanwu_zhuye_anniu.png
+size: 625,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+da_an_1
+  rotate: false
+  xy: 526, 65
+  size: 51, 64
+  orig: 53, 64
+  offset: 1, 0
+  index: -1
+da_an_2
+  rotate: true
+  xy: 579, 49
+  size: 80, 27
+  orig: 81, 27
+  offset: 0, 0
+  index: -1
+da_an_3
+  rotate: false
+  xy: 526, 31
+  size: 42, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+da_an_4
+  rotate: false
+  xy: 297, 131
+  size: 326, 154
+  orig: 328, 155
+  offset: 1, 0
+  index: -1
+da_an_5
+  rotate: true
+  xy: 297, 18
+  size: 111, 227
+  orig: 111, 227
+  offset: 0, 0
+  index: -1
+da_an_6
+  rotate: true
+  xy: 2, 2
+  size: 283, 293
+  orig: 283, 293
+  offset: 0, 0
+  index: -1

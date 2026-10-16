@@ -1,0 +1,90 @@
+
+petSkill_genggui.png
+size: 1744,994
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 1016, 2
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 1236, 641
+  size: 351, 351
+  orig: 351, 351
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 231
+  size: 1232, 761
+  orig: 1232, 761
+  offset: 0, 0
+  index: -1
+bowne
+  rotate: false
+  xy: 1535, 458
+  size: 177, 181
+  orig: 192, 192
+  offset: 6, 5
+  index: -1
+c
+  rotate: true
+  xy: 2, 21
+  size: 208, 531
+  orig: 208, 536
+  offset: 0, 2
+  index: -1
+d
+  rotate: false
+  xy: 1236, 342
+  size: 297, 297
+  orig: 299, 299
+  offset: 1, 1
+  index: -1
+huo
+  rotate: false
+  xy: 535, 33
+  size: 479, 196
+  orig: 479, 196
+  offset: 0, 0
+  index: -1
+lizi_1
+  rotate: false
+  xy: 1245, 175
+  size: 238, 165
+  orig: 238, 165
+  offset: 0, 0
+  index: -1
+lizi_2
+  rotate: false
+  xy: 1245, 9
+  size: 238, 164
+  orig: 238, 164
+  offset: 0, 0
+  index: -1
+mianjv_1
+  rotate: false
+  xy: 1485, 219
+  size: 96, 97
+  orig: 128, 126
+  offset: 8, 25
+  index: -1
+mianjv_2
+  rotate: true
+  xy: 1535, 318
+  size: 138, 147
+  orig: 246, 254
+  offset: 59, 94
+  index: -1
+yan
+  rotate: true
+  xy: 1589, 668
+  size: 324, 153
+  orig: 324, 153
+  offset: 0, 0
+  index: -1

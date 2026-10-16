@@ -1,0 +1,13 @@
+
+ronghe_leg_monster_2014.png
+size: 276,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 2, 2
+  size: 272, 207
+  orig: 301, 287
+  offset: 26, 0
+  index: -1

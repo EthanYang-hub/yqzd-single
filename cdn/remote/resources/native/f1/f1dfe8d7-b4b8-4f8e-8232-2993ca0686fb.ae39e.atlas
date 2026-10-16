@@ -1,0 +1,27 @@
+
+ui_huangli_baodian.png
+size: 840,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian
+  rotate: true
+  xy: 346, 54
+  size: 291, 289
+  orig: 300, 315
+  offset: 2, 9
+  index: -1
+guang
+  rotate: true
+  xy: 2, 2
+  size: 343, 342
+  orig: 407, 406
+  offset: 33, 33
+  index: -1
+tuan
+  rotate: false
+  xy: 637, 132
+  size: 201, 213
+  orig: 203, 215
+  offset: 1, 1
+  index: -1

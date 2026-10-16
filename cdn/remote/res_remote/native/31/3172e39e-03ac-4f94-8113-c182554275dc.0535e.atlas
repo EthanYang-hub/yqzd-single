@@ -1,0 +1,34 @@
+
+ui_juedou_jingshi_2.png
+size: 188,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 108, 14
+  size: 211, 38
+  orig: 211, 38
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: true
+  xy: 2, 2
+  size: 223, 52
+  orig: 225, 54
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 148, 14
+  size: 211, 38
+  orig: 211, 38
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: true
+  xy: 56, 3
+  size: 222, 50
+  orig: 223, 52
+  offset: 1, 1
+  index: -1

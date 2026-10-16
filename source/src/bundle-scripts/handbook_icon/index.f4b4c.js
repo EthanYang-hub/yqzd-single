@@ -1,0 +1,1 @@
+"use strict";var e,t;System.register("chunks:///_virtual/handbook_icon",[],(function(){return{execute:function(){}}})),e="virtual:///prerequisite-imports/handbook_icon",t="chunks:///_virtual/handbook_icon",System.register(e,[t],(function(e,t){return{setters:[function(t){var n={};for(var r in t)"default"!==r&&"__esModule"!==r&&(n[r]=t[r]);e(n)}],execute:function(){}}})); 

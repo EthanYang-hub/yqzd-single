@@ -1,0 +1,97 @@
+
+rareSkill_casket_spirit_5.png
+size: 348,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fazhen_1
+  rotate: true
+  xy: 150, 2
+  size: 55, 119
+  orig: 73, 129
+  offset: 15, 5
+  index: -1
+fazhen_10
+  rotate: false
+  xy: 54, 54
+  size: 61, 61
+  orig: 69, 67
+  offset: 1, 5
+  index: -1
+fazhen_11
+  rotate: false
+  xy: 300, 40
+  size: 41, 33
+  orig: 55, 38
+  offset: 6, 3
+  index: -1
+fazhen_12
+  rotate: false
+  xy: 300, 75
+  size: 43, 40
+  orig: 55, 49
+  offset: 6, 4
+  index: -1
+fazhen_13
+  rotate: false
+  xy: 2, 117
+  size: 319, 149
+  orig: 323, 156
+  offset: 2, 1
+  index: -1
+fazhen_2
+  rotate: true
+  xy: 117, 59
+  size: 56, 181
+  orig: 60, 188
+  offset: 1, 2
+  index: -1
+fazhen_3
+  rotate: false
+  xy: 2, 51
+  size: 50, 64
+  orig: 56, 76
+  offset: 2, 4
+  index: -1
+fazhen_4
+  rotate: false
+  xy: 271, 4
+  size: 30, 34
+  orig: 31, 40
+  offset: 0, 6
+  index: -1
+fazhen_5
+  rotate: false
+  xy: 323, 235
+  size: 10, 10
+  orig: 13, 13
+  offset: 3, 2
+  index: -1
+fazhen_6
+  rotate: true
+  xy: 50, 4
+  size: 45, 43
+  orig: 55, 54
+  offset: 5, 4
+  index: -1
+fazhen_7
+  rotate: true
+  xy: 2, 2
+  size: 47, 46
+  orig: 57, 54
+  offset: 6, 4
+  index: -1
+fazhen_8
+  rotate: false
+  xy: 323, 247
+  size: 23, 19
+  orig: 31, 25
+  offset: 4, 1
+  index: -1
+fazhen_9
+  rotate: false
+  xy: 95, 3
+  size: 53, 49
+  orig: 64, 59
+  offset: 4, 5
+  index: -1

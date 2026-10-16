@@ -1,0 +1,41 @@
+
+ui_tianshuwudao_juexing_fengyin_1.png
+size: 701,358
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feng_1
+  rotate: false
+  xy: 512, 222
+  size: 140, 134
+  orig: 140, 134
+  offset: 0, 0
+  index: -1
+feng_2
+  rotate: true
+  xy: 2, 2
+  size: 354, 508
+  orig: 354, 508
+  offset: 0, 0
+  index: -1
+yan_1
+  rotate: false
+  xy: 512, 118
+  size: 116, 102
+  orig: 127, 104
+  offset: 6, 1
+  index: -1
+yan_2
+  rotate: true
+  xy: 512, 15
+  size: 101, 95
+  orig: 107, 101
+  offset: 3, 2
+  index: -1
+yan_3
+  rotate: true
+  xy: 609, 16
+  size: 100, 90
+  orig: 109, 96
+  offset: 4, 4
+  index: -1

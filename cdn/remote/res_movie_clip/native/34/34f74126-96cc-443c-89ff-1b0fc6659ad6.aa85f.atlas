@@ -1,0 +1,76 @@
+
+ui_shuijing_baihu_hit.png
+size: 364,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D
+  rotate: false
+  xy: 222, 9
+  size: 100, 107
+  orig: 105, 113
+  offset: 0, 3
+  index: -1
+DH_caltrops_runeB_slower_fireRingDiffuse
+  rotate: false
+  xy: 2, 2
+  size: 218, 205
+  orig: 218, 211
+  offset: 0, 0
+  index: -1
+bing_1
+  rotate: true
+  xy: 345, 152
+  size: 55, 11
+  orig: 60, 13
+  offset: 3, 1
+  index: -1
+bing_2
+  rotate: true
+  xy: 346, 105
+  size: 21, 16
+  orig: 23, 18
+  offset: 1, 1
+  index: -1
+bing_3
+  rotate: false
+  xy: 324, 67
+  size: 19, 23
+  orig: 21, 25
+  offset: 1, 1
+  index: -1
+bing_4
+  rotate: false
+  xy: 346, 87
+  size: 16, 16
+  orig: 17, 18
+  offset: 1, 1
+  index: -1
+bing_5
+  rotate: true
+  xy: 345, 128
+  size: 22, 17
+  orig: 24, 19
+  offset: 1, 1
+  index: -1
+bing_6
+  rotate: false
+  xy: 324, 92
+  size: 20, 24
+  orig: 22, 25
+  offset: 1, 0
+  index: -1
+bing_7
+  rotate: false
+  xy: 324, 50
+  size: 13, 15
+  orig: 15, 17
+  offset: 1, 1
+  index: -1
+lizi1
+  rotate: false
+  xy: 222, 118
+  size: 121, 89
+  orig: 156, 104
+  offset: 28, 11
+  index: -1

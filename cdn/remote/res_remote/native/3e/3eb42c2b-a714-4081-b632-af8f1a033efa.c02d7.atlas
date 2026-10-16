@@ -1,0 +1,20 @@
+
+ui_faqi_tubiao_di.png
+size: 242,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B2
+  rotate: false
+  xy: 2, 2
+  size: 135, 122
+  orig: 136, 124
+  offset: 1, 0
+  index: -1
+heieheiehei
+  rotate: true
+  xy: 139, 21
+  size: 103, 101
+  orig: 105, 106
+  offset: 1, 0
+  index: -1

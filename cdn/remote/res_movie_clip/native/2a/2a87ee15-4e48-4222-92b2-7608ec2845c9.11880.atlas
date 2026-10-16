@@ -1,0 +1,125 @@
+
+buff_hundun_wind.png
+size: 1348,801
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hudun
+  rotate: false
+  xy: 764, 420
+  size: 582, 379
+  orig: 648, 503
+  offset: 33, 29
+  index: -1
+hudun_di
+  rotate: true
+  xy: 2, 171
+  size: 628, 456
+  orig: 644, 503
+  offset: 8, 14
+  index: -1
+hudun_wenli
+  rotate: true
+  xy: 745, 186
+  size: 232, 189
+  orig: 256, 256
+  offset: 10, 34
+  index: -1
+hudun_wenli2
+  rotate: true
+  xy: 1089, 170
+  size: 248, 256
+  orig: 256, 256
+  offset: 8, 0
+  index: -1
+qiliu1
+  rotate: false
+  xy: 382, 9
+  size: 380, 160
+  orig: 390, 223
+  offset: 5, 32
+  index: -1
+qiliu2
+  rotate: true
+  xy: 460, 413
+  size: 386, 178
+  orig: 390, 223
+  offset: 4, 21
+  index: -1
+qiliu3
+  rotate: false
+  xy: 2, 2
+  size: 378, 167
+  orig: 390, 223
+  offset: 8, 22
+  index: -1
+qiliu4
+  rotate: true
+  xy: 640, 418
+  size: 381, 103
+  orig: 390, 223
+  offset: 6, 66
+  index: -1
+qiliuX1
+  rotate: false
+  xy: 640, 229
+  size: 101, 187
+  orig: 107, 197
+  offset: 4, 1
+  index: -1
+qiliuX2
+  rotate: true
+  xy: 764, 65
+  size: 119, 323
+  orig: 122, 336
+  offset: 0, 6
+  index: -1
+qiliuX3
+  rotate: false
+  xy: 537, 248
+  size: 79, 163
+  orig: 110, 164
+  offset: 26, 0
+  index: -1
+qiliuX4
+  rotate: false
+  xy: 460, 174
+  size: 75, 237
+  orig: 77, 250
+  offset: 1, 5
+  index: -1
+waiqiliu
+  rotate: false
+  xy: 764, 8
+  size: 420, 55
+  orig: 420, 55
+  offset: 0, 0
+  index: -1
+xql1
+  rotate: false
+  xy: 1190, 55
+  size: 113, 113
+  orig: 128, 128
+  offset: 6, 9
+  index: -1
+xql2
+  rotate: true
+  xy: 936, 301
+  size: 117, 121
+  orig: 128, 128
+  offset: 4, 6
+  index: -1
+xql3
+  rotate: true
+  xy: 936, 188
+  size: 111, 123
+  orig: 128, 128
+  offset: 8, 5
+  index: -1
+xql4
+  rotate: false
+  xy: 1089, 69
+  size: 99, 99
+  orig: 128, 128
+  offset: 17, 12
+  index: -1

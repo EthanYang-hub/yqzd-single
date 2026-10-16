@@ -1,0 +1,69 @@
+
+monster_002.png
+size: 94,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YJ
+  rotate: false
+  xy: 29, 64
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+chibang01
+  rotate: false
+  xy: 2, 33
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+chibang02
+  rotate: true
+  xy: 59, 40
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+chibangB01
+  rotate: false
+  xy: 61, 60
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+chibangB02
+  rotate: true
+  xy: 77, 28
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 29, 28
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 77, 44
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 71
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+waifaguang
+  rotate: false
+  xy: 29, 40
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1

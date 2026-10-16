@@ -1,0 +1,69 @@
+
+laoshu_3_jian.png
+size: 969,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuanwo1
+  rotate: true
+  xy: 2, 3
+  size: 189, 122
+  orig: 194, 127
+  offset: 3, 2
+  index: -1
+xuanwo11
+  rotate: true
+  xy: 723, 47
+  size: 145, 121
+  orig: 194, 127
+  offset: 30, 4
+  index: -1
+xuanwo13
+  rotate: true
+  xy: 480, 25
+  size: 167, 121
+  orig: 194, 127
+  offset: 19, 4
+  index: -1
+xuanwo15
+  rotate: true
+  xy: 242, 15
+  size: 177, 120
+  orig: 194, 127
+  offset: 12, 4
+  index: -1
+xuanwo3
+  rotate: true
+  xy: 126, 2
+  size: 190, 114
+  orig: 194, 127
+  offset: 1, 8
+  index: -1
+xuanwo5
+  rotate: true
+  xy: 364, 8
+  size: 184, 114
+  orig: 194, 127
+  offset: 2, 4
+  index: -1
+xuanwo7
+  rotate: true
+  xy: 603, 40
+  size: 152, 118
+  orig: 194, 127
+  offset: 25, 3
+  index: -1
+xuanwo9
+  rotate: true
+  xy: 846, 54
+  size: 138, 121
+  orig: 194, 127
+  offset: 34, 3
+  index: -1
+xuedao_6
+  rotate: false
+  xy: 603, 2
+  size: 153, 36
+  orig: 153, 36
+  offset: 0, 0
+  index: -1

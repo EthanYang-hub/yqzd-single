@@ -1,0 +1,223 @@
+
+ui_beijingban12.png
+size: 845,1039
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_beijingban12-1
+  rotate: true
+  xy: 610, 729
+  size: 27, 220
+  orig: 27, 220
+  offset: 0, 0
+  index: -1
+ui_beijingban12-10
+  rotate: true
+  xy: 2, 471
+  size: 120, 310
+  orig: 142, 310
+  offset: 9, 0
+  index: -1
+ui_beijingban12-11
+  rotate: false
+  xy: 729, 390
+  size: 114, 79
+  orig: 114, 79
+  offset: 0, 0
+  index: -1
+ui_beijingban12-12
+  rotate: false
+  xy: 276, 142
+  size: 168, 170
+  orig: 168, 170
+  offset: 0, 0
+  index: -1
+ui_beijingban12-13
+  rotate: false
+  xy: 412, 417
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+ui_beijingban12-14
+  rotate: true
+  xy: 370, 474
+  size: 41, 35
+  orig: 75, 51
+  offset: 21, 10
+  index: -1
+ui_beijingban12-15
+  rotate: true
+  xy: 446, 146
+  size: 68, 90
+  orig: 71, 92
+  offset: 1, 0
+  index: -1
+ui_beijingban12-16
+  rotate: false
+  xy: 446, 218
+  size: 74, 94
+  orig: 81, 104
+  offset: 4, 7
+  index: -1
+ui_beijingban12-17
+  rotate: false
+  xy: 729, 216
+  size: 108, 82
+  orig: 108, 82
+  offset: 0, 0
+  index: -1
+ui_beijingban12-18
+  rotate: false
+  xy: 729, 300
+  size: 109, 88
+  orig: 109, 88
+  offset: 0, 0
+  index: -1
+ui_beijingban12-19
+  rotate: false
+  xy: 522, 227
+  size: 73, 85
+  orig: 81, 92
+  offset: 2, 6
+  index: -1
+ui_beijingban12-2
+  rotate: false
+  xy: 2, 4
+  size: 106, 123
+  orig: 117, 123
+  offset: 0, 0
+  index: -1
+ui_beijingban12-20
+  rotate: true
+  xy: 314, 517
+  size: 74, 95
+  orig: 82, 102
+  offset: 3, 4
+  index: -1
+ui_beijingban12-21
+  rotate: true
+  xy: 595, 420
+  size: 49, 48
+  orig: 53, 50
+  offset: 1, 0
+  index: -1
+ui_beijingban12-22
+  rotate: false
+  xy: 726, 157
+  size: 56, 57
+  orig: 63, 64
+  offset: 5, 4
+  index: -1
+ui_beijingban12-23
+  rotate: true
+  xy: 314, 473
+  size: 42, 54
+  orig: 43, 55
+  offset: 1, 1
+  index: -1
+ui_beijingban12-24
+  rotate: false
+  xy: 538, 151
+  size: 52, 63
+  orig: 59, 70
+  offset: 5, 4
+  index: -1
+ui_beijingban12-25
+  rotate: false
+  xy: 556, 318
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+ui_beijingban12-26
+  rotate: false
+  xy: 412, 2
+  size: 315, 138
+  orig: 315, 138
+  offset: 0, 0
+  index: -1
+ui_beijingban12-27
+  rotate: true
+  xy: 610, 758
+  size: 279, 233
+  orig: 279, 233
+  offset: 0, 0
+  index: -1
+ui_beijingban12-28
+  rotate: false
+  xy: 410, 314
+  size: 144, 101
+  orig: 159, 107
+  offset: 11, 4
+  index: -1
+ui_beijingban12-29
+  rotate: true
+  xy: 610, 471
+  size: 196, 210
+  orig: 238, 219
+  offset: 9, 4
+  index: -1
+ui_beijingban12-3
+  rotate: true
+  xy: 645, 169
+  size: 300, 79
+  orig: 425, 220
+  offset: 61, 141
+  index: -1
+ui_beijingban12-30
+  rotate: false
+  xy: 276, 314
+  size: 132, 155
+  orig: 141, 163
+  offset: 5, 5
+  index: -1
+ui_beijingban12-31
+  rotate: true
+  xy: 2, 593
+  size: 444, 606
+  orig: 449, 610
+  offset: 0, 4
+  index: -1
+ui_beijingban12-4
+  rotate: false
+  xy: 610, 669
+  size: 211, 58
+  orig: 211, 58
+  offset: 0, 0
+  index: -1
+ui_beijingban12-5
+  rotate: false
+  xy: 592, 142
+  size: 49, 83
+  orig: 49, 83
+  offset: 0, 0
+  index: -1
+ui_beijingban12-6
+  rotate: false
+  xy: 142, 136
+  size: 132, 333
+  orig: 142, 333
+  offset: 10, 0
+  index: -1
+ui_beijingban12-7
+  rotate: false
+  xy: 2, 129
+  size: 138, 340
+  orig: 148, 340
+  offset: 10, 0
+  index: -1
+ui_beijingban12-8
+  rotate: false
+  xy: 597, 241
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+ui_beijingban12-9
+  rotate: true
+  xy: 110, 7
+  size: 120, 300
+  orig: 142, 300
+  offset: 9, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+ui_changjing_001.png
+size: 712,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 441, 143
+  size: 132, 88
+  orig: 132, 88
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 131, 77
+  size: 198, 107
+  orig: 198, 107
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 230, 9
+  size: 145, 66
+  orig: 145, 66
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 240, 90
+  size: 132, 185
+  orig: 200, 297
+  offset: 68, 111
+  index: -1
+A1
+  rotate: true
+  xy: 181, 7
+  size: 68, 47
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+A2
+  rotate: true
+  xy: 374, 77
+  size: 63, 37
+  orig: 71, 51
+  offset: 8, 0
+  index: -1
+A3
+  rotate: false
+  xy: 583, 177
+  size: 108, 98
+  orig: 110, 98
+  offset: 2, 0
+  index: -1
+A4
+  rotate: true
+  xy: 374, 142
+  size: 133, 65
+  orig: 146, 103
+  offset: 1, 16
+  index: -1
+A5
+  rotate: true
+  xy: 704, 690
+  size: 9, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+B1
+  rotate: true
+  xy: 480, 28
+  size: 113, 101
+  orig: 121, 102
+  offset: 8, 0
+  index: -1
+B2
+  rotate: false
+  xy: 613, 138
+  size: 63, 37
+  orig: 68, 55
+  offset: 5, 0
+  index: -1
+B3
+  rotate: true
+  xy: 413, 7
+  size: 133, 65
+  orig: 136, 92
+  offset: 1, 5
+  index: -1
+B4
+  rotate: false
+  xy: 531, 143
+  size: 80, 32
+  orig: 81, 73
+  offset: 0, 18
+  index: -1
+B5
+  rotate: true
+  xy: 531, 190
+  size: 85, 42
+  orig: 87, 44
+  offset: 2, 1
+  index: -1
+B6
+  rotate: false
+  xy: 2, 2
+  size: 177, 56
+  orig: 178, 62
+  offset: 1, 1
+  index: -1
+B7
+  rotate: true
+  xy: 2, 60
+  size: 215, 127
+  orig: 226, 144
+  offset: 11, 0
+  index: -1
+B8
+  rotate: true
+  xy: 704, 701
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+SHU
+  rotate: false
+  xy: 2, 277
+  size: 700, 433
+  orig: 720, 433
+  offset: 20, 0
+  index: -1

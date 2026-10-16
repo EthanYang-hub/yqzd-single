@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 218,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+voodoo proy_15
+  rotate: false
+  xy: 2, 18
+  size: 28, 28
+  orig: 52, 52
+  offset: 12, 11
+  index: -1
+voodoo proy_16
+  rotate: true
+  xy: 167, 2
+  size: 44, 49
+  orig: 52, 52
+  offset: 6, 1
+  index: -1
+voodoo proy_17
+  rotate: true
+  xy: 70, 5
+  size: 41, 47
+  orig: 52, 52
+  offset: 4, 3
+  index: -1
+voodoo proy_18
+  rotate: true
+  xy: 119, 4
+  size: 42, 46
+  orig: 52, 52
+  offset: 4, 5
+  index: -1
+voodoo proy_19
+  rotate: true
+  xy: 32, 12
+  size: 34, 36
+  orig: 52, 52
+  offset: 13, 5
+  index: -1

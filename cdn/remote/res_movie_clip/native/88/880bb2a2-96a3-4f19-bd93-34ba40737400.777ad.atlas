@@ -1,0 +1,62 @@
+
+roleSkill_Skulltower_7.png
+size: 498,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: true
+  xy: 2, 2
+  size: 78, 147
+  orig: 78, 154
+  offset: 0, 4
+  index: -1
+A2
+  rotate: true
+  xy: 151, 7
+  size: 73, 94
+  orig: 76, 98
+  offset: 3, 3
+  index: -1
+A3
+  rotate: false
+  xy: 2, 581
+  size: 455, 429
+  orig: 506, 465
+  offset: 18, 18
+  index: -1
+d1
+  rotate: false
+  xy: 459, 920
+  size: 18, 90
+  orig: 18, 90
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 275, 11
+  size: 195, 295
+  orig: 195, 296
+  offset: 0, 1
+  index: -1
+di_guang
+  rotate: false
+  xy: 2, 314
+  size: 335, 265
+  orig: 335, 285
+  offset: 0, 3
+  index: -1
+dici_1
+  rotate: false
+  xy: 2, 82
+  size: 271, 230
+  orig: 283, 241
+  offset: 1, 11
+  index: -1
+dici_2
+  rotate: true
+  xy: 339, 308
+  size: 271, 157
+  orig: 321, 164
+  offset: 2, 5
+  index: -1

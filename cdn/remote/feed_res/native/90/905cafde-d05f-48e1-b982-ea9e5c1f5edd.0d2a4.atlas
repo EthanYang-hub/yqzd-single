@@ -1,0 +1,146 @@
+
+ui_fulu_tianshu.png
+size: 427,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: true
+  xy: 246, 71
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+A2
+  rotate: true
+  xy: 2, 2
+  size: 13, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+A3
+  rotate: true
+  xy: 173, 10
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+A4
+  rotate: false
+  xy: 271, 126
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+A5
+  rotate: true
+  xy: 227, 149
+  size: 44, 59
+  orig: 54, 74
+  offset: 2, 0
+  index: -1
+B1
+  rotate: false
+  xy: 227, 96
+  size: 42, 51
+  orig: 50, 51
+  offset: 5, 0
+  index: -1
+B2
+  rotate: true
+  xy: 43, 2
+  size: 13, 29
+  orig: 17, 32
+  offset: 4, 0
+  index: -1
+B3
+  rotate: true
+  xy: 92, 4
+  size: 11, 25
+  orig: 24, 30
+  offset: 13, 0
+  index: -1
+B4
+  rotate: true
+  xy: 74, 3
+  size: 12, 16
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+B5
+  rotate: false
+  xy: 288, 139
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+Blizzard_cloud
+  rotate: false
+  xy: 2, 222
+  size: 223, 203
+  orig: 256, 256
+  offset: 17, 26
+  index: -1
+Blizzard_cloud2
+  rotate: false
+  xy: 2, 17
+  size: 223, 203
+  orig: 256, 256
+  offset: 17, 26
+  index: -1
+fulu_1_1
+  rotate: true
+  xy: 119, 5
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+fulu_1_2
+  rotate: false
+  xy: 330, 102
+  size: 20, 35
+  orig: 22, 37
+  offset: 1, 1
+  index: -1
+fulu_2
+  rotate: true
+  xy: 271, 107
+  size: 17, 57
+  orig: 21, 66
+  offset: 3, 8
+  index: -1
+fulu_4
+  rotate: true
+  xy: 227, 311
+  size: 114, 108
+  orig: 122, 108
+  offset: 5, 0
+  index: -1
+tianshu_1_1
+  rotate: false
+  xy: 271, 71
+  size: 20, 34
+  orig: 22, 37
+  offset: 1, 2
+  index: -1
+tianshu_1_2
+  rotate: true
+  xy: 146, 5
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+tianshu_2
+  rotate: false
+  xy: 227, 37
+  size: 17, 57
+  orig: 21, 66
+  offset: 3, 8
+  index: -1
+tianshu_4
+  rotate: true
+  xy: 227, 195
+  size: 114, 108
+  orig: 122, 108
+  offset: 5, 0
+  index: -1

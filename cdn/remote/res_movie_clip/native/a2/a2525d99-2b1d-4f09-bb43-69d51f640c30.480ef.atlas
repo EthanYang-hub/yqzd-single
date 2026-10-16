@@ -1,0 +1,258 @@
+
+petSkill_horse_skill4.png
+size: 707,707
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0457
+  rotate: false
+  xy: 279, 113
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+C1
+  rotate: false
+  xy: 542, 353
+  size: 125, 144
+  orig: 128, 154
+  offset: 2, 5
+  index: -1
+C2
+  rotate: false
+  xy: 390, 236
+  size: 133, 138
+  orig: 133, 148
+  offset: 0, 6
+  index: -1
+C3
+  rotate: true
+  xy: 384, 376
+  size: 121, 156
+  orig: 123, 168
+  offset: 0, 6
+  index: -1
+C4
+  rotate: false
+  xy: 2, 4
+  size: 125, 150
+  orig: 131, 160
+  offset: 1, 5
+  index: -1
+JJ_G_1
+  rotate: false
+  xy: 606, 552
+  size: 97, 153
+  orig: 114, 170
+  offset: 13, 7
+  index: -1
+JJ_G_2
+  rotate: false
+  xy: 130, 191
+  size: 147, 160
+  orig: 158, 178
+  offset: 4, 8
+  index: -1
+JJ_G_3
+  rotate: false
+  xy: 261, 375
+  size: 121, 163
+  orig: 132, 185
+  offset: 6, 12
+  index: -1
+JJ_G_4
+  rotate: false
+  xy: 130, 353
+  size: 129, 185
+  orig: 141, 202
+  offset: 6, 8
+  index: -1
+L_A_tui_1
+  rotate: true
+  xy: 607, 71
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+L_A_tui_2
+  rotate: false
+  xy: 451, 56
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+L_A_tui_3
+  rotate: false
+  xy: 253, 127
+  size: 21, 62
+  orig: 21, 62
+  offset: 0, 0
+  index: -1
+L_A_tui_4
+  rotate: false
+  xy: 395, 40
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+L_B_tui_1
+  rotate: false
+  xy: 395, 79
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+L_B_tui_2
+  rotate: false
+  xy: 303, 43
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+R_A_tui_1
+  rotate: true
+  xy: 558, 71
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+R_A_tui_2
+  rotate: false
+  xy: 451, 89
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+R_A_tui_3
+  rotate: true
+  xy: 248, 13
+  size: 14, 53
+  orig: 14, 53
+  offset: 0, 0
+  index: -1
+R_A_tui_4
+  rotate: true
+  xy: 345, 55
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+R_B_tui_1
+  rotate: true
+  xy: 506, 83
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+R_B_tui_2
+  rotate: true
+  xy: 654, 65
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+R_B_tui_3
+  rotate: true
+  xy: 303, 2
+  size: 39, 59
+  orig: 50, 65
+  offset: 11, 0
+  index: -1
+bei_huo
+  rotate: true
+  xy: 2, 156
+  size: 382, 126
+  orig: 384, 130
+  offset: 0, 4
+  index: -1
+chongjibo
+  rotate: false
+  xy: 384, 590
+  size: 220, 115
+  orig: 256, 128
+  offset: 19, 13
+  index: -1
+impact1
+  rotate: true
+  xy: 279, 211
+  size: 162, 109
+  orig: 162, 163
+  offset: 0, 54
+  index: -1
+impact2
+  rotate: false
+  xy: 525, 194
+  size: 162, 66
+  orig: 162, 98
+  offset: 0, 32
+  index: -1
+impact3
+  rotate: false
+  xy: 525, 262
+  size: 166, 89
+  orig: 166, 89
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 384, 499
+  size: 219, 89
+  orig: 219, 92
+  offset: 0, 3
+  index: -1
+tou_1
+  rotate: true
+  xy: 605, 502
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+tou_2
+  rotate: true
+  xy: 618, 114
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+tui_ZZ_1
+  rotate: true
+  xy: 248, 29
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+ying_ma_1
+  rotate: false
+  xy: 2, 540
+  size: 380, 165
+  orig: 380, 165
+  offset: 0, 0
+  index: -1
+ying_ma_2
+  rotate: true
+  xy: 130, 103
+  size: 86, 121
+  orig: 86, 121
+  offset: 0, 0
+  index: -1
+ying_ma_3
+  rotate: true
+  xy: 513, 115
+  size: 77, 103
+  orig: 85, 107
+  offset: 8, 4
+  index: -1
+ying_ma_4
+  rotate: true
+  xy: 129, 10
+  size: 91, 117
+  orig: 108, 125
+  offset: 9, 5
+  index: -1
+ying_ma_5
+  rotate: true
+  xy: 390, 131
+  size: 103, 121
+  orig: 103, 125
+  offset: 0, 0
+  index: -1

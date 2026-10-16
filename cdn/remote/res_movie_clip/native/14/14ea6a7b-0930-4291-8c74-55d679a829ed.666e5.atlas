@@ -1,0 +1,97 @@
+
+ui_shuijing_kuhe_down.png
+size: 1730,1730
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Akuheshow_1
+  rotate: false
+  xy: 406, 400
+  size: 64, 35
+  orig: 69, 37
+  offset: 4, 1
+  index: -1
+Akuheshow_10
+  rotate: true
+  xy: 283, 619
+  size: 180, 250
+  orig: 196, 260
+  offset: 7, 9
+  index: -1
+Akuheshow_2
+  rotate: false
+  xy: 283, 376
+  size: 121, 59
+  orig: 127, 66
+  offset: 3, 1
+  index: -1
+Akuheshow_3
+  rotate: true
+  xy: 667, 455
+  size: 162, 94
+  orig: 178, 96
+  offset: 7, 1
+  index: -1
+Akuheshow_4
+  rotate: false
+  xy: 485, 312
+  size: 180, 125
+  orig: 196, 135
+  offset: 7, 9
+  index: -1
+Akuheshow_5
+  rotate: true
+  xy: 667, 273
+  size: 180, 147
+  orig: 196, 157
+  offset: 7, 9
+  index: -1
+Akuheshow_6
+  rotate: false
+  xy: 485, 439
+  size: 180, 178
+  orig: 196, 189
+  offset: 7, 9
+  index: -1
+Akuheshow_7
+  rotate: true
+  xy: 283, 437
+  size: 180, 200
+  orig: 196, 211
+  offset: 7, 9
+  index: -1
+Akuheshow_8
+  rotate: false
+  xy: 781, 562
+  size: 180, 237
+  orig: 196, 249
+  offset: 7, 9
+  index: -1
+Akuheshow_9
+  rotate: true
+  xy: 535, 619
+  size: 180, 244
+  orig: 196, 255
+  offset: 7, 9
+  index: -1
+guang
+  rotate: true
+  xy: 2, 433
+  size: 366, 279
+  orig: 451, 341
+  offset: 43, 25
+  index: -1
+kuhe
+  rotate: false
+  xy: 982, 697
+  size: 746, 1031
+  orig: 746, 1031
+  offset: 0, 0
+  index: -1
+xue1
+  rotate: false
+  xy: 2, 801
+  size: 978, 927
+  orig: 994, 976
+  offset: 14, 20
+  index: -1

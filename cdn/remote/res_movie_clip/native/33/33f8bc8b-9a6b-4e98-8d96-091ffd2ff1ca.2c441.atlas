@@ -1,0 +1,48 @@
+
+rareSkill_windbell_3_effect.png
+size: 554,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electricity 007_00000
+  rotate: true
+  xy: 200, 7
+  size: 292, 93
+  orig: 300, 100
+  offset: 3, 0
+  index: -1
+Electricity 007_00002
+  rotate: true
+  xy: 295, 5
+  size: 294, 88
+  orig: 300, 100
+  offset: 3, 2
+  index: -1
+Electricity 007_00004
+  rotate: true
+  xy: 475, 10
+  size: 289, 77
+  orig: 300, 100
+  offset: 5, 8
+  index: -1
+Electricity 007_00006
+  rotate: true
+  xy: 385, 6
+  size: 293, 88
+  orig: 300, 100
+  offset: 3, 3
+  index: -1
+Electricity 007_00009
+  rotate: true
+  xy: 100, 8
+  size: 291, 98
+  orig: 300, 100
+  offset: 2, 0
+  index: -1
+Electricity 007_00011
+  rotate: true
+  xy: 2, 2
+  size: 297, 96
+  orig: 300, 100
+  offset: 0, 0
+  index: -1

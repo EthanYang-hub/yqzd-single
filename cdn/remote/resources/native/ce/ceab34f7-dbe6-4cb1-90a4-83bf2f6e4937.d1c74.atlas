@@ -1,0 +1,97 @@
+
+ui_guipu_biaoti.png
+size: 199,706
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biao_A_1
+  rotate: false
+  xy: 2, 595
+  size: 150, 41
+  orig: 156, 41
+  offset: 5, 0
+  index: -1
+biao_A_2
+  rotate: true
+  xy: 154, 555
+  size: 149, 41
+  orig: 155, 41
+  offset: 0, 0
+  index: -1
+biao_B_1
+  rotate: false
+  xy: 2, 672
+  size: 142, 32
+  orig: 152, 35
+  offset: 9, 1
+  index: -1
+biao_B_2
+  rotate: false
+  xy: 2, 638
+  size: 141, 32
+  orig: 152, 35
+  offset: 2, 1
+  index: -1
+biao_B_3
+  rotate: true
+  xy: 2, 2
+  size: 274, 195
+  orig: 284, 216
+  offset: 7, 1
+  index: -1
+zi_A_1
+  rotate: true
+  xy: 113, 278
+  size: 104, 82
+  orig: 108, 83
+  offset: 3, 1
+  index: -1
+zi_A_2
+  rotate: false
+  xy: 69, 529
+  size: 65, 64
+  orig: 67, 65
+  offset: 1, 1
+  index: -1
+zi_A_3
+  rotate: false
+  xy: 80, 384
+  size: 79, 75
+  orig: 81, 76
+  offset: 1, 1
+  index: -1
+zi_A_4
+  rotate: false
+  xy: 2, 462
+  size: 87, 65
+  orig: 89, 66
+  offset: 0, 1
+  index: -1
+zi_B_1
+  rotate: false
+  xy: 2, 301
+  size: 109, 81
+  orig: 111, 84
+  offset: 2, 3
+  index: -1
+zi_B_2
+  rotate: true
+  xy: 2, 530
+  size: 63, 65
+  orig: 65, 65
+  offset: 1, 0
+  index: -1
+zi_B_3
+  rotate: true
+  xy: 2, 387
+  size: 73, 76
+  orig: 75, 77
+  offset: 1, 1
+  index: -1
+zi_B_4
+  rotate: false
+  xy: 91, 461
+  size: 81, 66
+  orig: 84, 68
+  offset: 1, 1
+  index: -1

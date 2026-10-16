@@ -1,0 +1,223 @@
+
+roleSkill_water_fire.png
+size: 923,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HA_AP_wisp
+  rotate: false
+  xy: 2, 5
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bing_2
+  rotate: false
+  xy: 581, 52
+  size: 102, 69
+  orig: 102, 69
+  offset: 0, 0
+  index: -1
+bing_3
+  rotate: false
+  xy: 581, 123
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+bing_4
+  rotate: false
+  xy: 497, 40
+  size: 82, 221
+  orig: 91, 221
+  offset: 0, 0
+  index: -1
+fire_1
+  rotate: false
+  xy: 841, 215
+  size: 41, 46
+  orig: 43, 48
+  offset: 0, 1
+  index: -1
+fire_2
+  rotate: false
+  xy: 838, 156
+  size: 43, 45
+  orig: 50, 48
+  offset: 5, 1
+  index: -1
+fire_3
+  rotate: false
+  xy: 807, 91
+  size: 50, 52
+  orig: 53, 53
+  offset: 1, 0
+  index: -1
+fire_4
+  rotate: false
+  xy: 655, 3
+  size: 46, 47
+  orig: 50, 54
+  offset: 0, 2
+  index: -1
+su2ibing_1
+  rotate: true
+  xy: 858, 49
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+sui_1
+  rotate: false
+  xy: 883, 120
+  size: 28, 45
+  orig: 29, 45
+  offset: 1, 0
+  index: -1
+sui_2
+  rotate: true
+  xy: 882, 20
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+sui_3
+  rotate: true
+  xy: 555, 3
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+sui_5
+  rotate: true
+  xy: 497, 4
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+suibing_4
+  rotate: false
+  xy: 856, 12
+  size: 24, 35
+  orig: 36, 35
+  offset: 12, 0
+  index: -1
+suibing_5
+  rotate: true
+  xy: 821, 21
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+suibing_6
+  rotate: true
+  xy: 884, 226
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+suihuo_002
+  rotate: true
+  xy: 821, 55
+  size: 34, 35
+  orig: 40, 41
+  offset: 3, 3
+  index: -1
+suihuo_003
+  rotate: true
+  xy: 859, 78
+  size: 40, 41
+  orig: 46, 46
+  offset: 3, 3
+  index: -1
+suihuo_004
+  rotate: true
+  xy: 603, 4
+  size: 46, 50
+  orig: 52, 54
+  offset: 3, 2
+  index: -1
+suihuo_005
+  rotate: false
+  xy: 783, 203
+  size: 56, 58
+  orig: 61, 63
+  offset: 3, 3
+  index: -1
+suihuo_006
+  rotate: true
+  xy: 703, 2
+  size: 59, 62
+  orig: 65, 66
+  offset: 3, 1
+  index: -1
+suihuo_007
+  rotate: false
+  xy: 719, 196
+  size: 62, 65
+  orig: 68, 68
+  offset: 3, 0
+  index: -1
+suihuo_008
+  rotate: false
+  xy: 653, 195
+  size: 64, 66
+  orig: 69, 68
+  offset: 2, 0
+  index: -1
+suihuo_009
+  rotate: false
+  xy: 653, 129
+  size: 64, 64
+  orig: 69, 68
+  offset: 2, 1
+  index: -1
+suihuo_010
+  rotate: true
+  xy: 685, 63
+  size: 64, 63
+  orig: 69, 68
+  offset: 2, 2
+  index: -1
+suihuo_011
+  rotate: false
+  xy: 719, 131
+  size: 63, 63
+  orig: 68, 68
+  offset: 2, 2
+  index: -1
+suihuo_012
+  rotate: false
+  xy: 750, 70
+  size: 55, 59
+  orig: 66, 66
+  offset: 4, 2
+  index: -1
+suihuo_013
+  rotate: false
+  xy: 784, 145
+  size: 52, 56
+  orig: 59, 64
+  offset: 4, 5
+  index: -1
+suihuo_014
+  rotate: false
+  xy: 767, 13
+  size: 52, 55
+  orig: 59, 64
+  offset: 4, 6
+  index: -1
+suihuo_015
+  rotate: true
+  xy: 883, 167
+  size: 46, 34
+  orig: 54, 43
+  offset: 5, 6
+  index: -1
+waypoint_flame
+  rotate: false
+  xy: 260, 20
+  size: 235, 241
+  orig: 256, 256
+  offset: 20, 4
+  index: -1

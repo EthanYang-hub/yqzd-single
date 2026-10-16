@@ -1,0 +1,34 @@
+
+ui_lianpu_guiyuan.png
+size: 811,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Global_SS_Clairvoyance_EyeGlow_Blue
+  rotate: false
+  xy: 760, 4
+  size: 49, 254
+  orig: 49, 254
+  offset: 0, 0
+  index: -1
+Kayle_Skin07_E_Light_Burst
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+MonkeyKing_Skin04_Q_Buf_Flash
+  rotate: true
+  xy: 514, 2
+  size: 256, 244
+  orig: 256, 256
+  offset: 0, 8
+  index: -1
+MonkeyKing_skin04_Q_Tar_Nova
+  rotate: false
+  xy: 260, 2
+  size: 252, 256
+  orig: 256, 256
+  offset: 4, 0
+  index: -1

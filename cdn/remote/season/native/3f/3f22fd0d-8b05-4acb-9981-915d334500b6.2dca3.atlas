@@ -1,0 +1,41 @@
+
+Season_fight_perform_Seal.png
+size: 286,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Seal_down
+  rotate: false
+  xy: 169, 175
+  size: 77, 109
+  orig: 84, 117
+  offset: 3, 4
+  index: -1
+Seal_fu
+  rotate: true
+  xy: 144, 43
+  size: 84, 117
+  orig: 84, 117
+  offset: 0, 0
+  index: -1
+Seal_fuwen
+  rotate: true
+  xy: 2, 2
+  size: 125, 140
+  orig: 129, 144
+  offset: 2, 2
+  index: -1
+Seal_light
+  rotate: false
+  xy: 2, 129
+  size: 165, 155
+  orig: 171, 162
+  offset: 4, 4
+  index: -1
+Seal_txt
+  rotate: true
+  xy: 169, 131
+  size: 42, 55
+  orig: 46, 59
+  offset: 2, 2
+  index: -1

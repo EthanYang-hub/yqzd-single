@@ -1,0 +1,27 @@
+
+ui_zhihunqiyuan_chou_1.png
+size: 610,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_zhihunqiyuan-di3
+  rotate: false
+  xy: 2, 2
+  size: 216, 213
+  orig: 216, 231
+  offset: 0, 8
+  index: -1
+ui_zhihunqiyuan-icon1
+  rotate: false
+  xy: 220, 15
+  size: 193, 200
+  orig: 195, 201
+  offset: 0, 0
+  index: -1
+ui_zhihunqiyuan-icon1-1
+  rotate: false
+  xy: 415, 15
+  size: 193, 200
+  orig: 195, 201
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+ui_beijingban9.png
+size: 823,1025
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 761, 909
+  size: 54, 114
+  orig: 59, 118
+  offset: 2, 1
+  index: -1
+B1
+  rotate: false
+  xy: 605, 434
+  size: 95, 92
+  orig: 102, 105
+  offset: 7, 1
+  index: -1
+C1
+  rotate: true
+  xy: 767, 529
+  size: 128, 54
+  orig: 141, 62
+  offset: 5, 4
+  index: -1
+D1
+  rotate: true
+  xy: 664, 743
+  size: 139, 91
+  orig: 161, 113
+  offset: 3, 0
+  index: -1
+E1
+  rotate: true
+  xy: 423, 630
+  size: 393, 239
+  orig: 393, 239
+  offset: 0, 0
+  index: -1
+F1
+  rotate: false
+  xy: 605, 528
+  size: 160, 100
+  orig: 169, 110
+  offset: 3, 1
+  index: -1
+xueyua_1
+  rotate: true
+  xy: 383, 3
+  size: 212, 243
+  orig: 212, 243
+  offset: 0, 0
+  index: -1
+xueyua_10
+  rotate: true
+  xy: 664, 884
+  size: 139, 95
+  orig: 140, 127
+  offset: 0, 32
+  index: -1
+xueyua_11
+  rotate: false
+  xy: 664, 659
+  size: 145, 82
+  orig: 150, 87
+  offset: 2, 3
+  index: -1
+xueyua_111
+  rotate: false
+  xy: 302, 36
+  size: 18, 11
+  orig: 24, 16
+  offset: 1, 1
+  index: -1
+xueyua_1111
+  rotate: false
+  xy: 628, 11
+  size: 30, 22
+  orig: 34, 31
+  offset: 3, 6
+  index: -1
+xueyua_12
+  rotate: true
+  xy: 757, 779
+  size: 103, 64
+  orig: 115, 77
+  offset: 9, 11
+  index: -1
+xueyua_13
+  rotate: false
+  xy: 2, 124
+  size: 379, 308
+  orig: 379, 308
+  offset: 0, 0
+  index: -1
+xueyua_2
+  rotate: false
+  xy: 302, 49
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+xueyua_3
+  rotate: false
+  xy: 702, 435
+  size: 91, 91
+  orig: 91, 93
+  offset: 0, 1
+  index: -1
+xueyua_4
+  rotate: true
+  xy: 2, 2
+  size: 120, 135
+  orig: 129, 186
+  offset: 3, 13
+  index: -1
+xueyua_5
+  rotate: false
+  xy: 2, 434
+  size: 419, 589
+  orig: 445, 603
+  offset: 21, 4
+  index: -1
+xueyua_6
+  rotate: false
+  xy: 383, 217
+  size: 397, 215
+  orig: 397, 215
+  offset: 0, 0
+  index: -1
+xueyua_7
+  rotate: false
+  xy: 628, 35
+  size: 167, 180
+  orig: 168, 182
+  offset: 0, 0
+  index: -1
+xueyua_8
+  rotate: false
+  xy: 139, 14
+  size: 161, 108
+  orig: 161, 108
+  offset: 0, 0
+  index: -1
+xueyua_9
+  rotate: true
+  xy: 423, 463
+  size: 165, 180
+  orig: 174, 185
+  offset: 5, 1
+  index: -1

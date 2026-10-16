@@ -1,0 +1,160 @@
+
+zhandou_pet_jiangshi_3.png
+size: 632,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1bei
+  rotate: true
+  xy: 580, 309
+  size: 39, 49
+  orig: 45, 54
+  offset: 4, 1
+  index: -1
+1shen
+  rotate: false
+  xy: 399, 81
+  size: 112, 122
+  orig: 112, 124
+  offset: 0, 2
+  index: -1
+1shou2
+  rotate: true
+  xy: 424, 13
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+1tou
+  rotate: true
+  xy: 381, 205
+  size: 114, 131
+  orig: 122, 138
+  offset: 5, 6
+  index: -1
+1tui1
+  rotate: false
+  xy: 514, 189
+  size: 63, 81
+  orig: 63, 81
+  offset: 0, 0
+  index: -1
+1tui2
+  rotate: true
+  xy: 514, 272
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+1yan
+  rotate: false
+  xy: 322, 252
+  size: 43, 18
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+2fa1
+  rotate: true
+  xy: 381, 8
+  size: 71, 41
+  orig: 71, 41
+  offset: 0, 0
+  index: -1
+2fa2
+  rotate: true
+  xy: 145, 14
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+2shen
+  rotate: true
+  xy: 322, 110
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+2shipin
+  rotate: true
+  xy: 230, 14
+  size: 92, 63
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+2shou1
+  rotate: true
+  xy: 580, 228
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+2shou2
+  rotate: false
+  xy: 322, 272
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+2tou
+  rotate: true
+  xy: 63, 12
+  size: 94, 80
+  orig: 96, 85
+  offset: 2, 5
+  index: -1
+2tui1
+  rotate: false
+  xy: 580, 350
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+2tui2
+  rotate: false
+  xy: 2, 5
+  size: 59, 101
+  orig: 59, 101
+  offset: 0, 0
+  index: -1
+2yan
+  rotate: true
+  xy: 579, 190
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+3dai
+  rotate: false
+  xy: 2, 108
+  size: 318, 522
+  orig: 321, 523
+  offset: 3, 1
+  index: -1
+3huan
+  rotate: false
+  xy: 295, 20
+  size: 84, 86
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+3mao
+  rotate: false
+  xy: 322, 429
+  size: 297, 201
+  orig: 309, 204
+  offset: 9, 1
+  index: -1
+3ye
+  rotate: false
+  xy: 513, 125
+  size: 112, 62
+  orig: 112, 62
+  offset: 0, 0
+  index: -1
+line1
+  rotate: true
+  xy: 322, 321
+  size: 106, 256
+  orig: 106, 256
+  offset: 0, 0
+  index: -1

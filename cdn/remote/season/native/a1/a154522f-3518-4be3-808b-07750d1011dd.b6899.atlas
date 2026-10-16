@@ -1,0 +1,48 @@
+
+ui_yan_battle_8.png
+size: 1144,1041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baihu_1
+  rotate: true
+  xy: 337, 25
+  size: 270, 416
+  orig: 270, 416
+  offset: 0, 0
+  index: -1
+baihu_2
+  rotate: true
+  xy: 597, 297
+  size: 351, 514
+  orig: 351, 514
+  offset: 0, 0
+  index: -1
+baihu_3
+  rotate: true
+  xy: 597, 650
+  size: 389, 545
+  orig: 389, 545
+  offset: 0, 0
+  index: -1
+baihu_4
+  rotate: true
+  xy: 2, 2
+  size: 449, 333
+  orig: 449, 333
+  offset: 0, 0
+  index: -1
+baihu_5
+  rotate: false
+  xy: 755, 21
+  size: 290, 274
+  orig: 302, 294
+  offset: 3, 12
+  index: -1
+baihu_7
+  rotate: true
+  xy: 2, 453
+  size: 586, 593
+  orig: 609, 613
+  offset: 6, 11
+  index: -1

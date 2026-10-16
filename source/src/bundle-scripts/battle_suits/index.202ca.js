@@ -1,0 +1,1 @@
+"use strict";var t,e;System.register("chunks:///_virtual/battle_suits",[],(function(){return{execute:function(){}}})),t="virtual:///prerequisite-imports/battle_suits",e="chunks:///_virtual/battle_suits",System.register(t,[e],(function(t,e){return{setters:[function(e){var u={};for(var r in e)"default"!==r&&"__esModule"!==r&&(u[r]=e[r]);t(u)}],execute:function(){}}})); 

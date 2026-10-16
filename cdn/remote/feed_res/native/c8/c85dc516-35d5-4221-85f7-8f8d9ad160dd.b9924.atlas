@@ -1,0 +1,20 @@
+
+buff_vertigo_0.png
+size: 153,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huan_05
+  rotate: true
+  xy: 2, 2
+  size: 87, 90
+  orig: 128, 128
+  offset: 22, 19
+  index: -1
+xing
+  rotate: true
+  xy: 94, 29
+  size: 60, 57
+  orig: 64, 64
+  offset: 2, 6
+  index: -1

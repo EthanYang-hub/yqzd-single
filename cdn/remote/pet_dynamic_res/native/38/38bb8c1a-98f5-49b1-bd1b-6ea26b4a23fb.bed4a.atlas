@@ -1,0 +1,209 @@
+
+lihui_pet_jiangshi_2.png
+size: 1821,892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_1
+  rotate: true
+  xy: 783, 25
+  size: 60, 263
+  orig: 60, 263
+  offset: 0, 0
+  index: -1
+L_10
+  rotate: false
+  xy: 1731, 22
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+L_11
+  rotate: false
+  xy: 1496, 67
+  size: 258, 88
+  orig: 258, 88
+  offset: 0, 0
+  index: -1
+L_2
+  rotate: true
+  xy: 779, 417
+  size: 473, 793
+  orig: 607, 793
+  offset: 0, 0
+  index: -1
+L_3
+  rotate: true
+  xy: 569, 40
+  size: 268, 212
+  orig: 268, 212
+  offset: 0, 0
+  index: -1
+L_4
+  rotate: false
+  xy: 1112, 103
+  size: 257, 245
+  orig: 257, 245
+  offset: 0, 0
+  index: -1
+L_5
+  rotate: false
+  xy: 1371, 81
+  size: 123, 267
+  orig: 123, 267
+  offset: 0, 0
+  index: -1
+L_6
+  rotate: true
+  xy: 1692, 414
+  size: 91, 124
+  orig: 91, 124
+  offset: 0, 0
+  index: -1
+L_7
+  rotate: true
+  xy: 1351, 19
+  size: 60, 143
+  orig: 60, 143
+  offset: 0, 0
+  index: -1
+L_8
+  rotate: false
+  xy: 1679, 18
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+L_9
+  rotate: true
+  xy: 1574, 417
+  size: 88, 116
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+R_1
+  rotate: true
+  xy: 1574, 507
+  size: 383, 212
+  orig: 383, 212
+  offset: 0, 0
+  index: -1
+R_10
+  rotate: true
+  xy: 1496, 2
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+R_11
+  rotate: false
+  xy: 1774, 182
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+R_12
+  rotate: true
+  xy: 1687, 162
+  size: 77, 85
+  orig: 77, 85
+  offset: 0, 0
+  index: -1
+R_13
+  rotate: false
+  xy: 1687, 241
+  size: 126, 171
+  orig: 134, 171
+  offset: 0, 0
+  index: -1
+R_14
+  rotate: true
+  xy: 1112, 10
+  size: 91, 147
+  orig: 91, 147
+  offset: 0, 0
+  index: -1
+R_15
+  rotate: true
+  xy: 1788, 815
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+R_2
+  rotate: true
+  xy: 2, 16
+  size: 292, 565
+  orig: 292, 565
+  offset: 0, 0
+  index: -1
+R_3
+  rotate: false
+  xy: 2, 310
+  size: 775, 580
+  orig: 775, 586
+  offset: 0, 0
+  index: -1
+R_4
+  rotate: false
+  xy: 783, 87
+  size: 327, 261
+  orig: 327, 266
+  offset: 0, 5
+  index: -1
+R_5
+  rotate: true
+  xy: 1496, 157
+  size: 236, 189
+  orig: 236, 196
+  offset: 0, 7
+  index: -1
+R_6
+  rotate: false
+  xy: 1048, 9
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+R_7
+  rotate: false
+  xy: 1261, 29
+  size: 88, 72
+  orig: 88, 72
+  offset: 0, 0
+  index: -1
+R_8
+  rotate: false
+  xy: 1562, 24
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+R_9
+  rotate: false
+  xy: 1624, 17
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+xian_1
+  rotate: true
+  xy: 779, 379
+  size: 14, 696
+  orig: 14, 696
+  offset: 0, 0
+  index: -1
+xian_2
+  rotate: true
+  xy: 779, 395
+  size: 20, 839
+  orig: 20, 839
+  offset: 0, 0
+  index: -1
+xian_3
+  rotate: true
+  xy: 779, 350
+  size: 27, 629
+  orig: 27, 629
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+ui_shuijing_fenghuang_up1.png
+size: 257,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuetiao2
+  rotate: false
+  xy: 2, 2
+  size: 253, 236
+  orig: 253, 236
+  offset: 0, 0
+  index: -1

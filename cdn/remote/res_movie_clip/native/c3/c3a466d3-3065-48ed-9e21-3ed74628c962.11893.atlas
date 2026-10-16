@@ -1,0 +1,97 @@
+
+rareSkill_windkill_5.png
+size: 442,791
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fe752732
+  rotate: true
+  xy: 2, 330
+  size: 255, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+huoxing_1
+  rotate: true
+  xy: 260, 210
+  size: 110, 167
+  orig: 115, 170
+  offset: 5, 1
+  index: -1
+huoxing_2
+  rotate: true
+  xy: 246, 75
+  size: 78, 101
+  orig: 81, 104
+  offset: 2, 1
+  index: -1
+huoxing_3
+  rotate: false
+  xy: 260, 322
+  size: 178, 196
+  orig: 180, 199
+  offset: 1, 1
+  index: -1
+shanguang_1
+  rotate: true
+  xy: 2, 587
+  size: 202, 408
+  orig: 232, 413
+  offset: 16, 4
+  index: -1
+tx_daoguang01_0005
+  rotate: false
+  xy: 2, 245
+  size: 256, 83
+  orig: 263, 100
+  offset: 6, 3
+  index: -1
+tx_daoguang01_0006
+  rotate: false
+  xy: 2, 160
+  size: 253, 83
+  orig: 263, 100
+  offset: 8, 3
+  index: -1
+tx_daoguang01_0007
+  rotate: false
+  xy: 2, 80
+  size: 242, 78
+  orig: 263, 100
+  offset: 14, 8
+  index: -1
+tx_daoguang01_0008
+  rotate: false
+  xy: 2, 2
+  size: 241, 76
+  orig: 263, 100
+  offset: 15, 7
+  index: -1
+tx_daoguang01_0009
+  rotate: true
+  xy: 374, 14
+  size: 194, 66
+  orig: 263, 100
+  offset: 52, 11
+  index: -1
+tx_daoguang01_0010
+  rotate: false
+  xy: 260, 520
+  size: 179, 65
+  orig: 263, 100
+  offset: 62, 11
+  index: -1
+tx_daoguang01_0011
+  rotate: false
+  xy: 257, 155
+  size: 115, 53
+  orig: 263, 100
+  offset: 123, 16
+  index: -1
+tx_daoguang01_0012
+  rotate: false
+  xy: 257, 155
+  size: 115, 53
+  orig: 263, 100
+  offset: 123, 16
+  index: -1

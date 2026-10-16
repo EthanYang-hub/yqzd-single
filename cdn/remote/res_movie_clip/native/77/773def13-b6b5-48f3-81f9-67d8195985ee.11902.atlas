@@ -1,0 +1,62 @@
+
+roleSkill_sword.png
+size: 477,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ezreal_pulsefire_plasma_death_trail
+  rotate: false
+  xy: 237, 6
+  size: 64, 37
+  orig: 76, 38
+  offset: 3, 0
+  index: -1
+SRU_Fire_BlueSide_Fireglow
+  rotate: false
+  xy: 2, 13
+  size: 233, 233
+  orig: 256, 256
+  offset: 11, 8
+  index: -1
+SRU_Order_Turret1_CrackWall
+  rotate: true
+  xy: 237, 45
+  size: 121, 122
+  orig: 125, 126
+  offset: 2, 2
+  index: -1
+Zyra_Skin02_Q_FireLine
+  rotate: true
+  xy: 237, 168
+  size: 78, 238
+  orig: 120, 256
+  offset: 23, 7
+  index: -1
+s1
+  rotate: true
+  xy: 303, 19
+  size: 24, 56
+  orig: 25, 57
+  offset: 1, 0
+  index: -1
+s2
+  rotate: false
+  xy: 426, 56
+  size: 24, 56
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 426, 114
+  size: 26, 52
+  orig: 27, 54
+  offset: 1, 1
+  index: -1
+skin_005_bullet
+  rotate: true
+  xy: 361, 2
+  size: 164, 63
+  orig: 171, 69
+  offset: 2, 3
+  index: -1

@@ -1,0 +1,146 @@
+
+ui_faqi_yuangu.png
+size: 2018,1234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barbarian_earthquakeRune_damage_spikeblast_add
+  rotate: true
+  xy: 309, 48
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+bowen_8
+  rotate: false
+  xy: 1886, 460
+  size: 102, 150
+  orig: 107, 153
+  offset: 4, 1
+  index: -1
+jian_1
+  rotate: true
+  xy: 682, 412
+  size: 67, 47
+  orig: 69, 49
+  offset: 1, 1
+  index: -1
+jian_2
+  rotate: true
+  xy: 682, 180
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+jian_3
+  rotate: false
+  xy: 821, 8
+  size: 1063, 593
+  orig: 1063, 593
+  offset: 0, 0
+  index: -1
+shui_1
+  rotate: false
+  xy: 1768, 691
+  size: 203, 92
+  orig: 229, 120
+  offset: 21, 22
+  index: -1
+shui_10
+  rotate: true
+  xy: 748, 465
+  size: 136, 56
+  orig: 164, 80
+  offset: 11, 9
+  index: -1
+shui_11
+  rotate: false
+  xy: 567, 54
+  size: 179, 122
+  orig: 201, 137
+  offset: 15, 5
+  index: -1
+shui_12
+  rotate: false
+  xy: 710, 2
+  size: 109, 50
+  orig: 152, 78
+  offset: 23, 15
+  index: -1
+shui_2
+  rotate: true
+  xy: 1886, 282
+  size: 176, 77
+  orig: 229, 124
+  offset: 28, 8
+  index: -1
+shui_3
+  rotate: false
+  xy: 567, 3
+  size: 141, 49
+  orig: 161, 57
+  offset: 8, 2
+  index: -1
+shui_4
+  rotate: false
+  xy: 1768, 612
+  size: 188, 77
+  orig: 240, 96
+  offset: 14, 8
+  index: -1
+shui_5
+  rotate: false
+  xy: 2, 41
+  size: 305, 135
+  orig: 327, 151
+  offset: 21, 10
+  index: -1
+shui_6
+  rotate: false
+  xy: 1768, 785
+  size: 230, 193
+  orig: 299, 218
+  offset: 22, 24
+  index: -1
+shui_7
+  rotate: true
+  xy: 731, 265
+  size: 198, 77
+  orig: 250, 92
+  offset: 37, 8
+  index: -1
+shui_8
+  rotate: true
+  xy: 1886, 144
+  size: 136, 86
+  orig: 165, 106
+  offset: 15, 6
+  index: -1
+shui_9
+  rotate: true
+  xy: 682, 481
+  size: 120, 63
+  orig: 148, 80
+  offset: 19, 13
+  index: -1
+shui_mo
+  rotate: true
+  xy: 2, 178
+  size: 1054, 678
+  orig: 1240, 848
+  offset: 0, 55
+  index: -1
+ying
+  rotate: false
+  xy: 682, 603
+  size: 1084, 629
+  orig: 1092, 636
+  offset: 5, 4
+  index: -1
+yun
+  rotate: true
+  xy: 1768, 980
+  size: 252, 248
+  orig: 256, 256
+  offset: 3, 0
+  index: -1

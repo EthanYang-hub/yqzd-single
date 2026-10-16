@@ -1,0 +1,139 @@
+
+monster_3014_effect.png
+size: 956,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shyvana_Frost_scroll
+  rotate: true
+  xy: 254, 47
+  size: 233, 96
+  orig: 256, 128
+  offset: 11, 15
+  index: -1
+hit_1
+  rotate: true
+  xy: 809, 258
+  size: 179, 120
+  orig: 179, 120
+  offset: 0, 0
+  index: -1
+hit_2
+  rotate: false
+  xy: 2, 47
+  size: 250, 233
+  orig: 280, 245
+  offset: 26, 9
+  index: -1
+hit_3
+  rotate: false
+  xy: 2, 282
+  size: 356, 259
+  orig: 400, 305
+  offset: 6, 42
+  index: -1
+shuihua_4_02
+  rotate: true
+  xy: 816, 6
+  size: 129, 87
+  orig: 227, 132
+  offset: 61, 29
+  index: -1
+shuihua_4_03
+  rotate: false
+  xy: 797, 439
+  size: 157, 102
+  orig: 227, 132
+  offset: 50, 22
+  index: -1
+shuihua_4_04
+  rotate: false
+  xy: 758, 137
+  size: 173, 110
+  orig: 227, 132
+  offset: 42, 18
+  index: -1
+shuihua_4_05
+  rotate: false
+  xy: 568, 133
+  size: 188, 114
+  orig: 227, 132
+  offset: 31, 16
+  index: -1
+shuihua_4_06
+  rotate: true
+  xy: 449, 86
+  size: 202, 117
+  orig: 227, 132
+  offset: 20, 14
+  index: -1
+shuihua_4_07
+  rotate: false
+  xy: 583, 421
+  size: 212, 120
+  orig: 227, 132
+  offset: 13, 12
+  index: -1
+shuihua_4_08
+  rotate: false
+  xy: 360, 290
+  size: 220, 124
+  orig: 227, 132
+  offset: 7, 7
+  index: -1
+shuihua_4_09
+  rotate: false
+  xy: 360, 416
+  size: 221, 125
+  orig: 227, 132
+  offset: 5, 3
+  index: -1
+shuihua_4_10
+  rotate: false
+  xy: 583, 326
+  size: 224, 93
+  orig: 227, 132
+  offset: 3, 2
+  index: -1
+shuihua_4_11
+  rotate: true
+  xy: 352, 55
+  size: 225, 95
+  orig: 227, 132
+  offset: 1, 0
+  index: -1
+shuihua_4_12
+  rotate: false
+  xy: 582, 249
+  size: 222, 75
+  orig: 227, 132
+  offset: 0, 19
+  index: -1
+shuihua_4_13
+  rotate: false
+  xy: 568, 65
+  size: 199, 66
+  orig: 227, 132
+  offset: 0, 20
+  index: -1
+shuihua_4_14
+  rotate: false
+  xy: 449, 2
+  size: 196, 61
+  orig: 227, 132
+  offset: 2, 23
+  index: -1
+shuihua_4_15
+  rotate: false
+  xy: 647, 5
+  size: 167, 58
+  orig: 227, 132
+  offset: 3, 24
+  index: -1
+shuihua_4_16
+  rotate: false
+  xy: 2, 2
+  size: 162, 43
+  orig: 227, 132
+  offset: 6, 22
+  index: -1

@@ -1,0 +1,76 @@
+
+lihui_pet_taiguan.png
+size: 2027,1029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1648, 2
+  size: 331, 246
+  orig: 331, 246
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 2, 63
+  size: 128, 944
+  orig: 128, 944
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1151, 241
+  size: 360, 495
+  orig: 360, 495
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1694, 594
+  size: 433, 331
+  orig: 433, 331
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1648, 250
+  size: 279, 342
+  orig: 279, 342
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 948, 57
+  size: 134, 162
+  orig: 134, 162
+  offset: 0, 0
+  index: -1
+6_1
+  rotate: false
+  xy: 1151, 603
+  size: 541, 424
+  orig: 541, 424
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1151, 6
+  size: 397, 233
+  orig: 397, 233
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 233
+  size: 1147, 794
+  orig: 1147, 794
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 2, 193
+  size: 38, 1147
+  orig: 38, 1147
+  offset: 0, 0
+  index: -1

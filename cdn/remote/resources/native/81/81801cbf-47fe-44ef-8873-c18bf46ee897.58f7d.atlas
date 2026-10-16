@@ -1,0 +1,146 @@
+
+zhandou_pet_horse.png
+size: 634,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 621, 501
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 612, 291
+  size: 7, 223
+  orig: 7, 223
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 552, 268
+  size: 46, 246
+  orig: 46, 246
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 568, 63
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 108, 117
+  size: 49, 126
+  orig: 49, 126
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 108, 168
+  size: 139, 346
+  orig: 139, 346
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 568, 17
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 475, 109
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 107
+  size: 104, 407
+  orig: 104, 407
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 249, 124
+  size: 178, 124
+  orig: 178, 124
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 600, 265
+  size: 10, 249
+  orig: 10, 249
+  offset: 0, 0
+  index: -1
+huo1_049
+  rotate: false
+  xy: 550, 146
+  size: 73, 117
+  orig: 77, 124
+  offset: 2, 2
+  index: -1
+huo1_050
+  rotate: false
+  xy: 350, 306
+  size: 100, 208
+  orig: 105, 216
+  offset: 2, 2
+  index: -1
+huo1_051
+  rotate: false
+  xy: 452, 307
+  size: 98, 207
+  orig: 104, 216
+  offset: 3, 2
+  index: -1
+huo1_052
+  rotate: false
+  xy: 249, 304
+  size: 99, 210
+  orig: 104, 218
+  offset: 2, 2
+  index: -1
+huo1_053
+  rotate: false
+  xy: 375, 99
+  size: 98, 205
+  orig: 102, 210
+  offset: 2, 2
+  index: -1
+huo1_054
+  rotate: true
+  xy: 2, 7
+  size: 98, 207
+  orig: 103, 215
+  offset: 3, 2
+  index: -1
+huo1_055
+  rotate: true
+  xy: 211, 2
+  size: 95, 188
+  orig: 100, 191
+  offset: 2, 3
+  index: -1
+huo1_056
+  rotate: true
+  xy: 401, 5
+  size: 92, 165
+  orig: 99, 169
+  offset: 3, 4
+  index: -1
+huo1_057
+  rotate: false
+  xy: 475, 148
+  size: 73, 157
+  orig: 79, 161
+  offset: 6, 4
+  index: -1

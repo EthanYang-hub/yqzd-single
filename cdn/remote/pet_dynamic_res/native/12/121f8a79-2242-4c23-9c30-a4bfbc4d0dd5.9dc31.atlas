@@ -1,0 +1,118 @@
+
+ui_zhenxing.png
+size: 1032,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 828, 564
+  size: 187, 453
+  orig: 187, 453
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 2, 501
+  size: 376, 516
+  orig: 376, 516
+  offset: 0, 0
+  index: -1
+A3
+  rotate: true
+  xy: 380, 320
+  size: 249, 376
+  orig: 249, 376
+  offset: 0, 0
+  index: -1
+da_1
+  rotate: false
+  xy: 2, 127
+  size: 372, 372
+  orig: 374, 374
+  offset: 1, 1
+  index: -1
+da_2
+  rotate: false
+  xy: 380, 571
+  size: 446, 446
+  orig: 454, 454
+  offset: 4, 4
+  index: -1
+fire_1
+  rotate: false
+  xy: 2, 2
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+fire_2
+  rotate: false
+  xy: 658, 296
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+fire_3
+  rotate: false
+  xy: 1017, 984
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+fire_4
+  rotate: false
+  xy: 852, 270
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+fire_6
+  rotate: false
+  xy: 658, 74
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+fire_7
+  rotate: false
+  xy: 62, 22
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+fire_8
+  rotate: true
+  xy: 330, 76
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+fire_9
+  rotate: false
+  xy: 2, 50
+  size: 326, 75
+  orig: 326, 92
+  offset: 0, 0
+  index: -1
+xiao_1
+  rotate: false
+  xy: 758, 294
+  size: 268, 268
+  orig: 268, 268
+  offset: 0, 0
+  index: -1
+xiao_2
+  rotate: false
+  xy: 658, 101
+  size: 192, 191
+  orig: 192, 191
+  offset: 0, 0
+  index: -1
+xiao_3
+  rotate: false
+  xy: 376, 38
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1

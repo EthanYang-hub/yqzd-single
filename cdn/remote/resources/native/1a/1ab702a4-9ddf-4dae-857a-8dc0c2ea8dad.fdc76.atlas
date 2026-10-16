@@ -1,0 +1,55 @@
+
+ui_yuansu_3.png
+size: 763,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9b350db9
+  rotate: false
+  xy: 649, 133
+  size: 112, 113
+  orig: 128, 128
+  offset: 8, 8
+  index: -1
+UI_yuansu_tu-1
+  rotate: false
+  xy: 242, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+UI_yuansu_tu-2
+  rotate: true
+  xy: 649, 27
+  size: 49, 48
+  orig: 53, 51
+  offset: 2, 1
+  index: -1
+UI_yuansu_tu-3
+  rotate: true
+  xy: 649, 78
+  size: 53, 52
+  orig: 59, 58
+  offset: 3, 3
+  index: -1
+fireball_1
+  rotate: false
+  xy: 446, 39
+  size: 201, 207
+  orig: 256, 256
+  offset: 19, 23
+  index: -1
+global_ss_cleanse_distort_normal
+  rotate: false
+  xy: 2, 4
+  size: 238, 242
+  orig: 256, 256
+  offset: 0, 6
+  index: -1
+huaban-6000882281
+  rotate: true
+  xy: 242, 34
+  size: 212, 202
+  orig: 232, 232
+  offset: 12, 16
+  index: -1

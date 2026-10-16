@@ -1,0 +1,202 @@
+
+ui_beijingban4.png
+size: 1032,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire_1
+  rotate: true
+  xy: 920, 347
+  size: 59, 88
+  orig: 66, 116
+  offset: 4, 23
+  index: -1
+Fire_2
+  rotate: true
+  xy: 782, 97
+  size: 61, 116
+  orig: 102, 196
+  offset: 2, 67
+  index: -1
+Fire_3
+  rotate: true
+  xy: 920, 408
+  size: 49, 95
+  orig: 62, 124
+  offset: 5, 26
+  index: -1
+Fire_4
+  rotate: true
+  xy: 782, 160
+  size: 63, 116
+  orig: 114, 150
+  offset: 49, 23
+  index: -1
+Fire_bg
+  rotate: true
+  xy: 763, 357
+  size: 100, 155
+  orig: 114, 192
+  offset: 12, 26
+  index: -1
+hudie_1
+  rotate: false
+  xy: 916, 61
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+hudie_2
+  rotate: false
+  xy: 1010, 365
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+hudie_3
+  rotate: false
+  xy: 749, 200
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+hudie_4
+  rotate: true
+  xy: 1010, 381
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+hudie_5
+  rotate: true
+  xy: 891, 60
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+hudie_6
+  rotate: true
+  xy: 749, 441
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+hudie_7
+  rotate: false
+  xy: 882, 12
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+hudie_8
+  rotate: false
+  xy: 931, 7
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+huo_A
+  rotate: false
+  xy: 749, 367
+  size: 9, 35
+  orig: 15, 49
+  offset: 1, 3
+  index: -1
+huo_B
+  rotate: false
+  xy: 749, 404
+  size: 10, 35
+  orig: 14, 44
+  offset: 3, 3
+  index: -1
+huo_C
+  rotate: true
+  xy: 900, 141
+  size: 48, 129
+  orig: 124, 218
+  offset: 7, 15
+  index: -1
+huo_D
+  rotate: false
+  xy: 749, 112
+  size: 31, 77
+  orig: 37, 90
+  offset: 5, 5
+  index: -1
+huo_E
+  rotate: true
+  xy: 817, 2
+  size: 46, 63
+  orig: 49, 80
+  offset: 0, 10
+  index: -1
+huo_F
+  rotate: true
+  xy: 817, 50
+  size: 45, 72
+  orig: 52, 78
+  offset: 7, 3
+  index: -1
+huo_G
+  rotate: false
+  xy: 763, 12
+  size: 52, 72
+  orig: 60, 91
+  offset: 0, 10
+  index: -1
+kuahng
+  rotate: true
+  xy: 2, 11
+  size: 446, 532
+  orig: 446, 534
+  offset: 0, 0
+  index: -1
+kulou_1
+  rotate: true
+  xy: 908, 269
+  size: 76, 116
+  orig: 76, 132
+  offset: 0, 16
+  index: -1
+kulou_1_1
+  rotate: true
+  xy: 901, 191
+  size: 76, 129
+  orig: 77, 138
+  offset: 0, 7
+  index: -1
+kulou_2
+  rotate: true
+  xy: 900, 86
+  size: 53, 127
+  orig: 58, 176
+  offset: 3, 37
+  index: -1
+kulou_2_2
+  rotate: true
+  xy: 763, 303
+  size: 52, 143
+  orig: 55, 165
+  offset: 2, 19
+  index: -1
+kulou_di
+  rotate: false
+  xy: 536, 111
+  size: 211, 346
+  orig: 219, 352
+  offset: 6, 5
+  index: -1
+kulou_shou_1
+  rotate: true
+  xy: 763, 225
+  size: 76, 136
+  orig: 76, 136
+  offset: 0, 0
+  index: -1
+kulou_shou_2
+  rotate: true
+  xy: 536, 5
+  size: 104, 225
+  orig: 104, 230
+  offset: 0, 0
+  index: -1

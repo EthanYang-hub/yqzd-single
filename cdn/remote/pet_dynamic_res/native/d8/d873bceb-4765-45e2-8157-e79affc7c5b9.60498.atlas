@@ -1,0 +1,300 @@
+
+lihui_pet_long.png
+size: 1998,2001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 1202, 390
+  size: 215, 377
+  orig: 215, 377
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1916, 1544
+  size: 14, 455
+  orig: 14, 455
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 1202, 607
+  size: 18, 700
+  orig: 18, 700
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 2, 5
+  size: 22, 495
+  orig: 22, 495
+  offset: 0, 0
+  index: -1
+1_1
+  rotate: false
+  xy: 1581, 399
+  size: 358, 206
+  orig: 358, 206
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1168, 6
+  size: 311, 199
+  orig: 311, 209
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1202, 207
+  size: 181, 321
+  orig: 269, 352
+  offset: 55, 31
+  index: -1
+4_1
+  rotate: false
+  xy: 1581, 225
+  size: 295, 172
+  orig: 295, 172
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1234, 772
+  size: 430, 240
+  orig: 430, 272
+  offset: 0, 10
+  index: -1
+6
+  rotate: true
+  xy: 1705, 1256
+  size: 277, 258
+  orig: 335, 258
+  offset: 45, 0
+  index: -1
+7_1
+  rotate: false
+  xy: 658, 16
+  size: 508, 274
+  orig: 508, 274
+  offset: 0, 0
+  index: -1
+WD_Fireball_fireTrail_radius
+  rotate: false
+  xy: 1852, 41
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+a
+  rotate: true
+  xy: 1741, 68
+  size: 155, 109
+  orig: 155, 109
+  offset: 0, 0
+  index: -1
+a0
+  rotate: false
+  xy: 690, 675
+  size: 542, 381
+  orig: 542, 381
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 658, 292
+  size: 542, 381
+  orig: 542, 381
+  offset: 0, 0
+  index: -1
+b1_1
+  rotate: false
+  xy: 2, 783
+  size: 686, 750
+  orig: 686, 750
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1202, 665
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 1705, 772
+  size: 153, 260
+  orig: 153, 260
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 1542, 45
+  size: 197, 178
+  orig: 197, 178
+  offset: 0, 0
+  index: -1
+b5
+  rotate: true
+  xy: 1234, 627
+  size: 143, 762
+  orig: 143, 934
+  offset: 0, 1
+  index: -1
+b6
+  rotate: true
+  xy: 690, 1390
+  size: 143, 937
+  orig: 143, 939
+  offset: 0, 1
+  index: -1
+guang_1
+  rotate: false
+  xy: 1705, 1034
+  size: 277, 220
+  orig: 323, 257
+  offset: 23, 17
+  index: -1
+guang_2
+  rotate: false
+  xy: 1291, 1014
+  size: 412, 374
+  orig: 476, 413
+  offset: 17, 15
+  index: -1
+guding_1
+  rotate: false
+  xy: 2, 29
+  size: 654, 752
+  orig: 654, 752
+  offset: 0, 0
+  index: -1
+guding_2
+  rotate: false
+  xy: 996, 1535
+  size: 918, 464
+  orig: 918, 464
+  offset: 0, 0
+  index: -1
+guding_3
+  rotate: false
+  xy: 2, 1535
+  size: 992, 464
+  orig: 992, 464
+  offset: 0, 0
+  index: -1
+guding_4
+  rotate: false
+  xy: 690, 1058
+  size: 599, 330
+  orig: 599, 330
+  offset: 0, 0
+  index: -1
+storm_ethereal01
+  rotate: true
+  xy: 1852, 131
+  size: 92, 87
+  orig: 96, 96
+  offset: 4, 3
+  index: -1
+tesla_particle01
+  rotate: false
+  xy: 1941, 410
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+water_13_00000
+  rotate: true
+  xy: 658, 705
+  size: 76, 27
+  orig: 76, 27
+  offset: 0, 0
+  index: -1
+water_13_00001
+  rotate: true
+  xy: 1629, 1404
+  size: 129, 47
+  orig: 129, 47
+  offset: 0, 0
+  index: -1
+water_13_00002
+  rotate: true
+  xy: 1924, 855
+  size: 177, 52
+  orig: 177, 52
+  offset: 0, 0
+  index: -1
+water_13_00003
+  rotate: true
+  xy: 1932, 1785
+  size: 214, 60
+  orig: 214, 60
+  offset: 0, 0
+  index: -1
+water_13_00004
+  rotate: true
+  xy: 1932, 1576
+  size: 207, 60
+  orig: 207, 60
+  offset: 0, 0
+  index: -1
+water_13_00005
+  rotate: true
+  xy: 1860, 826
+  size: 206, 62
+  orig: 206, 62
+  offset: 0, 0
+  index: -1
+water_13_00006
+  rotate: true
+  xy: 1481, 2
+  size: 203, 59
+  orig: 203, 59
+  offset: 0, 0
+  index: -1
+water_13_00007
+  rotate: true
+  xy: 1878, 242
+  size: 155, 56
+  orig: 155, 56
+  offset: 0, 0
+  index: -1
+water_13_00008
+  rotate: true
+  xy: 1525, 244
+  size: 144, 50
+  orig: 144, 50
+  offset: 0, 0
+  index: -1
+water_13_00009
+  rotate: true
+  xy: 1941, 508
+  size: 117, 45
+  orig: 117, 45
+  offset: 0, 0
+  index: -1
+water_13_00010
+  rotate: true
+  xy: 1666, 923
+  size: 89, 35
+  orig: 89, 35
+  offset: 0, 0
+  index: -1
+water_13_00011
+  rotate: false
+  xy: 1542, 10
+  size: 87, 33
+  orig: 87, 33
+  offset: 0, 0
+  index: -1
+water_13_00012
+  rotate: false
+  xy: 1234, 1030
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1

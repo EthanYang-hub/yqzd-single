@@ -1,0 +1,20 @@
+
+ui_tianshuwudao_liuguang.png
+size: 181,27
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 152, 16
+  orig: 168, 19
+  offset: 7, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 20
+  size: 177, 5
+  orig: 185, 6
+  offset: 4, 0
+  index: -1

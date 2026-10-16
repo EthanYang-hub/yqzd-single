@@ -1,0 +1,83 @@
+
+ui_minghe_paihang_1.png
+size: 779,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0185
+  rotate: false
+  xy: 597, 189
+  size: 154, 148
+  orig: 192, 192
+  offset: 16, 23
+  index: -1
+UI_saiji_jifensai2-1
+  rotate: false
+  xy: 2, 6
+  size: 216, 229
+  orig: 227, 236
+  offset: 5, 3
+  index: -1
+UI_saiji_jifensai2-2
+  rotate: false
+  xy: 220, 18
+  size: 216, 217
+  orig: 216, 230
+  offset: 0, 6
+  index: -1
+UI_saiji_jifensai2-3
+  rotate: false
+  xy: 2, 237
+  size: 314, 312
+  orig: 325, 319
+  offset: 6, 1
+  index: -1
+UI_saiji_jifensai2-3-1
+  rotate: false
+  xy: 506, 557
+  size: 271, 146
+  orig: 309, 164
+  offset: 16, 15
+  index: -1
+UI_saiji_jifensai2-3-2
+  rotate: true
+  xy: 427, 249
+  size: 300, 107
+  orig: 312, 235
+  offset: 5, 114
+  index: -1
+UI_saiji_jifensai2-3-3
+  rotate: true
+  xy: 506, 705
+  size: 321, 222
+  orig: 325, 312
+  offset: 2, 2
+  index: -1
+UI_saiji_jifensai2-3-4
+  rotate: true
+  xy: 318, 237
+  size: 312, 107
+  orig: 320, 268
+  offset: 4, 7
+  index: -1
+UI_saiji_jifensai2-3-5
+  rotate: true
+  xy: 438, 2
+  size: 245, 157
+  orig: 291, 314
+  offset: 4, 2
+  index: -1
+UI_saiji_jifensai2-4
+  rotate: false
+  xy: 2, 551
+  size: 502, 475
+  orig: 578, 529
+  offset: 24, 37
+  index: -1
+huaban-4350039697
+  rotate: false
+  xy: 536, 339
+  size: 216, 216
+  orig: 218, 218
+  offset: 1, 2
+  index: -1

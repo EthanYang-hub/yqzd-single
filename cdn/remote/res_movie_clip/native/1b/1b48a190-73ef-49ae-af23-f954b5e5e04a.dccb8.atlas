@@ -1,0 +1,20 @@
+
+ronghe_head_elite monster_2003.png
+size: 192,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 107, 2
+  size: 83, 126
+  orig: 83, 126
+  offset: 0, 0
+  index: -1
+SRU_Baron_Deathbreath_poolBright
+  rotate: true
+  xy: 2, 24
+  size: 104, 103
+  orig: 128, 128
+  offset: 8, 10
+  index: -1

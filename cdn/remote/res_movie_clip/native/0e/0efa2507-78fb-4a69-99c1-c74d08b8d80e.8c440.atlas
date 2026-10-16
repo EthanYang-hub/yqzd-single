@@ -1,0 +1,97 @@
+
+ui_shuijing_huolong_down.png
+size: 1957,1735
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1034, 806
+  size: 921, 927
+  orig: 1102, 968
+  offset: 59, 7
+  index: -1
+huo1
+  rotate: true
+  xy: 1040, 12
+  size: 136, 135
+  orig: 162, 141
+  offset: 5, 1
+  index: -1
+lizi1
+  rotate: false
+  xy: 869, 33
+  size: 169, 113
+  orig: 184, 122
+  offset: 7, 5
+  index: -1
+longkou_di
+  rotate: true
+  xy: 869, 148
+  size: 324, 125
+  orig: 339, 141
+  offset: 7, 6
+  index: -1
+longkou_huo
+  rotate: false
+  xy: 352, 23
+  size: 102, 69
+  orig: 113, 83
+  offset: 7, 0
+  index: -1
+longtou1
+  rotate: false
+  xy: 1034, 319
+  size: 853, 485
+  orig: 960, 566
+  offset: 106, 29
+  index: -1
+longtou1_di
+  rotate: true
+  xy: 2, 28
+  size: 444, 348
+  orig: 469, 355
+  offset: 20, 5
+  index: -1
+longtou2
+  rotate: true
+  xy: 2, 474
+  size: 1259, 1030
+  orig: 1277, 1207
+  offset: 13, 171
+  index: -1
+suolian1
+  rotate: true
+  xy: 681, 2
+  size: 470, 186
+  orig: 470, 186
+  offset: 0, 0
+  index: -1
+suolian2
+  rotate: true
+  xy: 352, 94
+  size: 378, 327
+  orig: 381, 327
+  offset: 3, 0
+  index: -1
+suolian3
+  rotate: true
+  xy: 1288, 116
+  size: 201, 333
+  orig: 202, 333
+  offset: 1, 0
+  index: -1
+suolian4
+  rotate: true
+  xy: 996, 150
+  size: 167, 290
+  orig: 167, 292
+  offset: 0, 2
+  index: -1
+yan_huo
+  rotate: true
+  xy: 1623, 58
+  size: 259, 214
+  orig: 267, 218
+  offset: 6, 2
+  index: -1

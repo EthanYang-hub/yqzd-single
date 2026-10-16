@@ -1,0 +1,62 @@
+
+ui_shuijing_fenghuang_effect_2.png
+size: 1436,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Item_TrueIce_Hit_W_Smoke_Vert
+  rotate: false
+  xy: 1312, 266
+  size: 92, 117
+  orig: 128, 128
+  offset: 18, 8
+  index: -1
+chibang_a_1
+  rotate: true
+  xy: 951, 21
+  size: 484, 359
+  orig: 484, 371
+  offset: 0, 12
+  index: -1
+heixian
+  rotate: false
+  xy: 507, 44
+  size: 152, 10
+  orig: 154, 10
+  offset: 1, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 507, 56
+  size: 442, 449
+  orig: 460, 466
+  offset: 7, 16
+  index: -1
+skeletonKingGhost_ectoPlasm
+  rotate: false
+  xy: 2, 2
+  size: 503, 503
+  orig: 512, 512
+  offset: 9, 0
+  index: -1
+yumao_1
+  rotate: false
+  xy: 1312, 159
+  size: 93, 105
+  orig: 95, 107
+  offset: 1, 2
+  index: -1
+yumao_2
+  rotate: true
+  xy: 1312, 56
+  size: 101, 57
+  orig: 130, 59
+  offset: 28, 1
+  index: -1
+yumao_3
+  rotate: true
+  xy: 1312, 385
+  size: 120, 122
+  orig: 121, 125
+  offset: 1, 1
+  index: -1

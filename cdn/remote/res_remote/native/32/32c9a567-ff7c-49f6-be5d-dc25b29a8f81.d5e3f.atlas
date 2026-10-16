@@ -1,0 +1,27 @@
+
+ui_lp_citiao.png
+size: 290,187
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_bg_lianpu_tips01
+  rotate: true
+  xy: 188, 19
+  size: 166, 49
+  orig: 171, 53
+  offset: 2, 2
+  index: -1
+UI_bg_lianpu_tips02
+  rotate: true
+  xy: 239, 19
+  size: 166, 49
+  orig: 172, 53
+  offset: 3, 2
+  index: -1
+urgot_battlecast_canister_glow
+  rotate: false
+  xy: 2, 2
+  size: 184, 183
+  orig: 192, 192
+  offset: 4, 4
+  index: -1

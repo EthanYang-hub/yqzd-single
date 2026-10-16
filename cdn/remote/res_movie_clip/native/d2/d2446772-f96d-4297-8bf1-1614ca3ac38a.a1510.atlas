@@ -1,0 +1,34 @@
+
+petSkill_zhihunzhe_2_2.png
+size: 712,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buff_xian_1
+  rotate: false
+  xy: 2, 2
+  size: 288, 168
+  orig: 288, 168
+  offset: 0, 0
+  index: -1
+buff_xian_2
+  rotate: false
+  xy: 292, 84
+  size: 305, 86
+  orig: 305, 86
+  offset: 0, 0
+  index: -1
+buff_xian_3
+  rotate: false
+  xy: 292, 24
+  size: 326, 58
+  orig: 326, 58
+  offset: 0, 0
+  index: -1
+fddfh
+  rotate: true
+  xy: 620, 31
+  size: 139, 90
+  orig: 142, 92
+  offset: 2, 1
+  index: -1

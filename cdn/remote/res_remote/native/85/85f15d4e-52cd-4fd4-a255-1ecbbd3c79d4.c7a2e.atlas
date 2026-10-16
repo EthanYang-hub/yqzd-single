@@ -1,0 +1,48 @@
+
+ui_tianfushu_1.png
+size: 595,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 2, 2
+  size: 273, 270
+  orig: 273, 270
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 277, 2
+  size: 273, 270
+  orig: 273, 270
+  offset: 0, 0
+  index: -1
+lv_a_1
+  rotate: true
+  xy: 552, 193
+  size: 79, 41
+  orig: 89, 44
+  offset: 0, 0
+  index: -1
+lv_a_2
+  rotate: false
+  xy: 552, 96
+  size: 35, 25
+  orig: 47, 34
+  offset: 1, 1
+  index: -1
+lv_b_1
+  rotate: true
+  xy: 552, 123
+  size: 68, 39
+  orig: 95, 42
+  offset: 6, 1
+  index: -1
+lv_b_2
+  rotate: false
+  xy: 552, 70
+  size: 29, 24
+  orig: 38, 27
+  offset: 1, 0
+  index: -1

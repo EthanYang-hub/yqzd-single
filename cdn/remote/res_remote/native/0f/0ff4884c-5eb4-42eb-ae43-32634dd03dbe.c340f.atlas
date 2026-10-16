@@ -1,0 +1,83 @@
+
+ui_san_he_up.png
+size: 910,797
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GUANG1
+  rotate: true
+  xy: 659, 2
+  size: 150, 240
+  orig: 150, 240
+  offset: 0, 0
+  index: -1
+GUANG2
+  rotate: true
+  xy: 659, 154
+  size: 149, 243
+  orig: 149, 243
+  offset: 0, 0
+  index: -1
+eye_lwy_t_hit_00_single
+  rotate: false
+  xy: 182, 34
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+eye_lwy_t_mul_54_single
+  rotate: false
+  xy: 652, 539
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+eye_lwy_t_sun_27_single
+  rotate: false
+  xy: 440, 20
+  size: 217, 217
+  orig: 256, 256
+  offset: 20, 17
+  index: -1
+eye_lwy_t_sun_38_single
+  rotate: false
+  xy: 652, 305
+  size: 247, 232
+  orig: 256, 256
+  offset: 5, 0
+  index: -1
+flash_storyTrigger_silver
+  rotate: true
+  xy: 440, 239
+  size: 171, 192
+  orig: 256, 256
+  offset: 53, 32
+  index: -1
+goajidi
+  rotate: true
+  xy: 278, 412
+  size: 383, 372
+  orig: 399, 399
+  offset: 8, 13
+  index: -1
+hua_1
+  rotate: true
+  xy: 2, 20
+  size: 270, 178
+  orig: 283, 190
+  offset: 7, 7
+  index: -1
+hua_2
+  rotate: true
+  xy: 2, 292
+  size: 503, 274
+  orig: 555, 312
+  offset: 22, 36
+  index: -1
+kuang_1
+  rotate: false
+  xy: 278, 295
+  size: 114, 115
+  orig: 116, 117
+  offset: 1, 1
+  index: -1

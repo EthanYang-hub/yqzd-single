@@ -1,0 +1,13 @@
+
+ui_jindutiao_fire.png
+size: 96,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1

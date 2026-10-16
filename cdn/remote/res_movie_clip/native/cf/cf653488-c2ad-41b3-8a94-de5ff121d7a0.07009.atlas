@@ -1,0 +1,132 @@
+
+laoshu_4.png
+size: 616,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AAA
+  rotate: false
+  xy: 236, 351
+  size: 177, 162
+  orig: 177, 162
+  offset: 0, 0
+  index: -1
+dun_shu_1
+  rotate: false
+  xy: 2, 289
+  size: 232, 224
+  orig: 232, 224
+  offset: 0, 0
+  index: -1
+dun_shu_10
+  rotate: true
+  xy: 545, 48
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+dun_shu_11
+  rotate: true
+  xy: 183, 87
+  size: 200, 106
+  orig: 200, 106
+  offset: 0, 0
+  index: -1
+dun_shu_12
+  rotate: false
+  xy: 415, 272
+  size: 164, 110
+  orig: 164, 110
+  offset: 0, 0
+  index: -1
+dun_shu_13
+  rotate: true
+  xy: 236, 290
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+dun_shu_14
+  rotate: false
+  xy: 545, 108
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+dun_shu_15
+  rotate: false
+  xy: 425, 83
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+dun_shu_16
+  rotate: false
+  xy: 407, 173
+  size: 131, 97
+  orig: 131, 97
+  offset: 0, 0
+  index: -1
+dun_shu_17
+  rotate: false
+  xy: 375, 4
+  size: 80, 77
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+dun_shu_2
+  rotate: true
+  xy: 457, 9
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+dun_shu_3
+  rotate: true
+  xy: 2, 22
+  size: 265, 179
+  orig: 265, 179
+  offset: 0, 0
+  index: -1
+dun_shu_4
+  rotate: false
+  xy: 540, 189
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+dun_shu_5
+  rotate: true
+  xy: 291, 170
+  size: 179, 114
+  orig: 179, 114
+  offset: 0, 0
+  index: -1
+dun_shu_6
+  rotate: false
+  xy: 415, 384
+  size: 181, 129
+  orig: 181, 129
+  offset: 0, 0
+  index: -1
+dun_shu_7
+  rotate: false
+  xy: 281, 12
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+dun_shu_8
+  rotate: false
+  xy: 291, 87
+  size: 132, 81
+  orig: 132, 81
+  offset: 0, 0
+  index: -1
+dun_shu_9
+  rotate: true
+  xy: 183, 2
+  size: 83, 96
+  orig: 83, 96
+  offset: 0, 0
+  index: -1

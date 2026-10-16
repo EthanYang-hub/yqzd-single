@@ -1,0 +1,27 @@
+
+ui_jingjie_2.png
+size: 289,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fang
+  rotate: true
+  xy: 2, 2
+  size: 169, 191
+  orig: 181, 198
+  offset: 6, 6
+  index: -1
+quan_3
+  rotate: false
+  xy: 195, 79
+  size: 92, 92
+  orig: 100, 100
+  offset: 3, 4
+  index: -1
+xingxing2
+  rotate: false
+  xy: 195, 31
+  size: 52, 46
+  orig: 59, 48
+  offset: 5, 1
+  index: -1

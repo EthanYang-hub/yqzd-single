@@ -1,0 +1,20 @@
+
+petSkill_tiansha_2.png
+size: 459,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s1
+  rotate: true
+  xy: 298, 25
+  size: 102, 159
+  orig: 106, 161
+  offset: 2, 1
+  index: -1
+s2
+  rotate: false
+  xy: 2, 2
+  size: 294, 125
+  orig: 300, 128
+  offset: 2, 1
+  index: -1

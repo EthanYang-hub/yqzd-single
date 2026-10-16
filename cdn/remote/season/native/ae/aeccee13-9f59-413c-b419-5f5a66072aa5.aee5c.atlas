@@ -1,0 +1,27 @@
+
+Season_fight_status_Select.png
+size: 180,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Select_jiantou1
+  rotate: false
+  xy: 2, 143
+  size: 26, 25
+  orig: 30, 30
+  offset: 2, 2
+  index: -1
+Select_jiantou2
+  rotate: false
+  xy: 30, 132
+  size: 61, 36
+  orig: 65, 40
+  offset: 2, 2
+  index: -1
+Select_line
+  rotate: true
+  xy: 2, 170
+  size: 8, 176
+  orig: 10, 180
+  offset: 1, 2
+  index: -1

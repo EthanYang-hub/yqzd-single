@@ -1,0 +1,90 @@
+
+fight_protagonist_head.png
+size: 130,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huomiao_0
+  rotate: true
+  xy: 2, 407
+  size: 60, 125
+  orig: 70, 130
+  offset: 9, 0
+  index: -1
+huomiao_1
+  rotate: true
+  xy: 2, 469
+  size: 60, 126
+  orig: 70, 130
+  offset: 9, 0
+  index: -1
+huomiao_2
+  rotate: true
+  xy: 2, 346
+  size: 59, 126
+  orig: 70, 130
+  offset: 10, 0
+  index: -1
+huomiao_3
+  rotate: true
+  xy: 2, 285
+  size: 59, 125
+  orig: 70, 130
+  offset: 11, 0
+  index: -1
+huomiao_4
+  rotate: true
+  xy: 2, 46
+  size: 56, 123
+  orig: 70, 130
+  offset: 14, 0
+  index: -1
+huomiao_5
+  rotate: true
+  xy: 2, 104
+  size: 57, 122
+  orig: 70, 130
+  offset: 13, 0
+  index: -1
+huomiao_6
+  rotate: true
+  xy: 2, 163
+  size: 59, 123
+  orig: 70, 130
+  offset: 11, 0
+  index: -1
+huomiao_7
+  rotate: true
+  xy: 2, 224
+  size: 59, 124
+  orig: 70, 130
+  offset: 10, 0
+  index: -1
+huoyan_1
+  rotate: false
+  xy: 58, 2
+  size: 42, 42
+  orig: 52, 47
+  offset: 0, 5
+  index: -1
+huoyan_2
+  rotate: false
+  xy: 102, 27
+  size: 26, 17
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+huoyan_3
+  rotate: true
+  xy: 102, 10
+  size: 15, 19
+  orig: 17, 19
+  offset: 1, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 3
+  size: 54, 41
+  orig: 72, 51
+  offset: 18, 0
+  index: -1

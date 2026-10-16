@@ -1,0 +1,48 @@
+
+ui_chelijiesuan.png
+size: 280,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 5
+  size: 204, 157
+  orig: 213, 161
+  offset: 6, 2
+  index: -1
+2
+  rotate: true
+  xy: 250, 104
+  size: 105, 23
+  orig: 114, 26
+  offset: 8, 1
+  index: -1
+A1
+  rotate: false
+  xy: 161, 135
+  size: 87, 74
+  orig: 111, 80
+  offset: 6, 3
+  index: -1
+A2
+  rotate: false
+  xy: 228, 3
+  size: 50, 63
+  orig: 63, 75
+  offset: 10, 8
+  index: -1
+A3
+  rotate: true
+  xy: 161, 2
+  size: 64, 65
+  orig: 74, 77
+  offset: 8, 6
+  index: -1
+A4
+  rotate: true
+  xy: 161, 68
+  size: 65, 69
+  orig: 92, 83
+  offset: 21, 10
+  index: -1

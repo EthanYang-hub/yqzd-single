@@ -1,0 +1,111 @@
+
+ui_beijingban5.png
+size: 1619,653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fireCloud_dyn
+  rotate: false
+  xy: 976, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+xinchun_1
+  rotate: false
+  xy: 359, 7
+  size: 85, 57
+  orig: 89, 60
+  offset: 1, 1
+  index: -1
+xinchun_10
+  rotate: true
+  xy: 636, 9
+  size: 87, 338
+  orig: 87, 338
+  offset: 0, 0
+  index: -1
+xinchun_11
+  rotate: false
+  xy: 2, 66
+  size: 513, 585
+  orig: 520, 586
+  offset: 7, 1
+  index: -1
+xinchun_12
+  rotate: false
+  xy: 517, 98
+  size: 450, 553
+  orig: 467, 571
+  offset: 11, 9
+  index: -1
+xinchun_13
+  rotate: true
+  xy: 446, 8
+  size: 56, 188
+  orig: 56, 188
+  offset: 0, 0
+  index: -1
+xinchun_14
+  rotate: true
+  xy: 127, 7
+  size: 57, 230
+  orig: 57, 238
+  offset: 0, 8
+  index: -1
+xinchun_2
+  rotate: true
+  xy: 86, 3
+  size: 61, 39
+  orig: 64, 42
+  offset: 2, 2
+  index: -1
+xinchun_3
+  rotate: false
+  xy: 540, 72
+  size: 38, 24
+  orig: 41, 26
+  offset: 1, 1
+  index: -1
+xinchun_4
+  rotate: true
+  xy: 517, 67
+  size: 29, 21
+  orig: 31, 24
+  offset: 1, 1
+  index: -1
+xinchun_5
+  rotate: false
+  xy: 1234, 356
+  size: 371, 295
+  orig: 387, 299
+  offset: 9, 1
+  index: -1
+xinchun_6
+  rotate: true
+  xy: 969, 260
+  size: 391, 232
+  orig: 407, 257
+  offset: 9, 12
+  index: -1
+xinchun_7
+  rotate: false
+  xy: 1261, 50
+  size: 356, 304
+  orig: 356, 304
+  offset: 0, 0
+  index: -1
+xinchun_8
+  rotate: false
+  xy: 1203, 273
+  size: 56, 81
+  orig: 56, 88
+  offset: 0, 6
+  index: -1
+xinchun_9
+  rotate: true
+  xy: 2, 2
+  size: 62, 82
+  orig: 74, 96
+  offset: 5, 7
+  index: -1

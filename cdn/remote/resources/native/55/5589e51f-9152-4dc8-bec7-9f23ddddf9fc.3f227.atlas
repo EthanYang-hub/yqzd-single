@@ -1,0 +1,34 @@
+
+ui_taozhuang_jihuo.png
+size: 1733,866
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 1352, 46
+  size: 404, 379
+  orig: 408, 384
+  offset: 2, 3
+  index: -1
+bg_2
+  rotate: false
+  xy: 908, 452
+  size: 633, 412
+  orig: 633, 412
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 908, 6
+  size: 442, 444
+  orig: 546, 506
+  offset: 55, 41
+  index: -1
+bg_4
+  rotate: false
+  xy: 2, 2
+  size: 904, 862
+  orig: 1058, 936
+  offset: 79, 52
+  index: -1

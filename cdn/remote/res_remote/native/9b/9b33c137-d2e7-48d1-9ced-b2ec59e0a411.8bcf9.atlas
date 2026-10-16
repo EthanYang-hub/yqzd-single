@@ -1,0 +1,55 @@
+
+ui_zouyin_zhiqian.png
+size: 119,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhiqian_1
+  rotate: false
+  xy: 2, 2
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+zhiqian_2
+  rotate: false
+  xy: 79, 34
+  size: 32, 18
+  orig: 33, 20
+  offset: 1, 1
+  index: -1
+zhiqian_3
+  rotate: true
+  xy: 42, 34
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+zhiqian_4
+  rotate: false
+  xy: 47, 7
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+zhiqian_5
+  rotate: false
+  xy: 88, 2
+  size: 29, 30
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+zhiqian_6
+  rotate: false
+  xy: 79, 54
+  size: 38, 24
+  orig: 39, 28
+  offset: 0, 4
+  index: -1
+zhiqian_7
+  rotate: true
+  xy: 2, 30
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ui_shenkan_effect_1.png
+size: 604,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+energyplane3a
+  rotate: true
+  xy: 260, 11
+  size: 247, 238
+  orig: 256, 248
+  offset: 3, 0
+  index: -1
+eye_lwy_t_sun_31_single
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_blue3_blend
+  rotate: true
+  xy: 500, 155
+  size: 103, 102
+  orig: 128, 128
+  offset: 14, 12
+  index: -1

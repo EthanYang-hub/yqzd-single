@@ -1,0 +1,132 @@
+
+monster_3009_effect.png
+size: 437,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Env_MB_brazierFire_glow
+  rotate: false
+  xy: 189, 151
+  size: 126, 127
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+SRU_Bluebuff_armclouds2
+  rotate: false
+  xy: 2, 99
+  size: 185, 179
+  orig: 218, 218
+  offset: 11, 14
+  index: -1
+SRU_Dragon_BA1_Fire
+  rotate: true
+  xy: 317, 157
+  size: 121, 116
+  orig: 121, 116
+  offset: 0, 0
+  index: -1
+suihuo_002
+  rotate: true
+  xy: 248, 8
+  size: 29, 31
+  orig: 34, 35
+  offset: 2, 2
+  index: -1
+suihuo_003
+  rotate: false
+  xy: 173, 2
+  size: 33, 35
+  orig: 39, 39
+  offset: 3, 2
+  index: -1
+suihuo_004
+  rotate: true
+  xy: 339, 4
+  size: 39, 42
+  orig: 44, 46
+  offset: 2, 2
+  index: -1
+suihuo_005
+  rotate: false
+  xy: 360, 105
+  size: 47, 50
+  orig: 52, 54
+  offset: 3, 2
+  index: -1
+suihuo_006
+  rotate: false
+  xy: 286, 40
+  size: 51, 53
+  orig: 55, 56
+  offset: 2, 1
+  index: -1
+suihuo_007
+  rotate: true
+  xy: 189, 96
+  size: 53, 56
+  orig: 58, 58
+  offset: 3, 0
+  index: -1
+suihuo_008
+  rotate: true
+  xy: 247, 95
+  size: 54, 56
+  orig: 59, 58
+  offset: 2, 0
+  index: -1
+suihuo_009
+  rotate: false
+  xy: 173, 39
+  size: 54, 55
+  orig: 59, 58
+  offset: 2, 1
+  index: -1
+suihuo_010
+  rotate: true
+  xy: 229, 39
+  size: 54, 55
+  orig: 59, 58
+  offset: 2, 1
+  index: -1
+suihuo_011
+  rotate: false
+  xy: 305, 96
+  size: 53, 53
+  orig: 58, 58
+  offset: 2, 2
+  index: -1
+suihuo_012
+  rotate: false
+  xy: 339, 45
+  size: 47, 49
+  orig: 56, 56
+  offset: 3, 2
+  index: -1
+suihuo_013
+  rotate: true
+  xy: 388, 58
+  size: 45, 47
+  orig: 50, 54
+  offset: 3, 4
+  index: -1
+suihuo_014
+  rotate: true
+  xy: 388, 12
+  size: 44, 46
+  orig: 50, 54
+  offset: 3, 5
+  index: -1
+suihuo_015
+  rotate: false
+  xy: 208, 8
+  size: 38, 29
+  orig: 46, 37
+  offset: 5, 5
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 3
+  size: 169, 94
+  orig: 169, 94
+  offset: 0, 0
+  index: -1

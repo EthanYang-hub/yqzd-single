@@ -1,0 +1,69 @@
+
+ronghe_weapon2_monster_3004.png
+size: 319,729
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hu_G_1
+  rotate: true
+  xy: 188, 148
+  size: 102, 113
+  orig: 102, 113
+  offset: 0, 0
+  index: -1
+hu_G_2
+  rotate: false
+  xy: 224, 252
+  size: 93, 184
+  orig: 93, 184
+  offset: 0, 0
+  index: -1
+hu_G_3
+  rotate: true
+  xy: 2, 2
+  size: 86, 159
+  orig: 86, 159
+  offset: 0, 0
+  index: -1
+hu_G_4
+  rotate: true
+  xy: 2, 90
+  size: 80, 168
+  orig: 80, 168
+  offset: 0, 0
+  index: -1
+hu_G_5
+  rotate: true
+  xy: 2, 258
+  size: 84, 184
+  orig: 84, 184
+  offset: 0, 0
+  index: -1
+hu_G_6
+  rotate: true
+  xy: 2, 172
+  size: 84, 184
+  orig: 84, 184
+  offset: 0, 0
+  index: -1
+hu_G_7
+  rotate: true
+  xy: 172, 42
+  size: 104, 143
+  orig: 104, 143
+  offset: 0, 0
+  index: -1
+wuqi_2
+  rotate: true
+  xy: 2, 344
+  size: 92, 220
+  orig: 92, 220
+  offset: 0, 0
+  index: -1
+wuqi_guang_2
+  rotate: false
+  xy: 2, 438
+  size: 302, 289
+  orig: 302, 289
+  offset: 0, 0
+  index: -1

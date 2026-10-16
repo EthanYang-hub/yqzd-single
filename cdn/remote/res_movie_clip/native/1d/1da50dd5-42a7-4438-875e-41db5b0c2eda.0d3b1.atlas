@@ -1,0 +1,125 @@
+
+ronghe_body_elite monster_2003.png
+size: 1754,672
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: true
+  xy: 953, 496
+  size: 174, 340
+  orig: 178, 367
+  offset: 0, 27
+  index: -1
+huo_060
+  rotate: true
+  xy: 1241, 366
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+huo_061
+  rotate: true
+  xy: 953, 366
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+huo_062
+  rotate: true
+  xy: 1493, 2
+  size: 200, 228
+  orig: 200, 228
+  offset: 0, 0
+  index: -1
+huo_063
+  rotate: true
+  xy: 751, 364
+  size: 306, 200
+  orig: 306, 200
+  offset: 0, 0
+  index: -1
+huo_064
+  rotate: false
+  xy: 2, 2
+  size: 409, 260
+  orig: 409, 260
+  offset: 0, 0
+  index: -1
+huo_065
+  rotate: false
+  xy: 413, 12
+  size: 406, 328
+  orig: 406, 328
+  offset: 0, 0
+  index: -1
+huo_066
+  rotate: false
+  xy: 338, 342
+  size: 411, 328
+  orig: 411, 328
+  offset: 0, 0
+  index: -1
+huo_067
+  rotate: true
+  xy: 2, 264
+  size: 406, 334
+  orig: 406, 334
+  offset: 0, 0
+  index: -1
+huo_068
+  rotate: false
+  xy: 1157, 30
+  size: 334, 334
+  orig: 334, 334
+  offset: 0, 0
+  index: -1
+huo_069
+  rotate: false
+  xy: 821, 6
+  size: 334, 356
+  orig: 334, 356
+  offset: 0, 0
+  index: -1
+huo_070
+  rotate: true
+  xy: 1552, 415
+  size: 255, 200
+  orig: 255, 200
+  offset: 0, 0
+  index: -1
+huo_071
+  rotate: false
+  xy: 1493, 204
+  size: 255, 206
+  orig: 255, 206
+  offset: 0, 0
+  index: -1
+huo_072
+  rotate: false
+  xy: 1295, 520
+  size: 255, 150
+  orig: 255, 150
+  offset: 0, 0
+  index: -1
+huo_073
+  rotate: true
+  xy: 1349, 390
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+huo_074
+  rotate: false
+  xy: 1111, 366
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huo_075
+  rotate: true
+  xy: 1457, 412
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+ui_wuxing_changjing_guang.png
+size: 1004,471
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 2
+  size: 1000, 467
+  orig: 1000, 467
+  offset: 0, 0
+  index: -1

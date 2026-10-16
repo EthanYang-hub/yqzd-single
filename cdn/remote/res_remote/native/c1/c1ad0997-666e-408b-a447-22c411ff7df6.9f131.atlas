@@ -1,0 +1,153 @@
+
+ui_tianshu_jueixng_guang_2.png
+size: 1323,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blizzard_cloud
+  rotate: true
+  xy: 1157, 86
+  size: 86, 79
+  orig: 97, 92
+  offset: 6, 6
+  index: -1
+J1
+  rotate: true
+  xy: 1203, 45
+  size: 39, 73
+  orig: 62, 74
+  offset: 13, 0
+  index: -1
+J2
+  rotate: false
+  xy: 1157, 18
+  size: 44, 66
+  orig: 68, 68
+  offset: 15, 1
+  index: -1
+J3
+  rotate: false
+  xy: 1278, 112
+  size: 43, 60
+  orig: 53, 65
+  offset: 5, 0
+  index: -1
+J4
+  rotate: true
+  xy: 1223, 7
+  size: 36, 62
+  orig: 64, 70
+  offset: 13, 4
+  index: -1
+TY_1
+  rotate: false
+  xy: 1287, 7
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+TY_2
+  rotate: false
+  xy: 1238, 138
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+TY_3
+  rotate: false
+  xy: 1287, 42
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+TY_4
+  rotate: false
+  xy: 1278, 77
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 1203, 22
+  size: 17, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 1238, 116
+  size: 12, 20
+  orig: 15, 20
+  offset: 2, 0
+  index: -1
+f4
+  rotate: false
+  xy: 1238, 89
+  size: 19, 21
+  orig: 26, 21
+  offset: 7, 0
+  index: -1
+f5
+  rotate: true
+  xy: 1157, 2
+  size: 14, 21
+  orig: 17, 21
+  offset: 2, 0
+  index: -1
+f6
+  rotate: false
+  xy: 1259, 115
+  size: 17, 21
+  orig: 20, 21
+  offset: 3, 0
+  index: -1
+f7
+  rotate: true
+  xy: 1201, 3
+  size: 13, 20
+  orig: 16, 21
+  offset: 1, 0
+  index: -1
+f8
+  rotate: true
+  xy: 1180, 2
+  size: 14, 19
+  orig: 16, 20
+  offset: 1, 1
+  index: -1
+feng_di
+  rotate: true
+  xy: 2, 2
+  size: 170, 229
+  orig: 178, 236
+  offset: 4, 3
+  index: -1
+huo_di
+  rotate: true
+  xy: 233, 2
+  size: 170, 229
+  orig: 178, 236
+  offset: 4, 3
+  index: -1
+shui_di
+  rotate: true
+  xy: 464, 2
+  size: 170, 229
+  orig: 178, 236
+  offset: 4, 3
+  index: -1
+tongyong_di
+  rotate: true
+  xy: 695, 2
+  size: 170, 229
+  orig: 178, 236
+  offset: 4, 3
+  index: -1
+tu_di
+  rotate: true
+  xy: 926, 2
+  size: 170, 229
+  orig: 178, 236
+  offset: 4, 3
+  index: -1

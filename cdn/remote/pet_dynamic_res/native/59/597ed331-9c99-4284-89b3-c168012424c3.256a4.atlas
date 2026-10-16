@@ -1,0 +1,293 @@
+
+lihui_pet_horse.png
+size: 2026,1664
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0099
+  rotate: false
+  xy: 1376, 7
+  size: 78, 76
+  orig: 96, 96
+  offset: 9, 11
+  index: -1
+1
+  rotate: true
+  xy: 1985, 1566
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 985, 949
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1644, 1015
+  size: 38, 647
+  orig: 38, 647
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1807, 1110
+  size: 176, 552
+  orig: 176, 552
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1684, 1022
+  size: 121, 640
+  orig: 121, 640
+  offset: 0, 0
+  index: -1
+C1
+  rotate: false
+  xy: 1249, 7
+  size: 125, 144
+  orig: 128, 154
+  offset: 2, 5
+  index: -1
+C2
+  rotate: false
+  xy: 1730, 406
+  size: 133, 138
+  orig: 133, 148
+  offset: 0, 6
+  index: -1
+C3
+  rotate: true
+  xy: 1641, 24
+  size: 121, 156
+  orig: 123, 168
+  offset: 0, 6
+  index: -1
+C4
+  rotate: true
+  xy: 1385, 85
+  size: 125, 150
+  orig: 131, 160
+  offset: 1, 5
+  index: -1
+C5
+  rotate: false
+  xy: 1537, 26
+  size: 102, 184
+  orig: 113, 194
+  offset: 5, 5
+  index: -1
+C6
+  rotate: false
+  xy: 331, 100
+  size: 127, 132
+  orig: 133, 143
+  offset: 3, 6
+  index: -1
+D1
+  rotate: false
+  xy: 1807, 1017
+  size: 95, 91
+  orig: 96, 92
+  offset: 0, 1
+  index: -1
+D2
+  rotate: false
+  xy: 180, 12
+  size: 88, 80
+  orig: 95, 91
+  offset: 3, 6
+  index: -1
+D3
+  rotate: false
+  xy: 331, 2
+  size: 101, 96
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+D4
+  rotate: true
+  xy: 1904, 1021
+  size: 87, 88
+  orig: 92, 98
+  offset: 2, 6
+  index: -1
+GNJHY1
+  rotate: false
+  xy: 1249, 153
+  size: 134, 265
+  orig: 142, 276
+  offset: 5, 5
+  index: -1
+GNJHY2
+  rotate: true
+  xy: 460, 36
+  size: 150, 371
+  orig: 162, 380
+  offset: 7, 4
+  index: -1
+ma_1
+  rotate: false
+  xy: 1386, 594
+  size: 254, 353
+  orig: 254, 377
+  offset: 0, 16
+  index: -1
+ma_10
+  rotate: false
+  xy: 833, 51
+  size: 112, 135
+  orig: 112, 135
+  offset: 0, 0
+  index: -1
+ma_11
+  rotate: true
+  xy: 947, 21
+  size: 111, 232
+  orig: 111, 232
+  offset: 0, 0
+  index: -1
+ma_2
+  rotate: true
+  xy: 1985, 1620
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+ma_3
+  rotate: false
+  xy: 1730, 147
+  size: 110, 257
+  orig: 110, 257
+  offset: 0, 0
+  index: -1
+ma_4
+  rotate: false
+  xy: 985, 1006
+  size: 64, 191
+  orig: 64, 194
+  offset: 0, 3
+  index: -1
+ma_5
+  rotate: false
+  xy: 331, 234
+  size: 128, 257
+  orig: 128, 257
+  offset: 0, 0
+  index: -1
+ma_6
+  rotate: false
+  xy: 1842, 169
+  size: 85, 235
+  orig: 85, 245
+  offset: 0, 0
+  index: -1
+ma_7
+  rotate: true
+  xy: 1062, 949
+  size: 713, 580
+  orig: 713, 580
+  offset: 0, 0
+  index: -1
+ma_8
+  rotate: true
+  xy: 2, 3
+  size: 89, 176
+  orig: 89, 176
+  offset: 0, 0
+  index: -1
+ma_9
+  rotate: false
+  xy: 985, 1199
+  size: 72, 190
+  orig: 76, 197
+  offset: 4, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 461, 188
+  size: 484, 323
+  orig: 494, 323
+  offset: 10, 0
+  index: -1
+shenqu
+  rotate: false
+  xy: 2, 493
+  size: 457, 896
+  orig: 457, 896
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 1929, 372
+  size: 95, 172
+  orig: 95, 172
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 1799, 36
+  size: 109, 167
+  orig: 109, 167
+  offset: 0, 0
+  index: -1
+sie_13
+  rotate: false
+  xy: 978, 420
+  size: 406, 527
+  orig: 408, 530
+  offset: 0, 0
+  index: -1
+sie_14
+  rotate: true
+  xy: 461, 973
+  size: 416, 522
+  orig: 419, 525
+  offset: 1, 0
+  index: -1
+sie_15
+  rotate: true
+  xy: 461, 513
+  size: 434, 515
+  orig: 437, 518
+  offset: 3, 0
+  index: -1
+sie_16
+  rotate: false
+  xy: 1644, 546
+  size: 361, 467
+  orig: 365, 482
+  offset: 4, 12
+  index: -1
+sie_17
+  rotate: false
+  xy: 2, 94
+  size: 327, 397
+  orig: 327, 404
+  offset: 0, 4
+  index: -1
+sie_18
+  rotate: true
+  xy: 1386, 212
+  size: 332, 342
+  orig: 332, 347
+  offset: 0, 2
+  index: -1
+sie_19
+  rotate: false
+  xy: 947, 134
+  size: 300, 284
+  orig: 334, 290
+  offset: 1, 3
+  index: -1
+wuqi
+  rotate: true
+  xy: 2, 1391
+  size: 271, 1058
+  orig: 271, 1058
+  offset: 0, 0
+  index: -1

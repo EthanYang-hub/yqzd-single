@@ -1,0 +1,76 @@
+
+ui_pvp_jiesuan.png
+size: 398,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheng_zi_1
+  rotate: true
+  xy: 289, 200
+  size: 113, 107
+  orig: 121, 122
+  offset: 4, 12
+  index: -1
+cheng_zi_2
+  rotate: true
+  xy: 198, 15
+  size: 74, 75
+  orig: 80, 81
+  offset: 3, 3
+  index: -1
+cheng_zi_3
+  rotate: false
+  xy: 297, 433
+  size: 92, 105
+  orig: 97, 121
+  offset: 3, 14
+  index: -1
+cheng_zi_4
+  rotate: false
+  xy: 297, 353
+  size: 91, 78
+  orig: 101, 84
+  offset: 4, 3
+  index: -1
+cheng_zi_yun
+  rotate: false
+  xy: 2, 91
+  size: 285, 222
+  orig: 293, 223
+  offset: 7, 1
+  index: -1
+shibai_1
+  rotate: true
+  xy: 289, 86
+  size: 112, 102
+  orig: 119, 117
+  offset: 4, 13
+  index: -1
+shibai_2
+  rotate: true
+  xy: 275, 12
+  size: 72, 76
+  orig: 79, 89
+  offset: 3, 11
+  index: -1
+shibai_3
+  rotate: true
+  xy: 2, 2
+  size: 87, 101
+  orig: 93, 115
+  offset: 4, 12
+  index: -1
+shibai_4
+  rotate: false
+  xy: 105, 15
+  size: 91, 74
+  orig: 95, 90
+  offset: 1, 12
+  index: -1
+shibai_yun
+  rotate: false
+  xy: 2, 315
+  size: 293, 223
+  orig: 293, 223
+  offset: 0, 0
+  index: -1

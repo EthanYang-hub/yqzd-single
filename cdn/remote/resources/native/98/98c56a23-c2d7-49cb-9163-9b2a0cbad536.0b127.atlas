@@ -1,0 +1,76 @@
+
+protagonist_skill.png
+size: 478,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bagua
+  rotate: false
+  xy: 204, 186
+  size: 142, 143
+  orig: 200, 200
+  offset: 29, 28
+  index: -1
+fuzhou
+  rotate: true
+  xy: 204, 138
+  size: 46, 76
+  orig: 100, 100
+  offset: 28, 12
+  index: -1
+glow_huang
+  rotate: false
+  xy: 2, 331
+  size: 236, 235
+  orig: 256, 256
+  offset: 10, 10
+  index: -1
+glow_lan
+  rotate: false
+  xy: 240, 331
+  size: 236, 235
+  orig: 256, 256
+  offset: 10, 10
+  index: -1
+huan_01
+  rotate: false
+  xy: 2, 2
+  size: 125, 125
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+huan_02
+  rotate: true
+  xy: 129, 4
+  size: 123, 127
+  orig: 128, 128
+  offset: 5, 1
+  index: -1
+huan_03
+  rotate: true
+  xy: 258, 10
+  size: 126, 122
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huan_04
+  rotate: false
+  xy: 348, 207
+  size: 123, 122
+  orig: 128, 128
+  offset: 5, 0
+  index: -1
+mingwen
+  rotate: false
+  xy: 2, 129
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+taiji
+  rotate: false
+  xy: 382, 127
+  size: 78, 78
+  orig: 200, 200
+  offset: 60, 61
+  index: -1

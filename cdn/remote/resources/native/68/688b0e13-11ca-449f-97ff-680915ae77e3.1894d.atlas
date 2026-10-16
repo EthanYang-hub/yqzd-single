@@ -1,0 +1,188 @@
+
+fight_protagonist_body.png
+size: 1391,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabi_r
+  rotate: false
+  xy: 660, 35
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+heyan_0
+  rotate: true
+  xy: 184, 3
+  size: 19, 28
+  orig: 256, 256
+  offset: 122, 93
+  index: -1
+heyan_1
+  rotate: false
+  xy: 1224, 86
+  size: 26, 50
+  orig: 256, 256
+  offset: 121, 99
+  index: -1
+heyan_10
+  rotate: false
+  xy: 821, 2
+  size: 92, 66
+  orig: 256, 256
+  offset: 97, 156
+  index: -1
+heyan_11
+  rotate: true
+  xy: 1313, 82
+  size: 88, 76
+  orig: 256, 256
+  offset: 95, 149
+  index: -1
+heyan_12
+  rotate: false
+  xy: 717, 13
+  size: 94, 38
+  orig: 256, 256
+  offset: 98, 192
+  index: -1
+heyan_13
+  rotate: true
+  xy: 691, 36
+  size: 15, 20
+  orig: 256, 256
+  offset: 98, 200
+  index: -1
+heyan_14
+  rotate: false
+  xy: 241, 10
+  size: 17, 12
+  orig: 256, 256
+  offset: 99, 205
+  index: -1
+heyan_15
+  rotate: true
+  xy: 260, 10
+  size: 12, 14
+  orig: 256, 256
+  offset: 109, 209
+  index: -1
+heyan_2
+  rotate: true
+  xy: 1317, 22
+  size: 58, 69
+  orig: 256, 256
+  offset: 121, 98
+  index: -1
+heyan_3
+  rotate: false
+  xy: 821, 70
+  size: 112, 100
+  orig: 256, 256
+  offset: 114, 103
+  index: -1
+heyan_4
+  rotate: false
+  xy: 935, 72
+  size: 153, 98
+  orig: 256, 256
+  offset: 64, 75
+  index: -1
+heyan_5
+  rotate: false
+  xy: 660, 53
+  size: 159, 117
+  orig: 256, 256
+  offset: 61, 77
+  index: -1
+heyan_6
+  rotate: false
+  xy: 478, 42
+  size: 180, 128
+  orig: 256, 256
+  offset: 61, 72
+  index: -1
+heyan_7
+  rotate: false
+  xy: 2, 16
+  size: 180, 154
+  orig: 256, 256
+  offset: 53, 63
+  index: -1
+heyan_8
+  rotate: false
+  xy: 184, 24
+  size: 148, 146
+  orig: 256, 256
+  offset: 56, 74
+  index: -1
+heyan_9
+  rotate: true
+  xy: 334, 35
+  size: 135, 142
+  orig: 256, 256
+  offset: 58, 79
+  index: -1
+jiao_l
+  rotate: false
+  xy: 1257, 107
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+jiao_r
+  rotate: true
+  xy: 1192, 138
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+qunbai
+  rotate: false
+  xy: 915, 4
+  size: 17, 64
+  orig: 17, 64
+  offset: 0, 0
+  index: -1
+shneti
+  rotate: true
+  xy: 1090, 112
+  size: 58, 100
+  orig: 58, 100
+  offset: 0, 0
+  index: -1
+shoubi_l
+  rotate: true
+  xy: 1192, 85
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+xian_1
+  rotate: true
+  xy: 334, 7
+  size: 26, 381
+  orig: 26, 381
+  offset: 0, 0
+  index: -1
+xian_2
+  rotate: true
+  xy: 934, 3
+  size: 13, 381
+  orig: 13, 381
+  offset: 0, 0
+  index: -1
+xian_3
+  rotate: true
+  xy: 935, 18
+  size: 52, 376
+  orig: 52, 376
+  offset: 0, 0
+  index: -1
+xiaobi_r
+  rotate: false
+  xy: 214, 3
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1

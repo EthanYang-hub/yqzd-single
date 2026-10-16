@@ -1,0 +1,209 @@
+
+ui_yuandan_bg.png
+size: 1945,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baigu_00
+  rotate: false
+  xy: 816, 91
+  size: 283, 445
+  orig: 301, 478
+  offset: 7, 15
+  index: -1
+baigu_1
+  rotate: false
+  xy: 1588, 161
+  size: 161, 375
+  orig: 173, 375
+  offset: 12, 0
+  index: -1
+baigu_2
+  rotate: true
+  xy: 1186, 10
+  size: 113, 108
+  orig: 151, 139
+  offset: 6, 0
+  index: -1
+baigu_3
+  rotate: false
+  xy: 131, 3
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+baigu_4
+  rotate: true
+  xy: 1296, 10
+  size: 113, 92
+  orig: 122, 98
+  offset: 6, 1
+  index: -1
+baigu_5
+  rotate: true
+  xy: 552, 18
+  size: 36, 85
+  orig: 47, 86
+  offset: 0, 0
+  index: -1
+baigu_6
+  rotate: false
+  xy: 1858, 96
+  size: 77, 102
+  orig: 84, 161
+  offset: 2, 5
+  index: -1
+baigu_7
+  rotate: true
+  xy: 201, 8
+  size: 46, 254
+  orig: 46, 254
+  offset: 0, 0
+  index: -1
+baigu_8
+  rotate: true
+  xy: 990, 9
+  size: 80, 194
+  orig: 80, 194
+  offset: 0, 0
+  index: -1
+baigu_9
+  rotate: false
+  xy: 1679, 4
+  size: 60, 155
+  orig: 60, 155
+  offset: 0, 0
+  index: -1
+kulou_00
+  rotate: false
+  xy: 1101, 125
+  size: 282, 411
+  orig: 299, 448
+  offset: 6, 12
+  index: -1
+kulou_1
+  rotate: false
+  xy: 1385, 156
+  size: 201, 380
+  orig: 201, 380
+  offset: 0, 0
+  index: -1
+kulou_2
+  rotate: false
+  xy: 816, 8
+  size: 172, 81
+  orig: 172, 81
+  offset: 0, 0
+  index: -1
+kulou_3
+  rotate: true
+  xy: 1751, 268
+  size: 74, 186
+  orig: 74, 186
+  offset: 0, 0
+  index: -1
+kulou_4
+  rotate: false
+  xy: 641, 5
+  size: 12, 13
+  orig: 16, 17
+  offset: 2, 2
+  index: -1
+kulou_5
+  rotate: true
+  xy: 1751, 200
+  size: 66, 180
+  orig: 66, 180
+  offset: 0, 0
+  index: -1
+kulou_6
+  rotate: true
+  xy: 1451, 21
+  size: 133, 226
+  orig: 133, 226
+  offset: 0, 0
+  index: -1
+streaks2
+  rotate: false
+  xy: 1751, 344
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+tai_1
+  rotate: true
+  xy: 552, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+tai_2
+  rotate: true
+  xy: 552, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+tai_3
+  rotate: false
+  xy: 639, 20
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+tai_4
+  rotate: true
+  xy: 584, 2
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+tai_5
+  rotate: true
+  xy: 615, 2
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+taizi
+  rotate: false
+  xy: 2, 56
+  size: 812, 480
+  orig: 885, 480
+  offset: 29, 0
+  index: -1
+yan_a
+  rotate: true
+  xy: 654, 31
+  size: 23, 110
+  orig: 23, 110
+  offset: 0, 0
+  index: -1
+yan_b
+  rotate: true
+  xy: 457, 13
+  size: 41, 93
+  orig: 43, 102
+  offset: 2, 2
+  index: -1
+yan_c
+  rotate: false
+  xy: 1390, 7
+  size: 59, 147
+  orig: 59, 150
+  offset: 0, 3
+  index: -1
+yan_d
+  rotate: true
+  xy: 2, 3
+  size: 51, 127
+  orig: 53, 130
+  offset: 0, 1
+  index: -1
+yan_e
+  rotate: false
+  xy: 1751, 21
+  size: 105, 177
+  orig: 131, 183
+  offset: 8, 2
+  index: -1

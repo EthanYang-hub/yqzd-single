@@ -1,0 +1,41 @@
+
+roleSkill_fire_earth_2.png
+size: 860,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 511, 135
+  size: 22, 17
+  orig: 22, 19
+  offset: 0, 1
+  index: -1
+A2
+  rotate: false
+  xy: 511, 154
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+barbarian_earthquake_magicCast
+  rotate: true
+  xy: 2, 53
+  size: 119, 507
+  orig: 128, 512
+  offset: 0, 5
+  index: -1
+di
+  rotate: false
+  xy: 2, 2
+  size: 557, 49
+  orig: 557, 64
+  offset: 0, 0
+  index: -1
+heitiao
+  rotate: false
+  xy: 2, 174
+  size: 856, 54
+  orig: 877, 56
+  offset: 10, 1
+  index: -1

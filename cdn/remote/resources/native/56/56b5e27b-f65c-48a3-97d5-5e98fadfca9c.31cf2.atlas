@@ -1,0 +1,27 @@
+
+ui_beijingban2.png
+size: 717,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K_b_1
+  rotate: false
+  xy: 605, 159
+  size: 39, 35
+  orig: 41, 45
+  offset: 1, 2
+  index: -1
+K_b_2
+  rotate: true
+  xy: 2, 2
+  size: 429, 601
+  orig: 461, 610
+  offset: 7, 0
+  index: -1
+K_b_3
+  rotate: true
+  xy: 605, 196
+  size: 235, 110
+  orig: 235, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+ui_zhanlingshengji.png
+size: 1154,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22222
+  rotate: false
+  xy: 2, 3
+  size: 914, 141
+  orig: 981, 171
+  offset: 66, 15
+  index: -1
+jiantou
+  rotate: false
+  xy: 918, 7
+  size: 53, 52
+  orig: 58, 64
+  offset: 3, 3
+  index: -1
+wenzi_1
+  rotate: false
+  xy: 918, 61
+  size: 87, 83
+  orig: 89, 87
+  offset: 1, 2
+  index: -1
+wenzi_2
+  rotate: false
+  xy: 1007, 2
+  size: 67, 69
+  orig: 72, 72
+  offset: 3, 2
+  index: -1
+wenzi_3
+  rotate: true
+  xy: 1007, 73
+  size: 71, 73
+  orig: 77, 76
+  offset: 3, 2
+  index: -1
+wenzi_4
+  rotate: true
+  xy: 1082, 71
+  size: 73, 70
+  orig: 76, 73
+  offset: 1, 1
+  index: -1

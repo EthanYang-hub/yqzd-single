@@ -1,0 +1,83 @@
+
+ui_lianpu_qianghua.png
+size: 1820,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chenggong_1
+  rotate: false
+  xy: 1150, 11
+  size: 67, 76
+  orig: 72, 81
+  offset: 3, 3
+  index: -1
+chenggong_2
+  rotate: false
+  xy: 1080, 11
+  size: 68, 76
+  orig: 72, 118
+  offset: 2, 39
+  index: -1
+chenggong_3
+  rotate: false
+  xy: 1355, 17
+  size: 29, 30
+  orig: 36, 36
+  offset: 3, 4
+  index: -1
+chenggong_4
+  rotate: false
+  xy: 1355, 17
+  size: 29, 30
+  orig: 36, 36
+  offset: 3, 3
+  index: -1
+chenggong_5
+  rotate: false
+  xy: 1355, 49
+  size: 37, 38
+  orig: 46, 46
+  offset: 5, 4
+  index: -1
+chenggong_6
+  rotate: false
+  xy: 1620, 98
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+chenggong_7
+  rotate: false
+  xy: 2, 2
+  size: 793, 294
+  orig: 890, 297
+  offset: 50, 3
+  index: -1
+shibai_1
+  rotate: false
+  xy: 1219, 11
+  size: 65, 76
+  orig: 71, 102
+  offset: 3, 24
+  index: -1
+shibai_2
+  rotate: false
+  xy: 1286, 13
+  size: 67, 74
+  orig: 72, 88
+  offset: 2, 11
+  index: -1
+shibai_3
+  rotate: true
+  xy: 797, 10
+  size: 286, 281
+  orig: 286, 286
+  offset: 0, 5
+  index: -1
+shibai_4
+  rotate: false
+  xy: 1080, 89
+  size: 538, 207
+  orig: 568, 207
+  offset: 0, 0
+  index: -1

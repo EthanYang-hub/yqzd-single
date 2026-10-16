@@ -1,0 +1,20 @@
+
+ui_fengdu_dikuai.png
+size: 466,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dikuai_guang
+  rotate: false
+  xy: 2, 2
+  size: 358, 327
+  orig: 370, 339
+  offset: 6, 5
+  index: -1
+wenzi
+  rotate: false
+  xy: 362, 225
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: -1

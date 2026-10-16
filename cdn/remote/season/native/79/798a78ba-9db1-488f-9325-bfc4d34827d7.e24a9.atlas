@@ -1,0 +1,62 @@
+
+Season_fight_status_Seal.png
+size: 275,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Seal_bagua1
+  rotate: false
+  xy: 20, 185
+  size: 38, 41
+  orig: 43, 46
+  offset: 2, 2
+  index: -1
+Seal_bagua1_huan
+  rotate: true
+  xy: 2, 37
+  size: 55, 53
+  orig: 59, 57
+  offset: 2, 2
+  index: -1
+Seal_bagua2a
+  rotate: false
+  xy: 20, 228
+  size: 41, 45
+  orig: 47, 52
+  offset: 3, 3
+  index: -1
+Seal_bagua2b
+  rotate: false
+  xy: 2, 2
+  size: 38, 33
+  orig: 41, 41
+  offset: 2, 4
+  index: -1
+Seal_bagua2c
+  rotate: false
+  xy: 20, 117
+  size: 25, 27
+  orig: 29, 34
+  offset: 2, 3
+  index: -1
+Seal_bagua2d
+  rotate: false
+  xy: 20, 146
+  size: 37, 37
+  orig: 42, 43
+  offset: 3, 2
+  index: -1
+Seal_bagua2e
+  rotate: false
+  xy: 42, 5
+  size: 30, 30
+  orig: 37, 38
+  offset: 3, 3
+  index: -1
+Seal_line
+  rotate: false
+  xy: 2, 94
+  size: 16, 179
+  orig: 20, 184
+  offset: 2, 3
+  index: -1

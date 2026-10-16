@@ -1,0 +1,104 @@
+
+ui_chuangguan_chunjie_anniu.png
+size: 153,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 75, 121
+  size: 43, 54
+  orig: 55, 69
+  offset: 3, 10
+  index: -1
+2
+  rotate: true
+  xy: 75, 217
+  size: 50, 72
+  orig: 68, 79
+  offset: 0, 5
+  index: -1
+S7
+  rotate: true
+  xy: 2, 43
+  size: 224, 71
+  orig: 227, 73
+  offset: 1, 1
+  index: -1
+S7777
+  rotate: false
+  xy: 2, 2
+  size: 81, 39
+  orig: 85, 44
+  offset: 2, 2
+  index: -1
+W1
+  rotate: false
+  xy: 116, 51
+  size: 25, 32
+  orig: 27, 32
+  offset: 1, 0
+  index: -1
+W2
+  rotate: true
+  xy: 85, 2
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+W3
+  rotate: true
+  xy: 120, 24
+  size: 25, 31
+  orig: 30, 33
+  offset: 5, 1
+  index: -1
+W4
+  rotate: false
+  xy: 131, 133
+  size: 19, 31
+  orig: 25, 32
+  offset: 2, 0
+  index: -1
+huomiao_2
+  rotate: false
+  xy: 138, 195
+  size: 8, 20
+  orig: 8, 22
+  offset: 0, 1
+  index: -1
+huomiao_5
+  rotate: false
+  xy: 120, 4
+  size: 23, 18
+  orig: 28, 19
+  offset: 5, 0
+  index: -1
+lizi_1
+  rotate: false
+  xy: 131, 104
+  size: 19, 27
+  orig: 25, 29
+  offset: 0, 2
+  index: -1
+lizi_2
+  rotate: true
+  xy: 75, 166
+  size: 49, 61
+  orig: 57, 61
+  offset: 3, 0
+  index: -1
+lizi_3
+  rotate: true
+  xy: 75, 85
+  size: 34, 51
+  orig: 51, 65
+  offset: 3, 12
+  index: -1
+lizi_4
+  rotate: false
+  xy: 75, 44
+  size: 39, 39
+  orig: 43, 44
+  offset: 2, 1
+  index: -1

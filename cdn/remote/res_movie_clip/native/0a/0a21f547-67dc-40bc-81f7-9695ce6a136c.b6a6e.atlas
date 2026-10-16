@@ -1,0 +1,69 @@
+
+roleSkill_thunder_white.png
+size: 555,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0270
+  rotate: false
+  xy: 2, 113
+  size: 173, 76
+  orig: 179, 83
+  offset: 3, 4
+  index: -1
+TX_sj02_00044
+  rotate: false
+  xy: 336, 103
+  size: 124, 86
+  orig: 168, 116
+  offset: 24, 0
+  index: -1
+TX_sj02_00046
+  rotate: false
+  xy: 2, 2
+  size: 149, 109
+  orig: 168, 116
+  offset: 10, 0
+  index: -1
+TX_sj02_00048
+  rotate: false
+  xy: 177, 79
+  size: 157, 110
+  orig: 168, 116
+  offset: 6, 0
+  index: -1
+TX_sj02_00050
+  rotate: false
+  xy: 441, 18
+  size: 97, 63
+  orig: 105, 72
+  offset: 4, 6
+  index: -1
+sui_0
+  rotate: true
+  xy: 245, 19
+  size: 58, 63
+  orig: 128, 128
+  offset: 30, 27
+  index: -1
+sui_1
+  rotate: false
+  xy: 462, 83
+  size: 91, 106
+  orig: 128, 128
+  offset: 10, 22
+  index: -1
+sui_2
+  rotate: true
+  xy: 336, 18
+  size: 83, 103
+  orig: 128, 128
+  offset: 16, 12
+  index: -1
+sui_3
+  rotate: true
+  xy: 153, 4
+  size: 73, 90
+  orig: 128, 128
+  offset: 18, 22
+  index: -1

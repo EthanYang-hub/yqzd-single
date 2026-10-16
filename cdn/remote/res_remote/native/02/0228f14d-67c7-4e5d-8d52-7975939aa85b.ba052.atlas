@@ -1,0 +1,55 @@
+
+ui_xingtian_zhujiemian_5.png
+size: 885,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+an_1
+  rotate: true
+  xy: 799, 172
+  size: 86, 74
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+an_2
+  rotate: false
+  xy: 501, 140
+  size: 296, 118
+  orig: 299, 123
+  offset: 3, 2
+  index: -1
+an_3
+  rotate: true
+  xy: 816, 97
+  size: 73, 67
+  orig: 75, 70
+  offset: 1, 2
+  index: -1
+firecloud2
+  rotate: false
+  xy: 501, 10
+  size: 252, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+monk_boh_radius_golden_holyPower
+  rotate: false
+  xy: 2, 2
+  size: 497, 256
+  orig: 512, 256
+  offset: 15, 0
+  index: -1
+wenzi_1
+  rotate: true
+  xy: 787, 20
+  size: 118, 27
+  orig: 118, 27
+  offset: 0, 0
+  index: -1
+wenzi_2
+  rotate: true
+  xy: 755, 18
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: -1

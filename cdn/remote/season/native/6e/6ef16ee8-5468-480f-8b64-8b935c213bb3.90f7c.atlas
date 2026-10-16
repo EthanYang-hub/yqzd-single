@@ -1,0 +1,62 @@
+
+ui_yan_lianzhan_4.png
+size: 1686,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_di
+  rotate: true
+  xy: 558, 8
+  size: 250, 239
+  orig: 283, 252
+  offset: 3, 5
+  index: -1
+F_guang
+  rotate: false
+  xy: 2, 2
+  size: 277, 256
+  orig: 290, 270
+  offset: 1, 0
+  index: -1
+F_jin1
+  rotate: true
+  xy: 799, 11
+  size: 247, 234
+  orig: 260, 239
+  offset: 13, 0
+  index: -1
+F_jin2
+  rotate: false
+  xy: 1559, 136
+  size: 125, 122
+  orig: 170, 129
+  offset: 45, 7
+  index: -1
+F_lz
+  rotate: false
+  xy: 1264, 69
+  size: 293, 189
+  orig: 323, 219
+  offset: 1, 18
+  index: -1
+F_niao
+  rotate: false
+  xy: 281, 6
+  size: 275, 252
+  orig: 275, 252
+  offset: 0, 0
+  index: -1
+F_wei
+  rotate: false
+  xy: 1035, 4
+  size: 227, 254
+  orig: 230, 330
+  offset: 2, 76
+  index: -1
+long_1
+  rotate: true
+  xy: 1559, 49
+  size: 85, 121
+  orig: 126, 145
+  offset: 31, 6
+  index: -1

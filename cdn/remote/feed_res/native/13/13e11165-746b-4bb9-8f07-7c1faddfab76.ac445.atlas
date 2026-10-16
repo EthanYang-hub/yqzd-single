@@ -1,0 +1,27 @@
+
+gong.png
+size: 316, 449
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+gong
+  rotate: false
+  xy: 74, 2
+  size: 240, 445
+  orig: 240, 445
+  offset: 0, 0
+  index: -1
+gongjian
+  rotate: false
+  xy: 2, 91
+  size: 53, 356
+  orig: 53, 356
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 57, 20
+  size: 427, 15
+  orig: 427, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+ui_zhounian_zhuye_anniu.png
+size: 1036,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11111
+  rotate: true
+  xy: 338, 616
+  size: 40, 125
+  orig: 41, 125
+  offset: 1, 0
+  index: -1
+6_3
+  rotate: false
+  xy: 477, 606
+  size: 326, 184
+  orig: 332, 191
+  offset: 3, 4
+  index: -1
+anniu_1_1
+  rotate: false
+  xy: 338, 445
+  size: 251, 159
+  orig: 251, 159
+  offset: 0, 0
+  index: -1
+anniu_1_2
+  rotate: false
+  xy: 591, 445
+  size: 251, 159
+  orig: 251, 159
+  offset: 0, 0
+  index: -1
+anniu_2_1
+  rotate: false
+  xy: 632, 36
+  size: 210, 189
+  orig: 217, 198
+  offset: 3, 2
+  index: -1
+anniu_2_2
+  rotate: true
+  xy: 813, 606
+  size: 210, 189
+  orig: 217, 198
+  offset: 4, 1
+  index: -1
+anniu_2_3
+  rotate: false
+  xy: 365, 55
+  size: 253, 90
+  orig: 260, 95
+  offset: 4, 3
+  index: -1
+anniu_3_1
+  rotate: true
+  xy: 844, 355
+  size: 249, 151
+  orig: 249, 153
+  offset: 0, 2
+  index: -1
+anniu_3_2
+  rotate: true
+  xy: 844, 104
+  size: 249, 151
+  orig: 249, 153
+  offset: 0, 2
+  index: -1
+anniu_3_3
+  rotate: true
+  xy: 269, 105
+  size: 307, 94
+  orig: 356, 104
+  offset: 46, 8
+  index: -1
+anniu_4_1
+  rotate: false
+  xy: 813, 818
+  size: 186, 216
+  orig: 186, 217
+  offset: 0, 0
+  index: -1
+anniu_4_2
+  rotate: false
+  xy: 632, 227
+  size: 186, 216
+  orig: 186, 217
+  offset: 0, 0
+  index: -1
+anniu_4_3
+  rotate: false
+  xy: 2, 2
+  size: 241, 112
+  orig: 245, 116
+  offset: 2, 2
+  index: -1
+anniu_5_1
+  rotate: false
+  xy: 2, 116
+  size: 265, 296
+  orig: 273, 312
+  offset: 8, 16
+  index: -1
+anniu_5_2
+  rotate: false
+  xy: 365, 147
+  size: 265, 296
+  orig: 273, 312
+  offset: 8, 16
+  index: -1
+anniu_6_1
+  rotate: false
+  xy: 2, 414
+  size: 334, 242
+  orig: 334, 242
+  offset: 0, 0
+  index: -1
+anniu_6_2
+  rotate: false
+  xy: 477, 792
+  size: 334, 242
+  orig: 334, 242
+  offset: 0, 0
+  index: -1
+anniu_7_1
+  rotate: false
+  xy: 844, 34
+  size: 181, 68
+  orig: 181, 69
+  offset: 0, 1
+  index: -1
+anniu_7_333
+  rotate: false
+  xy: 2, 658
+  size: 473, 376
+  orig: 481, 379
+  offset: 1, 3
+  index: -1

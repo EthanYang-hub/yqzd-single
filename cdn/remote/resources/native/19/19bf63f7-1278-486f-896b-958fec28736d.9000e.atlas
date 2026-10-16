@@ -1,0 +1,48 @@
+
+ui_dan_qiehuan.png
+size: 1417,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ezreal_pulsefire_plasma_death_trail
+  rotate: true
+  xy: 1291, 91
+  size: 218, 124
+  orig: 256, 128
+  offset: 8, 0
+  index: -1
+nei_1
+  rotate: true
+  xy: 498, 167
+  size: 142, 402
+  orig: 148, 418
+  offset: 4, 13
+  index: -1
+nei_an_1
+  rotate: true
+  xy: 498, 23
+  size: 142, 402
+  orig: 147, 418
+  offset: 3, 13
+  index: -1
+nei_guang
+  rotate: true
+  xy: 2, 2
+  size: 307, 494
+  orig: 428, 591
+  offset: 68, 56
+  index: -1
+wai_1
+  rotate: true
+  xy: 902, 167
+  size: 142, 387
+  orig: 143, 399
+  offset: 0, 7
+  index: -1
+wai_an
+  rotate: true
+  xy: 902, 23
+  size: 142, 387
+  orig: 143, 399
+  offset: 0, 7
+  index: -1

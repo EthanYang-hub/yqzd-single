@@ -1,0 +1,76 @@
+
+ui_yan_lianzhan_5.png
+size: 727,565
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chacao_3
+  rotate: false
+  xy: 625, 18
+  size: 80, 81
+  orig: 82, 82
+  offset: 1, 0
+  index: -1
+ui_yan_lianzhan_5-1
+  rotate: true
+  xy: 549, 16
+  size: 83, 74
+  orig: 92, 80
+  offset: 7, 1
+  index: -1
+ui_yan_lianzhan_5-2
+  rotate: true
+  xy: 416, 42
+  size: 139, 131
+  orig: 139, 131
+  offset: 0, 0
+  index: -1
+ui_yan_lianzhan_5-3
+  rotate: true
+  xy: 526, 352
+  size: 211, 199
+  orig: 211, 199
+  offset: 0, 0
+  index: -1
+ui_yan_lianzhan_5-4
+  rotate: false
+  xy: 526, 225
+  size: 185, 125
+  orig: 195, 125
+  offset: 0, 0
+  index: -1
+ui_yan_lianzhan_5-5
+  rotate: false
+  xy: 549, 101
+  size: 114, 122
+  orig: 116, 125
+  offset: 0, 1
+  index: -1
+ui_yan_lianzhan_5-6
+  rotate: true
+  xy: 2, 2
+  size: 171, 302
+  orig: 182, 321
+  offset: 4, 16
+  index: -1
+ui_yan_lianzhan_5-7
+  rotate: false
+  xy: 306, 30
+  size: 108, 151
+  orig: 110, 155
+  offset: 1, 1
+  index: -1
+ui_yan_lianzhan_5-8
+  rotate: false
+  xy: 266, 183
+  size: 258, 380
+  orig: 269, 380
+  offset: 0, 0
+  index: -1
+ui_yan_lianzhan_5-9
+  rotate: false
+  xy: 2, 175
+  size: 262, 388
+  orig: 262, 388
+  offset: 0, 0
+  index: -1

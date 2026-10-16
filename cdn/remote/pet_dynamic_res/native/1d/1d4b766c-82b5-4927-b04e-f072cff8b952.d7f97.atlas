@@ -1,0 +1,97 @@
+
+lihui_pet_luocha.png
+size: 2011,923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 725, 117
+  size: 300, 476
+  orig: 327, 494
+  offset: 27, 5
+  index: -1
+10
+  rotate: true
+  xy: 725, 40
+  size: 18, 607
+  orig: 18, 607
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 725, 60
+  size: 24, 933
+  orig: 24, 933
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 725, 86
+  size: 29, 660
+  orig: 29, 660
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 419
+  size: 1370, 502
+  orig: 1370, 502
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1374, 435
+  size: 317, 486
+  orig: 353, 492
+  offset: 14, 6
+  index: -1
+3
+  rotate: true
+  xy: 1693, 582
+  size: 339, 316
+  orig: 351, 316
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1660, 51
+  size: 175, 153
+  orig: 175, 167
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1837, 108
+  size: 117, 96
+  orig: 121, 100
+  offset: 1, 0
+  index: -1
+6
+  rotate: false
+  xy: 1693, 438
+  size: 239, 142
+  orig: 239, 142
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 1570, 206
+  size: 227, 386
+  orig: 227, 386
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1203, 132
+  size: 365, 285
+  orig: 365, 285
+  offset: 0, 0
+  index: -1
+9_1
+  rotate: true
+  xy: 2, 2
+  size: 415, 721
+  orig: 415, 721
+  offset: 0, 0
+  index: -1

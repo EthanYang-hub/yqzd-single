@@ -1,0 +1,20 @@
+
+ui_yan_lianzhan_1.png
+size: 418,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 8
+  size: 244, 158
+  orig: 251, 165
+  offset: 4, 5
+  index: -1
+2
+  rotate: true
+  xy: 248, 2
+  size: 164, 168
+  orig: 168, 168
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+jidi_skill_1_effect.png
+size: 734,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+552c1e4f51933bd6162582db69025cb8048492507dc3-tgQ0eY_fw1200
+  rotate: false
+  xy: 2, 493
+  size: 588, 60
+  orig: 589, 64
+  offset: 0, 2
+  index: -1
+A1
+  rotate: true
+  xy: 426, 4
+  size: 122, 128
+  orig: 123, 137
+  offset: 1, 5
+  index: -1
+A2
+  rotate: true
+  xy: 490, 128
+  size: 117, 133
+  orig: 119, 142
+  offset: 1, 4
+  index: -1
+A3
+  rotate: false
+  xy: 376, 138
+  size: 112, 144
+  orig: 114, 156
+  offset: 0, 6
+  index: -1
+A4
+  rotate: true
+  xy: 592, 437
+  size: 116, 140
+  orig: 121, 148
+  offset: 1, 4
+  index: -1
+A5
+  rotate: true
+  xy: 561, 341
+  size: 94, 170
+  orig: 105, 179
+  offset: 5, 4
+  index: -1
+A6
+  rotate: true
+  xy: 301, 2
+  size: 118, 123
+  orig: 123, 133
+  offset: 2, 6
+  index: -1
+di_huo_1
+  rotate: false
+  xy: 2, 245
+  size: 256, 120
+  orig: 256, 122
+  offset: 0, 0
+  index: -1
+di_huo_2
+  rotate: false
+  xy: 2, 367
+  size: 256, 124
+  orig: 256, 130
+  offset: 0, 4
+  index: -1
+huo1_049
+  rotate: false
+  xy: 625, 128
+  size: 73, 117
+  orig: 77, 124
+  offset: 2, 2
+  index: -1
+huo1_050
+  rotate: false
+  xy: 2, 35
+  size: 100, 208
+  orig: 105, 216
+  offset: 2, 2
+  index: -1
+huo1_051
+  rotate: false
+  xy: 361, 284
+  size: 98, 207
+  orig: 104, 216
+  offset: 3, 2
+  index: -1
+huo1_052
+  rotate: false
+  xy: 260, 281
+  size: 99, 210
+  orig: 104, 218
+  offset: 2, 2
+  index: -1
+huo1_053
+  rotate: false
+  xy: 461, 286
+  size: 98, 205
+  orig: 102, 210
+  offset: 2, 2
+  index: -1
+huo1_054
+  rotate: false
+  xy: 104, 36
+  size: 98, 207
+  orig: 103, 215
+  offset: 3, 2
+  index: -1
+huo1_055
+  rotate: false
+  xy: 204, 55
+  size: 95, 188
+  orig: 100, 191
+  offset: 2, 3
+  index: -1
+huo1_056
+  rotate: true
+  xy: 561, 247
+  size: 92, 165
+  orig: 99, 169
+  offset: 3, 4
+  index: -1
+huo1_057
+  rotate: false
+  xy: 301, 122
+  size: 73, 157
+  orig: 79, 161
+  offset: 6, 4
+  index: -1

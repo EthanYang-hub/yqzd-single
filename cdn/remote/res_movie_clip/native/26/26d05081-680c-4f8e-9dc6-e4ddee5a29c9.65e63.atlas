@@ -1,0 +1,405 @@
+
+roleSkill_fire_earth_hit.png
+size: 1009,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J1
+  rotate: false
+  xy: 665, 36
+  size: 98, 154
+  orig: 102, 162
+  offset: 2, 5
+  index: -1
+J2
+  rotate: false
+  xy: 634, 192
+  size: 94, 152
+  orig: 102, 162
+  offset: 5, 3
+  index: -1
+J3
+  rotate: false
+  xy: 537, 192
+  size: 95, 152
+  orig: 102, 162
+  offset: 3, 3
+  index: -1
+c_00002
+  rotate: true
+  xy: 405, 19
+  size: 171, 168
+  orig: 283, 247
+  offset: 83, 47
+  index: -1
+c_00003
+  rotate: false
+  xy: 799, 698
+  size: 204, 181
+  orig: 283, 247
+  offset: 57, 41
+  index: -1
+c_00004
+  rotate: false
+  xy: 218, 192
+  size: 213, 185
+  orig: 283, 247
+  offset: 52, 32
+  index: -1
+c_00005
+  rotate: false
+  xy: 537, 346
+  size: 221, 172
+  orig: 283, 247
+  offset: 46, 41
+  index: -1
+c_00006
+  rotate: false
+  xy: 769, 419
+  size: 223, 169
+  orig: 283, 247
+  offset: 43, 45
+  index: -1
+c_00007
+  rotate: false
+  xy: 2, 253
+  size: 214, 148
+  orig: 283, 247
+  offset: 40, 47
+  index: -1
+c_00008
+  rotate: false
+  xy: 846, 881
+  size: 156, 126
+  orig: 283, 247
+  offset: 38, 67
+  index: -1
+c_00009
+  rotate: true
+  xy: 433, 192
+  size: 120, 102
+  orig: 283, 247
+  offset: 76, 82
+  index: -1
+sansheguang
+  rotate: false
+  xy: 936, 257
+  size: 71, 76
+  orig: 73, 83
+  offset: 1, 2
+  index: -1
+suihuo_002
+  rotate: false
+  xy: 799, 883
+  size: 34, 35
+  orig: 40, 41
+  offset: 3, 3
+  index: -1
+suihuo_003
+  rotate: true
+  xy: 495, 701
+  size: 40, 41
+  orig: 46, 46
+  offset: 3, 3
+  index: -1
+suihuo_004
+  rotate: true
+  xy: 495, 779
+  size: 46, 50
+  orig: 52, 54
+  offset: 3, 2
+  index: -1
+suihuo_005
+  rotate: true
+  xy: 152, 93
+  size: 56, 58
+  orig: 61, 63
+  offset: 3, 3
+  index: -1
+suihuo_006
+  rotate: false
+  xy: 477, 637
+  size: 59, 62
+  orig: 65, 66
+  offset: 3, 1
+  index: -1
+suihuo_007
+  rotate: true
+  xy: 936, 193
+  size: 62, 65
+  orig: 68, 68
+  offset: 3, 0
+  index: -1
+suihuo_008
+  rotate: true
+  xy: 468, 439
+  size: 64, 66
+  orig: 69, 68
+  offset: 2, 0
+  index: -1
+suihuo_009
+  rotate: false
+  xy: 858, 182
+  size: 64, 64
+  orig: 69, 68
+  offset: 2, 1
+  index: -1
+suihuo_010
+  rotate: false
+  xy: 924, 128
+  size: 64, 63
+  orig: 69, 68
+  offset: 2, 2
+  index: -1
+suihuo_011
+  rotate: false
+  xy: 858, 117
+  size: 63, 63
+  orig: 68, 68
+  offset: 2, 2
+  index: -1
+suihuo_012
+  rotate: true
+  xy: 477, 580
+  size: 55, 59
+  orig: 66, 66
+  offset: 4, 2
+  index: -1
+suihuo_013
+  rotate: true
+  xy: 923, 74
+  size: 52, 56
+  orig: 59, 64
+  offset: 4, 5
+  index: -1
+suihuo_014
+  rotate: true
+  xy: 858, 63
+  size: 52, 55
+  orig: 59, 64
+  offset: 4, 6
+  index: -1
+suihuo_015
+  rotate: false
+  xy: 495, 743
+  size: 46, 34
+  orig: 54, 43
+  offset: 5, 6
+  index: -1
+yanjiang02_00002
+  rotate: true
+  xy: 2, 2
+  size: 147, 61
+  orig: 153, 72
+  offset: 3, 2
+  index: -1
+yanjiang02_00003
+  rotate: true
+  xy: 215, 8
+  size: 182, 105
+  orig: 190, 111
+  offset: 4, 1
+  index: -1
+yanjiang02_00004
+  rotate: false
+  xy: 239, 479
+  size: 227, 115
+  orig: 233, 120
+  offset: 3, 1
+  index: -1
+yanjiang02_00005
+  rotate: false
+  xy: 255, 707
+  size: 238, 118
+  orig: 244, 122
+  offset: 3, 1
+  index: -1
+yanjiang02_00006
+  rotate: false
+  xy: 548, 733
+  size: 244, 116
+  orig: 252, 123
+  offset: 4, 4
+  index: -1
+yanjiang02_00007
+  rotate: false
+  xy: 2, 731
+  size: 251, 110
+  orig: 257, 115
+  offset: 3, 2
+  index: -1
+yanjiang02_00008
+  rotate: false
+  xy: 282, 827
+  size: 264, 96
+  orig: 271, 101
+  offset: 4, 2
+  index: -1
+yanjiang02_00009
+  rotate: false
+  xy: 577, 920
+  size: 267, 87
+  orig: 275, 94
+  offset: 4, 3
+  index: -1
+yanjiang02_00010
+  rotate: false
+  xy: 2, 843
+  size: 278, 87
+  orig: 285, 93
+  offset: 3, 3
+  index: -1
+yanjiang02_00011
+  rotate: false
+  xy: 296, 925
+  size: 279, 82
+  orig: 286, 89
+  offset: 4, 3
+  index: -1
+yanjiang02_00012
+  rotate: false
+  xy: 2, 932
+  size: 292, 75
+  orig: 300, 82
+  offset: 4, 3
+  index: -1
+yanjiang02_00013
+  rotate: false
+  xy: 548, 851
+  size: 249, 67
+  orig: 258, 73
+  offset: 5, 2
+  index: -1
+yanjiang_00002
+  rotate: false
+  xy: 322, 17
+  size: 81, 173
+  orig: 114, 239
+  offset: 16, 4
+  index: -1
+yanjiang_00003
+  rotate: true
+  xy: 2, 151
+  size: 100, 211
+  orig: 114, 239
+  offset: 8, 2
+  index: -1
+yanjiang_00004
+  rotate: true
+  xy: 2, 403
+  size: 104, 224
+  orig: 114, 239
+  offset: 6, 1
+  index: -1
+yanjiang_00005
+  rotate: true
+  xy: 538, 624
+  size: 107, 233
+  orig: 114, 239
+  offset: 4, 0
+  index: -1
+yanjiang_00006
+  rotate: true
+  xy: 240, 596
+  size: 109, 235
+  orig: 114, 239
+  offset: 3, 0
+  index: -1
+yanjiang_00007
+  rotate: true
+  xy: 2, 620
+  size: 109, 236
+  orig: 114, 239
+  offset: 3, 0
+  index: -1
+yanjiang_00008
+  rotate: true
+  xy: 2, 509
+  size: 109, 235
+  orig: 114, 239
+  offset: 3, 0
+  index: -1
+yanjiang_00009
+  rotate: true
+  xy: 773, 590
+  size: 106, 233
+  orig: 114, 239
+  offset: 4, 0
+  index: -1
+yanjiang_00010
+  rotate: true
+  xy: 538, 520
+  size: 102, 229
+  orig: 114, 239
+  offset: 7, 0
+  index: -1
+yanjiang_00011
+  rotate: true
+  xy: 228, 379
+  size: 98, 221
+  orig: 114, 239
+  offset: 10, 2
+  index: -1
+yanjiang_00012
+  rotate: false
+  xy: 760, 207
+  size: 94, 210
+  orig: 114, 239
+  offset: 14, 3
+  index: -1
+yanjiang_00013
+  rotate: false
+  xy: 765, 8
+  size: 91, 197
+  orig: 114, 239
+  offset: 17, 4
+  index: -1
+yanjiang_00014
+  rotate: false
+  xy: 575, 25
+  size: 88, 165
+  orig: 114, 239
+  offset: 20, 9
+  index: -1
+yanjiang_00015
+  rotate: false
+  xy: 65, 5
+  size: 85, 144
+  orig: 114, 239
+  offset: 21, 10
+  index: -1
+yanjiang_00016
+  rotate: false
+  xy: 451, 314
+  size: 84, 123
+  orig: 114, 239
+  offset: 22, 11
+  index: -1
+yanjiang_00017
+  rotate: true
+  xy: 858, 335
+  size: 82, 98
+  orig: 114, 239
+  offset: 24, 13
+  index: -1
+yanjiang_00018
+  rotate: false
+  xy: 856, 248
+  size: 78, 85
+  orig: 114, 239
+  offset: 25, 15
+  index: -1
+yanjiang_00019
+  rotate: true
+  xy: 468, 505
+  size: 73, 67
+  orig: 114, 239
+  offset: 22, 17
+  index: -1
+yanjiang_00020
+  rotate: true
+  xy: 152, 20
+  size: 71, 56
+  orig: 114, 239
+  offset: 21, 15
+  index: -1

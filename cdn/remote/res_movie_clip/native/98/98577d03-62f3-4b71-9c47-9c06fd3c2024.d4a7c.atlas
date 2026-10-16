@@ -1,0 +1,62 @@
+
+ronghe_shou1_monster_3001.png
+size: 636,636
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0185
+  rotate: true
+  xy: 175, 102
+  size: 205, 197
+  orig: 256, 256
+  offset: 22, 31
+  index: -1
+10
+  rotate: false
+  xy: 2, 309
+  size: 510, 325
+  orig: 510, 325
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 50
+  size: 171, 257
+  orig: 171, 257
+  offset: 0, 0
+  index: -1
+9_1
+  rotate: true
+  xy: 374, 41
+  size: 156, 224
+  orig: 156, 224
+  offset: 0, 0
+  index: -1
+Y1
+  rotate: false
+  xy: 374, 199
+  size: 112, 108
+  orig: 116, 123
+  offset: 2, 9
+  index: -1
+Y2
+  rotate: true
+  xy: 514, 373
+  size: 127, 116
+  orig: 171, 126
+  offset: 43, 7
+  index: -1
+Y3
+  rotate: false
+  xy: 514, 254
+  size: 118, 117
+  orig: 121, 130
+  offset: 3, 1
+  index: -1
+Y4
+  rotate: true
+  xy: 514, 502
+  size: 132, 120
+  orig: 135, 130
+  offset: 0, 8
+  index: -1

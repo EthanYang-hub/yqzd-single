@@ -1,0 +1,27 @@
+
+ui_zhihunzhe_zhigou.png
+size: 1292,1160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_222
+  rotate: true
+  xy: 482, 464
+  size: 694, 808
+  orig: 718, 869
+  offset: 22, 41
+  index: -1
+yuan_a_3
+  rotate: false
+  xy: 482, 2
+  size: 460, 460
+  orig: 478, 482
+  offset: 12, 11
+  index: -1
+yuan_a_5
+  rotate: true
+  xy: 2, 209
+  size: 949, 478
+  orig: 1059, 482
+  offset: 87, 2
+  index: -1

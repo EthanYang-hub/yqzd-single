@@ -1,0 +1,83 @@
+
+monster_3017_effect3.png
+size: 350,945
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_lwy_t_sun_31_single
+  rotate: false
+  xy: 2, 181
+  size: 183, 172
+  orig: 192, 192
+  offset: 5, 6
+  index: -1
+eye_lwy_t_sun_31_single2
+  rotate: true
+  xy: 2, 2
+  size: 177, 171
+  orig: 192, 192
+  offset: 7, 8
+  index: -1
+eye_lwy_t_sun_31_single3
+  rotate: true
+  xy: 175, 2
+  size: 177, 171
+  orig: 192, 192
+  offset: 7, 8
+  index: -1
+fireball_10_1
+  rotate: true
+  xy: 256, 313
+  size: 95, 92
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+fireball_10_blue
+  rotate: true
+  xy: 256, 410
+  size: 95, 92
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+fireball_10_green
+  rotate: false
+  xy: 187, 219
+  size: 94, 92
+  orig: 96, 96
+  offset: 2, 0
+  index: -1
+hongbao_1
+  rotate: false
+  xy: 2, 355
+  size: 252, 251
+  orig: 272, 274
+  offset: 11, 11
+  index: -1
+hongbao_2
+  rotate: false
+  xy: 256, 507
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+zizi_1
+  rotate: false
+  xy: 2, 715
+  size: 292, 104
+  orig: 299, 110
+  offset: 3, 3
+  index: -1
+zizi_2
+  rotate: false
+  xy: 2, 821
+  size: 308, 122
+  orig: 317, 131
+  offset: 5, 4
+  index: -1
+zizi_3
+  rotate: false
+  xy: 2, 608
+  size: 291, 105
+  orig: 299, 111
+  offset: 4, 3
+  index: -1

@@ -1,0 +1,34 @@
+
+monster_2008_effect.png
+size: 280,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20250626-105135
+  rotate: false
+  xy: 2, 2
+  size: 159, 136
+  orig: 159, 136
+  offset: 0, 0
+  index: -1
+Wizard_
+  rotate: false
+  xy: 2, 140
+  size: 160, 133
+  orig: 169, 137
+  offset: 1, 0
+  index: -1
+flare2borange
+  rotate: true
+  xy: 164, 38
+  size: 121, 112
+  orig: 128, 128
+  offset: 3, 8
+  index: -1
+plasmaflare2
+  rotate: false
+  xy: 164, 161
+  size: 114, 112
+  orig: 150, 150
+  offset: 15, 13
+  index: -1

@@ -1,0 +1,62 @@
+
+ui_mh_jianzhu_zhongxindian.png
+size: 309,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_mh_jianzhu_zhongxindian-1
+  rotate: false
+  xy: 212, 77
+  size: 74, 121
+  orig: 128, 159
+  offset: 12, 37
+  index: -1
+ui_mh_jianzhu_zhongxindian-2
+  rotate: false
+  xy: 2, 8
+  size: 208, 181
+  orig: 208, 181
+  offset: 0, 0
+  index: -1
+ui_mh_jianzhu_zhongxindian-3
+  rotate: false
+  xy: 178, 215
+  size: 69, 137
+  orig: 69, 146
+  offset: 0, 0
+  index: -1
+ui_mh_jianzhu_zhongxindian-4
+  rotate: false
+  xy: 212, 2
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+ui_mh_jianzhu_zhongxindian-5
+  rotate: false
+  xy: 2, 526
+  size: 294, 342
+  orig: 294, 342
+  offset: 0, 0
+  index: -1
+ui_mh_jianzhu_zhongxindian-6
+  rotate: true
+  xy: 249, 200
+  size: 152, 58
+  orig: 155, 62
+  offset: 0, 4
+  index: -1
+ui_mh_jianzhu_zhongxindian-7
+  rotate: true
+  xy: 178, 354
+  size: 170, 79
+  orig: 173, 82
+  offset: 2, 3
+  index: -1
+ui_mh_jianzhu_zhongxindian-8
+  rotate: true
+  xy: 2, 191
+  size: 333, 174
+  orig: 341, 183
+  offset: 5, 4
+  index: -1

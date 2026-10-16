@@ -1,0 +1,160 @@
+
+ui_huangli_saoguang.png
+size: 1451,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00
+  rotate: false
+  xy: 1354, 266
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+1_19
+  rotate: false
+  xy: 1354, 266
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+1_01
+  rotate: true
+  xy: 1242, 29
+  size: 20, 87
+  orig: 26, 89
+  offset: 1, 1
+  index: -1
+1_02
+  rotate: true
+  xy: 1153, 14
+  size: 73, 87
+  orig: 81, 89
+  offset: 1, 1
+  index: -1
+1_03
+  rotate: true
+  xy: 1270, 88
+  size: 127, 87
+  orig: 135, 89
+  offset: 1, 1
+  index: -1
+1_04
+  rotate: false
+  xy: 970, 180
+  size: 180, 87
+  orig: 190, 89
+  offset: 1, 1
+  index: -1
+1_05
+  rotate: false
+  xy: 918, 2
+  size: 233, 87
+  orig: 245, 89
+  offset: 1, 1
+  index: -1
+1_06
+  rotate: false
+  xy: 666, 91
+  size: 286, 87
+  orig: 300, 89
+  offset: 1, 1
+  index: -1
+1_07
+  rotate: false
+  xy: 2, 180
+  size: 330, 87
+  orig: 332, 89
+  offset: 1, 1
+  index: -1
+1_08
+  rotate: false
+  xy: 2, 91
+  size: 330, 87
+  orig: 332, 89
+  offset: 1, 1
+  index: -1
+1_09
+  rotate: false
+  xy: 2, 2
+  size: 330, 87
+  orig: 332, 89
+  offset: 1, 1
+  index: -1
+1_10
+  rotate: false
+  xy: 334, 180
+  size: 330, 87
+  orig: 332, 89
+  offset: 1, 1
+  index: -1
+1_11
+  rotate: false
+  xy: 334, 91
+  size: 330, 87
+  orig: 332, 89
+  offset: 1, 1
+  index: -1
+1_12
+  rotate: false
+  xy: 334, 2
+  size: 330, 87
+  orig: 332, 89
+  offset: 1, 1
+  index: -1
+1_13
+  rotate: false
+  xy: 666, 180
+  size: 302, 87
+  orig: 324, 89
+  offset: 21, 1
+  index: -1
+1_14
+  rotate: false
+  xy: 666, 2
+  size: 250, 87
+  orig: 269, 89
+  offset: 18, 1
+  index: -1
+1_15
+  rotate: false
+  xy: 954, 91
+  size: 197, 87
+  orig: 215, 89
+  offset: 17, 1
+  index: -1
+1_16
+  rotate: true
+  xy: 1359, 124
+  size: 143, 87
+  orig: 160, 89
+  offset: 16, 1
+  index: -1
+1_17
+  rotate: false
+  xy: 1359, 35
+  size: 90, 87
+  orig: 105, 89
+  offset: 14, 1
+  index: -1
+1_18
+  rotate: true
+  xy: 1242, 51
+  size: 35, 87
+  orig: 50, 89
+  offset: 14, 1
+  index: -1
+Anivia_skn5_wisps
+  rotate: false
+  xy: 1153, 89
+  size: 115, 126
+  orig: 128, 128
+  offset: 8, 0
+  index: -1
+Env_MB_highWind_01
+  rotate: false
+  xy: 1152, 217
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1

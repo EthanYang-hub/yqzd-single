@@ -1,0 +1,314 @@
+
+ui_lp_jibieguang.png
+size: 1854,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 (1)
+  rotate: false
+  xy: 1750, 190
+  size: 99, 98
+  orig: 158, 135
+  offset: 21, 24
+  index: -1
+1 (10)
+  rotate: true
+  xy: 649, 13
+  size: 108, 107
+  orig: 158, 135
+  offset: 20, 17
+  index: -1
+1 (11)
+  rotate: true
+  xy: 540, 10
+  size: 111, 107
+  orig: 158, 135
+  offset: 20, 16
+  index: -1
+1 (12)
+  rotate: true
+  xy: 432, 8
+  size: 113, 106
+  orig: 158, 135
+  offset: 21, 16
+  index: -1
+1 (13)
+  rotate: true
+  xy: 324, 6
+  size: 115, 106
+  orig: 158, 135
+  offset: 21, 16
+  index: -1
+1 (14)
+  rotate: true
+  xy: 217, 5
+  size: 116, 105
+  orig: 158, 135
+  offset: 21, 16
+  index: -1
+1 (15)
+  rotate: true
+  xy: 109, 4
+  size: 117, 106
+  orig: 158, 135
+  offset: 21, 15
+  index: -1
+1 (16)
+  rotate: true
+  xy: 2, 2
+  size: 119, 105
+  orig: 158, 135
+  offset: 20, 16
+  index: -1
+1 (17)
+  rotate: true
+  xy: 1482, 33
+  size: 121, 104
+  orig: 158, 135
+  offset: 19, 16
+  index: -1
+1 (18)
+  rotate: true
+  xy: 1497, 370
+  size: 124, 104
+  orig: 158, 135
+  offset: 17, 15
+  index: -1
+1 (19)
+  rotate: true
+  xy: 1175, 3
+  size: 126, 103
+  orig: 158, 135
+  offset: 16, 16
+  index: -1
+1 (2)
+  rotate: true
+  xy: 1648, 288
+  size: 99, 100
+  orig: 158, 135
+  offset: 21, 23
+  index: -1
+1 (20)
+  rotate: true
+  xy: 1440, 238
+  size: 126, 102
+  orig: 158, 135
+  offset: 16, 16
+  index: -1
+1 (21)
+  rotate: true
+  xy: 969, 2
+  size: 127, 101
+  orig: 158, 135
+  offset: 16, 17
+  index: -1
+1 (22)
+  rotate: true
+  xy: 1072, 2
+  size: 127, 101
+  orig: 158, 135
+  offset: 16, 16
+  index: -1
+1 (23)
+  rotate: false
+  xy: 614, 123
+  size: 128, 99
+  orig: 158, 135
+  offset: 15, 17
+  index: -1
+1 (24)
+  rotate: true
+  xy: 1382, 11
+  size: 129, 98
+  orig: 158, 135
+  offset: 15, 18
+  index: -1
+1 (25)
+  rotate: false
+  xy: 482, 123
+  size: 130, 99
+  orig: 158, 135
+  offset: 14, 17
+  index: -1
+1 (26)
+  rotate: true
+  xy: 1396, 366
+  size: 128, 99
+  orig: 158, 135
+  offset: 16, 18
+  index: -1
+1 (27)
+  rotate: false
+  xy: 349, 123
+  size: 131, 99
+  orig: 158, 135
+  offset: 14, 18
+  index: -1
+1 (28)
+  rotate: true
+  xy: 744, 124
+  size: 131, 101
+  orig: 158, 135
+  offset: 14, 17
+  index: -1
+1 (29)
+  rotate: true
+  xy: 847, 124
+  size: 131, 100
+  orig: 158, 135
+  offset: 14, 18
+  index: -1
+1 (3)
+  rotate: false
+  xy: 1750, 290
+  size: 101, 101
+  orig: 158, 135
+  offset: 20, 23
+  index: -1
+1 (30)
+  rotate: true
+  xy: 1080, 131
+  size: 130, 101
+  orig: 158, 135
+  offset: 15, 19
+  index: -1
+1 (31)
+  rotate: true
+  xy: 1183, 134
+  size: 130, 100
+  orig: 158, 135
+  offset: 15, 19
+  index: -1
+1 (32)
+  rotate: true
+  xy: 1280, 2
+  size: 130, 100
+  orig: 158, 135
+  offset: 16, 19
+  index: -1
+1 (33)
+  rotate: true
+  xy: 865, 17
+  size: 105, 102
+  orig: 158, 135
+  offset: 23, 18
+  index: -1
+1 (34)
+  rotate: true
+  xy: 1544, 263
+  size: 105, 102
+  orig: 158, 135
+  offset: 24, 18
+  index: -1
+1 (35)
+  rotate: true
+  xy: 1440, 156
+  size: 80, 102
+  orig: 158, 135
+  offset: 49, 18
+  index: -1
+1 (4)
+  rotate: false
+  xy: 1647, 159
+  size: 101, 102
+  orig: 158, 135
+  offset: 20, 22
+  index: -1
+1 (5)
+  rotate: true
+  xy: 1750, 393
+  size: 101, 102
+  orig: 158, 135
+  offset: 20, 21
+  index: -1
+1 (6)
+  rotate: false
+  xy: 1588, 50
+  size: 101, 104
+  orig: 158, 135
+  offset: 20, 20
+  index: -1
+1 (7)
+  rotate: false
+  xy: 1544, 156
+  size: 101, 105
+  orig: 158, 135
+  offset: 20, 19
+  index: -1
+1 (8)
+  rotate: false
+  xy: 1603, 389
+  size: 101, 105
+  orig: 158, 135
+  offset: 20, 18
+  index: -1
+1 (9)
+  rotate: false
+  xy: 758, 15
+  size: 105, 107
+  orig: 158, 135
+  offset: 20, 17
+  index: -1
+111
+  rotate: true
+  xy: 949, 131
+  size: 130, 129
+  orig: 180, 180
+  offset: 23, 29
+  index: -1
+Barbarian_seismicSlam_waves
+  rotate: false
+  xy: 1285, 142
+  size: 153, 167
+  orig: 192, 192
+  offset: 17, 18
+  index: -1
+DG_guang_1
+  rotate: true
+  xy: 620, 257
+  size: 237, 232
+  orig: 329, 333
+  offset: 44, 40
+  index: -1
+DG_guang_2
+  rotate: false
+  xy: 2, 123
+  size: 345, 371
+  orig: 402, 386
+  offset: 44, 15
+  index: -1
+DG_guang_4
+  rotate: true
+  xy: 854, 263
+  size: 231, 229
+  orig: 264, 263
+  offset: 20, 18
+  index: -1
+DG_guang_5
+  rotate: true
+  xy: 349, 224
+  size: 270, 269
+  orig: 314, 314
+  offset: 27, 23
+  index: -1
+DG_guang_6
+  rotate: true
+  xy: 1085, 266
+  size: 228, 145
+  orig: 234, 156
+  offset: 3, 5
+  index: -1
+barbarian_leapAttack_bloom
+  rotate: true
+  xy: 1232, 311
+  size: 183, 162
+  orig: 192, 192
+  offset: 9, 12
+  index: -1
+sand_smoke
+  rotate: false
+  xy: 1750, 125
+  size: 63, 63
+  orig: 96, 96
+  offset: 17, 18
+  index: -1

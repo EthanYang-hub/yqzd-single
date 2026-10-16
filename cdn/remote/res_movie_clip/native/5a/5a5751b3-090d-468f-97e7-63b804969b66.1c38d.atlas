@@ -1,0 +1,76 @@
+
+monster_1018.png
+size: 551,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 210, 10
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 519, 71
+  size: 78, 30
+  orig: 78, 30
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 257, 64
+  size: 125, 85
+  orig: 125, 85
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 384, 70
+  size: 133, 79
+  orig: 133, 127
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 11
+  size: 152, 138
+  orig: 152, 138
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 454, 8
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 257, 12
+  size: 95, 50
+  orig: 95, 50
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 384, 4
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 156, 2
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+he
+  rotate: false
+  xy: 156, 50
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1

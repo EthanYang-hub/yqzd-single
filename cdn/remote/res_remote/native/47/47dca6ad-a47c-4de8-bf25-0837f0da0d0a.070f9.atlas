@@ -1,0 +1,41 @@
+
+ui_xilian.png
+size: 511,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 134
+  size: 507, 83
+  orig: 513, 83
+  offset: 2, 0
+  index: -1
+jiantou_1
+  rotate: true
+  xy: 390, 68
+  size: 64, 85
+  orig: 66, 88
+  offset: 1, 1
+  index: -1
+jiantou_2
+  rotate: true
+  xy: 390, 2
+  size: 64, 85
+  orig: 66, 88
+  offset: 1, 1
+  index: -1
+shyvana_shadow_shadow_trail
+  rotate: false
+  xy: 2, 41
+  size: 256, 91
+  orig: 256, 128
+  offset: 0, 23
+  index: -1
+sona_pax_ultstripe
+  rotate: false
+  xy: 260, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+ui_saiji_shenyuan.png
+size: 215,609
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_saiji_shenyuan-1
+  rotate: true
+  xy: 96, 23
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+ui_saiji_shenyuan-11
+  rotate: false
+  xy: 139, 149
+  size: 74, 74
+  orig: 80, 80
+  offset: 3, 4
+  index: -1
+ui_saiji_shenyuan-12
+  rotate: true
+  xy: 108, 57
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+ui_saiji_shenyuan-2
+  rotate: false
+  xy: 139, 225
+  size: 74, 74
+  orig: 80, 80
+  offset: 3, 4
+  index: -1
+ui_saiji_shenyuan-3
+  rotate: true
+  xy: 2, 2
+  size: 84, 92
+  orig: 90, 93
+  offset: 4, 1
+  index: -1
+ui_saiji_shenyuan-4
+  rotate: false
+  xy: 2, 88
+  size: 104, 100
+  orig: 105, 101
+  offset: 0, 1
+  index: -1
+ui_saiji_shenyuan-13
+  rotate: false
+  xy: 2, 88
+  size: 104, 100
+  orig: 105, 101
+  offset: 0, 1
+  index: -1
+ui_saiji_shenyuan-5
+  rotate: true
+  xy: 2, 325
+  size: 78, 146
+  orig: 78, 146
+  offset: 0, 0
+  index: -1
+ui_saiji_shenyuan-6
+  rotate: false
+  xy: 150, 347
+  size: 59, 56
+  orig: 60, 58
+  offset: 1, 2
+  index: -1
+ui_saiji_shenyuan-7
+  rotate: true
+  xy: 150, 301
+  size: 44, 57
+  orig: 46, 61
+  offset: 1, 2
+  index: -1
+ui_saiji_shenyuan-8
+  rotate: true
+  xy: 2, 190
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+ui_saiji_shenyuan-9
+  rotate: true
+  xy: 2, 405
+  size: 202, 205
+  orig: 202, 205
+  offset: 0, 0
+  index: -1

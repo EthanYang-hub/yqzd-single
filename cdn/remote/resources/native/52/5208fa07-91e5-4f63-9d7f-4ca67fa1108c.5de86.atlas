@@ -1,0 +1,48 @@
+
+ui_xinchun_denglong.png
+size: 251,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 200, 376
+  size: 47, 147
+  orig: 47, 147
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 199, 167
+  size: 50, 158
+  orig: 50, 158
+  offset: 0, 0
+  index: -1
+22222
+  rotate: false
+  xy: 147, 31
+  size: 95, 96
+  orig: 106, 105
+  offset: 4, 5
+  index: -1
+Global_Item_FOM_Shield_Wisps
+  rotate: false
+  xy: 2, 2
+  size: 143, 125
+  orig: 150, 139
+  offset: 7, 1
+  index: -1
+h3
+  rotate: false
+  xy: 2, 129
+  size: 195, 196
+  orig: 195, 196
+  offset: 0, 0
+  index: -1
+lingdang_2
+  rotate: false
+  xy: 2, 327
+  size: 196, 196
+  orig: 209, 212
+  offset: 8, 8
+  index: -1

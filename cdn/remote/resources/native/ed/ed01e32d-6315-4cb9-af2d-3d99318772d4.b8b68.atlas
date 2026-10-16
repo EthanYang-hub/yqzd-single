@@ -1,0 +1,13 @@
+
+ui_zhutai_huo.png
+size: 126,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 2
+  size: 122, 80
+  orig: 122, 80
+  offset: 0, 0
+  index: -1

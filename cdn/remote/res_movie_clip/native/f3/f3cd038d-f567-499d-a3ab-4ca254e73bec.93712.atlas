@@ -1,0 +1,13 @@
+
+buff_decelerate_0.png
+size: 260,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huan_01
+  rotate: false
+  xy: 2, 2
+  size: 256, 67
+  orig: 256, 100
+  offset: 0, 8
+  index: -1

@@ -1,0 +1,41 @@
+
+ui_dxcl.png
+size: 617,1069
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 105
+  size: 374, 301
+  orig: 374, 301
+  offset: 0, 0
+  index: -1
+111
+  rotate: true
+  xy: 2, 481
+  size: 586, 480
+  orig: 715, 480
+  offset: 65, 0
+  index: -1
+6
+  rotate: false
+  xy: 305, 341
+  size: 101, 138
+  orig: 101, 138
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 305, 2
+  size: 239, 241
+  orig: 250, 251
+  offset: 11, 4
+  index: -1
+8
+  rotate: true
+  xy: 484, 243
+  size: 824, 131
+  orig: 824, 131
+  offset: 0, 0
+  index: -1

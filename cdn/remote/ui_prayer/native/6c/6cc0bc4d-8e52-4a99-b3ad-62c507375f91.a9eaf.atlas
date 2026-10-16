@@ -1,0 +1,83 @@
+
+ui_yan_battle_9.png
+size: 1455,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yu_1
+  rotate: true
+  xy: 1295, 175
+  size: 167, 150
+  orig: 168, 151
+  offset: 1, 1
+  index: -1
+yu_10
+  rotate: false
+  xy: 646, 215
+  size: 335, 313
+  orig: 335, 313
+  offset: 0, 0
+  index: -1
+yu_11
+  rotate: true
+  xy: 2, 6
+  size: 522, 642
+  orig: 572, 726
+  offset: 28, 26
+  index: -1
+yu_2
+  rotate: true
+  xy: 868, 99
+  size: 114, 76
+  orig: 114, 76
+  offset: 0, 0
+  index: -1
+yu_3
+  rotate: false
+  xy: 1264, 18
+  size: 138, 155
+  orig: 139, 156
+  offset: 1, 0
+  index: -1
+yu_4
+  rotate: true
+  xy: 1295, 344
+  size: 184, 144
+  orig: 187, 144
+  offset: 0, 0
+  index: -1
+yu_5
+  rotate: true
+  xy: 1404, 66
+  size: 51, 49
+  orig: 54, 53
+  offset: 1, 2
+  index: -1
+yu_6
+  rotate: true
+  xy: 646, 25
+  size: 188, 220
+  orig: 259, 239
+  offset: 9, 19
+  index: -1
+yu_7
+  rotate: true
+  xy: 1404, 119
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+yu_8
+  rotate: false
+  xy: 983, 2
+  size: 279, 247
+  orig: 279, 247
+  offset: 0, 0
+  index: -1
+yu_9
+  rotate: false
+  xy: 983, 251
+  size: 310, 277
+  orig: 310, 277
+  offset: 0, 0
+  index: -1

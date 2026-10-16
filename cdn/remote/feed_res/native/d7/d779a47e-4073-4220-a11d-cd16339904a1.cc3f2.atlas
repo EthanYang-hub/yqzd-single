@@ -1,0 +1,62 @@
+
+ui_heka_up.png
+size: 141,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DH_sentryRune_shield_alpha
+  rotate: true
+  xy: 110, 123
+  size: 16, 14
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Y1
+  rotate: true
+  xy: 2, 76
+  size: 40, 54
+  orig: 42, 58
+  offset: 0, 3
+  index: -1
+Y11
+  rotate: false
+  xy: 58, 62
+  size: 40, 54
+  orig: 42, 58
+  offset: 0, 3
+  index: -1
+Y111
+  rotate: false
+  xy: 2, 20
+  size: 40, 54
+  orig: 42, 58
+  offset: 0, 3
+  index: -1
+Y2
+  rotate: true
+  xy: 44, 21
+  size: 39, 52
+  orig: 41, 54
+  offset: 1, 1
+  index: -1
+Y22
+  rotate: false
+  xy: 98, 8
+  size: 39, 52
+  orig: 41, 54
+  offset: 1, 1
+  index: -1
+Y222
+  rotate: false
+  xy: 100, 64
+  size: 39, 52
+  orig: 41, 54
+  offset: 1, 1
+  index: -1
+handsofLightning_diff_test
+  rotate: false
+  xy: 2, 118
+  size: 106, 21
+  orig: 128, 32
+  offset: 12, 5
+  index: -1

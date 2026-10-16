@@ -1,0 +1,146 @@
+
+effect_buff_bing.png
+size: 530,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0477
+  rotate: false
+  xy: 472, 86
+  size: 56, 51
+  orig: 64, 64
+  offset: 4, 6
+  index: -1
+bingzhu_1
+  rotate: true
+  xy: 2, 2
+  size: 73, 108
+  orig: 73, 108
+  offset: 0, 0
+  index: -1
+bingzhu_2
+  rotate: false
+  xy: 303, 179
+  size: 95, 105
+  orig: 95, 141
+  offset: 0, 0
+  index: -1
+bingzhu_3
+  rotate: true
+  xy: 112, 3
+  size: 72, 120
+  orig: 72, 120
+  offset: 0, 0
+  index: -1
+bingzhu_4
+  rotate: false
+  xy: 2, 77
+  size: 161, 207
+  orig: 161, 207
+  offset: 0, 0
+  index: -1
+dabing_1
+  rotate: false
+  xy: 438, 139
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+dabing_10
+  rotate: false
+  xy: 233, 77
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+dabing_11
+  rotate: true
+  xy: 318, 3
+  size: 77, 88
+  orig: 77, 88
+  offset: 0, 0
+  index: -1
+dabing_12
+  rotate: false
+  xy: 315, 82
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+dabing_13
+  rotate: true
+  xy: 234, 4
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1
+dabing_14
+  rotate: true
+  xy: 408, 20
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+dabing_15
+  rotate: false
+  xy: 165, 81
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+dabing_2
+  rotate: false
+  xy: 400, 209
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+dabing_3
+  rotate: false
+  xy: 469, 20
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+dabing_4
+  rotate: true
+  xy: 402, 82
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+dabing_5
+  rotate: false
+  xy: 165, 143
+  size: 66, 141
+  orig: 66, 141
+  offset: 0, 0
+  index: -1
+dabing_6
+  rotate: false
+  xy: 402, 136
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+dabing_7
+  rotate: false
+  xy: 452, 219
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+dabing_8
+  rotate: true
+  xy: 482, 166
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+dabing_9
+  rotate: true
+  xy: 233, 176
+  size: 108, 68
+  orig: 108, 69
+  offset: 0, 0
+  index: -1

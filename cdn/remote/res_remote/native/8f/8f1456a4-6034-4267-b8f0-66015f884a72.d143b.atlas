@@ -1,0 +1,27 @@
+
+ui_fengdu_men2.png
+size: 910,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rr1
+  rotate: false
+  xy: 2, 14
+  size: 374, 345
+  orig: 400, 388
+  offset: 13, 28
+  index: -1
+rr2
+  rotate: true
+  xy: 378, 2
+  size: 357, 305
+  orig: 400, 388
+  offset: 19, 49
+  index: -1
+rr3
+  rotate: true
+  xy: 685, 104
+  size: 255, 223
+  orig: 362, 388
+  offset: 38, 93
+  index: -1

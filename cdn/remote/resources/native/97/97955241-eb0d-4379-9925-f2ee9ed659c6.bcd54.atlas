@@ -1,0 +1,167 @@
+
+ui_ranhundeng.png
+size: 1006,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FrostCloud1
+  rotate: true
+  xy: 789, 96
+  size: 111, 101
+  orig: 125, 119
+  offset: 7, 9
+  index: -1
+a1
+  rotate: true
+  xy: 946, 264
+  size: 63, 58
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 743, 8
+  size: 78, 70
+  orig: 78, 74
+  offset: 0, 2
+  index: -1
+a3
+  rotate: true
+  xy: 2, 140
+  size: 187, 165
+  orig: 203, 172
+  offset: 1, 6
+  index: -1
+b1
+  rotate: true
+  xy: 946, 199
+  size: 63, 58
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+b2
+  rotate: true
+  xy: 678, 6
+  size: 72, 63
+  orig: 98, 89
+  offset: 11, 13
+  index: -1
+b3
+  rotate: true
+  xy: 169, 140
+  size: 187, 165
+  orig: 203, 166
+  offset: 1, 0
+  index: -1
+b4
+  rotate: false
+  xy: 2, 2
+  size: 136, 136
+  orig: 158, 158
+  offset: 11, 11
+  index: -1
+c1
+  rotate: true
+  xy: 946, 134
+  size: 63, 58
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+c2
+  rotate: true
+  xy: 946, 69
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 678, 80
+  size: 109, 122
+  orig: 203, 166
+  offset: 44, 0
+  index: -1
+c4
+  rotate: false
+  xy: 422, 7
+  size: 144, 144
+  orig: 158, 158
+  offset: 7, 7
+  index: -1
+d1
+  rotate: true
+  xy: 823, 31
+  size: 63, 60
+  orig: 64, 60
+  offset: 1, 0
+  index: -1
+d2
+  rotate: true
+  xy: 946, 4
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 764, 209
+  size: 104, 118
+  orig: 203, 166
+  offset: 48, 0
+  index: -1
+d4
+  rotate: true
+  xy: 500, 165
+  size: 162, 156
+  orig: 178, 178
+  offset: 8, 14
+  index: -1
+e1
+  rotate: true
+  xy: 885, 31
+  size: 63, 59
+  orig: 64, 60
+  offset: 1, 0
+  index: -1
+e2
+  rotate: false
+  xy: 870, 269
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+e3
+  rotate: false
+  xy: 658, 204
+  size: 104, 123
+  orig: 203, 178
+  offset: 48, 7
+  index: -1
+e4
+  rotate: true
+  xy: 336, 153
+  size: 174, 162
+  orig: 176, 172
+  offset: 2, 5
+  index: -1
+e5
+  rotate: true
+  xy: 270, 11
+  size: 127, 150
+  orig: 156, 183
+  offset: 16, 17
+  index: -1
+e6
+  rotate: false
+  xy: 568, 20
+  size: 108, 143
+  orig: 151, 193
+  offset: 18, 23
+  index: -1
+flash_arcane_05
+  rotate: false
+  xy: 140, 10
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+zhandou_pet_fox_2.png
+size: 1094,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line1
+  rotate: false
+  xy: 2, 10
+  size: 85, 193
+  orig: 102, 242
+  offset: 16, 4
+  index: -1
+line2
+  rotate: true
+  xy: 295, 2
+  size: 40, 283
+  orig: 40, 288
+  offset: 0, 0
+  index: -1
+line3
+  rotate: true
+  xy: 669, 4
+  size: 65, 239
+  orig: 72, 263
+  offset: 0, 0
+  index: -1
+pd1
+  rotate: false
+  xy: 798, 86
+  size: 105, 117
+  orig: 144, 145
+  offset: 34, 16
+  index: -1
+pd2
+  rotate: true
+  xy: 580, 4
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 251, 44
+  size: 159, 295
+  orig: 317, 410
+  offset: 158, 0
+  index: -1
+shouL1
+  rotate: true
+  xy: 89, 10
+  size: 22, 71
+  orig: 26, 73
+  offset: 3, 1
+  index: -1
+shouL2
+  rotate: true
+  xy: 1000, 63
+  size: 65, 78
+  orig: 78, 78
+  offset: 3, 0
+  index: -1
+shouR1
+  rotate: false
+  xy: 233, 12
+  size: 60, 20
+  orig: 62, 32
+  offset: 1, 1
+  index: -1
+shouR2
+  rotate: true
+  xy: 1000, 12
+  size: 49, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 910, 5
+  size: 88, 81
+  orig: 92, 81
+  offset: 4, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 162, 10
+  size: 22, 69
+  orig: 22, 69
+  offset: 0, 0
+  index: -1
+wei1
+  rotate: true
+  xy: 1000, 130
+  size: 73, 92
+  orig: 73, 92
+  offset: 0, 0
+  index: -1
+wei2
+  rotate: false
+  xy: 89, 34
+  size: 160, 169
+  orig: 164, 171
+  offset: 4, 0
+  index: -1
+wei3
+  rotate: false
+  xy: 668, 71
+  size: 128, 132
+  orig: 128, 132
+  offset: 0, 0
+  index: -1
+wei4
+  rotate: false
+  xy: 905, 88
+  size: 77, 115
+  orig: 77, 116
+  offset: 0, 1
+  index: -1
+wei5
+  rotate: false
+  xy: 548, 46
+  size: 118, 157
+  orig: 118, 157
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 653, 28
+  size: 16, 14
+  orig: 22, 18
+  offset: 3, 2
+  index: -1

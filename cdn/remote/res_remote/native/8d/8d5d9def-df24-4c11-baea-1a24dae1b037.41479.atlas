@@ -1,0 +1,34 @@
+
+ui_chunjie_chou_down.png
+size: 1944,654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Drangen
+  rotate: false
+  xy: 2, 98
+  size: 993, 391
+  orig: 993, 391
+  offset: 0, 0
+  index: -1
+TY
+  rotate: false
+  xy: 2, 491
+  size: 1648, 161
+  orig: 1648, 161
+  offset: 0, 0
+  index: -1
+caishen
+  rotate: false
+  xy: 997, 2
+  size: 755, 487
+  orig: 760, 507
+  offset: 5, 20
+  index: -1
+heiwu
+  rotate: true
+  xy: 1754, 240
+  size: 412, 188
+  orig: 412, 188
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+weapon_skill_jian_1.png
+size: 1577,891
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zi_1
+  rotate: true
+  xy: 1111, 499
+  size: 93, 273
+  orig: 93, 273
+  offset: 0, 0
+  index: -1
+zi_3
+  rotate: true
+  xy: 2, 594
+  size: 295, 1526
+  orig: 295, 1559
+  offset: 0, 24
+  index: -1
+zi_4
+  rotate: true
+  xy: 926, 15
+  size: 346, 649
+  orig: 346, 649
+  offset: 0, 0
+  index: -1
+zi_5
+  rotate: true
+  xy: 2, 363
+  size: 229, 1107
+  orig: 229, 1107
+  offset: 0, 0
+  index: -1
+zi_6
+  rotate: true
+  xy: 2, 2
+  size: 359, 922
+  orig: 393, 991
+  offset: 17, 56
+  index: -1

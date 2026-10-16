@@ -1,0 +1,62 @@
+
+zbz_effect_choose.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zbz_current_light1
+  rotate: false
+  xy: 2, 284
+  size: 142, 106
+  orig: 142, 106
+  offset: 0, 0
+  index: -1
+zbz_current_light2
+  rotate: false
+  xy: 146, 284
+  size: 142, 106
+  orig: 142, 106
+  offset: 0, 0
+  index: -1
+zbz_current_light3
+  rotate: false
+  xy: 290, 264
+  size: 168, 126
+  orig: 168, 126
+  offset: 0, 0
+  index: -1
+zbz_dottedline_00000
+  rotate: false
+  xy: 2, 153
+  size: 171, 129
+  orig: 175, 135
+  offset: 2, 3
+  index: -1
+zbz_dottedline_00001
+  rotate: false
+  xy: 175, 133
+  size: 170, 129
+  orig: 175, 135
+  offset: 3, 3
+  index: -1
+zbz_dottedline_00002
+  rotate: false
+  xy: 2, 22
+  size: 170, 129
+  orig: 175, 135
+  offset: 3, 3
+  index: -1
+zbz_dottedline_00003
+  rotate: false
+  xy: 174, 2
+  size: 171, 129
+  orig: 175, 135
+  offset: 2, 3
+  index: -1
+zbz_dottedline_00004
+  rotate: true
+  xy: 347, 93
+  size: 169, 129
+  orig: 175, 135
+  offset: 2, 3
+  index: -1

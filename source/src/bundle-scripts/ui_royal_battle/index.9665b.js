@@ -1,0 +1,1 @@
+"use strict";var t,e;System.register("chunks:///_virtual/ui_royal_battle",[],(function(){return{execute:function(){}}})),t="virtual:///prerequisite-imports/ui_royal_battle",e="chunks:///_virtual/ui_royal_battle",System.register(t,[e],(function(t,e){return{setters:[function(e){var r={};for(var u in e)"default"!==u&&"__esModule"!==u&&(r[u]=e[u]);t(r)}],execute:function(){}}})); 

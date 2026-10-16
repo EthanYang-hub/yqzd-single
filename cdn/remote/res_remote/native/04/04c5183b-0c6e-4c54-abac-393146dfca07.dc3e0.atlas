@@ -1,0 +1,62 @@
+
+ui_juedoujiesuan3.png
+size: 2021,1423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_juedoujiesuan-12
+  rotate: true
+  xy: 970, 335
+  size: 783, 340
+  orig: 786, 349
+  offset: 0, 0
+  index: -1
+UI_juedoujiesuan-13
+  rotate: false
+  xy: 619, 2
+  size: 867, 331
+  orig: 871, 377
+  offset: 1, 0
+  index: -1
+UI_juedoujiesuan-14
+  rotate: false
+  xy: 619, 341
+  size: 313, 250
+  orig: 313, 375
+  offset: 0, 0
+  index: -1
+UI_juedoujiesuan-15
+  rotate: false
+  xy: 1488, 35
+  size: 357, 417
+  orig: 604, 572
+  offset: 3, 0
+  index: -1
+UI_juedoujiesuan-16
+  rotate: false
+  xy: 2, 593
+  size: 966, 525
+  orig: 966, 525
+  offset: 0, 0
+  index: -1
+UI_juedoujiesuan-17
+  rotate: false
+  xy: 2, 1120
+  size: 1491, 301
+  orig: 1551, 377
+  offset: 46, 0
+  index: -1
+UI_juedoujiesuan-18
+  rotate: false
+  xy: 2, 7
+  size: 615, 584
+  orig: 615, 584
+  offset: 0, 0
+  index: -1
+UI_juedoujiesuan-19
+  rotate: true
+  xy: 1495, 454
+  size: 967, 524
+  orig: 967, 524
+  offset: 0, 0
+  index: -1

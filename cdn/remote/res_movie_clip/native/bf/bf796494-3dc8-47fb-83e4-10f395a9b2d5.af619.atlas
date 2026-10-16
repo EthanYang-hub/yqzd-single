@@ -1,0 +1,286 @@
+
+petSkill_firemask_2.png
+size: 1605,722
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0178
+  rotate: false
+  xy: 1410, 375
+  size: 111, 110
+  orig: 128, 128
+  offset: 6, 8
+  index: -1
+B_1
+  rotate: false
+  xy: 1286, 210
+  size: 149, 163
+  orig: 161, 180
+  offset: 4, 4
+  index: -1
+B_2
+  rotate: false
+  xy: 1249, 375
+  size: 128, 157
+  orig: 137, 173
+  offset: 3, 7
+  index: -1
+B_3
+  rotate: false
+  xy: 1208, 534
+  size: 175, 186
+  orig: 189, 198
+  offset: 8, 8
+  index: -1
+Global_SS_Ignite_Glow
+  rotate: false
+  xy: 1437, 139
+  size: 126, 126
+  orig: 128, 128
+  offset: 2, 0
+  index: -1
+H1
+  rotate: false
+  xy: 991, 4
+  size: 138, 106
+  orig: 138, 107
+  offset: 0, 0
+  index: -1
+H2
+  rotate: false
+  xy: 1131, 6
+  size: 134, 104
+  orig: 135, 107
+  offset: 0, 3
+  index: -1
+down
+  rotate: false
+  xy: 800, 3
+  size: 189, 107
+  orig: 197, 112
+  offset: 5, 5
+  index: -1
+eye_lwy_t_sun_31_single
+  rotate: false
+  xy: 748, 112
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fireball_10_green
+  rotate: true
+  xy: 1368, 11
+  size: 126, 122
+  orig: 128, 126
+  offset: 2, 0
+  index: -1
+gui_1
+  rotate: false
+  xy: 2, 3
+  size: 687, 717
+  orig: 687, 717
+  offset: 0, 0
+  index: -1
+guimian_3
+  rotate: true
+  xy: 1379, 394
+  size: 138, 29
+  orig: 138, 29
+  offset: 0, 0
+  index: -1
+guimian_4
+  rotate: true
+  xy: 948, 519
+  size: 201, 56
+  orig: 201, 56
+  offset: 0, 0
+  index: -1
+guimian_5
+  rotate: true
+  xy: 691, 107
+  size: 261, 55
+  orig: 261, 55
+  offset: 0, 0
+  index: -1
+h3
+  rotate: true
+  xy: 691, 2
+  size: 103, 107
+  orig: 105, 107
+  offset: 2, 0
+  index: -1
+hit_1
+  rotate: true
+  xy: 1506, 527
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1
+hit_2
+  rotate: true
+  xy: 1385, 553
+  size: 67, 119
+  orig: 67, 119
+  offset: 0, 0
+  index: -1
+hit_3
+  rotate: true
+  xy: 1495, 282
+  size: 55, 96
+  orig: 55, 96
+  offset: 0, 0
+  index: -1
+huo1_050
+  rotate: false
+  xy: 1106, 530
+  size: 100, 190
+  orig: 105, 216
+  offset: 2, 20
+  index: -1
+huo1_051
+  rotate: false
+  xy: 1006, 520
+  size: 98, 200
+  orig: 104, 216
+  offset: 3, 9
+  index: -1
+huo1_052
+  rotate: false
+  xy: 1267, 2
+  size: 99, 183
+  orig: 104, 218
+  offset: 2, 29
+  index: -1
+huo1_053
+  rotate: false
+  xy: 1186, 187
+  size: 98, 186
+  orig: 102, 210
+  offset: 2, 21
+  index: -1
+huo1_1
+  rotate: false
+  xy: 1048, 374
+  size: 98, 144
+  orig: 105, 157
+  offset: 4, 7
+  index: -1
+huo1_2
+  rotate: false
+  xy: 948, 372
+  size: 98, 145
+  orig: 104, 154
+  offset: 3, 2
+  index: -1
+huo1_3
+  rotate: false
+  xy: 1148, 375
+  size: 99, 153
+  orig: 104, 161
+  offset: 2, 2
+  index: -1
+huo1_4
+  rotate: true
+  xy: 1437, 622
+  size: 98, 136
+  orig: 102, 139
+  offset: 2, 0
+  index: -1
+nocturne_cyber_q_waveys_black
+  rotate: true
+  xy: 691, 370
+  size: 350, 255
+  orig: 359, 256
+  offset: 4, 0
+  index: -1
+suihuo_004
+  rotate: true
+  xy: 1385, 674
+  size: 46, 50
+  orig: 52, 54
+  offset: 3, 2
+  index: -1
+suihuo_005
+  rotate: true
+  xy: 1523, 339
+  size: 56, 58
+  orig: 61, 63
+  offset: 3, 3
+  index: -1
+suihuo_006
+  rotate: false
+  xy: 1073, 112
+  size: 59, 62
+  orig: 65, 66
+  offset: 3, 1
+  index: -1
+suihuo_007
+  rotate: true
+  xy: 1006, 112
+  size: 62, 65
+  orig: 68, 68
+  offset: 3, 0
+  index: -1
+suihuo_008
+  rotate: false
+  xy: 1191, 119
+  size: 64, 66
+  orig: 69, 68
+  offset: 2, 0
+  index: -1
+suihuo_009
+  rotate: false
+  xy: 1437, 487
+  size: 64, 64
+  orig: 69, 68
+  offset: 2, 1
+  index: -1
+suihuo_010
+  rotate: false
+  xy: 1523, 462
+  size: 64, 63
+  orig: 69, 68
+  offset: 2, 2
+  index: -1
+suihuo_011
+  rotate: false
+  xy: 1523, 397
+  size: 63, 63
+  orig: 68, 68
+  offset: 2, 2
+  index: -1
+suihuo_012
+  rotate: false
+  xy: 1134, 115
+  size: 55, 59
+  orig: 66, 66
+  offset: 4, 2
+  index: -1
+suihuo_013
+  rotate: true
+  xy: 1437, 321
+  size: 52, 56
+  orig: 59, 64
+  offset: 4, 5
+  index: -1
+suihuo_014
+  rotate: true
+  xy: 1437, 267
+  size: 52, 55
+  orig: 59, 64
+  offset: 4, 6
+  index: -1
+suihuo_015
+  rotate: false
+  xy: 1385, 638
+  size: 46, 34
+  orig: 54, 43
+  offset: 5, 6
+  index: -1
+up
+  rotate: true
+  xy: 1006, 176
+  size: 194, 178
+  orig: 220, 178
+  offset: 26, 0
+  index: -1

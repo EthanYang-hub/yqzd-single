@@ -1,0 +1,181 @@
+
+ui_shuijing_shiguan_up.png
+size: 1616,1616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: true
+  xy: 2, 42
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+guancai_guang
+  rotate: false
+  xy: 2, 296
+  size: 409, 77
+  orig: 422, 90
+  offset: 6, 8
+  index: -1
+guancai_yan1
+  rotate: true
+  xy: 2, 375
+  size: 321, 578
+  orig: 421, 636
+  offset: 2, 56
+  index: -1
+guancai_yan2
+  rotate: false
+  xy: 2, 698
+  size: 773, 916
+  orig: 940, 991
+  offset: 63, 74
+  index: -1
+guancai_yan3
+  rotate: true
+  xy: 777, 29
+  size: 732, 766
+  orig: 861, 898
+  offset: 83, 93
+  index: -1
+guancai_yan4
+  rotate: false
+  xy: 777, 763
+  size: 837, 851
+  orig: 883, 894
+  offset: 2, 42
+  index: -1
+lazhu_fire1
+  rotate: false
+  xy: 1545, 408
+  size: 39, 61
+  orig: 44, 71
+  offset: 2, 8
+  index: -1
+lazhu_fire2
+  rotate: false
+  xy: 1545, 139
+  size: 17, 31
+  orig: 24, 35
+  offset: 3, 2
+  index: -1
+lazhu_fire3
+  rotate: false
+  xy: 1545, 172
+  size: 18, 31
+  orig: 22, 36
+  offset: 2, 3
+  index: -1
+lazhu_fire4
+  rotate: false
+  xy: 1545, 294
+  size: 24, 50
+  orig: 26, 54
+  offset: 1, 2
+  index: -1
+lazhu_fire5
+  rotate: false
+  xy: 1545, 243
+  size: 22, 49
+  orig: 25, 53
+  offset: 1, 2
+  index: -1
+lazhu_fire6
+  rotate: false
+  xy: 1545, 205
+  size: 22, 36
+  orig: 32, 45
+  offset: 8, 8
+  index: -1
+lazhu_fire7
+  rotate: false
+  xy: 1545, 107
+  size: 13, 30
+  orig: 37, 46
+  offset: 11, 13
+  index: -1
+lazhu_fire8
+  rotate: false
+  xy: 1545, 346
+  size: 30, 60
+  orig: 38, 69
+  offset: 7, 5
+  index: -1
+lazhu_guang1
+  rotate: true
+  xy: 1545, 570
+  size: 53, 45
+  orig: 67, 55
+  offset: 6, 4
+  index: -1
+lazhu_guang2
+  rotate: false
+  xy: 1545, 513
+  size: 42, 55
+  orig: 51, 64
+  offset: 4, 3
+  index: -1
+lazhu_guang3
+  rotate: true
+  xy: 1545, 625
+  size: 61, 45
+  orig: 194, 118
+  offset: 130, 71
+  index: -1
+lazhu_guang4
+  rotate: false
+  xy: 1545, 471
+  size: 40, 40
+  orig: 45, 47
+  offset: 3, 2
+  index: -1
+lazhu_guang5
+  rotate: true
+  xy: 1545, 688
+  size: 73, 64
+  orig: 79, 71
+  offset: 3, 4
+  index: -1
+lazhu_yan2
+  rotate: true
+  xy: 168, 165
+  size: 129, 118
+  orig: 147, 152
+  offset: 9, 16
+  index: -1
+lazhu_yan3
+  rotate: true
+  xy: 563, 32
+  size: 141, 148
+  orig: 192, 174
+  offset: 41, 2
+  index: -1
+lazhu_yan4
+  rotate: false
+  xy: 563, 175
+  size: 161, 169
+  orig: 175, 177
+  offset: 8, 7
+  index: -1
+suolian1
+  rotate: false
+  xy: 582, 346
+  size: 168, 350
+  orig: 176, 357
+  offset: 1, 5
+  index: -1
+suolian2
+  rotate: false
+  xy: 413, 6
+  size: 148, 367
+  orig: 153, 370
+  offset: 2, 2
+  index: -1
+suolian3
+  rotate: false
+  xy: 2, 172
+  size: 164, 122
+  orig: 164, 126
+  offset: 0, 1
+  index: -1

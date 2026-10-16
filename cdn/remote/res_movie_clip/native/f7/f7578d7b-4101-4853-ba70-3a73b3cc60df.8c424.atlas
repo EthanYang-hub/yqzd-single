@@ -1,0 +1,20 @@
+
+ronghe_shou2_monster_2019.png
+size: 545,545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 106
+  size: 141, 437
+  orig: 141, 437
+  offset: 0, 0
+  index: -1

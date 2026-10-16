@@ -1,0 +1,20 @@
+
+monster_3017_kongzhi.png
+size: 231,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KZ_0
+  rotate: true
+  xy: 126, 2
+  size: 143, 103
+  orig: 147, 114
+  offset: 2, 4
+  index: -1
+KZ_2
+  rotate: false
+  xy: 2, 13
+  size: 122, 132
+  orig: 135, 134
+  offset: 6, 2
+  index: -1

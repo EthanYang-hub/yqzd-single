@@ -1,0 +1,132 @@
+
+ui_mojin_uisaoguang.png
+size: 538,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi
+  rotate: false
+  xy: 2, 14
+  size: 206, 142
+  orig: 206, 145
+  offset: 0, 0
+  index: -1
+saoguang_1
+  rotate: false
+  xy: 404, 472
+  size: 132, 64
+  orig: 140, 69
+  offset: 1, 3
+  index: -1
+saoguang_10
+  rotate: true
+  xy: 421, 216
+  size: 254, 56
+  orig: 269, 63
+  offset: 7, 3
+  index: -1
+saoguang_11
+  rotate: true
+  xy: 479, 253
+  size: 217, 54
+  orig: 236, 61
+  offset: 8, 4
+  index: -1
+saoguang_12
+  rotate: true
+  xy: 421, 36
+  size: 178, 50
+  orig: 198, 59
+  offset: 9, 6
+  index: -1
+saoguang_13
+  rotate: true
+  xy: 210, 20
+  size: 136, 47
+  orig: 155, 58
+  offset: 11, 7
+  index: -1
+saoguang_14
+  rotate: true
+  xy: 259, 70
+  size: 86, 36
+  orig: 116, 56
+  offset: 16, 14
+  index: -1
+saoguang_15
+  rotate: false
+  xy: 393, 469
+  size: 9, 4
+  orig: 75, 48
+  offset: 30, 28
+  index: -1
+saoguang_16
+  rotate: false
+  xy: 535, 469
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+saoguang_17
+  rotate: false
+  xy: 535, 469
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+saoguang_2
+  rotate: true
+  xy: 297, 5
+  size: 218, 65
+  orig: 223, 70
+  offset: 1, 2
+  index: -1
+saoguang_3
+  rotate: false
+  xy: 2, 158
+  size: 288, 65
+  orig: 293, 70
+  offset: 1, 2
+  index: -1
+saoguang_4
+  rotate: false
+  xy: 2, 283
+  size: 348, 63
+  orig: 356, 69
+  offset: 2, 3
+  index: -1
+saoguang_5
+  rotate: false
+  xy: 2, 408
+  size: 389, 65
+  orig: 408, 70
+  offset: 10, 2
+  index: -1
+saoguang_6
+  rotate: false
+  xy: 2, 475
+  size: 400, 61
+  orig: 419, 69
+  offset: 13, 2
+  index: -1
+saoguang_7
+  rotate: false
+  xy: 2, 348
+  size: 373, 58
+  orig: 388, 65
+  offset: 6, 3
+  index: -1
+saoguang_8
+  rotate: false
+  xy: 2, 225
+  size: 337, 56
+  orig: 354, 63
+  offset: 6, 3
+  index: -1
+saoguang_9
+  rotate: true
+  xy: 364, 49
+  size: 297, 55
+  orig: 316, 63
+  offset: 7, 4
+  index: -1

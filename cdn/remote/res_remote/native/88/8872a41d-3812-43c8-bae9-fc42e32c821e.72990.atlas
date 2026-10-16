@@ -1,0 +1,34 @@
+
+ui_saiji_rukou5.png
+size: 1058,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q1
+  rotate: false
+  xy: 2, 2
+  size: 499, 484
+  orig: 499, 484
+  offset: 0, 0
+  index: -1
+q2
+  rotate: true
+  xy: 503, 30
+  size: 83, 214
+  orig: 83, 214
+  offset: 0, 0
+  index: -1
+q3
+  rotate: false
+  xy: 719, 39
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+q4
+  rotate: false
+  xy: 503, 115
+  size: 553, 371
+  orig: 553, 372
+  offset: 0, 1
+  index: -1

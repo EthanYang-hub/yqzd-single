@@ -1,0 +1,27 @@
+
+ui_faqimuzang_up.png
+size: 309,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 202
+  size: 127, 279
+  orig: 128, 325
+  offset: 1, 31
+  index: -1
+2
+  rotate: true
+  xy: 183, 52
+  size: 148, 124
+  orig: 158, 152
+  offset: 5, 26
+  index: -1
+wisp
+  rotate: false
+  xy: 2, 2
+  size: 179, 198
+  orig: 200, 200
+  offset: 21, 2
+  index: -1

@@ -1,0 +1,69 @@
+
+lihui_pet_runsheng.png
+size: 1364,990
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 804, 2
+  size: 232, 95
+  orig: 232, 95
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1035, 149
+  size: 298, 369
+  orig: 315, 369
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 629, 273
+  size: 245, 353
+  orig: 245, 353
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1038, 20
+  size: 152, 127
+  orig: 156, 127
+  offset: 4, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 265
+  size: 625, 723
+  orig: 659, 779
+  offset: 34, 56
+  index: -1
+6
+  rotate: true
+  xy: 2, 99
+  size: 164, 1031
+  orig: 164, 1031
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 5
+  size: 92, 800
+  orig: 92, 800
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 629, 520
+  size: 208, 677
+  orig: 208, 677
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 629, 730
+  size: 258, 733
+  orig: 258, 733
+  offset: 0, 0
+  index: -1

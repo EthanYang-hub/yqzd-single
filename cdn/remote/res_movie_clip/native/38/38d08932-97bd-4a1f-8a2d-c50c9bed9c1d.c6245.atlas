@@ -1,0 +1,125 @@
+
+monster_3018_1_effect.png
+size: 579,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+84f46d29c25d324a96743f0a96a0a6ead12fd52a2651c-YbZVAP
+  rotate: false
+  xy: 192, 10
+  size: 173, 172
+  orig: 174, 174
+  offset: 0, 2
+  index: -1
+D_qipao_5
+  rotate: true
+  xy: 547, 146
+  size: 36, 30
+  orig: 38, 30
+  offset: 2, 0
+  index: -1
+M_qipao_12
+  rotate: false
+  xy: 547, 59
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+M_qipao_14
+  rotate: false
+  xy: 547, 46
+  size: 11, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+M_qipao_16
+  rotate: false
+  xy: 561, 79
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+M_qipao_17
+  rotate: false
+  xy: 547, 33
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+M_qipao_18
+  rotate: false
+  xy: 547, 92
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+M_qipao_2
+  rotate: false
+  xy: 560, 33
+  size: 9, 9
+  orig: 13, 15
+  offset: 4, 0
+  index: -1
+M_qipao_3
+  rotate: false
+  xy: 560, 44
+  size: 10, 13
+  orig: 11, 14
+  offset: 1, 1
+  index: -1
+M_qipao_4
+  rotate: false
+  xy: 547, 108
+  size: 14, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+M_qipao_5
+  rotate: true
+  xy: 547, 21
+  size: 10, 14
+  orig: 23, 16
+  offset: 0, 1
+  index: -1
+M_qipao_6
+  rotate: false
+  xy: 547, 74
+  size: 12, 16
+  orig: 14, 17
+  offset: 2, 0
+  index: -1
+M_qipao_7
+  rotate: false
+  xy: 563, 117
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+M_qipao_8
+  rotate: false
+  xy: 547, 127
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+M_qipao_9
+  rotate: false
+  xy: 561, 67
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+energyhitring1
+  rotate: true
+  xy: 2, 2
+  size: 180, 188
+  orig: 192, 192
+  offset: 2, 4
+  index: -1
+glyphOfHealing_flash_cyan_01
+  rotate: false
+  xy: 367, 14
+  size: 178, 168
+  orig: 192, 192
+  offset: 9, 9
+  index: -1

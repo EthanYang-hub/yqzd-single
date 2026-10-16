@@ -1,0 +1,104 @@
+
+ui_yan_battle_5.png
+size: 1922,827
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long_bo
+  rotate: false
+  xy: 1577, 3
+  size: 260, 280
+  orig: 260, 280
+  offset: 0, 0
+  index: -1
+long_fazhen
+  rotate: false
+  xy: 2, 232
+  size: 586, 593
+  orig: 611, 615
+  offset: 8, 11
+  index: -1
+long_fazhen_guang
+  rotate: false
+  xy: 1613, 285
+  size: 290, 274
+  orig: 304, 296
+  offset: 5, 12
+  index: -1
+long_jiao
+  rotate: false
+  xy: 429, 29
+  size: 64, 201
+  orig: 66, 204
+  offset: 1, 1
+  index: -1
+long_tou
+  rotate: false
+  xy: 1358, 500
+  size: 253, 325
+  orig: 256, 329
+  offset: 1, 1
+  index: -1
+long_tou_guang
+  rotate: false
+  xy: 1081, 487
+  size: 275, 338
+  orig: 283, 347
+  offset: 4, 4
+  index: -1
+long_tou_huo
+  rotate: false
+  xy: 590, 314
+  size: 489, 511
+  orig: 489, 511
+  offset: 0, 0
+  index: -1
+long_yan_guang1
+  rotate: false
+  xy: 495, 32
+  size: 157, 198
+  orig: 168, 218
+  offset: 8, 14
+  index: -1
+long_yan_guang2
+  rotate: false
+  xy: 2, 6
+  size: 298, 224
+  orig: 318, 231
+  offset: 4, 5
+  index: -1
+long_yun1
+  rotate: true
+  xy: 302, 13
+  size: 217, 125
+  orig: 248, 162
+  offset: 17, 12
+  index: -1
+long_yun2
+  rotate: false
+  xy: 654, 2
+  size: 308, 310
+  orig: 380, 319
+  offset: 53, 6
+  index: -1
+long_yun3
+  rotate: true
+  xy: 964, 5
+  size: 307, 304
+  orig: 383, 314
+  offset: 57, 6
+  index: -1
+long_yun4
+  rotate: false
+  xy: 1270, 151
+  size: 305, 334
+  orig: 382, 340
+  offset: 57, 3
+  index: -1
+long_yun5
+  rotate: false
+  xy: 1613, 561
+  size: 307, 264
+  orig: 385, 273
+  offset: 59, 6
+  index: -1

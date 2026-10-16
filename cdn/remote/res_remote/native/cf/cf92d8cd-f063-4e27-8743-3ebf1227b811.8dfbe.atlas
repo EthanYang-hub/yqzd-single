@@ -1,0 +1,111 @@
+
+UI_saiji_jifensai.png
+size: 1825,1061
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 910, 387
+  size: 679, 672
+  orig: 725, 707
+  offset: 14, 32
+  index: -1
+ding_dian
+  rotate: false
+  xy: 1591, 454
+  size: 228, 112
+  orig: 230, 115
+  offset: 1, 1
+  index: -1
+ding_ding
+  rotate: false
+  xy: 1591, 568
+  size: 228, 242
+  orig: 232, 247
+  offset: 2, 3
+  index: -1
+guangyun
+  rotate: false
+  xy: 1287, 38
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+huo
+  rotate: true
+  xy: 2, 70
+  size: 989, 452
+  orig: 991, 454
+  offset: 1, 1
+  index: -1
+huo_liuguang1
+  rotate: true
+  xy: 456, 70
+  size: 989, 452
+  orig: 991, 454
+  offset: 1, 1
+  index: -1
+huo_liuguang2
+  rotate: true
+  xy: 910, 2
+  size: 383, 191
+  orig: 469, 212
+  offset: 35, 12
+  index: -1
+huo_liuguang3
+  rotate: true
+  xy: 1103, 49
+  size: 336, 182
+  orig: 546, 206
+  offset: 97, 14
+  index: -1
+huo_liuguang4
+  rotate: true
+  xy: 1591, 40
+  size: 412, 202
+  orig: 517, 217
+  offset: 20, 1
+  index: -1
+jian_jian1
+  rotate: true
+  xy: 1287, 296
+  size: 89, 294
+  orig: 93, 297
+  offset: 2, 1
+  index: -1
+jian_jian2
+  rotate: true
+  xy: 2, 7
+  size: 61, 87
+  orig: 63, 89
+  offset: 1, 1
+  index: -1
+jian_jian3
+  rotate: true
+  xy: 325, 14
+  size: 54, 144
+  orig: 56, 147
+  offset: 1, 1
+  index: -1
+jian_jian4
+  rotate: true
+  xy: 180, 9
+  size: 59, 143
+  orig: 61, 147
+  offset: 1, 2
+  index: -1
+jian_jian5
+  rotate: true
+  xy: 91, 7
+  size: 61, 87
+  orig: 63, 89
+  offset: 1, 1
+  index: -1
+lizi
+  rotate: true
+  xy: 1591, 812
+  size: 247, 232
+  orig: 256, 256
+  offset: 5, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+roleSkill_terra_orange.png
+size: 204,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suishi_0
+  rotate: false
+  xy: 80, 62
+  size: 34, 34
+  orig: 256, 256
+  offset: 117, 35
+  index: -1
+suishi_1
+  rotate: true
+  xy: 67, 2
+  size: 58, 43
+  orig: 256, 256
+  offset: 105, 49
+  index: -1
+suishi_10
+  rotate: true
+  xy: 94, 98
+  size: 85, 24
+  orig: 256, 256
+  offset: 110, 37
+  index: -1
+suishi_11
+  rotate: false
+  xy: 126, 354
+  size: 2, 2
+  orig: 256, 256
+  offset: 112, 49
+  index: -1
+suishi_2
+  rotate: false
+  xy: 2, 66
+  size: 76, 54
+  orig: 256, 256
+  offset: 95, 54
+  index: -1
+suishi_3
+  rotate: false
+  xy: 2, 122
+  size: 90, 61
+  orig: 256, 256
+  offset: 87, 56
+  index: -1
+suishi_4
+  rotate: true
+  xy: 126, 237
+  size: 101, 65
+  orig: 256, 256
+  offset: 81, 55
+  index: -1
+suishi_5
+  rotate: true
+  xy: 130, 340
+  size: 110, 72
+  orig: 256, 256
+  offset: 78, 50
+  index: -1
+suishi_6
+  rotate: false
+  xy: 2, 185
+  size: 116, 81
+  orig: 256, 256
+  offset: 76, 43
+  index: -1
+suishi_7
+  rotate: false
+  xy: 2, 268
+  size: 122, 88
+  orig: 256, 256
+  offset: 74, 35
+  index: -1
+suishi_8
+  rotate: false
+  xy: 2, 358
+  size: 126, 92
+  orig: 256, 256
+  offset: 72, 26
+  index: -1
+suishi_9
+  rotate: true
+  xy: 120, 134
+  size: 101, 62
+  orig: 256, 256
+  offset: 96, 48
+  index: -1
+yanshi_05
+  rotate: true
+  xy: 120, 64
+  size: 68, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+yanwu_01
+  rotate: true
+  xy: 2, 3
+  size: 61, 63
+  orig: 64, 64
+  offset: 0, 1
+  index: -1
+yanwu_02
+  rotate: true
+  xy: 116, 7
+  size: 55, 60
+  orig: 64, 64
+  offset: 5, 1
+  index: -1

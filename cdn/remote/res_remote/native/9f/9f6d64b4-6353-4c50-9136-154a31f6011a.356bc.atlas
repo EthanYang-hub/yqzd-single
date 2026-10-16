@@ -1,0 +1,69 @@
+
+ui_minghe_zhandui.png
+size: 1939,801
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fazhen
+  rotate: false
+  xy: 2, 377
+  size: 783, 422
+  orig: 791, 424
+  offset: 3, 0
+  index: -1
+guihun_1
+  rotate: false
+  xy: 1540, 573
+  size: 290, 226
+  orig: 290, 226
+  offset: 0, 0
+  index: -1
+guihun_2
+  rotate: true
+  xy: 1261, 16
+  size: 339, 263
+  orig: 339, 263
+  offset: 0, 0
+  index: -1
+suanwo
+  rotate: false
+  xy: 1782, 412
+  size: 155, 159
+  orig: 155, 159
+  offset: 0, 0
+  index: -1
+suolian_1
+  rotate: false
+  xy: 787, 554
+  size: 751, 245
+  orig: 751, 245
+  offset: 0, 0
+  index: -1
+suolian_2
+  rotate: false
+  xy: 787, 357
+  size: 731, 195
+  orig: 731, 195
+  offset: 0, 0
+  index: -1
+yun_1
+  rotate: true
+  xy: 1526, 43
+  size: 509, 254
+  orig: 509, 254
+  offset: 0, 0
+  index: -1
+yun_2
+  rotate: false
+  xy: 2, 2
+  size: 662, 373
+  orig: 662, 373
+  offset: 0, 0
+  index: -1
+yun_3
+  rotate: false
+  xy: 666, 9
+  size: 593, 346
+  orig: 593, 346
+  offset: 0, 0
+  index: -1

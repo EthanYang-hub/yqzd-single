@@ -1,0 +1,1 @@
+"use strict";var t,u;System.register("chunks:///_virtual/ui_stitch_soul",[],(function(){return{execute:function(){}}})),t="virtual:///prerequisite-imports/ui_stitch_soul",u="chunks:///_virtual/ui_stitch_soul",System.register(t,[u],(function(t,u){return{setters:[function(u){var e={};for(var i in u)"default"!==i&&"__esModule"!==i&&(e[i]=u[i]);t(e)}],execute:function(){}}})); 

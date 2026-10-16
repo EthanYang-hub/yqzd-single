@@ -1,0 +1,20 @@
+
+ui_xuanzhong.png
+size: 403,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuan_1
+  rotate: true
+  xy: 266, 6
+  size: 177, 135
+  orig: 177, 135
+  offset: 0, 0
+  index: -1
+xuan_2
+  rotate: true
+  xy: 2, 2
+  size: 181, 262
+  orig: 181, 262
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+effect_sence_general_heiwu.png
+size: 126,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_2
+  rotate: false
+  xy: 2, 2
+  size: 122, 128
+  orig: 128, 128
+  offset: 1, 0
+  index: -1

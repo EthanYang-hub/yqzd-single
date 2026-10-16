@@ -1,0 +1,139 @@
+
+302120_skill_hit.png
+size: 511,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1hit1/bg_00
+  rotate: false
+  xy: 151, 8
+  size: 121, 122
+  orig: 600, 320
+  offset: 293, 99
+  index: -1
+2hit2/hit_zc_00
+  rotate: true
+  xy: 277, 259
+  size: 118, 109
+  orig: 600, 320
+  offset: 301, 102
+  index: -1
+2hit2/hit_zc_02
+  rotate: false
+  xy: 2, 90
+  size: 136, 128
+  orig: 600, 320
+  offset: 289, 91
+  index: -1
+2hit2/hit_zc_04
+  rotate: false
+  xy: 148, 379
+  size: 137, 130
+  orig: 600, 320
+  offset: 289, 90
+  index: -1
+2hit2/hit_zc_06
+  rotate: false
+  xy: 287, 388
+  size: 140, 121
+  orig: 600, 320
+  offset: 294, 98
+  index: -1
+2hit2/hit_zc_08
+  rotate: false
+  xy: 148, 254
+  size: 127, 123
+  orig: 600, 320
+  offset: 293, 97
+  index: -1
+2hit2/hit_zc_10
+  rotate: true
+  xy: 388, 272
+  size: 114, 100
+  orig: 600, 320
+  offset: 293, 106
+  index: -1
+3hit3/hit_xjbg_03
+  rotate: false
+  xy: 2, 365
+  size: 144, 144
+  orig: 600, 320
+  offset: 282, 88
+  index: -1
+3hit3/hit_xjbgshang_00
+  rotate: false
+  xy: 2, 220
+  size: 143, 143
+  orig: 600, 320
+  offset: 282, 89
+  index: -1
+4hit4/hit_xj_00
+  rotate: false
+  xy: 68, 7
+  size: 81, 81
+  orig: 600, 320
+  offset: 314, 115
+  index: -1
+4hit4/hit_xj_02
+  rotate: false
+  xy: 388, 165
+  size: 107, 105
+  orig: 600, 320
+  offset: 305, 106
+  index: -1
+4hit4/hit_xj_04
+  rotate: false
+  xy: 147, 132
+  size: 124, 120
+  orig: 600, 320
+  offset: 297, 98
+  index: -1
+4hit4/hit_xj_06
+  rotate: false
+  xy: 274, 66
+  size: 91, 97
+  orig: 600, 320
+  offset: 325, 109
+  index: -1
+4hit4/hit_xj_08
+  rotate: true
+  xy: 277, 165
+  size: 92, 100
+  orig: 600, 320
+  offset: 326, 106
+  index: -1
+4hit4/hit_xj_10
+  rotate: true
+  xy: 429, 420
+  size: 89, 78
+  orig: 600, 320
+  offset: 330, 105
+  index: -1
+4hit4/hit_xj_12
+  rotate: true
+  xy: 2, 2
+  size: 86, 64
+  orig: 600, 320
+  offset: 333, 105
+  index: -1
+4hit4/hit_xj_14
+  rotate: false
+  xy: 367, 99
+  size: 83, 64
+  orig: 600, 320
+  offset: 336, 105
+  index: -1
+4hit4/hit_xj_16
+  rotate: false
+  xy: 367, 33
+  size: 83, 64
+  orig: 600, 320
+  offset: 336, 105
+  index: -1
+4hit4/hit_xj_18
+  rotate: false
+  xy: 452, 128
+  size: 43, 35
+  orig: 600, 320
+  offset: 376, 105
+  index: -1

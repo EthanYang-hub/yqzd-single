@@ -1,0 +1,20 @@
+
+ui_zouyin_jiesuan_1.png
+size: 248,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: true
+  xy: 128, 6
+  size: 119, 118
+  orig: 121, 119
+  offset: 1, 1
+  index: -1
+f6b80766
+  rotate: true
+  xy: 2, 2
+  size: 123, 124
+  orig: 128, 128
+  offset: 3, 4
+  index: -1

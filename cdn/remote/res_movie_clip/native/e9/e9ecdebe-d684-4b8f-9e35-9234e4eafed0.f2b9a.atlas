@@ -1,0 +1,167 @@
+
+zhandou_pet_spine_3.png
+size: 697,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0403
+  rotate: false
+  xy: 478, 141
+  size: 99, 125
+  orig: 128, 128
+  offset: 15, 3
+  index: -1
+0442
+  rotate: false
+  xy: 458, 268
+  size: 117, 121
+  orig: 128, 128
+  offset: 4, 6
+  index: -1
+1tou
+  rotate: false
+  xy: 2, 86
+  size: 258, 160
+  orig: 258, 161
+  offset: 0, 1
+  index: -1
+1yan
+  rotate: true
+  xy: 565, 72
+  size: 15, 12
+  orig: 18, 14
+  offset: 2, 1
+  index: -1
+1yanguang
+  rotate: false
+  xy: 478, 89
+  size: 104, 50
+  orig: 120, 52
+  offset: 13, 2
+  index: -1
+2shen
+  rotate: false
+  xy: 330, 103
+  size: 63, 143
+  orig: 63, 143
+  offset: 0, 0
+  index: -1
+2shen2
+  rotate: false
+  xy: 2, 248
+  size: 346, 260
+  orig: 346, 260
+  offset: 0, 0
+  index: -1
+2shenguang
+  rotate: false
+  xy: 330, 19
+  size: 71, 82
+  orig: 79, 89
+  offset: 4, 3
+  index: -1
+2shouL1
+  rotate: false
+  xy: 458, 391
+  size: 166, 117
+  orig: 178, 245
+  offset: 11, 127
+  index: -1
+2shouL2
+  rotate: true
+  xy: 2, 19
+  size: 65, 212
+  orig: 65, 212
+  offset: 0, 0
+  index: -1
+2shouL3
+  rotate: true
+  xy: 668, 23
+  size: 47, 27
+  orig: 58, 34
+  offset: 9, 5
+  index: -1
+2shouR1
+  rotate: true
+  xy: 243, 3
+  size: 54, 62
+  orig: 56, 64
+  offset: 1, 1
+  index: -1
+2shouR2
+  rotate: false
+  xy: 262, 59
+  size: 66, 187
+  orig: 66, 187
+  offset: 0, 0
+  index: -1
+2shouR3
+  rotate: true
+  xy: 216, 34
+  size: 50, 25
+  orig: 52, 27
+  offset: 1, 1
+  index: -1
+2zhua1
+  rotate: false
+  xy: 584, 72
+  size: 92, 76
+  orig: 92, 76
+  offset: 0, 0
+  index: -1
+2zhua2
+  rotate: true
+  xy: 626, 385
+  size: 123, 65
+  orig: 123, 65
+  offset: 0, 0
+  index: -1
+2zhua3
+  rotate: true
+  xy: 579, 150
+  size: 123, 91
+  orig: 123, 91
+  offset: 0, 0
+  index: -1
+2zhua4
+  rotate: true
+  xy: 475, 3
+  size: 84, 88
+  orig: 84, 88
+  offset: 0, 0
+  index: -1
+2zhua5
+  rotate: false
+  xy: 403, 2
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+2zhua6
+  rotate: true
+  xy: 565, 17
+  size: 53, 101
+  orig: 53, 101
+  offset: 0, 0
+  index: -1
+2zhua7
+  rotate: false
+  xy: 577, 275
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+2zhua8
+  rotate: true
+  xy: 395, 112
+  size: 138, 81
+  orig: 138, 81
+  offset: 0, 0
+  index: -1
+line1
+  rotate: false
+  xy: 350, 252
+  size: 106, 256
+  orig: 106, 256
+  offset: 0, 0
+  index: -1

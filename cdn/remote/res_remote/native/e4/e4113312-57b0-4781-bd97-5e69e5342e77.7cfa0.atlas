@@ -1,0 +1,27 @@
+
+ui_chunjie_xiang.png
+size: 437,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 313, 26
+  size: 229, 122
+  orig: 229, 122
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 186, 17
+  size: 238, 125
+  orig: 243, 130
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 253, 182
+  orig: 253, 182
+  offset: 0, 0
+  index: -1

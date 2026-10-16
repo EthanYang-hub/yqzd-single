@@ -1,0 +1,307 @@
+
+roleSkill_fire_orange_hit1.png
+size: 567,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: true
+  xy: 547, 394
+  size: 22, 17
+  orig: 22, 19
+  offset: 0, 1
+  index: -1
+A2
+  rotate: true
+  xy: 547, 418
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Aro2
+  rotate: false
+  xy: 208, 240
+  size: 229, 89
+  orig: 235, 94
+  offset: 3, 2
+  index: -1
+Q2
+  rotate: true
+  xy: 282, 28
+  size: 110, 61
+  orig: 116, 64
+  offset: 4, 2
+  index: -1
+Q3
+  rotate: true
+  xy: 345, 132
+  size: 106, 48
+  orig: 128, 65
+  offset: 2, 15
+  index: -1
+ST_1
+  rotate: true
+  xy: 505, 280
+  size: 26, 17
+  orig: 27, 20
+  offset: 1, 3
+  index: -1
+ST_2
+  rotate: true
+  xy: 379, 2
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+ST_3
+  rotate: false
+  xy: 524, 192
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+ST_4
+  rotate: false
+  xy: 395, 144
+  size: 56, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+ST_5
+  rotate: true
+  xy: 363, 2
+  size: 24, 14
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+ST_6
+  rotate: false
+  xy: 411, 54
+  size: 56, 23
+  orig: 60, 27
+  offset: 4, 3
+  index: -1
+ST_8
+  rotate: false
+  xy: 282, 2
+  size: 79, 24
+  orig: 87, 30
+  offset: 0, 6
+  index: -1
+bo_1
+  rotate: false
+  xy: 2, 157
+  size: 195, 145
+  orig: 207, 170
+  offset: 6, 20
+  index: -1
+bo_2
+  rotate: false
+  xy: 2, 304
+  size: 204, 163
+  orig: 204, 163
+  offset: 0, 0
+  index: -1
+bo_3
+  rotate: false
+  xy: 208, 331
+  size: 190, 136
+  orig: 230, 153
+  offset: 25, 1
+  index: -1
+chengtu_1
+  rotate: true
+  xy: 103, 2
+  size: 153, 77
+  orig: 156, 80
+  offset: 2, 1
+  index: -1
+di
+  rotate: false
+  xy: 2, 469
+  size: 557, 49
+  orig: 557, 64
+  offset: 0, 0
+  index: -1
+feijin_1
+  rotate: false
+  xy: 547, 442
+  size: 18, 25
+  orig: 19, 32
+  offset: 1, 6
+  index: -1
+feijin_2
+  rotate: false
+  xy: 441, 3
+  size: 45, 49
+  orig: 53, 53
+  offset: 5, 3
+  index: -1
+feijin_3
+  rotate: true
+  xy: 453, 144
+  size: 27, 15
+  orig: 30, 20
+  offset: 2, 2
+  index: -1
+feijin_4
+  rotate: true
+  xy: 534, 144
+  size: 46, 21
+  orig: 47, 23
+  offset: 1, 1
+  index: -1
+feijin_5
+  rotate: false
+  xy: 534, 127
+  size: 20, 15
+  orig: 21, 18
+  offset: 0, 1
+  index: -1
+feijin_6
+  rotate: false
+  xy: 395, 132
+  size: 11, 10
+  orig: 24, 21
+  offset: 7, 5
+  index: -1
+feijin_7
+  rotate: false
+  xy: 503, 265
+  size: 19, 13
+  orig: 28, 17
+  offset: 3, 4
+  index: -1
+feijin_8
+  rotate: false
+  xy: 524, 219
+  size: 30, 45
+  orig: 52, 53
+  offset: 3, 7
+  index: -1
+huo1_1
+  rotate: true
+  xy: 199, 140
+  size: 98, 144
+  orig: 105, 157
+  offset: 4, 7
+  index: -1
+huo1_2
+  rotate: true
+  xy: 400, 369
+  size: 98, 145
+  orig: 104, 154
+  offset: 3, 2
+  index: -1
+huo1_3
+  rotate: false
+  xy: 2, 2
+  size: 99, 153
+  orig: 104, 161
+  offset: 2, 2
+  index: -1
+huo1_4
+  rotate: false
+  xy: 182, 2
+  size: 98, 136
+  orig: 102, 139
+  offset: 2, 0
+  index: -1
+suihuo_002
+  rotate: false
+  xy: 400, 332
+  size: 34, 35
+  orig: 40, 41
+  offset: 3, 3
+  index: -1
+suihuo_003
+  rotate: true
+  xy: 524, 266
+  size: 40, 41
+  orig: 46, 46
+  offset: 3, 3
+  index: -1
+suihuo_004
+  rotate: false
+  xy: 393, 2
+  size: 46, 50
+  orig: 52, 54
+  offset: 3, 2
+  index: -1
+suihuo_005
+  rotate: false
+  xy: 476, 116
+  size: 56, 58
+  orig: 61, 63
+  offset: 3, 3
+  index: -1
+suihuo_006
+  rotate: true
+  xy: 439, 242
+  size: 59, 62
+  orig: 65, 66
+  offset: 3, 1
+  index: -1
+suihuo_007
+  rotate: false
+  xy: 395, 173
+  size: 62, 65
+  orig: 68, 68
+  offset: 3, 0
+  index: -1
+suihuo_008
+  rotate: false
+  xy: 345, 64
+  size: 64, 66
+  orig: 69, 68
+  offset: 2, 0
+  index: -1
+suihuo_009
+  rotate: false
+  xy: 439, 303
+  size: 64, 64
+  orig: 69, 68
+  offset: 2, 1
+  index: -1
+suihuo_010
+  rotate: true
+  xy: 459, 176
+  size: 64, 63
+  orig: 69, 68
+  offset: 2, 2
+  index: -1
+suihuo_011
+  rotate: false
+  xy: 411, 79
+  size: 63, 63
+  orig: 68, 68
+  offset: 2, 2
+  index: -1
+suihuo_012
+  rotate: false
+  xy: 505, 308
+  size: 55, 59
+  orig: 66, 66
+  offset: 4, 2
+  index: -1
+suihuo_013
+  rotate: true
+  xy: 476, 62
+  size: 52, 56
+  orig: 59, 64
+  offset: 4, 5
+  index: -1
+suihuo_014
+  rotate: false
+  xy: 488, 5
+  size: 52, 55
+  orig: 59, 64
+  offset: 4, 6
+  index: -1
+suihuo_015
+  rotate: false
+  xy: 345, 28
+  size: 46, 34
+  orig: 54, 43
+  offset: 5, 6
+  index: -1

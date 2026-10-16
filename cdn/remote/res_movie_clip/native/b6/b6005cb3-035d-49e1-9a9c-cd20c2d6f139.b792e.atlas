@@ -1,0 +1,195 @@
+
+elite monster_004.png
+size: 1949,677
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die_0
+  rotate: true
+  xy: 1670, 516
+  size: 159, 169
+  orig: 256, 256
+  offset: 52, 36
+  index: -1
+die_1
+  rotate: true
+  xy: 1670, 356
+  size: 158, 169
+  orig: 256, 256
+  offset: 53, 36
+  index: -1
+die_2
+  rotate: true
+  xy: 1670, 207
+  size: 147, 169
+  orig: 256, 256
+  offset: 64, 36
+  index: -1
+die_3
+  rotate: false
+  xy: 1379, 8
+  size: 131, 169
+  orig: 256, 256
+  offset: 80, 36
+  index: -1
+die_4
+  rotate: false
+  xy: 1841, 518
+  size: 106, 157
+  orig: 256, 256
+  offset: 105, 48
+  index: -1
+die_5
+  rotate: true
+  xy: 1512, 120
+  size: 89, 143
+  orig: 256, 256
+  offset: 122, 55
+  index: -1
+die_6
+  rotate: false
+  xy: 1512, 13
+  size: 67, 105
+  orig: 256, 256
+  offset: 143, 56
+  index: -1
+huo_060
+  rotate: true
+  xy: 1841, 388
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+huo_061
+  rotate: true
+  xy: 1512, 211
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+huo_062
+  rotate: false
+  xy: 975, 39
+  size: 200, 228
+  orig: 200, 228
+  offset: 0, 0
+  index: -1
+huo_063
+  rotate: true
+  xy: 1177, 11
+  size: 306, 200
+  orig: 306, 200
+  offset: 0, 0
+  index: -1
+huo_064
+  rotate: false
+  xy: 2, 2
+  size: 409, 260
+  orig: 409, 260
+  offset: 0, 0
+  index: -1
+huo_065
+  rotate: true
+  xy: 668, 269
+  size: 406, 328
+  orig: 406, 328
+  offset: 0, 0
+  index: -1
+huo_066
+  rotate: true
+  xy: 2, 264
+  size: 411, 328
+  orig: 411, 328
+  offset: 0, 0
+  index: -1
+huo_067
+  rotate: true
+  xy: 332, 269
+  size: 406, 334
+  orig: 406, 334
+  offset: 0, 0
+  index: -1
+huo_068
+  rotate: false
+  xy: 1334, 341
+  size: 334, 334
+  orig: 334, 334
+  offset: 0, 0
+  index: -1
+huo_069
+  rotate: false
+  xy: 998, 319
+  size: 334, 356
+  orig: 334, 356
+  offset: 0, 0
+  index: -1
+huo_070
+  rotate: true
+  xy: 621, 12
+  size: 255, 200
+  orig: 255, 200
+  offset: 0, 0
+  index: -1
+huo_071
+  rotate: true
+  xy: 413, 12
+  size: 255, 206
+  orig: 255, 206
+  offset: 0, 0
+  index: -1
+huo_072
+  rotate: true
+  xy: 823, 12
+  size: 255, 150
+  orig: 255, 150
+  offset: 0, 0
+  index: -1
+huo_073
+  rotate: true
+  xy: 1841, 258
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+huo_074
+  rotate: false
+  xy: 1698, 77
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huo_075
+  rotate: false
+  xy: 1841, 179
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1379, 179
+  size: 118, 160
+  orig: 118, 178
+  offset: 0, 17
+  index: -1
+yanjing
+  rotate: true
+  xy: 413, 3
+  size: 7, 5
+  orig: 10, 7
+  offset: 2, 1
+  index: -1
+youshou
+  rotate: true
+  xy: 1634, 41
+  size: 77, 62
+  orig: 77, 62
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1581, 34
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1

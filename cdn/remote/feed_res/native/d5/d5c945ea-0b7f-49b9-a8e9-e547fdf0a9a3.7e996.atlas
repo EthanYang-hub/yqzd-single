@@ -1,0 +1,27 @@
+
+roleSkill_water_white_down.png
+size: 245,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SRU_waterRing
+  rotate: false
+  xy: 2, 2
+  size: 113, 113
+  orig: 128, 128
+  offset: 10, 9
+  index: -1
+fazhen02
+  rotate: true
+  xy: 117, 55
+  size: 60, 30
+  orig: 70, 35
+  offset: 5, 2
+  index: -1
+shockwave_fx_4
+  rotate: false
+  xy: 2, 117
+  size: 126, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1

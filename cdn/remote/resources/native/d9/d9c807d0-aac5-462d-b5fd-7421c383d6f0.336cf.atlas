@@ -1,0 +1,202 @@
+
+zhandou_pet_luocha_2.png
+size: 538,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa
+  rotate: true
+  xy: 371, 392
+  size: 123, 137
+  orig: 123, 137
+  offset: 0, 0
+  index: -1
+guashi
+  rotate: false
+  xy: 510, 429
+  size: 25, 86
+  orig: 25, 86
+  offset: 0, 0
+  index: -1
+guiL
+  rotate: false
+  xy: 2, 18
+  size: 164, 173
+  orig: 164, 173
+  offset: 0, 0
+  index: -1
+guiR
+  rotate: false
+  xy: 2, 193
+  size: 169, 186
+  orig: 169, 186
+  offset: 0, 0
+  index: -1
+guifaL
+  rotate: false
+  xy: 168, 49
+  size: 111, 124
+  orig: 111, 126
+  offset: 0, 2
+  index: -1
+guifaR
+  rotate: false
+  xy: 391, 288
+  size: 95, 102
+  orig: 95, 102
+  offset: 0, 0
+  index: -1
+guihuoL
+  rotate: false
+  xy: 467, 24
+  size: 34, 52
+  orig: 39, 68
+  offset: 4, 4
+  index: -1
+guihuoR
+  rotate: false
+  xy: 488, 345
+  size: 41, 45
+  orig: 48, 55
+  offset: 4, 0
+  index: -1
+jiaoL
+  rotate: false
+  xy: 503, 37
+  size: 28, 36
+  orig: 30, 38
+  offset: 1, 1
+  index: -1
+jiaoR
+  rotate: false
+  xy: 488, 300
+  size: 28, 43
+  orig: 30, 46
+  offset: 1, 1
+  index: -1
+line1
+  rotate: true
+  xy: 173, 286
+  size: 93, 216
+  orig: 93, 216
+  offset: 0, 0
+  index: -1
+line2
+  rotate: true
+  xy: 173, 175
+  size: 35, 256
+  orig: 35, 256
+  offset: 0, 0
+  index: -1
+line3
+  rotate: true
+  xy: 173, 212
+  size: 72, 233
+  orig: 72, 233
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 281, 71
+  size: 102, 129
+  orig: 132, 157
+  offset: 30, 28
+  index: -1
+shouL
+  rotate: false
+  xy: 281, 14
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+shouR1
+  rotate: true
+  xy: 168, 2
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+shouR2
+  rotate: false
+  xy: 509, 75
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 431, 132
+  size: 89, 90
+  orig: 92, 92
+  offset: 1, 1
+  index: -1
+tuiL1
+  rotate: true
+  xy: 351, 15
+  size: 54, 60
+  orig: 56, 62
+  offset: 1, 1
+  index: -1
+tuiL2
+  rotate: true
+  xy: 412, 78
+  size: 52, 95
+  orig: 54, 97
+  offset: 1, 1
+  index: -1
+tuiR1
+  rotate: false
+  xy: 413, 21
+  size: 52, 55
+  orig: 54, 57
+  offset: 1, 1
+  index: -1
+tuiR2
+  rotate: true
+  xy: 408, 224
+  size: 62, 104
+  orig: 64, 106
+  offset: 1, 1
+  index: -1
+wq
+  rotate: false
+  xy: 2, 381
+  size: 367, 134
+  orig: 369, 136
+  offset: 1, 1
+  index: -1
+wq_lian1
+  rotate: true
+  xy: 518, 311
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+wq_lian2
+  rotate: false
+  xy: 254, 25
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+wq_lian3
+  rotate: false
+  xy: 510, 392
+  size: 24, 35
+  orig: 26, 37
+  offset: 1, 1
+  index: -1
+wq_lian4
+  rotate: false
+  xy: 412, 138
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 2, 2
+  size: 26, 14
+  orig: 32, 18
+  offset: 3, 2
+  index: -1

@@ -1,0 +1,13 @@
+
+ui_dianji.png
+size: 183,183
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0657
+  rotate: false
+  xy: 2, 20
+  size: 179, 161
+  orig: 202, 170
+  offset: 2, 3
+  index: -1

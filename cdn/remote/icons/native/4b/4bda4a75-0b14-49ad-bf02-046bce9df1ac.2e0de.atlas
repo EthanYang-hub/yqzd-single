@@ -1,0 +1,90 @@
+
+ui_zouyin_guidian.png
+size: 218,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3di
+  rotate: false
+  xy: 2, 130
+  size: 128, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+3huo1
+  rotate: false
+  xy: 134, 308
+  size: 75, 52
+  orig: 75, 52
+  offset: 0, 0
+  index: -1
+3huo2
+  rotate: false
+  xy: 132, 135
+  size: 31, 69
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+3huo3
+  rotate: false
+  xy: 165, 163
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+3kuang
+  rotate: true
+  xy: 2, 2
+  size: 126, 118
+  orig: 129, 137
+  offset: 2, 13
+  index: -1
+3role
+  rotate: false
+  xy: 122, 8
+  size: 94, 120
+  orig: 96, 122
+  offset: 1, 1
+  index: -1
+3shouL1
+  rotate: true
+  xy: 143, 445
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+3shouL2
+  rotate: false
+  xy: 132, 206
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+3shouR1
+  rotate: true
+  xy: 143, 362
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+3shouR2
+  rotate: false
+  xy: 134, 255
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+heidi
+  rotate: false
+  xy: 2, 260
+  size: 130, 129
+  orig: 180, 180
+  offset: 23, 29
+  index: -1
+xuanzhong
+  rotate: false
+  xy: 2, 391
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1

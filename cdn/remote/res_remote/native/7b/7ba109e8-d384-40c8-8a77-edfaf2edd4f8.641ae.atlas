@@ -1,0 +1,34 @@
+
+ui_tianshu_wanshipu2.png
+size: 327,489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fireball_1
+  rotate: false
+  xy: 2, 2
+  size: 201, 207
+  orig: 256, 256
+  offset: 19, 23
+  index: -1
+ui_tianshu_wanshipu6
+  rotate: true
+  xy: 2, 211
+  size: 60, 264
+  orig: 60, 264
+  offset: 0, 0
+  index: -1
+ui_tianshu_wsp5
+  rotate: true
+  xy: 205, 75
+  size: 134, 120
+  orig: 134, 120
+  offset: 0, 0
+  index: -1
+ui_tianshu_wsp7
+  rotate: true
+  xy: 2, 273
+  size: 214, 317
+  orig: 242, 327
+  offset: 9, 9
+  index: -1

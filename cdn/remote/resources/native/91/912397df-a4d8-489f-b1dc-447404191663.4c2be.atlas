@@ -1,0 +1,174 @@
+
+3017_jipo.png
+size: 682,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D1
+  rotate: true
+  xy: 621, 68
+  size: 58, 56
+  orig: 70, 60
+  offset: 10, 2
+  index: -1
+D2_1
+  rotate: true
+  xy: 321, 35
+  size: 7, 10
+  orig: 11, 14
+  offset: 2, 2
+  index: -1
+D2_2
+  rotate: true
+  xy: 324, 59
+  size: 8, 7
+  orig: 13, 38
+  offset: 3, 5
+  index: -1
+D2_3
+  rotate: false
+  xy: 329, 9
+  size: 10, 11
+  orig: 13, 34
+  offset: 2, 4
+  index: -1
+D2_4
+  rotate: true
+  xy: 303, 22
+  size: 11, 15
+  orig: 14, 18
+  offset: 1, 2
+  index: -1
+D2_5
+  rotate: true
+  xy: 320, 22
+  size: 11, 14
+  orig: 14, 18
+  offset: 2, 2
+  index: -1
+E0
+  rotate: true
+  xy: 321, 44
+  size: 10, 9
+  orig: 12, 11
+  offset: 1, 1
+  index: -1
+E1
+  rotate: false
+  xy: 303, 35
+  size: 16, 19
+  orig: 20, 23
+  offset: 2, 2
+  index: -1
+E2
+  rotate: false
+  xy: 237, 20
+  size: 33, 34
+  orig: 36, 38
+  offset: 2, 2
+  index: -1
+E3
+  rotate: true
+  xy: 341, 4
+  size: 63, 62
+  orig: 67, 66
+  offset: 2, 2
+  index: -1
+E4
+  rotate: true
+  xy: 237, 8
+  size: 10, 69
+  orig: 12, 74
+  offset: 1, 3
+  index: -1
+I1
+  rotate: false
+  xy: 405, 7
+  size: 59, 60
+  orig: 76, 81
+  offset: 9, 11
+  index: -1
+K1
+  rotate: false
+  xy: 621, 128
+  size: 59, 60
+  orig: 76, 81
+  offset: 9, 11
+  index: -1
+L1
+  rotate: false
+  xy: 466, 8
+  size: 83, 83
+  orig: 94, 93
+  offset: 5, 5
+  index: -1
+L2
+  rotate: true
+  xy: 191, 56
+  size: 132, 131
+  orig: 144, 143
+  offset: 6, 6
+  index: -1
+L3
+  rotate: false
+  xy: 2, 2
+  size: 187, 186
+  orig: 201, 202
+  offset: 7, 8
+  index: -1
+M1
+  rotate: false
+  xy: 308, 4
+  size: 19, 16
+  orig: 22, 22
+  offset: 1, 3
+  index: -1
+M2
+  rotate: true
+  xy: 272, 23
+  size: 31, 29
+  orig: 34, 33
+  offset: 2, 2
+  index: -1
+M3
+  rotate: false
+  xy: 191, 10
+  size: 44, 44
+  orig: 53, 61
+  offset: 3, 5
+  index: -1
+M4
+  rotate: true
+  xy: 621, 9
+  size: 57, 56
+  orig: 65, 79
+  offset: 1, 15
+  index: -1
+M5
+  rotate: false
+  xy: 551, 36
+  size: 68, 69
+  orig: 76, 89
+  offset: 1, 13
+  index: -1
+M6
+  rotate: false
+  xy: 539, 107
+  size: 80, 81
+  orig: 87, 83
+  offset: 2, 1
+  index: -1
+M7
+  rotate: true
+  xy: 444, 93
+  size: 95, 93
+  orig: 98, 104
+  offset: 2, 9
+  index: -1
+M8
+  rotate: true
+  xy: 324, 69
+  size: 119, 118
+  orig: 138, 138
+  offset: 10, 10
+  index: -1

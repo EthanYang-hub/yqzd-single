@@ -1,0 +1,20 @@
+
+monster_3005_effect.png
+size: 886,886
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuwang_1
+  rotate: false
+  xy: 2, 2
+  size: 614, 403
+  orig: 614, 403
+  offset: 0, 0
+  index: -1
+zhuwang_2
+  rotate: false
+  xy: 2, 407
+  size: 606, 477
+  orig: 727, 520
+  offset: 121, 43
+  index: -1

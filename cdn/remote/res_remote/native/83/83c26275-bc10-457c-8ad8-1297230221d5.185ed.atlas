@@ -1,0 +1,27 @@
+
+ui_tianshuwudao_erjue_qiehuan.png
+size: 362,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SRU_BlueBuff_BA_Nova_Ground
+  rotate: true
+  xy: 109, 240
+  size: 120, 121
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+baodian3
+  rotate: false
+  xy: 232, 232
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+waypoint_arrival_orbSource
+  rotate: true
+  xy: 2, 256
+  size: 104, 105
+  orig: 128, 128
+  offset: 11, 11
+  index: -1

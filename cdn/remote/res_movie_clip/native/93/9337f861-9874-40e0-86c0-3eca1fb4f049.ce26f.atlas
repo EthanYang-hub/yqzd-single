@@ -1,0 +1,27 @@
+
+ronghe_head_monster_3001.png
+size: 346,346
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 187, 121
+  size: 64, 40
+  orig: 67, 43
+  offset: 1, 2
+  index: -1
+A2
+  rotate: false
+  xy: 2, 148
+  size: 183, 196
+  orig: 240, 196
+  offset: 57, 0
+  index: -1
+A3
+  rotate: false
+  xy: 187, 163
+  size: 157, 181
+  orig: 215, 207
+  offset: 40, 16
+  index: -1

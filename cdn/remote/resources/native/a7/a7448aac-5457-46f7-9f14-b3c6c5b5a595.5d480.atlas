@@ -1,0 +1,27 @@
+
+ui_pifu_effect.png
+size: 826,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 196, 618
+  orig: 202, 632
+  offset: 3, 7
+  index: -1
+2
+  rotate: true
+  xy: 2, 200
+  size: 163, 697
+  orig: 164, 726
+  offset: 0, 14
+  index: -1
+trDun_SkeletonKing_Bridge_Energy
+  rotate: true
+  xy: 701, 108
+  size: 255, 123
+  orig: 256, 129
+  offset: 0, 6
+  index: -1

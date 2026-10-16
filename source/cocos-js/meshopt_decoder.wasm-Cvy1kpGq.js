@@ -1,0 +1,1 @@
+"use strict";System.register([],(function(e){return{execute:function(){e("default","assets/meshopt_decoder.wasm-Dt74TiIT.wasm")}}})); 

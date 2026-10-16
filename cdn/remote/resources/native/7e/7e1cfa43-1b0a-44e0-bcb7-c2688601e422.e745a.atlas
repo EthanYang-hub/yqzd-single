@@ -1,0 +1,48 @@
+
+changjing_002.png
+size: 736,581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DH_elementalArrow_FirewallMask
+  rotate: false
+  xy: 570, 157
+  size: 102, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1
+Ezreal_pulsefire_plasma_death_trail
+  rotate: false
+  xy: 516, 2
+  size: 218, 124
+  orig: 256, 128
+  offset: 8, 0
+  index: -1
+beijing_
+  rotate: false
+  xy: 2, 128
+  size: 566, 137
+  orig: 566, 137
+  offset: 0, 0
+  index: -1
+color-waterfade32
+  rotate: true
+  xy: 623, 324
+  size: 255, 93
+  orig: 255, 107
+  offset: 0, 9
+  index: -1
+eye_fxl_shockwave_007
+  rotate: false
+  xy: 2, 7
+  size: 512, 119
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+zhuwang
+  rotate: false
+  xy: 2, 267
+  size: 619, 312
+  orig: 619, 312
+  offset: 0, 0
+  index: -1

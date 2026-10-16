@@ -1,0 +1,34 @@
+
+ui_mh_jianzhu_lianhuadeng.png
+size: 306,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_mh_jianzhu_lianhuadeng-a-1
+  rotate: true
+  xy: 217, 2
+  size: 34, 33
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+ui_mh_jianzhu_lianhuadeng-a-2
+  rotate: false
+  xy: 107, 20
+  size: 108, 135
+  orig: 108, 135
+  offset: 0, 0
+  index: -1
+ui_mh_jianzhu_lianhuadeng-a-3
+  rotate: true
+  xy: 2, 13
+  size: 142, 103
+  orig: 150, 107
+  offset: 1, 3
+  index: -1
+ui_mh_jianzhu_lianhuadeng-a-4
+  rotate: true
+  xy: 217, 38
+  size: 117, 87
+  orig: 120, 92
+  offset: 2, 3
+  index: -1

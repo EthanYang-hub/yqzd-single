@@ -1,0 +1,90 @@
+
+ui_shuijing_qilin_hit.png
+size: 1459,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: true
+  xy: 1345, 132
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+bing_1
+  rotate: true
+  xy: 1345, 79
+  size: 31, 10
+  orig: 70, 15
+  offset: 21, 3
+  index: -1
+bing_2
+  rotate: false
+  xy: 1361, 109
+  size: 15, 9
+  orig: 27, 21
+  offset: 6, 6
+  index: -1
+bing_3
+  rotate: true
+  xy: 1345, 64
+  size: 13, 18
+  orig: 25, 29
+  offset: 6, 6
+  index: -1
+bing_4
+  rotate: false
+  xy: 1357, 98
+  size: 11, 9
+  orig: 20, 21
+  offset: 5, 6
+  index: -1
+bing_5
+  rotate: false
+  xy: 1361, 120
+  size: 16, 10
+  orig: 28, 22
+  offset: 6, 6
+  index: -1
+bing_6
+  rotate: false
+  xy: 1345, 112
+  size: 14, 18
+  orig: 26, 29
+  offset: 5, 5
+  index: -1
+bing_7
+  rotate: true
+  xy: 1357, 89
+  size: 7, 12
+  orig: 18, 20
+  offset: 5, 4
+  index: -1
+up_b_4_liewen1
+  rotate: true
+  xy: 616, 26
+  size: 234, 313
+  orig: 564, 508
+  offset: 327, 148
+  index: -1
+up_lizi_1
+  rotate: false
+  xy: 2, 2
+  size: 326, 258
+  orig: 334, 277
+  offset: 5, 3
+  index: -1
+up_lizi_2
+  rotate: false
+  xy: 330, 3
+  size: 284, 257
+  orig: 289, 272
+  offset: 3, 11
+  index: -1
+up_lizi_3
+  rotate: false
+  xy: 931, 32
+  size: 412, 228
+  orig: 420, 258
+  offset: 7, 12
+  index: -1

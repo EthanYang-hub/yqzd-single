@@ -1,0 +1,27 @@
+
+rareSkill_skull_effect_2_5.png
+size: 1794,1104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jue_1
+  rotate: false
+  xy: 676, 2
+  size: 705, 635
+  orig: 750, 753
+  offset: 2, 77
+  index: -1
+jue_2
+  rotate: false
+  xy: 676, 639
+  size: 1116, 463
+  orig: 1135, 497
+  offset: 7, 5
+  index: -1
+jue_3
+  rotate: true
+  xy: 2, 18
+  size: 1084, 672
+  orig: 1197, 746
+  offset: 23, 58
+  index: -1

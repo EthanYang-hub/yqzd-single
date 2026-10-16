@@ -1,0 +1,111 @@
+
+lihui_pet_mouse.png
+size: 501,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 372, 394
+  size: 126, 183
+  orig: 126, 183
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 315, 21
+  size: 99, 126
+  orig: 99, 126
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 161, 87
+  size: 218, 61
+  orig: 218, 61
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 372, 210
+  size: 182, 124
+  orig: 182, 124
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 340, 228
+  size: 30, 805
+  orig: 30, 805
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 309, 173
+  size: 29, 860
+  orig: 29, 860
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 269, 163
+  size: 38, 870
+  orig: 38, 870
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 254, 17
+  size: 59, 144
+  orig: 59, 144
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 161, 2
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 443, 51
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 372, 579
+  size: 98, 254
+  orig: 98, 254
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 372, 835
+  size: 127, 198
+  orig: 127, 198
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 307
+  size: 265, 726
+  orig: 265, 726
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 340, 122
+  size: 86, 158
+  orig: 86, 158
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 2, 20
+  size: 285, 157
+  orig: 285, 157
+  offset: 0, 0
+  index: -1

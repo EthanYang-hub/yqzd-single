@@ -1,0 +1,244 @@
+
+rareSkill_skull_2.png
+size: 2033,649
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C1
+  rotate: true
+  xy: 888, 5
+  size: 168, 192
+  orig: 171, 205
+  offset: 2, 6
+  index: -1
+C2
+  rotate: true
+  xy: 950, 177
+  size: 177, 185
+  orig: 177, 197
+  offset: 0, 7
+  index: -1
+C3
+  rotate: true
+  xy: 1799, 428
+  size: 219, 223
+  orig: 232, 240
+  offset: 7, 8
+  index: -1
+C4
+  rotate: false
+  xy: 1512, 210
+  size: 218, 153
+  orig: 230, 166
+  offset: 6, 7
+  index: -1
+C5
+  rotate: true
+  xy: 703, 175
+  size: 136, 245
+  orig: 151, 258
+  offset: 7, 6
+  index: -1
+C6
+  rotate: true
+  xy: 708, 3
+  size: 170, 178
+  orig: 177, 191
+  offset: 3, 7
+  index: -1
+TONGKONG_1
+  rotate: false
+  xy: 1905, 9
+  size: 53, 88
+  orig: 54, 89
+  offset: 1, 1
+  index: -1
+V1
+  rotate: true
+  xy: 1082, 9
+  size: 166, 119
+  orig: 185, 205
+  offset: 1, 26
+  index: -1
+V2
+  rotate: false
+  xy: 1732, 254
+  size: 122, 135
+  orig: 138, 180
+  offset: 8, 39
+  index: -1
+V3
+  rotate: false
+  xy: 1203, 17
+  size: 125, 159
+  orig: 136, 169
+  offset: 6, 9
+  index: -1
+V5
+  rotate: true
+  xy: 1905, 317
+  size: 109, 126
+  orig: 124, 141
+  offset: 6, 1
+  index: -1
+di_guang_1
+  rotate: true
+  xy: 1172, 358
+  size: 289, 154
+  orig: 295, 155
+  offset: 1, 0
+  index: -1
+di_guang_2
+  rotate: false
+  xy: 1330, 21
+  size: 261, 157
+  orig: 265, 161
+  offset: 2, 2
+  index: -1
+di_guang_3
+  rotate: true
+  xy: 703, 313
+  size: 334, 176
+  orig: 363, 178
+  offset: 1, 1
+  index: -1
+di_guang_4
+  rotate: true
+  xy: 1596, 382
+  size: 265, 105
+  orig: 278, 110
+  offset: 7, 1
+  index: -1
+fuwen_1
+  rotate: true
+  xy: 231, 142
+  size: 16, 39
+  orig: 16, 39
+  offset: 0, 0
+  index: -1
+fuwen_2
+  rotate: true
+  xy: 1799, 392
+  size: 34, 52
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+fuwen_3
+  rotate: true
+  xy: 881, 329
+  size: 25, 67
+  orig: 26, 67
+  offset: 1, 0
+  index: -1
+fuwen_4
+  rotate: true
+  xy: 272, 147
+  size: 11, 50
+  orig: 11, 50
+  offset: 0, 0
+  index: -1
+glow_haze1red
+  rotate: false
+  xy: 1905, 195
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+heiyan
+  rotate: true
+  xy: 2, 138
+  size: 509, 227
+  orig: 509, 234
+  offset: 0, 7
+  index: -1
+heiyan_1
+  rotate: true
+  xy: 1458, 206
+  size: 157, 52
+  orig: 175, 53
+  offset: 5, 0
+  index: -1
+heiyan_2
+  rotate: true
+  xy: 1830, 15
+  size: 237, 73
+  orig: 239, 91
+  offset: 1, 1
+  index: -1
+heiyan_3
+  rotate: true
+  xy: 1593, 10
+  size: 198, 111
+  orig: 198, 114
+  offset: 0, 0
+  index: -1
+heiyan_4
+  rotate: false
+  xy: 501, 2
+  size: 205, 156
+  orig: 214, 156
+  offset: 9, 0
+  index: -1
+heiyan_5
+  rotate: true
+  xy: 1703, 391
+  size: 256, 94
+  orig: 256, 94
+  offset: 0, 0
+  index: -1
+hh
+  rotate: false
+  xy: 1706, 13
+  size: 122, 195
+  orig: 122, 195
+  offset: 0, 0
+  index: -1
+jue_4
+  rotate: false
+  xy: 1328, 365
+  size: 266, 282
+  orig: 286, 305
+  offset: 6, 12
+  index: -1
+liefeng
+  rotate: false
+  xy: 2, 7
+  size: 497, 129
+  orig: 497, 129
+  offset: 0, 0
+  index: -1
+storm_rune_demonice01
+  rotate: true
+  xy: 231, 160
+  size: 487, 470
+  orig: 487, 471
+  offset: 0, 0
+  index: -1
+yan_1
+  rotate: true
+  xy: 1905, 99
+  size: 94, 107
+  orig: 96, 110
+  offset: 1, 2
+  index: -1
+yan_2
+  rotate: true
+  xy: 1299, 180
+  size: 176, 157
+  orig: 185, 175
+  offset: 2, 5
+  index: -1
+yan_3
+  rotate: true
+  xy: 1137, 178
+  size: 176, 160
+  orig: 182, 169
+  offset: 3, 5
+  index: -1
+yan_4
+  rotate: false
+  xy: 881, 356
+  size: 289, 291
+  orig: 293, 294
+  offset: 2, 3
+  index: -1

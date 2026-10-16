@@ -1,0 +1,41 @@
+
+ui_shenkannafu_2.png
+size: 230,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Global_Summoner_Death_Ally_Flash
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fu1
+  rotate: false
+  xy: 132, 36
+  size: 48, 94
+  orig: 48, 94
+  offset: 0, 0
+  index: -1
+fu2
+  rotate: false
+  xy: 182, 59
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+fu3
+  rotate: false
+  xy: 199, 6
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+fu4
+  rotate: true
+  xy: 132, 3
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1

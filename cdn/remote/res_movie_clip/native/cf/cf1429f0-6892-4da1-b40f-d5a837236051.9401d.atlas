@@ -1,0 +1,27 @@
+
+monster_3006_effect.png
+size: 488,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0279
+  rotate: true
+  xy: 358, 57
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+0471
+  rotate: false
+  xy: 358, 123
+  size: 126, 128
+  orig: 128, 128
+  offset: 2, 0
+  index: -1
+suolian_5
+  rotate: false
+  xy: 2, 2
+  size: 354, 249
+  orig: 366, 254
+  offset: 0, 5
+  index: -1

@@ -1,0 +1,174 @@
+
+petSkill_genggui_lunhui_3.png
+size: 1969,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 1114, 30
+  size: 177, 178
+  orig: 192, 192
+  offset: 9, 5
+  index: -1
+BB2
+  rotate: false
+  xy: 2, 175
+  size: 351, 351
+  orig: 351, 351
+  offset: 0, 0
+  index: -1
+Electricity 014_00000
+  rotate: false
+  xy: 1777, 336
+  size: 176, 190
+  orig: 225, 197
+  offset: 14, 5
+  index: -1
+Electricity 014_00008
+  rotate: false
+  xy: 213, 15
+  size: 209, 158
+  orig: 225, 197
+  offset: 7, 14
+  index: -1
+Electricity 014_00010
+  rotate: false
+  xy: 2, 2
+  size: 209, 171
+  orig: 225, 197
+  offset: 10, 22
+  index: -1
+Electricity 014_00017
+  rotate: false
+  xy: 750, 6
+  size: 183, 182
+  orig: 225, 197
+  offset: 13, 5
+  index: -1
+SRU_Order_Turret1_CrackWall
+  rotate: false
+  xy: 1583, 334
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Trail_fire
+  rotate: false
+  xy: 1547, 14
+  size: 93, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 1356, 298
+  size: 225, 228
+  orig: 225, 230
+  offset: 0, 1
+  index: -1
+b
+  rotate: false
+  xy: 355, 175
+  size: 351, 351
+  orig: 351, 351
+  offset: 0, 0
+  index: -1
+bloodspillalpha2
+  rotate: false
+  xy: 1034, 210
+  size: 320, 316
+  orig: 384, 384
+  offset: 30, 40
+  index: -1
+bowen
+  rotate: false
+  xy: 935, 7
+  size: 177, 181
+  orig: 192, 192
+  offset: 6, 5
+  index: -1
+eye_lwy_t_mul-d_66_single
+  rotate: false
+  xy: 1293, 40
+  size: 154, 158
+  orig: 192, 192
+  offset: 23, 15
+  index: -1
+eye_lwy_t_sun_12_single
+  rotate: false
+  xy: 592, 8
+  size: 156, 165
+  orig: 192, 192
+  offset: 21, 14
+  index: -1
+eye_lwy_t_sun_31_single
+  rotate: false
+  xy: 424, 9
+  size: 166, 164
+  orig: 192, 192
+  offset: 9, 21
+  index: -1
+flash_arcane_05
+  rotate: false
+  xy: 708, 190
+  size: 324, 336
+  orig: 384, 384
+  offset: 38, 24
+  index: -1
+shandian_1
+  rotate: true
+  xy: 1449, 9
+  size: 189, 96
+  orig: 189, 96
+  offset: 0, 0
+  index: -1
+shandian_2
+  rotate: false
+  xy: 1547, 40
+  size: 191, 96
+  orig: 191, 96
+  offset: 0, 0
+  index: -1
+shandian_3
+  rotate: false
+  xy: 1356, 200
+  size: 199, 96
+  orig: 200, 96
+  offset: 0, 0
+  index: -1
+shandian_4
+  rotate: false
+  xy: 1779, 238
+  size: 182, 96
+  orig: 187, 96
+  offset: 5, 0
+  index: -1
+shandian_5
+  rotate: false
+  xy: 1583, 236
+  size: 194, 96
+  orig: 194, 96
+  offset: 0, 0
+  index: -1
+shandian_6
+  rotate: false
+  xy: 1755, 42
+  size: 157, 96
+  orig: 164, 96
+  offset: 4, 0
+  index: -1
+shandian_7
+  rotate: false
+  xy: 1557, 138
+  size: 196, 96
+  orig: 205, 96
+  offset: 9, 0
+  index: -1
+shandian_8
+  rotate: false
+  xy: 1779, 140
+  size: 188, 96
+  orig: 188, 96
+  offset: 0, 0
+  index: -1

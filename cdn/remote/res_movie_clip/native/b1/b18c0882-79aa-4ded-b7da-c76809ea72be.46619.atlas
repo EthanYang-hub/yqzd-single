@@ -1,0 +1,13 @@
+
+rareSkill_hand_summon01.png
+size: 176,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left_shitou_1
+  rotate: false
+  xy: 2, 2
+  size: 172, 127
+  orig: 176, 176
+  offset: 2, 2
+  index: -1

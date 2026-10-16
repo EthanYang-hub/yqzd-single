@@ -1,0 +1,41 @@
+
+ui_zhounian_zhuye_bg.png
+size: 1281,1281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 904
+  size: 824, 375
+  orig: 824, 375
+  offset: 0, 0
+  index: -1
+BG_1
+  rotate: false
+  xy: 2, 527
+  size: 824, 375
+  orig: 824, 375
+  offset: 0, 0
+  index: -1
+BG_2
+  rotate: true
+  xy: 828, 562
+  size: 717, 375
+  orig: 717, 375
+  offset: 0, 0
+  index: -1
+BG_3
+  rotate: false
+  xy: 688, 261
+  size: 591, 264
+  orig: 591, 264
+  offset: 0, 0
+  index: -1
+BG_4
+  rotate: false
+  xy: 2, 228
+  size: 684, 297
+  orig: 684, 297
+  offset: 0, 0
+  index: -1

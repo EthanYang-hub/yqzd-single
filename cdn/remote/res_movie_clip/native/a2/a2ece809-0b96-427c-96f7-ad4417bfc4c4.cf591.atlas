@@ -1,0 +1,69 @@
+
+ronghe_head_monster_2018.png
+size: 267,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 232, 129
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 232, 87
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 232, 196
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 232, 160
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 2
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+S1
+  rotate: false
+  xy: 232, 62
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+S2
+  rotate: false
+  xy: 232, 110
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+S3
+  rotate: false
+  xy: 232, 16
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+S4
+  rotate: true
+  xy: 232, 39
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+lihui_pet_genggui_2.png
+size: 2030,1316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GG_a_1
+  rotate: false
+  xy: 712, 421
+  size: 270, 287
+  orig: 270, 287
+  offset: 0, 0
+  index: -1
+GG_a_10
+  rotate: false
+  xy: 1264, 110
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+GG_a_2
+  rotate: true
+  xy: 996, 2
+  size: 91, 178
+  orig: 91, 178
+  offset: 0, 0
+  index: -1
+GG_a_3
+  rotate: false
+  xy: 2, 417
+  size: 448, 897
+  orig: 448, 897
+  offset: 0, 0
+  index: -1
+GG_a_4
+  rotate: true
+  xy: 1176, 27
+  size: 66, 158
+  orig: 66, 158
+  offset: 0, 0
+  index: -1
+GG_a_5
+  rotate: true
+  xy: 1993, 1269
+  size: 45, 33
+  orig: 46, 33
+  offset: 1, 0
+  index: -1
+GG_a_7
+  rotate: false
+  xy: 1022, 738
+  size: 261, 356
+  orig: 261, 356
+  offset: 0, 0
+  index: -1
+GG_a_8
+  rotate: false
+  xy: 1285, 748
+  size: 304, 346
+  orig: 304, 346
+  offset: 0, 0
+  index: -1
+GG_a_9
+  rotate: false
+  xy: 996, 95
+  size: 266, 322
+  orig: 266, 322
+  offset: 0, 0
+  index: -1
+GG_a_xian_1
+  rotate: false
+  xy: 775, 726
+  size: 130, 588
+  orig: 130, 588
+  offset: 0, 0
+  index: -1
+GG_a_xian_2
+  rotate: false
+  xy: 539, 706
+  size: 106, 608
+  orig: 106, 608
+  offset: 0, 0
+  index: -1
+GG_a_xian_3
+  rotate: true
+  xy: 984, 419
+  size: 314, 562
+  orig: 314, 562
+  offset: 0, 0
+  index: -1
+GG_b_1
+  rotate: true
+  xy: 1022, 1098
+  size: 216, 115
+  orig: 218, 125
+  offset: 0, 10
+  index: -1
+GG_b_2
+  rotate: true
+  xy: 2, 8
+  size: 407, 704
+  orig: 407, 704
+  offset: 0, 0
+  index: -1
+GG_b_5
+  rotate: true
+  xy: 1591, 908
+  size: 186, 432
+  orig: 186, 441
+  offset: 0, 9
+  index: -1
+GG_b_6
+  rotate: false
+  xy: 708, 35
+  size: 286, 382
+  orig: 286, 382
+  offset: 0, 0
+  index: -1
+GG_b_7
+  rotate: true
+  xy: 1591, 698
+  size: 208, 419
+  orig: 208, 419
+  offset: 0, 0
+  index: -1
+GG_b_8
+  rotate: true
+  xy: 1548, 1096
+  size: 218, 443
+  orig: 218, 443
+  offset: 0, 0
+  index: -1
+GG_b_xian_1
+  rotate: false
+  xy: 907, 735
+  size: 113, 579
+  orig: 113, 579
+  offset: 0, 0
+  index: -1
+GG_b_xian_2
+  rotate: false
+  xy: 647, 710
+  size: 126, 604
+  orig: 126, 604
+  offset: 0, 0
+  index: -1
+GG_b_xian_3
+  rotate: false
+  xy: 452, 679
+  size: 85, 635
+  orig: 85, 635
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 1548, 452
+  size: 240, 244
+  orig: 240, 246
+  offset: 0, 1
+  index: -1
+a2
+  rotate: true
+  xy: 1790, 459
+  size: 237, 238
+  orig: 240, 242
+  offset: 0, 4
+  index: -1
+a3
+  rotate: false
+  xy: 1345, 1130
+  size: 187, 184
+  orig: 194, 194
+  offset: 7, 6
+  index: -1
+shizhong_1
+  rotate: false
+  xy: 539, 695
+  size: 91, 9
+  orig: 93, 9
+  offset: 1, 0
+  index: -1
+shizhong_3
+  rotate: false
+  xy: 1790, 235
+  size: 224, 222
+  orig: 226, 226
+  offset: 1, 2
+  index: -1
+shizhong_4
+  rotate: false
+  xy: 452, 419
+  size: 258, 258
+  orig: 263, 262
+  offset: 2, 3
+  index: -1
+storm_smoke_out
+  rotate: false
+  xy: 1573, 64
+  size: 184, 180
+  orig: 205, 205
+  offset: 6, 15
+  index: -1
+waypoint2
+  rotate: false
+  xy: 1139, 1109
+  size: 204, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+waypoint_opening_glowRune
+  rotate: true
+  xy: 1573, 246
+  size: 204, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1

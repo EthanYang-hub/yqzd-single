@@ -1,0 +1,111 @@
+
+buff_hundun_earth.png
+size: 875,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hudun
+  rotate: false
+  xy: 2, 29
+  size: 586, 489
+  orig: 590, 513
+  offset: 2, 15
+  index: -1
+playerClicked1
+  rotate: true
+  xy: 590, 3
+  size: 128, 98
+  orig: 128, 108
+  offset: 0, 3
+  index: -1
+playerClicked2
+  rotate: true
+  xy: 697, 140
+  size: 121, 94
+  orig: 128, 109
+  offset: 1, 5
+  index: -1
+playerClicked3
+  rotate: true
+  xy: 690, 3
+  size: 128, 98
+  orig: 130, 109
+  offset: 1, 4
+  index: -1
+playerClicked4
+  rotate: true
+  xy: 590, 133
+  size: 128, 105
+  orig: 129, 115
+  offset: 0, 4
+  index: -1
+storm_smoke_wispy10
+  rotate: true
+  xy: 590, 263
+  size: 255, 256
+  orig: 256, 256
+  offset: 1, 0
+  index: -1
+tu_1
+  rotate: false
+  xy: 85, 3
+  size: 16, 24
+  orig: 20, 24
+  offset: 4, 0
+  index: -1
+tu_2
+  rotate: false
+  xy: 103, 6
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+tu_3
+  rotate: false
+  xy: 119, 9
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+tu_4
+  rotate: false
+  xy: 135, 12
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+tu_5
+  rotate: true
+  xy: 39, 2
+  size: 25, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+tu_6
+  rotate: true
+  xy: 2, 2
+  size: 25, 35
+  orig: 30, 36
+  offset: 5, 1
+  index: -1
+tu_7
+  rotate: false
+  xy: 65, 3
+  size: 18, 24
+  orig: 20, 25
+  offset: 0, 1
+  index: -1
+tu_po_1
+  rotate: false
+  xy: 793, 152
+  size: 68, 109
+  orig: 68, 109
+  offset: 0, 0
+  index: -1
+tu_po_2
+  rotate: false
+  xy: 790, 19
+  size: 83, 119
+  orig: 83, 119
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+ui_sajipaihang_down.png
+size: 120,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0389
+  rotate: false
+  xy: 2, 2
+  size: 116, 121
+  orig: 128, 128
+  offset: 3, 4
+  index: -1

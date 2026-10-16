@@ -1,0 +1,125 @@
+
+changjing_shuicao_dimian.png
+size: 1142,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mojinxingdong_dimian_01
+  rotate: false
+  xy: 2, 33
+  size: 1001, 11
+  orig: 1001, 11
+  offset: 0, 0
+  index: -1
+shuixia_1
+  rotate: false
+  xy: 628, 2
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+shuixia_10
+  rotate: false
+  xy: 1005, 12
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+shuixia_11
+  rotate: false
+  xy: 926, 12
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+shuixia_12
+  rotate: true
+  xy: 840, 18
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+shuixia_13
+  rotate: true
+  xy: 2, 4
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: -1
+shuixia_14
+  rotate: false
+  xy: 941, 14
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+shuixia_15
+  rotate: true
+  xy: 872, 14
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+shuixia_16
+  rotate: false
+  xy: 2, 14
+  size: 624, 17
+  orig: 624, 17
+  offset: 0, 0
+  index: -1
+shuixia_2
+  rotate: false
+  xy: 732, 4
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+shuixia_3
+  rotate: false
+  xy: 1066, 3
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+shuixia_4
+  rotate: false
+  xy: 704, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+shuixia_5
+  rotate: false
+  xy: 1109, 3
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+shuixia_6
+  rotate: false
+  xy: 805, 15
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+shuixia_7
+  rotate: false
+  xy: 901, 12
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+shuixia_8
+  rotate: false
+  xy: 901, 12
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+shuixia_9
+  rotate: false
+  xy: 769, 4
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1

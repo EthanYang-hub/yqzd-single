@@ -1,0 +1,41 @@
+
+ui_bao_hecheng.png
+size: 193,378
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hungeringstrikearm_cas__streakglow__p-rgba
+  rotate: false
+  xy: 2, 142
+  size: 128, 104
+  orig: 128, 104
+  offset: 0, 0
+  index: -1
+psienergy4
+  rotate: true
+  xy: 125, 2
+  size: 123, 44
+  orig: 123, 44
+  offset: 0, 0
+  index: -1
+star_beam_03
+  rotate: true
+  xy: 2, 33
+  size: 107, 121
+  orig: 128, 128
+  offset: 14, 3
+  index: -1
+tt_spidercore
+  rotate: false
+  xy: 2, 248
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+varus_asc_wings
+  rotate: true
+  xy: 132, 127
+  size: 249, 59
+  orig: 252, 61
+  offset: 0, 0
+  index: -1

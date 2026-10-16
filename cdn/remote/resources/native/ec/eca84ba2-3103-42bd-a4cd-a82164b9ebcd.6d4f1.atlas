@@ -1,0 +1,34 @@
+
+ui_zhuanpan_guang2.png
+size: 419,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0442
+  rotate: false
+  xy: 329, 88
+  size: 88, 90
+  orig: 96, 96
+  offset: 3, 5
+  index: -1
+0678
+  rotate: false
+  xy: 2, 2
+  size: 176, 176
+  orig: 191, 192
+  offset: 7, 8
+  index: -1
+barbarian_revenge_magicRings_removesDebuffs
+  rotate: true
+  xy: 180, 19
+  size: 159, 147
+  orig: 192, 192
+  offset: 17, 17
+  index: -1
+eye_lwy_t_ptc_16_single
+  rotate: false
+  xy: 329, 11
+  size: 74, 75
+  orig: 96, 96
+  offset: 11, 9
+  index: -1

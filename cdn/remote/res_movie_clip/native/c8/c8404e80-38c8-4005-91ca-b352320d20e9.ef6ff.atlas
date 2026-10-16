@@ -1,0 +1,139 @@
+
+monster_3017_2.png
+size: 2021,940
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0024
+  rotate: false
+  xy: 684, 273
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+0070
+  rotate: false
+  xy: 1828, 21
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+fw1200
+  rotate: false
+  xy: 1257, 125
+  size: 138, 335
+  orig: 138, 335
+  offset: 0, 0
+  index: -1
+guai_B_1
+  rotate: false
+  xy: 1635, 266
+  size: 177, 222
+  orig: 177, 222
+  offset: 0, 0
+  index: -1
+guai_B_10
+  rotate: false
+  xy: 2, 299
+  size: 739, 639
+  orig: 739, 639
+  offset: 0, 0
+  index: -1
+guai_B_111
+  rotate: false
+  xy: 1427, 490
+  size: 592, 448
+  orig: 592, 448
+  offset: 0, 0
+  index: -1
+guai_B_2
+  rotate: true
+  xy: 1062, 22
+  size: 110, 163
+  orig: 110, 163
+  offset: 0, 0
+  index: -1
+guai_B_3
+  rotate: true
+  xy: 1427, 462
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+guai_B_4
+  rotate: true
+  xy: 2, 3
+  size: 294, 512
+  orig: 294, 512
+  offset: 0, 0
+  index: -1
+guai_B_5
+  rotate: false
+  xy: 743, 462
+  size: 682, 476
+  orig: 682, 476
+  offset: 0, 0
+  index: -1
+guai_B_6
+  rotate: false
+  xy: 743, 134
+  size: 512, 326
+  orig: 512, 349
+  offset: 0, 0
+  index: -1
+guai_B_7
+  rotate: false
+  xy: 1397, 167
+  size: 236, 293
+  orig: 236, 293
+  offset: 0, 0
+  index: -1
+guai_B_8
+  rotate: true
+  xy: 1398, 65
+  size: 100, 143
+  orig: 100, 143
+  offset: 0, 0
+  index: -1
+guai_B_9
+  rotate: true
+  xy: 1814, 270
+  size: 218, 176
+  orig: 218, 176
+  offset: 0, 0
+  index: -1
+guai_B_yan_1
+  rotate: true
+  xy: 1227, 33
+  size: 90, 169
+  orig: 110, 169
+  offset: 20, 0
+  index: -1
+guai_B_yan_2
+  rotate: false
+  xy: 1635, 104
+  size: 191, 160
+  orig: 191, 160
+  offset: 0, 0
+  index: -1
+guai_B_yan_3
+  rotate: false
+  xy: 684, 2
+  size: 376, 130
+  orig: 376, 130
+  offset: 0, 0
+  index: -1
+guai_B_yan_4
+  rotate: true
+  xy: 516, 45
+  size: 252, 166
+  orig: 252, 166
+  offset: 0, 0
+  index: -1
+guai_B_yan_5
+  rotate: false
+  xy: 1828, 119
+  size: 147, 149
+  orig: 147, 149
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ui_guipu_chongneng1.png
+size: 542,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Zyra_Skin02_W_Fire
+  rotate: false
+  xy: 184, 5
+  size: 177, 177
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+Zyra_Skin02_W_Fire_02
+  rotate: false
+  xy: 363, 5
+  size: 177, 177
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+volibear_target
+  rotate: false
+  xy: 2, 2
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

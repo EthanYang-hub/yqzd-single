@@ -1,0 +1,83 @@
+
+zhandou_pet_zhihunzhe.png
+size: 434,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1yanguang
+  rotate: false
+  xy: 194, 2
+  size: 104, 50
+  orig: 120, 52
+  offset: 13, 2
+  index: -1
+B_1
+  rotate: true
+  xy: 189, 196
+  size: 110, 209
+  orig: 110, 209
+  offset: 0, 0
+  index: -1
+B_10
+  rotate: false
+  xy: 189, 308
+  size: 243, 213
+  orig: 243, 213
+  offset: 0, 0
+  index: -1
+B_2
+  rotate: false
+  xy: 2, 191
+  size: 185, 330
+  orig: 185, 330
+  offset: 0, 0
+  index: -1
+B_3
+  rotate: false
+  xy: 2, 54
+  size: 149, 135
+  orig: 149, 135
+  offset: 0, 0
+  index: -1
+B_4
+  rotate: false
+  xy: 400, 270
+  size: 10, 36
+  orig: 10, 36
+  offset: 0, 0
+  index: -1
+B_5
+  rotate: true
+  xy: 189, 164
+  size: 30, 191
+  orig: 30, 191
+  offset: 0, 0
+  index: -1
+B_6
+  rotate: true
+  xy: 2, 13
+  size: 39, 190
+  orig: 39, 190
+  offset: 0, 0
+  index: -1
+B_7
+  rotate: false
+  xy: 153, 170
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+B_8
+  rotate: false
+  xy: 314, 41
+  size: 92, 121
+  orig: 92, 121
+  offset: 0, 0
+  index: -1
+B_9
+  rotate: false
+  xy: 153, 54
+  size: 159, 108
+  orig: 159, 108
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+rareSkill_windkill.png
+size: 2017,786
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: true
+  xy: 404, 2
+  size: 186, 201
+  orig: 186, 214
+  offset: 0, 12
+  index: -1
+A2
+  rotate: false
+  xy: 1028, 39
+  size: 213, 248
+  orig: 213, 248
+  offset: 0, 0
+  index: -1
+A3
+  rotate: true
+  xy: 1243, 48
+  size: 239, 216
+  orig: 248, 221
+  offset: 0, 5
+  index: -1
+Evelynn_BloodTrail
+  rotate: true
+  xy: 908, 37
+  size: 250, 118
+  orig: 256, 128
+  offset: 3, 4
+  index: -1
+TEMP_Relic_flash_cloudpuff
+  rotate: false
+  xy: 376, 287
+  size: 485, 497
+  orig: 512, 512
+  offset: 0, 6
+  index: -1
+TEMP_Relic_flash_flare_01_2x2
+  rotate: true
+  xy: 748, 30
+  size: 255, 31
+  orig: 255, 31
+  offset: 0, 0
+  index: -1
+ecto-trail
+  rotate: true
+  xy: 781, 31
+  size: 254, 125
+  orig: 256, 128
+  offset: 2, 0
+  index: -1
+ee1
+  rotate: false
+  xy: 1645, 443
+  size: 298, 122
+  orig: 298, 142
+  offset: 0, 20
+  index: -1
+gui_2
+  rotate: true
+  xy: 1645, 61
+  size: 380, 143
+  orig: 418, 216
+  offset: 15, 25
+  index: -1
+gui_3
+  rotate: false
+  xy: 2, 4
+  size: 400, 178
+  orig: 480, 218
+  offset: 17, 3
+  index: -1
+gui_5
+  rotate: true
+  xy: 1461, 3
+  size: 372, 181
+  orig: 420, 213
+  offset: 12, 14
+  index: -1
+shou_a_1
+  rotate: true
+  xy: 2, 184
+  size: 600, 372
+  orig: 600, 372
+  offset: 0, 0
+  index: -1
+shou_a_3
+  rotate: true
+  xy: 607, 22
+  size: 263, 139
+  orig: 274, 155
+  offset: 6, 7
+  index: -1
+shou_a_4
+  rotate: false
+  xy: 1645, 567
+  size: 323, 217
+  orig: 368, 239
+  offset: 0, 12
+  index: -1
+shou_b_1_1
+  rotate: true
+  xy: 1354, 377
+  size: 407, 289
+  orig: 469, 319
+  offset: 0, 19
+  index: -1
+shou_c_4_1
+  rotate: true
+  xy: 1790, 148
+  size: 293, 210
+  orig: 303, 239
+  offset: 0, 11
+  index: -1
+tornado_spiral2
+  rotate: false
+  xy: 863, 289
+  size: 489, 495
+  orig: 512, 512
+  offset: 6, 7
+  index: -1
+tx_xuli_0001
+  rotate: true
+  xy: 477, 208
+  size: 77, 37
+  orig: 120, 64
+  offset: 35, 14
+  index: -1
+tx_xuli_0002
+  rotate: true
+  xy: 427, 199
+  size: 86, 48
+  orig: 120, 64
+  offset: 34, 6
+  index: -1
+tx_xuli_0003
+  rotate: true
+  xy: 1970, 675
+  size: 109, 45
+  orig: 120, 64
+  offset: 11, 5
+  index: -1
+tx_xuli_0004
+  rotate: true
+  xy: 1945, 451
+  size: 114, 53
+  orig: 120, 64
+  offset: 2, 6
+  index: -1
+tx_xuli_0005
+  rotate: false
+  xy: 1354, 322
+  size: 105, 53
+  orig: 120, 64
+  offset: 5, 8
+  index: -1
+tx_xuli_0006
+  rotate: true
+  xy: 376, 190
+  size: 95, 49
+  orig: 120, 64
+  offset: 8, 12
+  index: -1
+tx_xuli_0007
+  rotate: false
+  xy: 516, 243
+  size: 43, 42
+  orig: 120, 64
+  offset: 12, 18
+  index: -1

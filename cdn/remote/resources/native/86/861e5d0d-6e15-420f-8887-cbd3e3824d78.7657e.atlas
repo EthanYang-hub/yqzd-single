@@ -1,0 +1,76 @@
+
+ui_taozhuang_chenggong.png
+size: 221,593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 281
+  size: 142, 32
+  orig: 152, 35
+  offset: 9, 1
+  index: -1
+A_1
+  rotate: false
+  xy: 2, 178
+  size: 131, 101
+  orig: 162, 111
+  offset: 5, 5
+  index: -1
+A_2
+  rotate: false
+  xy: 146, 219
+  size: 72, 94
+  orig: 84, 111
+  offset: 4, 8
+  index: -1
+A_3
+  rotate: false
+  xy: 135, 125
+  size: 84, 92
+  orig: 99, 110
+  offset: 11, 8
+  index: -1
+B_3
+  rotate: false
+  xy: 135, 125
+  size: 84, 92
+  orig: 99, 110
+  offset: 11, 8
+  index: -1
+A_4
+  rotate: true
+  xy: 118, 25
+  size: 98, 99
+  orig: 108, 111
+  offset: 5, 8
+  index: -1
+B_4
+  rotate: true
+  xy: 118, 25
+  size: 98, 99
+  orig: 108, 111
+  offset: 5, 8
+  index: -1
+B_1
+  rotate: false
+  xy: 2, 75
+  size: 114, 101
+  orig: 148, 110
+  offset: 4, 4
+  index: -1
+B_2
+  rotate: true
+  xy: 2, 2
+  size: 71, 93
+  orig: 77, 110
+  offset: 3, 8
+  index: -1
+e
+  rotate: true
+  xy: 2, 315
+  size: 276, 215
+  orig: 284, 216
+  offset: 7, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+ui_guipu_ban.png
+size: 55,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DH_ballista_frisbeeLaser
+  rotate: false
+  xy: 2, 2
+  size: 51, 253
+  orig: 51, 253
+  offset: 0, 0
+  index: -1

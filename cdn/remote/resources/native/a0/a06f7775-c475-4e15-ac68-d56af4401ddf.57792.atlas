@@ -1,0 +1,20 @@
+
+ui_qieping.png
+size: 1347,1347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 2, 595
+  size: 674, 750
+  orig: 674, 750
+  offset: 0, 0
+  index: -1
+B1
+  rotate: false
+  xy: 678, 595
+  size: 667, 750
+  orig: 667, 750
+  offset: 0, 0
+  index: -1

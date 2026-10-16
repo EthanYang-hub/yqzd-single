@@ -1,0 +1,13 @@
+
+ui_yuandan_bg_anniu2.png
+size: 66,315
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bu_2
+  rotate: false
+  xy: 2, 2
+  size: 62, 311
+  orig: 62, 311
+  offset: 0, 0
+  index: -1

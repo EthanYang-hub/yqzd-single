@@ -1,0 +1,125 @@
+
+rareSkill_icegirl_summon.png
+size: 1149,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4ede
+  rotate: true
+  xy: 889, 7
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+Aatrox_R_explosion_centerFlare
+  rotate: false
+  xy: 777, 69
+  size: 110, 120
+  orig: 128, 128
+  offset: 10, 0
+  index: -1
+Aatrox_skin01_R_explosion_groundBurn
+  rotate: false
+  xy: 595, 9
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+CC
+  rotate: false
+  xy: 963, 104
+  size: 184, 148
+  orig: 184, 158
+  offset: 0, 10
+  index: -1
+SRU_waterRing
+  rotate: false
+  xy: 2, 27
+  size: 226, 225
+  orig: 256, 256
+  offset: 19, 18
+  index: -1
+dian
+  rotate: false
+  xy: 2, 3
+  size: 22, 22
+  orig: 26, 26
+  offset: 2, 2
+  index: -1
+hei_1
+  rotate: true
+  xy: 444, 2
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+hei_3
+  rotate: true
+  xy: 537, 37
+  size: 85, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+hei_4
+  rotate: true
+  xy: 230, 6
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+hei_5
+  rotate: true
+  xy: 383, 2
+  size: 56, 59
+  orig: 61, 59
+  offset: 1, 0
+  index: -1
+hei_6
+  rotate: true
+  xy: 307, 6
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+hei_8
+  rotate: true
+  xy: 889, 112
+  size: 77, 68
+  orig: 77, 69
+  offset: 0, 1
+  index: -1
+hei_9
+  rotate: true
+  xy: 777, 7
+  size: 60, 81
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+yun_1
+  rotate: false
+  xy: 591, 191
+  size: 370, 61
+  orig: 370, 71
+  offset: 0, 8
+  index: -1
+yun_2
+  rotate: false
+  xy: 230, 60
+  size: 305, 62
+  orig: 330, 82
+  offset: 0, 11
+  index: -1
+yun_3
+  rotate: false
+  xy: 230, 124
+  size: 363, 52
+  orig: 367, 64
+  offset: 4, 2
+  index: -1
+yun_4
+  rotate: false
+  xy: 230, 178
+  size: 359, 74
+  orig: 363, 88
+  offset: 4, 11
+  index: -1

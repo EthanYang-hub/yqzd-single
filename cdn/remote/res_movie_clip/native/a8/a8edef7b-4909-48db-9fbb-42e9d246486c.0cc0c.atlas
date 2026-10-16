@@ -1,0 +1,20 @@
+
+monster_3017_effect2.png
+size: 300,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KZ_2
+  rotate: true
+  xy: 166, 2
+  size: 122, 132
+  orig: 135, 134
+  offset: 6, 2
+  index: -1
+dianji
+  rotate: false
+  xy: 2, 21
+  size: 162, 103
+  orig: 169, 110
+  offset: 4, 3
+  index: -1

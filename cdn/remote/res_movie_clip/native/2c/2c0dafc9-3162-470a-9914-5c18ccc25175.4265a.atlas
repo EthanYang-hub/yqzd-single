@@ -1,0 +1,48 @@
+
+petSkill_qinli_2_sword.png
+size: 1375,1375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1fire
+  rotate: false
+  xy: 925, 604
+  size: 289, 247
+  orig: 336, 277
+  offset: 20, 15
+  index: -1
+1wqdi
+  rotate: false
+  xy: 2, 483
+  size: 396, 890
+  orig: 467, 1009
+  offset: 1, 73
+  index: -1
+2TX_DG1
+  rotate: true
+  xy: 400, 853
+  size: 520, 746
+  orig: 520, 748
+  offset: 0, 2
+  index: -1
+2TX_DG2
+  rotate: true
+  xy: 489, 2
+  size: 520, 746
+  orig: 520, 748
+  offset: 0, 2
+  index: -1
+2ren1
+  rotate: true
+  xy: 2, 146
+  size: 335, 485
+  orig: 335, 485
+  offset: 0, 0
+  index: -1
+2ren2
+  rotate: true
+  xy: 400, 524
+  size: 327, 523
+  orig: 327, 523
+  offset: 0, 0
+  index: -1

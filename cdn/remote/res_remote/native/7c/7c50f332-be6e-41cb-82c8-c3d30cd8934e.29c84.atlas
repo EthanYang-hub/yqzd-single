@@ -1,0 +1,174 @@
+
+ui_yinxu_jindu.png
+size: 717,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 474, 22
+  size: 32, 32
+  orig: 32, 34
+  offset: 0, 1
+  index: -1
+1_1
+  rotate: false
+  xy: 508, 22
+  size: 32, 32
+  orig: 32, 34
+  offset: 0, 1
+  index: -1
+2
+  rotate: true
+  xy: 260, 2
+  size: 49, 52
+  orig: 49, 54
+  offset: 0, 1
+  index: -1
+Electricity 005_00001
+  rotate: false
+  xy: 633, 64
+  size: 19, 62
+  orig: 23, 64
+  offset: 2, 0
+  index: -1
+Electricity 005_00002
+  rotate: false
+  xy: 551, 58
+  size: 23, 68
+  orig: 25, 69
+  offset: 0, 0
+  index: -1
+Electricity 005_00003
+  rotate: true
+  xy: 568, 30
+  size: 26, 67
+  orig: 26, 70
+  offset: 0, 1
+  index: -1
+Electricity 005_00004
+  rotate: false
+  xy: 525, 58
+  size: 24, 68
+  orig: 26, 71
+  offset: 2, 1
+  index: -1
+Electricity 005_00005
+  rotate: false
+  xy: 497, 56
+  size: 26, 70
+  orig: 26, 73
+  offset: 0, 1
+  index: -1
+Electricity 005_00006
+  rotate: true
+  xy: 568, 3
+  size: 25, 63
+  orig: 26, 69
+  offset: 1, 4
+  index: -1
+Electricity 005_00007
+  rotate: false
+  xy: 448, 2
+  size: 24, 52
+  orig: 26, 57
+  offset: 0, 2
+  index: -1
+Electricity 005_00008
+  rotate: false
+  xy: 542, 3
+  size: 24, 53
+  orig: 25, 56
+  offset: 0, 2
+  index: -1
+Electricity 005_00009
+  rotate: false
+  xy: 425, 8
+  size: 21, 44
+  orig: 23, 48
+  offset: 0, 2
+  index: -1
+Electricity 005_00010
+  rotate: false
+  xy: 314, 3
+  size: 18, 48
+  orig: 23, 53
+  offset: 2, 3
+  index: -1
+Electricity 005_00013
+  rotate: false
+  xy: 405, 6
+  size: 18, 46
+  orig: 20, 50
+  offset: 0, 4
+  index: -1
+Electricity 005_00015
+  rotate: false
+  xy: 474, 2
+  size: 19, 18
+  orig: 21, 21
+  offset: 0, 3
+  index: -1
+Electricity 014_00000
+  rotate: false
+  xy: 576, 62
+  size: 55, 64
+  orig: 58, 65
+  offset: 1, 1
+  index: -1
+Electricity 014_00002
+  rotate: false
+  xy: 654, 65
+  size: 61, 61
+  orig: 62, 64
+  offset: 0, 1
+  index: -1
+Electricity 014_00004
+  rotate: true
+  xy: 319, 54
+  size: 72, 59
+  orig: 73, 61
+  offset: 0, 1
+  index: -1
+Electricity 014_00006
+  rotate: true
+  xy: 260, 53
+  size: 73, 57
+  orig: 74, 59
+  offset: 0, 1
+  index: -1
+Electricity 014_00008
+  rotate: false
+  xy: 334, 2
+  size: 69, 50
+  orig: 71, 56
+  offset: 1, 1
+  index: -1
+Electricity 014_00010
+  rotate: true
+  xy: 441, 56
+  size: 70, 54
+  orig: 72, 57
+  offset: 1, 2
+  index: -1
+Electricity 014_00013
+  rotate: true
+  xy: 380, 54
+  size: 72, 59
+  orig: 73, 62
+  offset: 0, 2
+  index: -1
+Electricity 014_00015
+  rotate: false
+  xy: 654, 2
+  size: 61, 61
+  orig: 63, 63
+  offset: 1, 1
+  index: -1
+flash_teleport_golden_castStripe
+  rotate: true
+  xy: 2, 6
+  size: 120, 256
+  orig: 128, 256
+  offset: 4, 0
+  index: -1

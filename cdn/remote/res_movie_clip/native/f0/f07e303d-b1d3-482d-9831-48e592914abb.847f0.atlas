@@ -1,0 +1,13 @@
+
+monster_3020_bullet.png
+size: 16,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian_0
+  rotate: false
+  xy: 2, 2
+  size: 6, 50
+  orig: 6, 55
+  offset: 0, 4
+  index: -1

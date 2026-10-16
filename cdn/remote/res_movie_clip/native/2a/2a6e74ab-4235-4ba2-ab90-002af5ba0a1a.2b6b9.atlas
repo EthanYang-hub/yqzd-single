@@ -1,0 +1,55 @@
+
+ui_shuijing_qilin.png
+size: 794,567
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C2
+  rotate: true
+  xy: 512, 24
+  size: 67, 121
+  orig: 77, 143
+  offset: 0, 1
+  index: -1
+C3
+  rotate: false
+  xy: 512, 93
+  size: 115, 122
+  orig: 119, 135
+  offset: 4, 0
+  index: -1
+shitou_1
+  rotate: false
+  xy: 635, 30
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+shitou_3
+  rotate: false
+  xy: 629, 114
+  size: 126, 101
+  orig: 127, 102
+  offset: 1, 0
+  index: -1
+up_b_1
+  rotate: false
+  xy: 512, 217
+  size: 280, 116
+  orig: 281, 196
+  offset: 1, 0
+  index: -1
+up_b_2
+  rotate: true
+  xy: 512, 335
+  size: 230, 277
+  orig: 230, 277
+  offset: 0, 0
+  index: -1
+up_b_4
+  rotate: true
+  xy: 2, 2
+  size: 563, 508
+  orig: 564, 508
+  offset: 0, 0
+  index: -1

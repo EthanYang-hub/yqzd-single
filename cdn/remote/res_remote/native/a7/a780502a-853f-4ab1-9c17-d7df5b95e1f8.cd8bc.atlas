@@ -1,0 +1,34 @@
+
+ui_faqi_tankuang.png
+size: 393,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C1
+  rotate: false
+  xy: 346, 134
+  size: 45, 132
+  orig: 53, 338
+  offset: 4, 94
+  index: -1
+C2
+  rotate: false
+  xy: 2, 78
+  size: 335, 90
+  orig: 394, 171
+  offset: 20, 30
+  index: -1
+C3
+  rotate: false
+  xy: 2, 170
+  size: 342, 96
+  orig: 344, 96
+  offset: 0, 0
+  index: -1
+C4
+  rotate: true
+  xy: 2, 2
+  size: 74, 347
+  orig: 74, 347
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+petSkill_horse_skill3.png
+size: 308,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_1
+  rotate: false
+  xy: 2, 221
+  size: 173, 85
+  orig: 180, 93
+  offset: 3, 2
+  index: -1
+huomiao_3
+  rotate: false
+  xy: 2, 221
+  size: 173, 85
+  orig: 180, 93
+  offset: 3, 2
+  index: -1
+fire_2
+  rotate: false
+  xy: 177, 216
+  size: 129, 90
+  orig: 140, 96
+  offset: 6, 1
+  index: -1
+huomiao_6
+  rotate: false
+  xy: 177, 216
+  size: 129, 90
+  orig: 140, 96
+  offset: 6, 1
+  index: -1
+fire_4
+  rotate: false
+  xy: 139, 159
+  size: 112, 55
+  orig: 121, 57
+  offset: 5, 0
+  index: -1
+fire_5
+  rotate: false
+  xy: 2, 144
+  size: 135, 75
+  orig: 160, 80
+  offset: 12, 1
+  index: -1

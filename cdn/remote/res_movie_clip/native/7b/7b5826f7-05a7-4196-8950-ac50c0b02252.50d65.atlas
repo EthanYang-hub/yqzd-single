@@ -1,0 +1,41 @@
+
+buff_hundun_fire.png
+size: 830,1108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hudun
+  rotate: false
+  xy: 2, 2
+  size: 583, 478
+  orig: 590, 512
+  offset: 4, 31
+  index: -1
+hudun_huodi
+  rotate: true
+  xy: 2, 482
+  size: 624, 568
+  orig: 644, 602
+  offset: 10, 26
+  index: -1
+hudun_shengbo1
+  rotate: false
+  xy: 572, 850
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+hudun_wenli
+  rotate: true
+  xy: 587, 358
+  size: 232, 230
+  orig: 256, 256
+  offset: 10, 14
+  index: -1
+hudun_wenli2
+  rotate: false
+  xy: 572, 592
+  size: 248, 256
+  orig: 256, 256
+  offset: 8, 0
+  index: -1

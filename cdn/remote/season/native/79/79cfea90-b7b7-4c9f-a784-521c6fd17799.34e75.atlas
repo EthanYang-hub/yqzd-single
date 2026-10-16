@@ -1,0 +1,48 @@
+
+Season_fight_perform_Firework.png
+size: 377,377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Firework_diguang1
+  rotate: true
+  xy: 2, 256
+  size: 119, 120
+  orig: 124, 124
+  offset: 3, 2
+  index: -1
+Firework_diguang2
+  rotate: true
+  xy: 124, 256
+  size: 119, 120
+  orig: 124, 124
+  offset: 3, 2
+  index: -1
+Firework_diguang3
+  rotate: true
+  xy: 246, 256
+  size: 119, 120
+  orig: 124, 124
+  offset: 3, 2
+  index: -1
+Firework_yanhua1
+  rotate: false
+  xy: 2, 131
+  size: 123, 123
+  orig: 139, 138
+  offset: 8, 8
+  index: -1
+Firework_yanhua2
+  rotate: false
+  xy: 127, 131
+  size: 123, 123
+  orig: 139, 138
+  offset: 8, 8
+  index: -1
+Firework_yanhua3
+  rotate: false
+  xy: 252, 131
+  size: 123, 123
+  orig: 139, 138
+  offset: 8, 8
+  index: -1

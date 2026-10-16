@@ -1,0 +1,300 @@
+
+lihui_pet_qinli_2.png
+size: 1889,752
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+022
+  rotate: true
+  xy: 1783, 18
+  size: 94, 80
+  orig: 96, 96
+  offset: 1, 10
+  index: -1
+A_A_1
+  rotate: true
+  xy: 1261, 14
+  size: 131, 206
+  orig: 131, 206
+  offset: 0, 0
+  index: -1
+A_A_2
+  rotate: false
+  xy: 1364, 241
+  size: 205, 176
+  orig: 205, 176
+  offset: 0, 0
+  index: -1
+A_A_3
+  rotate: false
+  xy: 2, 195
+  size: 298, 555
+  orig: 358, 563
+  offset: 60, 0
+  index: -1
+A_A_4
+  rotate: false
+  xy: 1708, 431
+  size: 179, 110
+  orig: 179, 110
+  offset: 0, 0
+  index: -1
+A_A_5
+  rotate: false
+  xy: 1522, 106
+  size: 176, 125
+  orig: 176, 125
+  offset: 0, 0
+  index: -1
+A_A_6
+  rotate: true
+  xy: 746, 210
+  size: 35, 83
+  orig: 35, 83
+  offset: 0, 0
+  index: -1
+A_A_7
+  rotate: false
+  xy: 1822, 145
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+A_A_8_1
+  rotate: true
+  xy: 302, 383
+  size: 204, 527
+  orig: 204, 527
+  offset: 0, 0
+  index: -1
+A_B_1
+  rotate: true
+  xy: 763, 40
+  size: 128, 268
+  orig: 128, 268
+  offset: 0, 0
+  index: -1
+A_B_2
+  rotate: true
+  xy: 1469, 419
+  size: 122, 237
+  orig: 122, 237
+  offset: 0, 0
+  index: -1
+A_B_3
+  rotate: false
+  xy: 262, 116
+  size: 30, 77
+  orig: 32, 77
+  offset: 2, 0
+  index: -1
+A_B_4
+  rotate: true
+  xy: 302, 589
+  size: 161, 616
+  orig: 272, 616
+  offset: 0, 0
+  index: -1
+A_B_5
+  rotate: true
+  xy: 746, 247
+  size: 134, 74
+  orig: 134, 74
+  offset: 0, 0
+  index: -1
+A_B_6
+  rotate: true
+  xy: 920, 577
+  size: 15, 552
+  orig: 15, 552
+  offset: 0, 0
+  index: -1
+A_B_7
+  rotate: true
+  xy: 831, 483
+  size: 20, 523
+  orig: 20, 523
+  offset: 0, 0
+  index: -1
+A_B_8
+  rotate: true
+  xy: 831, 530
+  size: 21, 556
+  orig: 21, 556
+  offset: 0, 0
+  index: -1
+B_A_1
+  rotate: true
+  xy: 1452, 624
+  size: 126, 356
+  orig: 126, 356
+  offset: 0, 0
+  index: -1
+B_A_2
+  rotate: false
+  xy: 1162, 148
+  size: 112, 314
+  orig: 112, 314
+  offset: 0, 0
+  index: -1
+B_A_3
+  rotate: true
+  xy: 302, 208
+  size: 173, 442
+  orig: 173, 442
+  offset: 0, 0
+  index: -1
+B_A_4
+  rotate: true
+  xy: 302, 2
+  size: 204, 273
+  orig: 204, 273
+  offset: 0, 0
+  index: -1
+B_A_5
+  rotate: true
+  xy: 2, 5
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+B_B_1
+  rotate: true
+  xy: 1033, 2
+  size: 143, 128
+  orig: 143, 128
+  offset: 0, 0
+  index: -1
+B_B_2
+  rotate: false
+  xy: 1756, 227
+  size: 110, 202
+  orig: 110, 202
+  offset: 0, 0
+  index: -1
+B_B_3
+  rotate: false
+  xy: 1364, 154
+  size: 156, 85
+  orig: 156, 85
+  offset: 0, 0
+  index: -1
+B_B_4
+  rotate: true
+  xy: 920, 594
+  size: 156, 530
+  orig: 187, 554
+  offset: 31, 24
+  index: -1
+B_B_5
+  rotate: false
+  xy: 1276, 147
+  size: 86, 315
+  orig: 86, 336
+  offset: 0, 0
+  index: -1
+B_B_6
+  rotate: true
+  xy: 1474, 543
+  size: 79, 281
+  orig: 124, 281
+  offset: 45, 0
+  index: -1
+B_B_7
+  rotate: true
+  xy: 831, 505
+  size: 23, 551
+  orig: 23, 551
+  offset: 0, 0
+  index: -1
+B_B_8
+  rotate: true
+  xy: 831, 464
+  size: 17, 523
+  orig: 17, 523
+  offset: 0, 0
+  index: -1
+B_B_9
+  rotate: true
+  xy: 831, 553
+  size: 22, 556
+  orig: 22, 556
+  offset: 0, 0
+  index: -1
+JJ_G_1
+  rotate: true
+  xy: 1757, 549
+  size: 73, 87
+  orig: 73, 90
+  offset: 0, 2
+  index: -1
+JJ_G_2
+  rotate: true
+  xy: 1700, 2
+  size: 110, 81
+  orig: 110, 86
+  offset: 0, 5
+  index: -1
+JJ_G_3
+  rotate: true
+  xy: 1364, 421
+  size: 82, 94
+  orig: 86, 96
+  offset: 0, 2
+  index: -1
+JJ_G_4
+  rotate: false
+  xy: 1593, 13
+  size: 97, 91
+  orig: 97, 100
+  offset: 0, 9
+  index: -1
+ZI_H_1
+  rotate: false
+  xy: 1163, 7
+  size: 96, 139
+  orig: 106, 152
+  offset: 5, 6
+  index: -1
+ZI_H_2
+  rotate: false
+  xy: 1810, 636
+  size: 73, 114
+  orig: 86, 128
+  offset: 10, 5
+  index: -1
+ZI_H_3
+  rotate: true
+  xy: 1700, 114
+  size: 111, 120
+  orig: 119, 134
+  offset: 3, 6
+  index: -1
+ZI_H_4
+  rotate: true
+  xy: 1469, 14
+  size: 90, 122
+  orig: 99, 139
+  offset: 5, 9
+  index: -1
+_0597
+  rotate: false
+  xy: 1571, 233
+  size: 183, 184
+  orig: 192, 192
+  offset: 0, 4
+  index: -1
+iceArmor_iceBlade_twistedCloud
+  rotate: false
+  xy: 577, 14
+  size: 184, 192
+  orig: 192, 192
+  offset: 8, 0
+  index: -1
+monk_handsofLightning_lineSwirl_indigo_chain
+  rotate: false
+  xy: 831, 170
+  size: 329, 292
+  orig: 384, 384
+  offset: 37, 36
+  index: -1

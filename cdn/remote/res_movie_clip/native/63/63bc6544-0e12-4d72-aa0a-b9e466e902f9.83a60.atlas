@@ -1,0 +1,41 @@
+
+petSkill_shanhuagui_2_biao.png
+size: 278,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hei_hua_1
+  rotate: false
+  xy: 185, 232
+  size: 88, 88
+  orig: 91, 91
+  offset: 1, 2
+  index: -1
+hei_hua_2
+  rotate: false
+  xy: 2, 2
+  size: 136, 136
+  orig: 139, 139
+  offset: 1, 2
+  index: -1
+hei_hua_3
+  rotate: false
+  xy: 140, 2
+  size: 136, 136
+  orig: 138, 138
+  offset: 1, 1
+  index: -1
+hei_hua_4
+  rotate: false
+  xy: 2, 322
+  size: 248, 248
+  orig: 252, 251
+  offset: 2, 2
+  index: -1
+hei_hua_5
+  rotate: true
+  xy: 2, 140
+  size: 180, 181
+  orig: 201, 205
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,90 @@
+
+rareSkill_ice.png
+size: 1981,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zh_1
+  rotate: true
+  xy: 678, 101
+  size: 472, 237
+  orig: 472, 237
+  offset: 0, 0
+  index: -1
+zh_2
+  rotate: true
+  xy: 1616, 243
+  size: 330, 334
+  orig: 354, 374
+  offset: 18, 40
+  index: -1
+zh_3
+  rotate: false
+  xy: 1268, 224
+  size: 346, 349
+  orig: 353, 359
+  offset: 4, 2
+  index: -1
+zh_4
+  rotate: false
+  xy: 1126, 35
+  size: 151, 107
+  orig: 153, 112
+  offset: 1, 2
+  index: -1
+zh__fire_0
+  rotate: false
+  xy: 1798, 50
+  size: 181, 191
+  orig: 188, 197
+  offset: 0, 0
+  index: -1
+zh__fire_1
+  rotate: true
+  xy: 2, 11
+  size: 75, 195
+  orig: 102, 236
+  offset: 25, 10
+  index: -1
+zh__fire_2
+  rotate: false
+  xy: 678, 2
+  size: 237, 97
+  orig: 274, 111
+  offset: 22, 8
+  index: -1
+zh__fire_3
+  rotate: false
+  xy: 917, 4
+  size: 207, 138
+  orig: 238, 158
+  offset: 18, 6
+  index: -1
+zh__fire_5
+  rotate: false
+  xy: 1279, 49
+  size: 296, 173
+  orig: 308, 188
+  offset: 5, 11
+  index: -1
+zh__fire_6
+  rotate: true
+  xy: 1616, 5
+  size: 236, 180
+  orig: 259, 218
+  offset: 16, 16
+  index: -1
+zh__fire_7
+  rotate: true
+  xy: 2, 88
+  size: 485, 674
+  orig: 608, 674
+  offset: 70, 0
+  index: -1
+zh__fire_8
+  rotate: false
+  xy: 917, 144
+  size: 349, 429
+  orig: 386, 440
+  offset: 18, 0
+  index: -1

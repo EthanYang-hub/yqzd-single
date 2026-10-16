@@ -1,0 +1,139 @@
+
+ui_mojin_zhuanpan.png
+size: 1198,1198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N_guang
+  rotate: false
+  xy: 832, 916
+  size: 341, 280
+  orig: 370, 320
+  offset: 9, 33
+  index: -1
+N_quan
+  rotate: false
+  xy: 366, 348
+  size: 357, 357
+  orig: 358, 357
+  offset: 0, 0
+  index: -1
+N_quan_2
+  rotate: true
+  xy: 2, 344
+  size: 361, 362
+  orig: 361, 362
+  offset: 0, 0
+  index: -1
+N_yuan
+  rotate: true
+  xy: 493, 863
+  size: 333, 337
+  orig: 333, 337
+  offset: 0, 0
+  index: -1
+W_A_1
+  rotate: false
+  xy: 637, 259
+  size: 85, 87
+  orig: 87, 88
+  offset: 1, 1
+  index: -1
+W_A_2
+  rotate: true
+  xy: 461, 78
+  size: 86, 88
+  orig: 87, 90
+  offset: 0, 1
+  index: -1
+W_A_3
+  rotate: true
+  xy: 549, 171
+  size: 85, 89
+  orig: 86, 90
+  offset: 1, 1
+  index: -1
+W_A_4
+  rotate: true
+  xy: 925, 828
+  size: 86, 89
+  orig: 87, 91
+  offset: 1, 1
+  index: -1
+W_A_5
+  rotate: true
+  xy: 1016, 828
+  size: 86, 89
+  orig: 88, 89
+  offset: 1, 0
+  index: -1
+W_A_6
+  rotate: false
+  xy: 461, 257
+  size: 86, 89
+  orig: 87, 91
+  offset: 1, 1
+  index: -1
+W_A_7
+  rotate: false
+  xy: 461, 166
+  size: 86, 89
+  orig: 86, 90
+  offset: 0, 1
+  index: -1
+W_A_8
+  rotate: false
+  xy: 549, 258
+  size: 86, 88
+  orig: 87, 89
+  offset: 0, 1
+  index: -1
+W_guang
+  rotate: false
+  xy: 2, 40
+  size: 457, 302
+  orig: 468, 319
+  offset: 0, 17
+  index: -1
+W_quan
+  rotate: false
+  xy: 2, 707
+  size: 489, 489
+  orig: 489, 489
+  offset: 0, 0
+  index: -1
+led_1
+  rotate: true
+  xy: 811, 750
+  size: 111, 112
+  orig: 116, 117
+  offset: 3, 2
+  index: -1
+led_2
+  rotate: true
+  xy: 493, 743
+  size: 118, 119
+  orig: 123, 123
+  offset: 2, 2
+  index: -1
+suoian_2
+  rotate: false
+  xy: 725, 63
+  size: 471, 289
+  orig: 471, 289
+  offset: 0, 0
+  index: -1
+suolian_1
+  rotate: true
+  xy: 725, 354
+  size: 394, 316
+  orig: 394, 316
+  offset: 0, 0
+  index: -1
+zhizhen
+  rotate: true
+  xy: 614, 750
+  size: 111, 195
+  orig: 111, 216
+  offset: 0, 0
+  index: -1

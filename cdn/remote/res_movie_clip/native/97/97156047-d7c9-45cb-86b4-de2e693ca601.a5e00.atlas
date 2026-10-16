@@ -1,0 +1,62 @@
+
+roleSkill_Skulltower_9.png
+size: 1037,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C1
+  rotate: false
+  xy: 942, 327
+  size: 70, 71
+  orig: 72, 72
+  offset: 1, 1
+  index: -1
+C2
+  rotate: false
+  xy: 942, 400
+  size: 93, 96
+  orig: 94, 99
+  offset: 0, 1
+  index: -1
+C3
+  rotate: true
+  xy: 2, 32
+  size: 464, 439
+  orig: 506, 465
+  offset: 14, 13
+  index: -1
+d1
+  rotate: true
+  xy: 2, 12
+  size: 18, 90
+  orig: 18, 90
+  offset: 0, 0
+  index: -1
+d2
+  rotate: true
+  xy: 716, 28
+  size: 195, 295
+  orig: 195, 296
+  offset: 0, 1
+  index: -1
+di_guang
+  rotate: true
+  xy: 443, 161
+  size: 335, 265
+  orig: 335, 285
+  offset: 0, 3
+  index: -1
+dici_1
+  rotate: true
+  xy: 710, 225
+  size: 271, 230
+  orig: 283, 241
+  offset: 1, 11
+  index: -1
+dici_2
+  rotate: false
+  xy: 443, 2
+  size: 271, 157
+  orig: 321, 164
+  offset: 2, 5
+  index: -1

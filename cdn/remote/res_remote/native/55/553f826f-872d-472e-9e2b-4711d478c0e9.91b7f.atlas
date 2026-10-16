@@ -1,0 +1,41 @@
+
+ui_duanwu_chou_1.png
+size: 440,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: true
+  xy: 255, 358
+  size: 144, 150
+  orig: 149, 152
+  offset: 1, 1
+  index: -1
+3b
+  rotate: true
+  xy: 255, 212
+  size: 144, 150
+  orig: 149, 152
+  offset: 1, 1
+  index: -1
+a
+  rotate: true
+  xy: 225, 2
+  size: 208, 213
+  orig: 221, 231
+  offset: 8, 1
+  index: -1
+b
+  rotate: false
+  xy: 2, 265
+  size: 251, 237
+  orig: 251, 237
+  offset: 0, 0
+  index: -1
+c
+  rotate: true
+  xy: 2, 43
+  size: 220, 221
+  orig: 244, 245
+  offset: 12, 12
+  index: -1

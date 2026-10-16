@@ -1,0 +1,48 @@
+
+roleSkill_fire_orange_hit2.png
+size: 288,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo1_1
+  rotate: false
+  xy: 188, 2
+  size: 98, 144
+  orig: 105, 157
+  offset: 4, 7
+  index: -1
+huo1_2
+  rotate: false
+  xy: 163, 148
+  size: 98, 145
+  orig: 104, 154
+  offset: 3, 2
+  index: -1
+huo1_3
+  rotate: false
+  xy: 2, 140
+  size: 99, 153
+  orig: 104, 161
+  offset: 2, 2
+  index: -1
+huo1_4
+  rotate: false
+  xy: 2, 2
+  size: 98, 136
+  orig: 102, 139
+  offset: 2, 0
+  index: -1
+liuxing
+  rotate: true
+  xy: 103, 143
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: -1
+yanjiang_00016
+  rotate: false
+  xy: 102, 15
+  size: 84, 123
+  orig: 114, 239
+  offset: 22, 11
+  index: -1

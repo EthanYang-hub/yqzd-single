@@ -1,0 +1,69 @@
+
+ronghe_head_monster_3006.png
+size: 332,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou_1
+  rotate: true
+  xy: 85, 3
+  size: 22, 67
+  orig: 30, 67
+  offset: 5, 0
+  index: -1
+tou_2
+  rotate: true
+  xy: 154, 2
+  size: 23, 67
+  orig: 29, 71
+  offset: 5, 4
+  index: -1
+tou_3
+  rotate: true
+  xy: 291, 27
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+tou_4
+  rotate: false
+  xy: 291, 47
+  size: 28, 69
+  orig: 28, 69
+  offset: 0, 0
+  index: -1
+tou_5
+  rotate: true
+  xy: 223, 2
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+tou_6
+  rotate: true
+  xy: 2, 7
+  size: 18, 81
+  orig: 21, 81
+  offset: 3, 0
+  index: -1
+tou_7
+  rotate: false
+  xy: 244, 27
+  size: 45, 89
+  orig: 45, 89
+  offset: 0, 0
+  index: -1
+tou_8
+  rotate: true
+  xy: 2, 27
+  size: 190, 240
+  orig: 190, 240
+  offset: 0, 0
+  index: -1
+tou_9
+  rotate: false
+  xy: 244, 118
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+ui_minghe_paihang_down.png
+size: 936,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_bg_saijiwanfa_tank
+  rotate: false
+  xy: 2, 2
+  size: 932, 502
+  orig: 1022, 562
+  offset: 32, 21
+  index: -1

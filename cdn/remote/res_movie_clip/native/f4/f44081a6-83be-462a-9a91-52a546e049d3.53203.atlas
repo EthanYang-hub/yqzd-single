@@ -1,0 +1,27 @@
+
+ronghe_shou2_boss_3007.png
+size: 160,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A5
+  rotate: false
+  xy: 2, 32
+  size: 98, 136
+  orig: 98, 136
+  offset: 0, 0
+  index: -1
+A6
+  rotate: false
+  xy: 102, 56
+  size: 56, 112
+  orig: 56, 112
+  offset: 0, 0
+  index: -1
+A7
+  rotate: false
+  xy: 102, 2
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ui_fuzhou_bj.png
+size: 704,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_3
+  rotate: false
+  xy: 300, 67
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+beijing_4
+  rotate: false
+  xy: 523, 109
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+beijing_5
+  rotate: true
+  xy: 2, 2
+  size: 286, 296
+  orig: 290, 305
+  offset: 1, 6
+  index: -1

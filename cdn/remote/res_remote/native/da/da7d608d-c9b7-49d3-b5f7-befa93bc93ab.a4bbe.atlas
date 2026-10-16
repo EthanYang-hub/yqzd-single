@@ -1,0 +1,111 @@
+
+ui_san_xianglu.png
+size: 996,787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1
+  rotate: true
+  xy: 820, 594
+  size: 191, 150
+  orig: 191, 150
+  offset: 0, 0
+  index: -1
+B3
+  rotate: false
+  xy: 635, 107
+  size: 191, 53
+  orig: 194, 55
+  offset: 3, 1
+  index: -1
+B4
+  rotate: false
+  xy: 828, 115
+  size: 151, 45
+  orig: 153, 50
+  offset: 2, 3
+  index: -1
+B5
+  rotate: false
+  xy: 408, 142
+  size: 225, 215
+  orig: 225, 215
+  offset: 0, 0
+  index: -1
+B6
+  rotate: false
+  xy: 2, 436
+  size: 359, 349
+  orig: 379, 370
+  offset: 5, 17
+  index: -1
+C1
+  rotate: false
+  xy: 828, 8
+  size: 113, 105
+  orig: 122, 112
+  offset: 4, 5
+  index: -1
+C2
+  rotate: false
+  xy: 416, 5
+  size: 197, 135
+  orig: 197, 135
+  offset: 0, 0
+  index: -1
+C4
+  rotate: false
+  xy: 205, 4
+  size: 209, 86
+  orig: 216, 94
+  offset: 4, 4
+  index: -1
+C5
+  rotate: false
+  xy: 615, 41
+  size: 181, 64
+  orig: 188, 93
+  offset: 2, 25
+  index: -1
+C6
+  rotate: false
+  xy: 635, 162
+  size: 346, 127
+  orig: 354, 132
+  offset: 4, 2
+  index: -1
+C7
+  rotate: true
+  xy: 205, 92
+  size: 342, 201
+  orig: 444, 239
+  offset: 99, 37
+  index: -1
+aa1
+  rotate: false
+  xy: 408, 359
+  size: 328, 188
+  orig: 328, 188
+  offset: 0, 0
+  index: -1
+bb1
+  rotate: true
+  xy: 2, 2
+  size: 432, 201
+  orig: 432, 201
+  offset: 0, 0
+  index: -1
+cc1
+  rotate: false
+  xy: 363, 549
+  size: 455, 236
+  orig: 455, 236
+  offset: 0, 0
+  index: -1
+eye_lwy_t_hit_00_single
+  rotate: false
+  xy: 738, 291
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

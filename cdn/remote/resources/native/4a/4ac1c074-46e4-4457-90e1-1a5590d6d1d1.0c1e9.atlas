@@ -1,0 +1,55 @@
+
+ui_yuansu_2.png
+size: 763,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9b350db9
+  rotate: false
+  xy: 649, 133
+  size: 112, 113
+  orig: 128, 128
+  offset: 8, 8
+  index: -1
+UI_yuansu_shui-1
+  rotate: false
+  xy: 242, 2
+  size: 29, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+UI_yuansu_shui-2
+  rotate: true
+  xy: 649, 34
+  size: 42, 41
+  orig: 44, 44
+  offset: 1, 2
+  index: -1
+UI_yuansu_shui-3
+  rotate: true
+  xy: 649, 78
+  size: 53, 52
+  orig: 59, 58
+  offset: 3, 3
+  index: -1
+global_ss_cleanse_distort_normal
+  rotate: false
+  xy: 2, 4
+  size: 238, 242
+  orig: 256, 256
+  offset: 0, 6
+  index: -1
+huaban-3807134842
+  rotate: false
+  xy: 446, 39
+  size: 201, 207
+  orig: 256, 256
+  offset: 19, 23
+  index: -1
+huaban-6000882281
+  rotate: true
+  xy: 242, 34
+  size: 212, 202
+  orig: 232, 232
+  offset: 12, 16
+  index: -1

@@ -1,0 +1,76 @@
+
+ui_mh_jiesuan.png
+size: 1507,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_mh_jiesuan-10
+  rotate: false
+  xy: 2, 313
+  size: 825, 329
+  orig: 825, 331
+  offset: 0, 0
+  index: -1
+ui_mh_jiesuan-2
+  rotate: true
+  xy: 1335, 44
+  size: 391, 170
+  orig: 396, 181
+  offset: 1, 10
+  index: -1
+ui_mh_jiesuan-3
+  rotate: true
+  xy: 2, 32
+  size: 279, 458
+  orig: 392, 475
+  offset: 57, 0
+  index: -1
+ui_mh_jiesuan-4
+  rotate: false
+  xy: 1391, 492
+  size: 105, 254
+  orig: 117, 254
+  offset: 12, 0
+  index: -1
+ui_mh_jiesuan-5
+  rotate: false
+  xy: 1391, 748
+  size: 110, 273
+  orig: 150, 301
+  offset: 0, 0
+  index: -1
+ui_mh_jiesuan-6-1
+  rotate: false
+  xy: 462, 32
+  size: 374, 279
+  orig: 393, 316
+  offset: 19, 37
+  index: -1
+ui_mh_jiesuan-7
+  rotate: true
+  xy: 838, 2
+  size: 433, 495
+  orig: 514, 589
+  offset: 54, 0
+  index: -1
+ui_mh_jiesuan-8
+  rotate: false
+  xy: 829, 437
+  size: 560, 584
+  orig: 560, 584
+  offset: 0, 0
+  index: -1
+ui_mh_jiesuan-9
+  rotate: false
+  xy: 2, 644
+  size: 824, 377
+  orig: 824, 378
+  offset: 0, 0
+  index: -1
+zigy
+  rotate: false
+  xy: 2, 4
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

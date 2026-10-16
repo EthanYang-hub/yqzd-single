@@ -1,0 +1,34 @@
+
+ui_zhihunqiyuan_chou_down.png
+size: 554,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_zhihunqiyuan-xian2
+  rotate: true
+  xy: 2, 2
+  size: 343, 485
+  orig: 343, 485
+  offset: 0, 0
+  index: -1
+ui_zhihunqiyuan-xian3
+  rotate: false
+  xy: 524, 179
+  size: 28, 166
+  orig: 28, 166
+  offset: 0, 0
+  index: -1
+ui_zhihunqiyuan-xian4
+  rotate: false
+  xy: 524, 12
+  size: 28, 165
+  orig: 28, 165
+  offset: 0, 0
+  index: -1
+ui_zhihunqiyuan-xian5
+  rotate: false
+  xy: 489, 86
+  size: 33, 259
+  orig: 33, 259
+  offset: 0, 0
+  index: -1

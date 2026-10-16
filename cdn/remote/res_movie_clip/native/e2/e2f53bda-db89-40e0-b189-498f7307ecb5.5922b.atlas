@@ -1,0 +1,48 @@
+
+rareSkill_skull_effect_2.png
+size: 865,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DH
+  rotate: false
+  xy: 518, 6
+  size: 198, 59
+  orig: 200, 64
+  offset: 1, 5
+  index: -1
+DH_sentryRune_tripwire_glow_diff
+  rotate: true
+  xy: 2, 2
+  size: 106, 256
+  orig: 128, 256
+  offset: 10, 0
+  index: -1
+eye_fxl_line_005
+  rotate: false
+  xy: 718, 2
+  size: 145, 63
+  orig: 158, 64
+  offset: 7, 1
+  index: -1
+eye_fxl_line_008
+  rotate: true
+  xy: 260, 4
+  size: 43, 256
+  orig: 59, 256
+  offset: 5, 0
+  index: -1
+eye_fxl_xian
+  rotate: true
+  xy: 260, 49
+  size: 59, 256
+  orig: 59, 256
+  offset: 0, 0
+  index: -1
+monk_longReach_cyclone_diff_spirit
+  rotate: false
+  xy: 518, 67
+  size: 244, 41
+  orig: 256, 64
+  offset: 6, 10
+  index: -1

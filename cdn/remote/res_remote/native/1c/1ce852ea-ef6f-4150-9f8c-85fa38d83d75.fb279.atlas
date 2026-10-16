@@ -1,0 +1,48 @@
+
+ui_cuilianshengji.png
+size: 314,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 280, 170
+  size: 142, 32
+  orig: 152, 35
+  offset: 9, 1
+  index: -1
+a
+  rotate: false
+  xy: 2, 8
+  size: 89, 87
+  orig: 107, 145
+  offset: 9, 46
+  index: -1
+b
+  rotate: false
+  xy: 234, 25
+  size: 67, 70
+  orig: 84, 83
+  offset: 5, 4
+  index: -1
+c
+  rotate: false
+  xy: 164, 18
+  size: 68, 77
+  orig: 99, 177
+  offset: 17, 89
+  index: -1
+d
+  rotate: false
+  xy: 93, 17
+  size: 69, 78
+  orig: 114, 85
+  offset: 12, 2
+  index: -1
+e
+  rotate: false
+  xy: 2, 97
+  size: 276, 215
+  orig: 284, 216
+  offset: 7, 1
+  index: -1

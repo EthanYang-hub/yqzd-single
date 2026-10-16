@@ -1,0 +1,195 @@
+
+petSkill_genggui_3.png
+size: 2032,936
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 701, 225
+  size: 709, 326
+  orig: 709, 326
+  offset: 0, 0
+  index: -1
+heixian
+  rotate: false
+  xy: 138, 15
+  size: 38, 3
+  orig: 38, 3
+  offset: 0, 0
+  index: -1
+huo
+  rotate: true
+  xy: 1476, 45
+  size: 320, 131
+  orig: 320, 131
+  offset: 0, 0
+  index: -1
+juanzhou_1_1
+  rotate: false
+  xy: 2, 122
+  size: 287, 812
+  orig: 287, 812
+  offset: 0, 0
+  index: -1
+juanzhou_2_1
+  rotate: false
+  xy: 291, 195
+  size: 254, 739
+  orig: 254, 739
+  offset: 0, 0
+  index: -1
+juanzhou_3_1
+  rotate: false
+  xy: 1029, 422
+  size: 214, 512
+  orig: 214, 512
+  offset: 0, 0
+  index: -1
+juanzhou_4_1
+  rotate: false
+  xy: 547, 224
+  size: 152, 710
+  orig: 152, 710
+  offset: 0, 0
+  index: -1
+lizi_1
+  rotate: false
+  xy: 614, 4
+  size: 280, 218
+  orig: 291, 245
+  offset: 6, 14
+  index: -1
+lizi_2
+  rotate: true
+  xy: 1609, 213
+  size: 214, 289
+  orig: 244, 298
+  offset: 23, 5
+  index: -1
+lizi_3
+  rotate: true
+  xy: 896, 2
+  size: 221, 209
+  orig: 265, 230
+  offset: 39, 13
+  index: -1
+lizi_4
+  rotate: false
+  xy: 1609, 7
+  size: 256, 162
+  orig: 265, 186
+  offset: 6, 11
+  index: -1
+lizi_5
+  rotate: true
+  xy: 1245, 463
+  size: 471, 333
+  orig: 488, 353
+  offset: 11, 9
+  index: -1
+lizi_6
+  rotate: true
+  xy: 1107, 15
+  size: 405, 367
+  orig: 422, 379
+  offset: 7, 6
+  index: -1
+lizi_7
+  rotate: false
+  xy: 1580, 677
+  size: 431, 257
+  orig: 444, 267
+  offset: 10, 7
+  index: -1
+lizi_8
+  rotate: false
+  xy: 1580, 429
+  size: 363, 246
+  orig: 369, 262
+  offset: 1, 7
+  index: -1
+monk_longReach_shadowBlur
+  rotate: false
+  xy: 1476, 367
+  size: 95, 94
+  orig: 111, 115
+  offset: 2, 18
+  index: -1
+monk_longReach_shadowBlur_spirit
+  rotate: false
+  xy: 1867, 77
+  size: 95, 92
+  orig: 113, 103
+  offset: 4, 7
+  index: -1
+niao_a_1
+  rotate: true
+  xy: 265, 21
+  size: 99, 54
+  orig: 99, 54
+  offset: 0, 0
+  index: -1
+niao_a_2
+  rotate: false
+  xy: 138, 20
+  size: 125, 100
+  orig: 125, 100
+  offset: 0, 0
+  index: -1
+niao_b_1
+  rotate: false
+  xy: 2, 2
+  size: 134, 118
+  orig: 134, 118
+  offset: 0, 0
+  index: -1
+niao_b_2
+  rotate: true
+  xy: 446, 13
+  size: 180, 166
+  orig: 180, 166
+  offset: 0, 0
+  index: -1
+niao_c_1
+  rotate: true
+  xy: 321, 5
+  size: 188, 123
+  orig: 188, 123
+  offset: 0, 0
+  index: -1
+niao_c_2
+  rotate: true
+  xy: 1945, 517
+  size: 158, 81
+  orig: 158, 81
+  offset: 0, 0
+  index: -1
+xingcheng_1
+  rotate: true
+  xy: 1029, 289
+  size: 49, 63
+  orig: 51, 66
+  offset: 1, 1
+  index: -1
+xingcheng_2
+  rotate: false
+  xy: 1945, 373
+  size: 80, 142
+  orig: 82, 144
+  offset: 1, 1
+  index: -1
+xingcheng_3
+  rotate: false
+  xy: 1029, 340
+  size: 73, 80
+  orig: 75, 83
+  offset: 1, 1
+  index: -1
+yan
+  rotate: true
+  xy: 1900, 171
+  size: 200, 130
+  orig: 200, 130
+  offset: 0, 0
+  index: -1

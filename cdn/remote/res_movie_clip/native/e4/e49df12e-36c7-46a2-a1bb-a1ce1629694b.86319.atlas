@@ -1,0 +1,90 @@
+
+monster_3011.png
+size: 1329,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_longxu
+  rotate: true
+  xy: 2, 15
+  size: 763, 304
+  orig: 763, 304
+  offset: 0, 0
+  index: -1
+2_guang
+  rotate: true
+  xy: 308, 37
+  size: 44, 112
+  orig: 47, 120
+  offset: 2, 2
+  index: -1
+3_tou
+  rotate: true
+  xy: 635, 303
+  size: 475, 528
+  orig: 475, 528
+  offset: 0, 0
+  index: -1
+4_shenti
+  rotate: true
+  xy: 308, 83
+  size: 695, 325
+  orig: 695, 325
+  offset: 0, 0
+  index: -1
+Global_SS_Clairvoyance_EdgeRing
+  rotate: true
+  xy: 635, 45
+  size: 256, 251
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Kayle_Skin07_E_Light_Burst_red
+  rotate: false
+  xy: 888, 50
+  size: 253, 251
+  orig: 256, 256
+  offset: 3, 0
+  index: -1
+d_2
+  rotate: true
+  xy: 1165, 398
+  size: 380, 162
+  orig: 380, 162
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 339, 3
+  size: 25, 32
+  orig: 27, 32
+  offset: 1, 0
+  index: -1
+f4
+  rotate: false
+  xy: 308, 2
+  size: 29, 33
+  orig: 40, 33
+  offset: 10, 0
+  index: -1
+f6
+  rotate: false
+  xy: 366, 4
+  size: 25, 31
+  orig: 30, 33
+  offset: 5, 1
+  index: -1
+f8
+  rotate: false
+  xy: 393, 6
+  size: 21, 29
+  orig: 25, 31
+  offset: 2, 1
+  index: -1
+u_2
+  rotate: true
+  xy: 1165, 16
+  size: 380, 137
+  orig: 380, 162
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ui_lp_tishi.png
+size: 534,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Yd_guang_1
+  rotate: false
+  xy: 191, 4
+  size: 175, 176
+  orig: 209, 212
+  offset: 17, 18
+  index: -1
+Yd_guang_2
+  rotate: true
+  xy: 2, 2
+  size: 178, 187
+  orig: 203, 209
+  offset: 13, 12
+  index: -1
+Yd_guang_3
+  rotate: false
+  xy: 368, 11
+  size: 164, 169
+  orig: 178, 185
+  offset: 7, 8
+  index: -1

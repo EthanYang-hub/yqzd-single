@@ -1,0 +1,13 @@
+
+monster_3011_weiba.png
+size: 384,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d_2
+  rotate: false
+  xy: 2, 2
+  size: 380, 162
+  orig: 380, 162
+  offset: 0, 0
+  index: -1

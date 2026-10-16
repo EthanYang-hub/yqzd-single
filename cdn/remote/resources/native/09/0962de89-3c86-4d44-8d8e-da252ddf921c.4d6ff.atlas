@@ -1,0 +1,111 @@
+
+zhandou_renwu_leidian_2.png
+size: 1973,1040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 1627, 137
+  size: 139, 243
+  orig: 139, 243
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 238
+  size: 501, 800
+  orig: 501, 1015
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1396, 355
+  size: 179, 566
+  orig: 179, 566
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1042, 44
+  size: 107, 275
+  orig: 127, 275
+  offset: 20, 0
+  index: -1
+5
+  rotate: true
+  xy: 1627, 278
+  size: 75, 339
+  orig: 75, 339
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 505, 737
+  size: 301, 869
+  orig: 301, 869
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 505, 471
+  size: 264, 889
+  orig: 264, 889
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 505, 2
+  size: 467, 535
+  orig: 467, 535
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 1396, 536
+  size: 502, 575
+  orig: 502, 575
+  offset: 0, 0
+  index: -1
+Electricity 002_00009
+  rotate: true
+  xy: 1344, 167
+  size: 186, 281
+  orig: 200, 325
+  offset: 14, 44
+  index: -1
+Electricity 015_00013
+  rotate: false
+  xy: 1042, 153
+  size: 300, 316
+  orig: 300, 325
+  offset: 0, 0
+  index: -1
+Electricity 022_00012
+  rotate: true
+  xy: 371, 36
+  size: 200, 122
+  orig: 200, 122
+  offset: 0, 0
+  index: -1
+Electricity 022_00016
+  rotate: false
+  xy: 1344, 43
+  size: 170, 122
+  orig: 200, 122
+  offset: 18, 0
+  index: -1
+tx_1
+  rotate: false
+  xy: 2, 63
+  size: 367, 173
+  orig: 475, 221
+  offset: 95, 12
+  index: -1
+tx_2
+  rotate: true
+  xy: 1872, 73
+  size: 203, 95
+  orig: 320, 111
+  offset: 89, 9
+  index: -1

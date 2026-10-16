@@ -1,0 +1,55 @@
+
+monster_1019.png
+size: 1858,1593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: true
+  xy: 625, 547
+  size: 1044, 602
+  orig: 1044, 602
+  offset: 0, 0
+  index: -1
+A2
+  rotate: true
+  xy: 2, 510
+  size: 1081, 621
+  orig: 1081, 621
+  offset: 0, 0
+  index: -1
+g1
+  rotate: true
+  xy: 1563, 571
+  size: 1020, 293
+  orig: 1025, 333
+  offset: 1, 40
+  index: -1
+g2
+  rotate: false
+  xy: 933, 2
+  size: 817, 543
+  orig: 829, 605
+  offset: 9, 58
+  index: -1
+g3
+  rotate: false
+  xy: 2, 149
+  size: 929, 359
+  orig: 938, 553
+  offset: 5, 79
+  index: -1
+g4
+  rotate: true
+  xy: 1229, 569
+  size: 1022, 332
+  orig: 1029, 360
+  offset: 3, 0
+  index: -1
+hei
+  rotate: true
+  xy: 2, 47
+  size: 100, 749
+  orig: 100, 749
+  offset: 0, 0
+  index: -1

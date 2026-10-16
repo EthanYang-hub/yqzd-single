@@ -1,0 +1,27 @@
+
+ui_mojin_effect_up.png
+size: 632,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9b350db9
+  rotate: false
+  xy: 518, 145
+  size: 112, 113
+  orig: 128, 128
+  offset: 8, 8
+  index: -1
+SRU_2
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+SRU_Chaos_nexus_groundGlow
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

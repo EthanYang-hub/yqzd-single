@@ -1,0 +1,76 @@
+
+ui_shouyi_lihui.png
+size: 1893,973
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lihui_1
+  rotate: true
+  xy: 2, 446
+  size: 525, 1257
+  orig: 556, 1299
+  offset: 15, 21
+  index: -1
+lihui_10
+  rotate: false
+  xy: 1880, 479
+  size: 11, 492
+  orig: 14, 494
+  offset: 3, 2
+  index: -1
+lihui_2
+  rotate: false
+  xy: 948, 152
+  size: 297, 292
+  orig: 311, 308
+  offset: 7, 9
+  index: -1
+lihui_3
+  rotate: true
+  xy: 1261, 574
+  size: 397, 420
+  orig: 398, 422
+  offset: 1, 1
+  index: -1
+lihui_4
+  rotate: true
+  xy: 1261, 7
+  size: 565, 278
+  orig: 565, 278
+  offset: 0, 0
+  index: -1
+lihui_5
+  rotate: true
+  xy: 564, 58
+  size: 386, 382
+  orig: 386, 419
+  offset: 0, 0
+  index: -1
+lihui_6
+  rotate: true
+  xy: 1541, 2
+  size: 452, 347
+  orig: 452, 347
+  offset: 0, 0
+  index: -1
+lihui_7
+  rotate: false
+  xy: 1683, 456
+  size: 195, 515
+  orig: 195, 515
+  offset: 0, 0
+  index: -1
+lihui_8
+  rotate: true
+  xy: 948, 53
+  size: 97, 200
+  orig: 113, 269
+  offset: 0, 0
+  index: -1
+lihui_9
+  rotate: true
+  xy: 2, 176
+  size: 268, 560
+  orig: 272, 560
+  offset: 2, 0
+  index: -1

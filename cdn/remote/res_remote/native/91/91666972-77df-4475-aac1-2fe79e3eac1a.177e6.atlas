@@ -1,0 +1,27 @@
+
+ui_sajipaihang_up.png
+size: 952,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yun_1
+  rotate: false
+  xy: 2, 23
+  size: 824, 176
+  orig: 824, 176
+  offset: 0, 0
+  index: -1
+yun_2
+  rotate: false
+  xy: 2, 201
+  size: 824, 213
+  orig: 824, 213
+  offset: 0, 0
+  index: -1
+yun_3
+  rotate: true
+  xy: 828, 2
+  size: 412, 122
+  orig: 412, 122
+  offset: 0, 0
+  index: -1

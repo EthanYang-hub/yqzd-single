@@ -1,0 +1,139 @@
+
+zhandou_pet_genggui_3.png
+size: 649,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1yanguang
+  rotate: true
+  xy: 579, 417
+  size: 104, 50
+  orig: 120, 52
+  offset: 13, 2
+  index: -1
+juan1a
+  rotate: true
+  xy: 2, 111
+  size: 26, 68
+  orig: 29, 70
+  offset: 1, 1
+  index: -1
+juan1b
+  rotate: true
+  xy: 260, 11
+  size: 97, 117
+  orig: 106, 117
+  offset: 0, 0
+  index: -1
+juan1c
+  rotate: true
+  xy: 483, 13
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+juan2a
+  rotate: false
+  xy: 579, 335
+  size: 40, 80
+  orig: 42, 82
+  offset: 1, 1
+  index: -1
+juan2b
+  rotate: false
+  xy: 156, 338
+  size: 307, 183
+  orig: 310, 183
+  offset: 3, 0
+  index: -1
+juan2c
+  rotate: true
+  xy: 379, 10
+  size: 95, 102
+  orig: 95, 102
+  offset: 0, 0
+  index: -1
+juan3a
+  rotate: false
+  xy: 404, 283
+  size: 39, 53
+  orig: 41, 55
+  offset: 1, 1
+  index: -1
+juan3b
+  rotate: false
+  xy: 156, 110
+  size: 261, 96
+  orig: 261, 101
+  offset: 0, 3
+  index: -1
+juan3c
+  rotate: false
+  xy: 559, 3
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+juan4a
+  rotate: true
+  xy: 579, 299
+  size: 34, 63
+  orig: 37, 65
+  offset: 1, 1
+  index: -1
+juan4b
+  rotate: false
+  xy: 156, 208
+  size: 246, 128
+  orig: 248, 128
+  offset: 2, 0
+  index: -1
+juan4c
+  rotate: false
+  xy: 559, 55
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 2, 2
+  size: 106, 256
+  orig: 106, 256
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 2, 139
+  size: 152, 382
+  orig: 153, 382
+  offset: 1, 0
+  index: -1
+shoua
+  rotate: false
+  xy: 465, 275
+  size: 112, 246
+  orig: 112, 246
+  offset: 0, 0
+  index: -1
+shoub
+  rotate: true
+  xy: 528, 133
+  size: 140, 119
+  orig: 140, 119
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 419, 107
+  size: 166, 107
+  orig: 166, 107
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 260, 3
+  size: 10, 6
+  orig: 13, 8
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,279 @@
+
+petSkill_tiansha_1.png
+size: 2033,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0522
+  rotate: false
+  xy: 1884, 16
+  size: 86, 91
+  orig: 96, 96
+  offset: 5, 0
+  index: -1
+XD_1
+  rotate: false
+  xy: 43, 5
+  size: 80, 30
+  orig: 81, 30
+  offset: 0, 0
+  index: -1
+XD_10
+  rotate: false
+  xy: 1623, 163
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+XD_11
+  rotate: false
+  xy: 1480, 3
+  size: 151, 152
+  orig: 151, 152
+  offset: 0, 0
+  index: -1
+XD_12
+  rotate: true
+  xy: 1469, 157
+  size: 157, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+XD_13
+  rotate: true
+  xy: 1316, 150
+  size: 164, 151
+  orig: 165, 152
+  offset: 1, 1
+  index: -1
+XD_14
+  rotate: true
+  xy: 1010, 147
+  size: 167, 151
+  orig: 167, 152
+  offset: 0, 1
+  index: -1
+XD_15
+  rotate: true
+  xy: 1163, 147
+  size: 167, 151
+  orig: 167, 151
+  offset: 0, 0
+  index: -1
+XD_16
+  rotate: true
+  xy: 713, 146
+  size: 168, 148
+  orig: 169, 149
+  offset: 0, 1
+  index: -1
+XD_17
+  rotate: true
+  xy: 566, 145
+  size: 169, 145
+  orig: 169, 146
+  offset: 0, 1
+  index: -1
+XD_18
+  rotate: true
+  xy: 863, 146
+  size: 168, 145
+  orig: 169, 146
+  offset: 1, 0
+  index: -1
+XD_19
+  rotate: false
+  xy: 1069, 2
+  size: 167, 143
+  orig: 168, 144
+  offset: 1, 1
+  index: -1
+XD_2
+  rotate: false
+  xy: 125, 5
+  size: 80, 30
+  orig: 81, 30
+  offset: 0, 0
+  index: -1
+XD_20
+  rotate: false
+  xy: 770, 2
+  size: 165, 142
+  orig: 166, 144
+  offset: 1, 1
+  index: -1
+XD_3
+  rotate: true
+  xy: 365, 7
+  size: 113, 127
+  orig: 113, 128
+  offset: 0, 1
+  index: -1
+XD_4
+  rotate: true
+  xy: 1904, 192
+  size: 122, 126
+  orig: 123, 126
+  offset: 0, 0
+  index: -1
+XD_5
+  rotate: false
+  xy: 1775, 187
+  size: 127, 127
+  orig: 128, 128
+  offset: 0, 1
+  index: -1
+XD_6
+  rotate: false
+  xy: 937, 8
+  size: 130, 136
+  orig: 131, 137
+  offset: 0, 0
+  index: -1
+XD_7
+  rotate: true
+  xy: 626, 6
+  size: 137, 142
+  orig: 137, 142
+  offset: 0, 0
+  index: -1
+XD_8
+  rotate: false
+  xy: 1332, 2
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+XD_9
+  rotate: false
+  xy: 1633, 12
+  size: 148, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+a1
+  rotate: true
+  xy: 226, 122
+  size: 192, 150
+  orig: 203, 154
+  offset: 5, 2
+  index: -1
+fire_1
+  rotate: true
+  xy: 1904, 109
+  size: 81, 107
+  orig: 81, 107
+  offset: 0, 0
+  index: -1
+fire_2
+  rotate: true
+  xy: 494, 12
+  size: 110, 130
+  orig: 110, 130
+  offset: 0, 0
+  index: -1
+fire_3
+  rotate: false
+  xy: 1972, 22
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+fire_4_1
+  rotate: false
+  xy: 1783, 8
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+fire_5
+  rotate: true
+  xy: 2, 37
+  size: 277, 222
+  orig: 277, 222
+  offset: 0, 0
+  index: -1
+guai_1
+  rotate: true
+  xy: 238, 17
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+guai_2
+  rotate: true
+  xy: 1783, 130
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+guai_3
+  rotate: true
+  xy: 279, 4
+  size: 116, 84
+  orig: 119, 84
+  offset: 3, 0
+  index: -1
+guai_4
+  rotate: false
+  xy: 1238, 17
+  size: 92, 128
+  orig: 92, 128
+  offset: 0, 0
+  index: -1
+guai_5
+  rotate: true
+  xy: 1972, 66
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+guai_6
+  rotate: true
+  xy: 226, 37
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+guai_7
+  rotate: true
+  xy: 2, 2
+  size: 33, 39
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+guai_8
+  rotate: false
+  xy: 207, 5
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+lizi_1
+  rotate: false
+  xy: 494, 5
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+lizi_2
+  rotate: true
+  xy: 238, 3
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+lizi_3
+  rotate: true
+  xy: 251, 3
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+trdun_waterfall_splash
+  rotate: true
+  xy: 378, 124
+  size: 190, 186
+  orig: 192, 192
+  offset: 2, 3
+  index: -1

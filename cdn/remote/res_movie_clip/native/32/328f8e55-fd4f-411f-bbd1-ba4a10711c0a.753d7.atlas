@@ -1,0 +1,405 @@
+
+petSkill_spine.png
+size: 2033,1115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0856
+  rotate: true
+  xy: 1522, 799
+  size: 314, 465
+  orig: 360, 490
+  offset: 22, 14
+  index: -1
+AA1
+  rotate: false
+  xy: 2, 50
+  size: 154, 342
+  orig: 182, 386
+  offset: 12, 12
+  index: -1
+AA3
+  rotate: false
+  xy: 1989, 456
+  size: 42, 657
+  orig: 42, 657
+  offset: 0, 0
+  index: -1
+AA4
+  rotate: true
+  xy: 780, 967
+  size: 146, 740
+  orig: 146, 740
+  offset: 0, 0
+  index: -1
+Electricity 003_00000
+  rotate: true
+  xy: 1736, 459
+  size: 79, 167
+  orig: 200, 303
+  offset: 39, 136
+  index: -1
+Electricity 003_00001
+  rotate: false
+  xy: 1089, 156
+  size: 107, 302
+  orig: 200, 303
+  offset: 37, 1
+  index: -1
+Electricity 003_00002
+  rotate: false
+  xy: 464, 112
+  size: 158, 303
+  orig: 200, 303
+  offset: 18, 0
+  index: -1
+Electricity 003_00003
+  rotate: false
+  xy: 739, 155
+  size: 183, 303
+  orig: 200, 303
+  offset: 14, 0
+  index: -1
+Electricity 003_00004
+  rotate: false
+  xy: 924, 155
+  size: 163, 303
+  orig: 200, 303
+  offset: 25, 0
+  index: -1
+Electricity 003_00006
+  rotate: false
+  xy: 278, 112
+  size: 184, 303
+  orig: 200, 303
+  offset: 2, 0
+  index: -1
+Electricity 003_00009
+  rotate: true
+  xy: 1695, 294
+  size: 153, 131
+  orig: 200, 303
+  offset: 9, 35
+  index: -1
+Electricity 003_00011
+  rotate: false
+  xy: 1016, 25
+  size: 143, 128
+  orig: 200, 303
+  offset: 13, 36
+  index: -1
+Electricity 26 Up 00027
+  rotate: true
+  xy: 780, 460
+  size: 248, 602
+  orig: 248, 602
+  offset: 0, 0
+  index: -1
+Electricity 26 Up 00028
+  rotate: false
+  xy: 259, 417
+  size: 256, 696
+  orig: 256, 696
+  offset: 0, 0
+  index: -1
+Electricity 26 Up 00029
+  rotate: false
+  xy: 2, 394
+  size: 255, 719
+  orig: 255, 719
+  offset: 0, 0
+  index: -1
+Electricity 26 Up 00030
+  rotate: false
+  xy: 517, 471
+  size: 261, 642
+  orig: 261, 642
+  offset: 0, 0
+  index: -1
+Electricity 26 Up 00031
+  rotate: true
+  xy: 780, 710
+  size: 255, 630
+  orig: 255, 630
+  offset: 0, 0
+  index: -1
+Electricity 26 Up 00032
+  rotate: true
+  xy: 1412, 540
+  size: 257, 545
+  orig: 257, 545
+  offset: 0, 0
+  index: -1
+Electricity 26 Up 00033
+  rotate: false
+  xy: 158, 35
+  size: 118, 357
+  orig: 118, 357
+  offset: 0, 0
+  index: -1
+Electricity 26 Up 00034
+  rotate: false
+  xy: 624, 131
+  size: 113, 338
+  orig: 113, 338
+  offset: 0, 0
+  index: -1
+Electricity 26 Up 00035
+  rotate: false
+  xy: 1826, 15
+  size: 110, 254
+  orig: 110, 254
+  offset: 0, 0
+  index: -1
+d2
+  rotate: true
+  xy: 1938, 15
+  size: 254, 69
+  orig: 256, 70
+  offset: 2, 1
+  index: -1
+heihuo_032
+  rotate: false
+  xy: 737, 9
+  size: 118, 50
+  orig: 119, 51
+  offset: 1, 1
+  index: -1
+heihuo_033
+  rotate: false
+  xy: 624, 80
+  size: 111, 49
+  orig: 118, 51
+  offset: 1, 1
+  index: -1
+heihuo_034
+  rotate: false
+  xy: 624, 30
+  size: 111, 48
+  orig: 118, 51
+  offset: 0, 2
+  index: -1
+heihuo_035
+  rotate: false
+  xy: 2, 2
+  size: 108, 46
+  orig: 110, 50
+  offset: 1, 3
+  index: -1
+heihuo_036
+  rotate: false
+  xy: 857, 14
+  size: 110, 45
+  orig: 113, 49
+  offset: 2, 3
+  index: -1
+heihuo_037
+  rotate: false
+  xy: 1264, 14
+  size: 109, 43
+  orig: 112, 46
+  offset: 1, 3
+  index: -1
+heihuo_038
+  rotate: true
+  xy: 1989, 348
+  size: 106, 41
+  orig: 113, 43
+  offset: 3, 1
+  index: -1
+heihuo_039
+  rotate: false
+  xy: 517, 428
+  size: 105, 41
+  orig: 106, 41
+  offset: 0, 0
+  index: -1
+heihuo_040
+  rotate: true
+  xy: 1488, 867
+  size: 98, 32
+  orig: 106, 33
+  offset: 0, 1
+  index: -1
+heihuo_041
+  rotate: false
+  xy: 1198, 44
+  size: 64, 27
+  orig: 72, 28
+  offset: 0, 1
+  index: -1
+heihuo_042
+  rotate: false
+  xy: 1198, 73
+  size: 64, 33
+  orig: 73, 35
+  offset: 1, 1
+  index: -1
+heihuo_043
+  rotate: true
+  xy: 1488, 802
+  size: 63, 30
+  orig: 65, 34
+  offset: 1, 3
+  index: -1
+s4_dian3_000
+  rotate: true
+  xy: 1289, 89
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+s4_dian3_001
+  rotate: false
+  xy: 1412, 801
+  size: 74, 164
+  orig: 74, 164
+  offset: 0, 0
+  index: -1
+s4_dian3_002
+  rotate: true
+  xy: 739, 61
+  size: 92, 275
+  orig: 92, 275
+  offset: 0, 0
+  index: -1
+s4_dian3_003
+  rotate: true
+  xy: 278, 21
+  size: 89, 344
+  orig: 89, 344
+  offset: 0, 0
+  index: -1
+s4_dian3_004
+  rotate: true
+  xy: 1384, 449
+  size: 89, 350
+  orig: 89, 350
+  offset: 0, 0
+  index: -1
+s4_dian3_005
+  rotate: false
+  xy: 1198, 108
+  size: 89, 350
+  orig: 89, 350
+  offset: 0, 0
+  index: -1
+s4_dian3_006
+  rotate: false
+  xy: 1289, 134
+  size: 86, 324
+  orig: 86, 324
+  offset: 0, 0
+  index: -1
+s4_dian3_007
+  rotate: true
+  xy: 1377, 361
+  size: 86, 316
+  orig: 86, 316
+  offset: 0, 0
+  index: -1
+s4_dian3_008
+  rotate: false
+  xy: 1905, 271
+  size: 82, 267
+  orig: 82, 267
+  offset: 0, 0
+  index: -1
+s4_dian3_009
+  rotate: true
+  xy: 1377, 57
+  size: 78, 275
+  orig: 78, 275
+  offset: 0, 0
+  index: -1
+s4_dian3_010
+  rotate: true
+  xy: 1377, 213
+  size: 74, 306
+  orig: 74, 306
+  offset: 0, 0
+  index: -1
+s4_dian3_011
+  rotate: true
+  xy: 1377, 289
+  size: 70, 316
+  orig: 70, 316
+  offset: 0, 0
+  index: -1
+s4_dian3_012
+  rotate: true
+  xy: 1377, 137
+  size: 74, 306
+  orig: 74, 306
+  offset: 0, 0
+  index: -1
+s4_dian3_013
+  rotate: false
+  xy: 1685, 2
+  size: 74, 267
+  orig: 74, 267
+  offset: 0, 0
+  index: -1
+s4_dian3_014
+  rotate: false
+  xy: 1828, 273
+  size: 62, 184
+  orig: 62, 184
+  offset: 0, 0
+  index: -1
+suolian_1
+  rotate: false
+  xy: 1161, 39
+  size: 35, 115
+  orig: 35, 122
+  offset: 0, 0
+  index: -1
+suolian_2
+  rotate: true
+  xy: 1375, 21
+  size: 34, 112
+  orig: 41, 113
+  offset: 0, 0
+  index: -1
+suolian_3
+  rotate: false
+  xy: 1654, 44
+  size: 28, 91
+  orig: 28, 92
+  offset: 0, 0
+  index: -1
+suolian_4
+  rotate: false
+  xy: 1959, 557
+  size: 28, 112
+  orig: 28, 112
+  offset: 0, 0
+  index: -1
+suolian_5
+  rotate: true
+  xy: 1489, 27
+  size: 28, 90
+  orig: 28, 90
+  offset: 0, 0
+  index: -1
+suolian_6
+  rotate: true
+  xy: 1264, 59
+  size: 28, 111
+  orig: 28, 111
+  offset: 0, 0
+  index: -1
+suolian_7
+  rotate: false
+  xy: 1959, 671
+  size: 28, 126
+  orig: 28, 127
+  offset: 0, 0
+  index: -1
+sv
+  rotate: true
+  xy: 1761, 13
+  size: 256, 63
+  orig: 256, 64
+  offset: 0, 0
+  index: -1

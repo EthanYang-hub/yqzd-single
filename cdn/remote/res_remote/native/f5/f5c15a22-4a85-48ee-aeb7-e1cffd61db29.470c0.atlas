@@ -1,0 +1,13 @@
+
+ui_fengdu_heiwu.png
+size: 258,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_1
+  rotate: false
+  xy: 2, 2
+  size: 254, 243
+  orig: 256, 256
+  offset: 0, 10
+  index: -1

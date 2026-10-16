@@ -1,0 +1,27 @@
+
+effect_buff_huixue.png
+size: 395,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ping_light_1
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+v1
+  rotate: false
+  xy: 260, 17
+  size: 96, 106
+  orig: 100, 110
+  offset: 2, 2
+  index: -1
+xue
+  rotate: false
+  xy: 260, 125
+  size: 133, 133
+  orig: 138, 138
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,181 @@
+
+UI_pipeiguodu.png
+size: 2017,1000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_pipeiguodu-10
+  rotate: true
+  xy: 1883, 838
+  size: 160, 37
+  orig: 160, 37
+  offset: 0, 0
+  index: -1
+UI_pipeiguodu-11
+  rotate: false
+  xy: 227, 2
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+UI_pipeiguodu-12
+  rotate: true
+  xy: 1111, 312
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+UI_pipeiguodu-13
+  rotate: true
+  xy: 187, 2
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+UI_pipeiguodu-14
+  rotate: false
+  xy: 1149, 7
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+UI_pipeiguodu-16
+  rotate: false
+  xy: 993, 352
+  size: 654, 154
+  orig: 664, 164
+  offset: 5, 4
+  index: -1
+UI_pipeiguodu-17
+  rotate: false
+  xy: 1850, 21
+  size: 162, 172
+  orig: 180, 180
+  offset: 13, 4
+  index: -1
+UI_pipeiguodu-18
+  rotate: true
+  xy: 1850, 195
+  size: 183, 163
+  orig: 196, 172
+  offset: 5, 4
+  index: -1
+UI_pipeiguodu-19
+  rotate: false
+  xy: 1552, 3
+  size: 168, 347
+  orig: 193, 356
+  offset: 13, 6
+  index: -1
+UI_pipeiguodu-20
+  rotate: false
+  xy: 993, 508
+  size: 870, 147
+  orig: 870, 149
+  offset: 0, 1
+  index: -1
+UI_pipeiguodu-21
+  rotate: false
+  xy: 993, 806
+  size: 888, 192
+  orig: 889, 194
+  offset: 1, 1
+  index: -1
+UI_pipeiguodu-22
+  rotate: false
+  xy: 993, 657
+  size: 876, 147
+  orig: 876, 149
+  offset: 0, 1
+  index: -1
+UI_pipeiguodu-23
+  rotate: false
+  xy: 2, 53
+  size: 896, 193
+  orig: 897, 195
+  offset: 0, 1
+  index: -1
+UI_pipeiguodu-24
+  rotate: true
+  xy: 1149, 17
+  size: 333, 401
+  orig: 333, 403
+  offset: 0, 0
+  index: -1
+UI_pipeiguodu-25
+  rotate: false
+  xy: 2, 248
+  size: 989, 750
+  orig: 1139, 750
+  offset: 75, 0
+  index: -1
+UI_pipeiguodu-4
+  rotate: false
+  xy: 993, 268
+  size: 78, 22
+  orig: 78, 22
+  offset: 0, 0
+  index: -1
+UI_pipeiguodu-6
+  rotate: false
+  xy: 1922, 897
+  size: 47, 101
+  orig: 87, 116
+  offset: 21, 5
+  index: -1
+UI_pipeiguodu-7
+  rotate: false
+  xy: 187, 33
+  size: 121, 18
+  orig: 139, 18
+  offset: 4, 0
+  index: -1
+UI_pipeiguodu-8
+  rotate: false
+  xy: 2, 6
+  size: 183, 45
+  orig: 199, 45
+  offset: 1, 0
+  index: -1
+UI_pipeiguodu-9
+  rotate: true
+  xy: 1871, 546
+  size: 258, 144
+  orig: 291, 156
+  offset: 24, 6
+  index: -1
+WD_soulHarvest_castSoulDiff_blue
+  rotate: true
+  xy: 1649, 380
+  size: 126, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+WD_soulHarvest_castSoulDiff_purple
+  rotate: false
+  xy: 1722, 122
+  size: 126, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+monk_mysticAlly_puddle
+  rotate: false
+  xy: 900, 2
+  size: 247, 244
+  orig: 256, 256
+  offset: 9, 7
+  index: -1
+monsterAffix_Vortex_trail
+  rotate: true
+  xy: 993, 292
+  size: 58, 116
+  orig: 64, 128
+  offset: 0, 5
+  index: -1
+monsterAffix_Vortex_trail2
+  rotate: false
+  xy: 1722, 4
+  size: 58, 116
+  orig: 64, 128
+  offset: 0, 5
+  index: -1

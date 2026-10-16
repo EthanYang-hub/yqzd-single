@@ -1,0 +1,20 @@
+
+ui_xuanzhongkuang.png
+size: 422,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 218, 11
+  size: 202, 203
+  orig: 204, 206
+  offset: 1, 2
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 212, 214
+  orig: 216, 218
+  offset: 2, 2
+  index: -1

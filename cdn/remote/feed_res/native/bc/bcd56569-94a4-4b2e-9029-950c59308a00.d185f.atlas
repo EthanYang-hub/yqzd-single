@@ -1,0 +1,195 @@
+
+rareSkill_volcano_summon.png
+size: 1121,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dayanshi
+  rotate: true
+  xy: 759, 18
+  size: 122, 94
+  orig: 124, 97
+  offset: 1, 1
+  index: -1
+glow_01
+  rotate: false
+  xy: 855, 30
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+huoshan_bei
+  rotate: false
+  xy: 227, 114
+  size: 74, 152
+  orig: 76, 158
+  offset: 1, 1
+  index: -1
+huoshan_qian
+  rotate: true
+  xy: 303, 124
+  size: 142, 118
+  orig: 144, 121
+  offset: 1, 1
+  index: -1
+huoyan_03_01
+  rotate: false
+  xy: 60, 3
+  size: 65, 24
+  orig: 128, 128
+  offset: 30, 0
+  index: -1
+huoyan_03_02
+  rotate: false
+  xy: 1048, 12
+  size: 71, 52
+  orig: 128, 128
+  offset: 27, 0
+  index: -1
+huoyan_03_03
+  rotate: false
+  xy: 973, 40
+  size: 73, 109
+  orig: 128, 128
+  offset: 29, 0
+  index: -1
+huoyan_03_04
+  rotate: false
+  xy: 363, 2
+  size: 79, 120
+  orig: 128, 128
+  offset: 26, 0
+  index: -1
+huoyan_03_05
+  rotate: false
+  xy: 671, 8
+  size: 86, 128
+  orig: 128, 128
+  offset: 22, 0
+  index: -1
+huoyan_03_06
+  rotate: false
+  xy: 655, 138
+  size: 101, 128
+  orig: 128, 128
+  offset: 15, 0
+  index: -1
+huoyan_03_07
+  rotate: false
+  xy: 560, 8
+  size: 109, 128
+  orig: 128, 128
+  offset: 11, 0
+  index: -1
+huoyan_03_08
+  rotate: false
+  xy: 540, 138
+  size: 113, 128
+  orig: 128, 128
+  offset: 8, 0
+  index: -1
+huoyan_03_09
+  rotate: false
+  xy: 423, 138
+  size: 115, 128
+  orig: 128, 128
+  offset: 6, 0
+  index: -1
+huoyan_03_10
+  rotate: false
+  xy: 444, 8
+  size: 114, 128
+  orig: 128, 128
+  offset: 6, 0
+  index: -1
+huoyan_03_11
+  rotate: true
+  xy: 233, 2
+  size: 110, 128
+  orig: 128, 128
+  offset: 6, 0
+  index: -1
+huoyan_03_12
+  rotate: false
+  xy: 758, 142
+  size: 92, 124
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+huoyan_03_13
+  rotate: false
+  xy: 852, 148
+  size: 88, 118
+  orig: 128, 128
+  offset: 5, 10
+  index: -1
+huoyan_03_14
+  rotate: true
+  xy: 1048, 66
+  size: 83, 65
+  orig: 128, 128
+  offset: 5, 63
+  index: -1
+huoyan_03_15
+  rotate: false
+  xy: 127, 2
+  size: 62, 42
+  orig: 128, 128
+  offset: 6, 67
+  index: -1
+huoyan_03_16
+  rotate: true
+  xy: 210, 22
+  size: 22, 21
+  orig: 128, 128
+  offset: 6, 70
+  index: -1
+suishi_2
+  rotate: true
+  xy: 191, 14
+  size: 30, 17
+  orig: 32, 19
+  offset: 1, 1
+  index: -1
+suishi_3
+  rotate: false
+  xy: 210, 4
+  size: 21, 16
+  orig: 23, 18
+  offset: 1, 1
+  index: -1
+xian_1
+  rotate: false
+  xy: 60, 29
+  size: 64, 237
+  orig: 66, 245
+  offset: 0, 0
+  index: -1
+xian_2
+  rotate: false
+  xy: 126, 46
+  size: 99, 220
+  orig: 108, 228
+  offset: 0, 0
+  index: -1
+xian_3
+  rotate: false
+  xy: 2, 12
+  size: 56, 254
+  orig: 60, 255
+  offset: 0, 0
+  index: -1
+xiaoyanshi
+  rotate: true
+  xy: 1050, 191
+  size: 75, 64
+  orig: 80, 68
+  offset: 4, 1
+  index: -1
+yanwu_1
+  rotate: false
+  xy: 942, 151
+  size: 106, 115
+  orig: 128, 128
+  offset: 9, 0
+  index: -1

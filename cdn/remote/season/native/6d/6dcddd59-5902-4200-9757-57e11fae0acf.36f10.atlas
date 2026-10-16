@@ -1,0 +1,41 @@
+
+Season_fight_status_Fight.png
+size: 180,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fight_baodian
+  rotate: false
+  xy: 12, 78
+  size: 94, 100
+  orig: 102, 102
+  offset: 2, 0
+  index: -1
+Fight_line
+  rotate: false
+  xy: 2, 2
+  size: 8, 176
+  orig: 10, 180
+  offset: 1, 2
+  index: -1
+Fight_lizi
+  rotate: false
+  xy: 108, 166
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+Fight_sword1
+  rotate: false
+  xy: 12, 26
+  size: 58, 50
+  orig: 65, 56
+  offset: 4, 3
+  index: -1
+Fight_sword2
+  rotate: false
+  xy: 72, 26
+  size: 58, 50
+  orig: 65, 56
+  offset: 3, 3
+  index: -1

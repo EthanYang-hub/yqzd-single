@@ -1,0 +1,13 @@
+
+monster_3014_up.png
+size: 798,35
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui
+  rotate: false
+  xy: 2, 2
+  size: 794, 31
+  orig: 794, 31
+  offset: 0, 0
+  index: -1

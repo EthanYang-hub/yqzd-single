@@ -1,0 +1,27 @@
+
+ui_fengdu_dibiao_1.png
+size: 407,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_1
+  rotate: true
+  xy: 239, 2
+  size: 112, 118
+  orig: 113, 119
+  offset: 0, 0
+  index: -1
+A_2
+  rotate: true
+  xy: 239, 116
+  size: 130, 166
+  orig: 172, 206
+  offset: 15, 21
+  index: -1
+A_3
+  rotate: true
+  xy: 2, 10
+  size: 236, 235
+  orig: 244, 244
+  offset: 2, 5
+  index: -1

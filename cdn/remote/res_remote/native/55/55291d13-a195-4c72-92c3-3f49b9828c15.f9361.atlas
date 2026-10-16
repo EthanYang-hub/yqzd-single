@@ -1,0 +1,90 @@
+
+ui_tianshuwudao_erjue_dianliang.png
+size: 431,431
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: true
+  xy: 154, 299
+  size: 130, 129
+  orig: 180, 180
+  offset: 23, 29
+  index: -1
+Fire_3
+  rotate: false
+  xy: 342, 18
+  size: 52, 97
+  orig: 62, 106
+  offset: 4, 7
+  index: -1
+Fire_4
+  rotate: true
+  xy: 280, 231
+  size: 66, 128
+  orig: 69, 131
+  offset: 2, 2
+  index: -1
+Fire_5
+  rotate: false
+  xy: 210, 6
+  size: 76, 166
+  orig: 81, 173
+  offset: 4, 6
+  index: -1
+Fire_6
+  rotate: false
+  xy: 2, 174
+  size: 150, 255
+  orig: 154, 266
+  offset: 0, 7
+  index: -1
+Golden_castBeams_01
+  rotate: true
+  xy: 280, 174
+  size: 55, 123
+  orig: 64, 128
+  offset: 2, 1
+  index: -1
+Golden_castBeams_02
+  rotate: false
+  xy: 288, 2
+  size: 52, 113
+  orig: 64, 128
+  offset: 4, 3
+  index: -1
+Golden_castBeams_03
+  rotate: false
+  xy: 351, 318
+  size: 63, 111
+  orig: 64, 128
+  offset: 0, 1
+  index: -1
+Golden_castBeams_04
+  rotate: false
+  xy: 285, 310
+  size: 64, 119
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+SRU_Crab_Dashflare-Rainbow_white_03
+  rotate: true
+  xy: 154, 174
+  size: 123, 124
+  orig: 128, 128
+  offset: 3, 2
+  index: -1
+WeaponStreak06
+  rotate: true
+  xy: 288, 117
+  size: 55, 115
+  orig: 64, 128
+  offset: 4, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 2, 30
+  size: 206, 142
+  orig: 206, 145
+  offset: 0, 0
+  index: -1

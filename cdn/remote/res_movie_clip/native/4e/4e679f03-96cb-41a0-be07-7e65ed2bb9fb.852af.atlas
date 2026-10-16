@@ -1,0 +1,41 @@
+
+ui_shuijing_shiguan_down.png
+size: 919,919
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guancai_di
+  rotate: true
+  xy: 604, 15
+  size: 435, 223
+  orig: 437, 225
+  offset: 1, 1
+  index: -1
+guancai_ding
+  rotate: true
+  xy: 507, 452
+  size: 465, 152
+  orig: 467, 154
+  offset: 1, 1
+  index: -1
+guancai_taijie
+  rotate: false
+  xy: 2, 2
+  size: 600, 225
+  orig: 602, 320
+  offset: 1, 53
+  index: -1
+guancai_xuedi
+  rotate: false
+  xy: 661, 629
+  size: 134, 288
+  orig: 136, 290
+  offset: 1, 1
+  index: -1
+lazhu
+  rotate: false
+  xy: 2, 229
+  size: 503, 688
+  orig: 509, 690
+  offset: 1, 1
+  index: -1

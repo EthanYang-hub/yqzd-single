@@ -1,0 +1,391 @@
+
+roleSkill_fire_bule_ground.png
+size: 1047,1047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0771
+  rotate: false
+  xy: 2, 572
+  size: 451, 473
+  orig: 512, 512
+  offset: 26, 22
+  index: -1
+A1
+  rotate: true
+  xy: 375, 88
+  size: 22, 17
+  orig: 22, 19
+  offset: 0, 1
+  index: -1
+A2
+  rotate: true
+  xy: 355, 88
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+A3
+  rotate: false
+  xy: 455, 431
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+A4
+  rotate: false
+  xy: 952, 840
+  size: 11, 6
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+A5
+  rotate: false
+  xy: 2, 4
+  size: 8, 7
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+AAA
+  rotate: false
+  xy: 600, 868
+  size: 352, 177
+  orig: 356, 186
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 2, 13
+  size: 557, 49
+  orig: 557, 64
+  offset: 0, 0
+  index: -1
+huo
+  rotate: true
+  xy: 455, 441
+  size: 604, 143
+  orig: 605, 200
+  offset: 1, 0
+  index: -1
+huomiao
+  rotate: false
+  xy: 600, 720
+  size: 294, 73
+  orig: 350, 95
+  offset: 12, 14
+  index: -1
+kong_pao_bei
+  rotate: false
+  xy: 988, 66
+  size: 40, 30
+  orig: 40, 40
+  offset: 0, 6
+  index: -1
+yanjiang05_00003
+  rotate: false
+  xy: 831, 58
+  size: 71, 102
+  orig: 76, 131
+  offset: 2, 23
+  index: -1
+yanjiang05_00004
+  rotate: false
+  xy: 831, 162
+  size: 71, 106
+  orig: 76, 131
+  offset: 3, 21
+  index: -1
+yanjiang05_00005
+  rotate: false
+  xy: 447, 2
+  size: 71, 108
+  orig: 76, 131
+  offset: 4, 21
+  index: -1
+yanjiang05_00006
+  rotate: false
+  xy: 904, 166
+  size: 70, 105
+  orig: 76, 131
+  offset: 4, 24
+  index: -1
+yanjiang05_00007
+  rotate: false
+  xy: 976, 171
+  size: 69, 100
+  orig: 76, 131
+  offset: 4, 27
+  index: -1
+yanjiang05_00008
+  rotate: false
+  xy: 931, 598
+  size: 67, 99
+  orig: 76, 131
+  offset: 5, 26
+  index: -1
+yanjiang05_00009
+  rotate: false
+  xy: 931, 501
+  size: 67, 95
+  orig: 76, 131
+  offset: 5, 25
+  index: -1
+yanjiang05_00010
+  rotate: false
+  xy: 633, 116
+  size: 66, 92
+  orig: 76, 131
+  offset: 6, 22
+  index: -1
+yanjiang05_00011
+  rotate: true
+  xy: 701, 13
+  size: 66, 90
+  orig: 76, 131
+  offset: 6, 17
+  index: -1
+yanjiang05_00012
+  rotate: true
+  xy: 904, 5
+  size: 59, 84
+  orig: 76, 131
+  offset: 6, 13
+  index: -1
+yanjiang05_00013
+  rotate: true
+  xy: 965, 786
+  size: 60, 80
+  orig: 76, 131
+  offset: 5, 8
+  index: -1
+yanjiang05_00014
+  rotate: false
+  xy: 982, 429
+  size: 59, 70
+  orig: 76, 131
+  offset: 6, 10
+  index: -1
+yanjiang05_00015
+  rotate: true
+  xy: 902, 807
+  size: 59, 48
+  orig: 76, 131
+  offset: 5, 15
+  index: -1
+yanjiang05_00016
+  rotate: true
+  xy: 666, 58
+  size: 56, 33
+  orig: 76, 131
+  offset: 7, 15
+  index: -1
+yanjiang_00002
+  rotate: false
+  xy: 701, 81
+  size: 81, 173
+  orig: 114, 239
+  offset: 16, 4
+  index: -1
+yanjiang_00003
+  rotate: false
+  xy: 784, 270
+  size: 100, 211
+  orig: 114, 239
+  offset: 8, 2
+  index: -1
+yanjiang_00004
+  rotate: false
+  xy: 678, 256
+  size: 104, 224
+  orig: 114, 239
+  offset: 6, 1
+  index: -1
+yanjiang_00005
+  rotate: false
+  xy: 822, 485
+  size: 107, 233
+  orig: 114, 239
+  offset: 4, 0
+  index: -1
+yanjiang_00006
+  rotate: false
+  xy: 711, 483
+  size: 109, 235
+  orig: 114, 239
+  offset: 3, 0
+  index: -1
+yanjiang_00007
+  rotate: false
+  xy: 600, 482
+  size: 109, 236
+  orig: 114, 239
+  offset: 3, 0
+  index: -1
+yanjiang_00008
+  rotate: false
+  xy: 355, 112
+  size: 109, 235
+  orig: 114, 239
+  offset: 3, 0
+  index: -1
+yanjiang_00009
+  rotate: false
+  xy: 466, 206
+  size: 106, 233
+  orig: 114, 239
+  offset: 4, 0
+  index: -1
+yanjiang_00010
+  rotate: false
+  xy: 574, 210
+  size: 102, 229
+  orig: 114, 239
+  offset: 7, 0
+  index: -1
+yanjiang_00011
+  rotate: false
+  xy: 355, 349
+  size: 98, 221
+  orig: 114, 239
+  offset: 10, 2
+  index: -1
+yanjiang_00012
+  rotate: false
+  xy: 886, 273
+  size: 94, 210
+  orig: 114, 239
+  offset: 14, 3
+  index: -1
+yanjiang_00013
+  rotate: false
+  xy: 954, 848
+  size: 91, 197
+  orig: 114, 239
+  offset: 17, 4
+  index: -1
+yanjiang_00014
+  rotate: true
+  xy: 466, 116
+  size: 88, 165
+  orig: 114, 239
+  offset: 20, 9
+  index: -1
+yanjiang_00015
+  rotate: true
+  xy: 520, 29
+  size: 85, 144
+  orig: 114, 239
+  offset: 21, 10
+  index: -1
+yanjiang_00016
+  rotate: true
+  xy: 322, 2
+  size: 84, 123
+  orig: 114, 239
+  offset: 22, 11
+  index: -1
+yanjiang_00017
+  rotate: false
+  xy: 904, 66
+  size: 82, 98
+  orig: 114, 239
+  offset: 24, 13
+  index: -1
+yanjiang_00018
+  rotate: false
+  xy: 965, 699
+  size: 78, 85
+  orig: 114, 239
+  offset: 25, 15
+  index: -1
+yanjiang_00019
+  rotate: true
+  xy: 896, 720
+  size: 73, 67
+  orig: 114, 239
+  offset: 22, 17
+  index: -1
+yanjiang_00020
+  rotate: true
+  xy: 988, 98
+  size: 71, 56
+  orig: 114, 239
+  offset: 21, 15
+  index: -1
+yanwu_00001
+  rotate: false
+  xy: 520, 2
+  size: 75, 25
+  orig: 300, 75
+  offset: 119, 16
+  index: -1
+yanwu_00002
+  rotate: true
+  xy: 784, 82
+  size: 186, 45
+  orig: 300, 75
+  offset: 63, 4
+  index: -1
+yanwu_00003
+  rotate: false
+  xy: 53, 27
+  size: 267, 59
+  orig: 300, 75
+  offset: 21, 0
+  index: -1
+yanwu_00004
+  rotate: false
+  xy: 53, 218
+  size: 300, 65
+  orig: 300, 75
+  offset: 0, 0
+  index: -1
+yanwu_00005
+  rotate: false
+  xy: 600, 795
+  size: 300, 71
+  orig: 300, 75
+  offset: 0, 0
+  index: -1
+yanwu_00006
+  rotate: false
+  xy: 53, 498
+  size: 300, 72
+  orig: 300, 75
+  offset: 0, 0
+  index: -1
+yanwu_00007
+  rotate: false
+  xy: 53, 425
+  size: 300, 71
+  orig: 300, 75
+  offset: 0, 0
+  index: -1
+yanwu_00008
+  rotate: false
+  xy: 53, 354
+  size: 300, 69
+  orig: 300, 75
+  offset: 0, 0
+  index: -1
+yanwu_00009
+  rotate: false
+  xy: 53, 285
+  size: 300, 67
+  orig: 300, 75
+  offset: 0, 0
+  index: -1
+yanwu_00010
+  rotate: false
+  xy: 53, 151
+  size: 300, 65
+  orig: 300, 75
+  offset: 0, 0
+  index: -1
+yanwu_00011
+  rotate: false
+  xy: 53, 88
+  size: 300, 61
+  orig: 300, 75
+  offset: 0, 0
+  index: -1

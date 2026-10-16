@@ -1,0 +1,34 @@
+
+ui_xditu_biaoji.png
+size: 301,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 260, 203
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+B
+  rotate: true
+  xy: 260, 147
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+C
+  rotate: true
+  xy: 260, 91
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+fe752732
+  rotate: true
+  xy: 2, 2
+  size: 255, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

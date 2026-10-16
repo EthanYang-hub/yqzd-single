@@ -1,0 +1,125 @@
+
+ui_zhihun_guanggao.png
+size: 1937,1428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 910
+  size: 1012, 516
+  orig: 1012, 516
+  offset: 0, 0
+  index: -1
+fire_1
+  rotate: false
+  xy: 722, 390
+  size: 285, 518
+  orig: 285, 518
+  offset: 0, 0
+  index: -1
+fire_2
+  rotate: false
+  xy: 1016, 919
+  size: 406, 507
+  orig: 406, 507
+  offset: 0, 0
+  index: -1
+ren_1
+  rotate: false
+  xy: 877, 2
+  size: 1011, 298
+  orig: 1013, 299
+  offset: 1, 1
+  index: -1
+ren_2
+  rotate: true
+  xy: 1424, 826
+  size: 300, 506
+  orig: 300, 506
+  offset: 0, 0
+  index: -1
+ren_3
+  rotate: false
+  xy: 2, 282
+  size: 718, 626
+  orig: 718, 626
+  offset: 0, 0
+  index: -1
+ren_4
+  rotate: false
+  xy: 1535, 355
+  size: 88, 137
+  orig: 88, 137
+  offset: 0, 0
+  index: -1
+ren_5
+  rotate: true
+  xy: 511, 17
+  size: 263, 364
+  orig: 263, 364
+  offset: 0, 0
+  index: -1
+ren_6
+  rotate: true
+  xy: 2, 61
+  size: 219, 507
+  orig: 219, 507
+  offset: 0, 0
+  index: -1
+wenzi_1
+  rotate: true
+  xy: 1204, 353
+  size: 139, 329
+  orig: 159, 375
+  offset: 12, 28
+  index: -1
+wenzi_2
+  rotate: false
+  xy: 1822, 511
+  size: 113, 313
+  orig: 135, 318
+  offset: 19, 2
+  index: -1
+wenzi_3
+  rotate: false
+  xy: 1204, 555
+  size: 169, 362
+  orig: 212, 421
+  offset: 32, 36
+  index: -1
+xian_1
+  rotate: false
+  xy: 1424, 1128
+  size: 511, 298
+  orig: 511, 298
+  offset: 0, 0
+  index: -1
+xian_2
+  rotate: true
+  xy: 1009, 416
+  size: 492, 193
+  orig: 492, 193
+  offset: 0, 0
+  index: -1
+xian_3
+  rotate: false
+  xy: 722, 302
+  size: 414, 86
+  orig: 414, 86
+  offset: 0, 0
+  index: -1
+xian_4
+  rotate: false
+  xy: 1375, 577
+  size: 445, 247
+  orig: 445, 247
+  offset: 0, 0
+  index: -1
+xian_5
+  rotate: false
+  xy: 1375, 494
+  size: 440, 81
+  orig: 440, 81
+  offset: 0, 0
+  index: -1

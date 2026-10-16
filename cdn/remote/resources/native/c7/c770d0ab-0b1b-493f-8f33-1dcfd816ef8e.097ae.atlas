@@ -1,0 +1,20 @@
+
+ui_shuijing_huolong_effect.png
+size: 309,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Disintegrate_mote
+  rotate: true
+  xy: 254, 180
+  size: 54, 53
+  orig: 64, 64
+  offset: 6, 5
+  index: -1
+storm_flare03
+  rotate: false
+  xy: 2, 2
+  size: 250, 232
+  orig: 256, 256
+  offset: 6, 12
+  index: -1

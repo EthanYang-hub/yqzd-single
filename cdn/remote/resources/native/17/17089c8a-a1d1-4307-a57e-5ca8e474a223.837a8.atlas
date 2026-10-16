@@ -1,0 +1,265 @@
+
+ui_tiaozhan_anniu.png
+size: 1009,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 522, 55
+  size: 82, 142
+  orig: 82, 142
+  offset: 0, 0
+  index: -1
+A10
+  rotate: true
+  xy: 616, 325
+  size: 81, 192
+  orig: 81, 192
+  offset: 0, 0
+  index: -1
+A11
+  rotate: false
+  xy: 570, 586
+  size: 290, 232
+  orig: 311, 243
+  offset: 14, 2
+  index: -1
+A2
+  rotate: false
+  xy: 849, 62
+  size: 78, 71
+  orig: 87, 73
+  offset: 2, 2
+  index: -1
+A3
+  rotate: true
+  xy: 951, 386
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+A4
+  rotate: false
+  xy: 775, 14
+  size: 65, 65
+  orig: 68, 71
+  offset: 2, 2
+  index: -1
+A5
+  rotate: true
+  xy: 400, 17
+  size: 152, 120
+  orig: 155, 121
+  offset: 2, 1
+  index: -1
+A6
+  rotate: true
+  xy: 719, 203
+  size: 120, 111
+  orig: 120, 111
+  offset: 0, 0
+  index: -1
+A7
+  rotate: true
+  xy: 849, 135
+  size: 101, 54
+  orig: 101, 54
+  offset: 0, 0
+  index: -1
+A8
+  rotate: false
+  xy: 480, 199
+  size: 117, 125
+  orig: 117, 125
+  offset: 0, 0
+  index: -1
+A9
+  rotate: true
+  xy: 913, 254
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+B1
+  rotate: true
+  xy: 905, 143
+  size: 93, 89
+  orig: 112, 93
+  offset: 19, 4
+  index: -1
+B2
+  rotate: false
+  xy: 862, 705
+  size: 145, 113
+  orig: 145, 135
+  offset: 0, 22
+  index: -1
+B3
+  rotate: true
+  xy: 606, 67
+  size: 139, 88
+  orig: 139, 88
+  offset: 0, 0
+  index: -1
+B4
+  rotate: true
+  xy: 939, 442
+  size: 150, 59
+  orig: 152, 59
+  offset: 0, 0
+  index: -1
+B5
+  rotate: false
+  xy: 599, 208
+  size: 118, 115
+  orig: 118, 115
+  offset: 0, 0
+  index: -1
+B6
+  rotate: false
+  xy: 616, 408
+  size: 215, 176
+  orig: 238, 187
+  offset: 14, 3
+  index: -1
+C1
+  rotate: false
+  xy: 2, 45
+  size: 235, 186
+  orig: 252, 198
+  offset: 11, 3
+  index: -1
+D1
+  rotate: true
+  xy: 833, 359
+  size: 69, 116
+  orig: 71, 116
+  offset: 0, 0
+  index: -1
+D2
+  rotate: true
+  xy: 421, 175
+  size: 143, 57
+  orig: 143, 57
+  offset: 0, 0
+  index: -1
+D3
+  rotate: true
+  xy: 775, 81
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+D4
+  rotate: true
+  xy: 862, 594
+  size: 109, 143
+  orig: 117, 159
+  offset: 4, 8
+  index: -1
+D5
+  rotate: true
+  xy: 435, 326
+  size: 220, 179
+  orig: 244, 191
+  offset: 14, 3
+  index: -1
+G_1
+  rotate: false
+  xy: 570, 557
+  size: 35, 27
+  orig: 39, 30
+  offset: 2, 2
+  index: -1
+G_2
+  rotate: false
+  xy: 929, 50
+  size: 57, 91
+  orig: 57, 91
+  offset: 0, 0
+  index: -1
+G_4
+  rotate: false
+  xy: 239, 20
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+G_5
+  rotate: true
+  xy: 833, 430
+  size: 154, 104
+  orig: 176, 118
+  offset: 10, 13
+  index: -1
+J1
+  rotate: false
+  xy: 286, 548
+  size: 282, 270
+  orig: 284, 276
+  offset: 1, 0
+  index: -1
+J2
+  rotate: false
+  xy: 2, 546
+  size: 282, 272
+  orig: 289, 276
+  offset: 3, 3
+  index: -1
+M_1
+  rotate: false
+  xy: 842, 2
+  size: 44, 58
+  orig: 59, 77
+  offset: 6, 10
+  index: -1
+M_2
+  rotate: false
+  xy: 832, 238
+  size: 79, 119
+  orig: 95, 121
+  offset: 2, 1
+  index: -1
+M_3
+  rotate: true
+  xy: 988, 107
+  size: 34, 19
+  orig: 35, 22
+  offset: 1, 1
+  index: -1
+M_4
+  rotate: false
+  xy: 696, 59
+  size: 77, 142
+  orig: 77, 142
+  offset: 0, 0
+  index: -1
+M_5
+  rotate: true
+  xy: 522, 3
+  size: 50, 81
+  orig: 53, 95
+  offset: 2, 12
+  index: -1
+bg
+  rotate: true
+  xy: 247, 320
+  size: 224, 186
+  orig: 247, 194
+  offset: 13, 3
+  index: -1
+logo1
+  rotate: true
+  xy: 247, 171
+  size: 147, 172
+  orig: 153, 198
+  offset: 2, 19
+  index: -1
+logo2
+  rotate: true
+  xy: 2, 233
+  size: 311, 243
+  orig: 311, 243
+  offset: 0, 0
+  index: -1

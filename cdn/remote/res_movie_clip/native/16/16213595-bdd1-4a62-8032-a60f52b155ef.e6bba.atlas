@@ -1,0 +1,27 @@
+
+petSkill_zhihunzhe_4.png
+size: 80,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ren_tx_2
+  rotate: false
+  xy: 2, 175
+  size: 58, 117
+  orig: 64, 130
+  offset: 3, 4
+  index: -1
+ren_tx_3
+  rotate: false
+  xy: 2, 34
+  size: 27, 139
+  orig: 33, 151
+  offset: 5, 10
+  index: -1
+ren_tx_4
+  rotate: false
+  xy: 31, 2
+  size: 47, 171
+  orig: 70, 201
+  offset: 11, 18
+  index: -1

@@ -1,0 +1,41 @@
+
+weapon_skill_yuangu_1.png
+size: 1492,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zi_1
+  rotate: false
+  xy: 926, 257
+  size: 96, 201
+  orig: 96, 201
+  offset: 0, 0
+  index: -1
+zi_3
+  rotate: true
+  xy: 2, 691
+  size: 295, 1488
+  orig: 295, 1559
+  offset: 0, 45
+  index: -1
+zi_4
+  rotate: false
+  xy: 1111, 2
+  size: 366, 687
+  orig: 376, 746
+  offset: 7, 28
+  index: -1
+zi_5
+  rotate: true
+  xy: 2, 460
+  size: 229, 1107
+  orig: 229, 1107
+  offset: 0, 0
+  index: -1
+zi_6
+  rotate: true
+  xy: 2, 99
+  size: 359, 922
+  orig: 393, 991
+  offset: 17, 56
+  index: -1

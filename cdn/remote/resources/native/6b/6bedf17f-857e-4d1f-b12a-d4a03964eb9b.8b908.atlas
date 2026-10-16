@@ -1,0 +1,41 @@
+
+ui_guajianniu.png
+size: 542,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Global_Item_FOM_Shield_Wisps
+  rotate: false
+  xy: 397, 73
+  size: 143, 125
+  orig: 150, 139
+  offset: 7, 1
+  index: -1
+h1
+  rotate: false
+  xy: 397, 5
+  size: 59, 66
+  orig: 63, 67
+  offset: 2, 1
+  index: -1
+h2
+  rotate: false
+  xy: 458, 39
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 200, 2
+  size: 195, 196
+  orig: 195, 196
+  offset: 0, 0
+  index: -1
+lingdang_2
+  rotate: false
+  xy: 2, 2
+  size: 196, 196
+  orig: 209, 212
+  offset: 8, 8
+  index: -1

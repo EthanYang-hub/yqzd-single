@@ -1,0 +1,20 @@
+
+ronghe_shou2_monster_3008.png
+size: 515,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 373, 143
+  size: 176, 140
+  orig: 177, 140
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 2, 2
+  size: 317, 369
+  orig: 317, 369
+  offset: 0, 0
+  index: -1

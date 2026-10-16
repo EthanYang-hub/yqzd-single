@@ -1,0 +1,139 @@
+
+weapon.png
+size: 1776,1077
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JG_22
+  rotate: true
+  xy: 1450, 19
+  size: 332, 202
+  orig: 539, 215
+  offset: 207, 0
+  index: -1
+YC_TX_2
+  rotate: true
+  xy: 1266, 7
+  size: 344, 182
+  orig: 469, 264
+  offset: 30, 82
+  index: -1
+YC_TX_3
+  rotate: false
+  xy: 256, 5
+  size: 221, 385
+  orig: 254, 479
+  offset: 0, 94
+  index: -1
+fa_zhang
+  rotate: true
+  xy: 796, 2
+  size: 479, 468
+  orig: 479, 468
+  offset: 0, 0
+  index: -1
+gong
+  rotate: false
+  xy: 1266, 874
+  size: 485, 201
+  orig: 485, 201
+  offset: 0, 0
+  index: -1
+l_gong
+  rotate: true
+  xy: 1462, 353
+  size: 519, 301
+  orig: 519, 379
+  offset: 0, 45
+  index: -1
+wuqi111
+  rotate: true
+  xy: 479, 21
+  size: 369, 315
+  orig: 369, 315
+  offset: 0, 0
+  index: -1
+wushi_wu_2
+  rotate: true
+  xy: 195, 392
+  size: 683, 388
+  orig: 683, 390
+  offset: 0, 1
+  index: -1
+wushi_wuqi_1
+  rotate: true
+  xy: 1266, 482
+  size: 33, 176
+  orig: 47, 182
+  offset: 7, 6
+  index: -1
+yc_16
+  rotate: true
+  xy: 985, 517
+  size: 355, 475
+  orig: 356, 477
+  offset: 1, 0
+  index: -1
+zhongui_10
+  rotate: true
+  xy: 585, 483
+  size: 592, 398
+  orig: 592, 398
+  offset: 0, 0
+  index: -1
+zhuiyuan_101
+  rotate: true
+  xy: 2, 317
+  size: 758, 191
+  orig: 758, 191
+  offset: 0, 0
+  index: -1
+zhuiyuan_11
+  rotate: true
+  xy: 1266, 430
+  size: 50, 141
+  orig: 50, 141
+  offset: 0, 0
+  index: -1
+zhuiyuan_12
+  rotate: false
+  xy: 2, 13
+  size: 252, 302
+  orig: 252, 302
+  offset: 0, 0
+  index: -1
+zhuiyuan_13
+  rotate: true
+  xy: 1654, 267
+  size: 35, 108
+  orig: 35, 108
+  offset: 0, 0
+  index: -1
+zhuiyuan_14
+  rotate: true
+  xy: 1266, 389
+  size: 39, 128
+  orig: 39, 128
+  offset: 0, 0
+  index: -1
+zhuiyuan_15
+  rotate: true
+  xy: 1654, 304
+  size: 47, 120
+  orig: 47, 120
+  offset: 0, 0
+  index: -1
+zhuiyuan_16
+  rotate: true
+  xy: 585, 419
+  size: 62, 155
+  orig: 62, 155
+  offset: 0, 0
+  index: -1
+zhuiyuan_17
+  rotate: true
+  xy: 985, 488
+  size: 27, 134
+  orig: 29, 134
+  offset: 2, 0
+  index: -1

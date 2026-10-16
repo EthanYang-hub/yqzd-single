@@ -1,0 +1,34 @@
+
+ui_lunhui_beijing.png
+size: 864,692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1_1
+  rotate: false
+  xy: 662, 2
+  size: 172, 168
+  orig: 172, 168
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 662, 172
+  size: 200, 197
+  orig: 202, 201
+  offset: 1, 2
+  index: -1
+bg_3
+  rotate: true
+  xy: 662, 371
+  size: 319, 190
+  orig: 333, 218
+  offset: 0, 28
+  index: -1
+bg_4_1
+  rotate: true
+  xy: 2, 31
+  size: 659, 658
+  orig: 659, 667
+  offset: 0, 3
+  index: -1

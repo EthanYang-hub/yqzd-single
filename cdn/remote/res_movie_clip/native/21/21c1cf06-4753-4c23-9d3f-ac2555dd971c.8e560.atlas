@@ -1,0 +1,286 @@
+
+elite monster_2005.png
+size: 1573,1573
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1019, 853
+  size: 505, 139
+  orig: 505, 139
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 1490, 538
+  size: 101, 77
+  orig: 108, 83
+  offset: 7, 0
+  index: -1
+11
+  rotate: true
+  xy: 1356, 17
+  size: 213, 86
+  orig: 213, 86
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 567, 25
+  size: 145, 49
+  orig: 145, 49
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1490, 641
+  size: 102, 76
+  orig: 102, 76
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1501, 1221
+  size: 22, 101
+  orig: 22, 101
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1019, 829
+  size: 22, 101
+  orig: 22, 101
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1444, 11
+  size: 119, 89
+  orig: 136, 110
+  offset: 17, 10
+  index: -1
+7
+  rotate: false
+  xy: 1434, 1024
+  size: 65, 298
+  orig: 91, 313
+  offset: 13, 5
+  index: -1
+8
+  rotate: false
+  xy: 815, 51
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1154, 232
+  size: 298, 261
+  orig: 298, 261
+  offset: 0, 0
+  index: -1
+L1
+  rotate: false
+  xy: 2, 1324
+  size: 509, 247
+  orig: 513, 247
+  offset: 4, 0
+  index: -1
+L2
+  rotate: false
+  xy: 2, 1075
+  size: 508, 247
+  orig: 509, 247
+  offset: 1, 0
+  index: -1
+L3
+  rotate: false
+  xy: 513, 1324
+  size: 507, 247
+  orig: 508, 247
+  offset: 1, 0
+  index: -1
+L4
+  rotate: false
+  xy: 2, 826
+  size: 507, 247
+  orig: 508, 247
+  offset: 1, 0
+  index: -1
+L5
+  rotate: false
+  xy: 512, 1075
+  size: 507, 247
+  orig: 508, 247
+  offset: 1, 0
+  index: -1
+L6
+  rotate: false
+  xy: 1022, 1324
+  size: 507, 247
+  orig: 508, 247
+  offset: 1, 0
+  index: -1
+L7
+  rotate: false
+  xy: 2, 577
+  size: 507, 247
+  orig: 508, 247
+  offset: 1, 0
+  index: -1
+L8
+  rotate: false
+  xy: 511, 826
+  size: 506, 247
+  orig: 508, 247
+  offset: 1, 0
+  index: -1
+demonblade_wind_black
+  rotate: true
+  xy: 1444, 102
+  size: 128, 127
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huo_060
+  rotate: true
+  xy: 1454, 365
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+huo_061
+  rotate: false
+  xy: 567, 76
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+huo_062
+  rotate: false
+  xy: 1154, 2
+  size: 200, 228
+  orig: 200, 228
+  offset: 0, 0
+  index: -1
+huo_063
+  rotate: false
+  xy: 2, 39
+  size: 306, 200
+  orig: 306, 200
+  offset: 0, 0
+  index: -1
+huo_064
+  rotate: false
+  xy: 511, 564
+  size: 409, 260
+  orig: 409, 260
+  offset: 0, 0
+  index: -1
+huo_065
+  rotate: false
+  xy: 410, 234
+  size: 406, 328
+  orig: 406, 328
+  offset: 0, 0
+  index: -1
+huo_066
+  rotate: false
+  xy: 1021, 994
+  size: 411, 328
+  orig: 411, 328
+  offset: 0, 0
+  index: -1
+huo_067
+  rotate: false
+  xy: 2, 241
+  size: 406, 334
+  orig: 406, 334
+  offset: 0, 0
+  index: -1
+huo_068
+  rotate: false
+  xy: 818, 228
+  size: 334, 334
+  orig: 334, 334
+  offset: 0, 0
+  index: -1
+huo_069
+  rotate: false
+  xy: 1154, 495
+  size: 334, 356
+  orig: 334, 356
+  offset: 0, 0
+  index: -1
+huo_070
+  rotate: true
+  xy: 922, 569
+  size: 255, 200
+  orig: 255, 200
+  offset: 0, 0
+  index: -1
+huo_071
+  rotate: false
+  xy: 310, 26
+  size: 255, 206
+  orig: 255, 206
+  offset: 0, 0
+  index: -1
+huo_072
+  rotate: false
+  xy: 697, 76
+  size: 255, 150
+  orig: 255, 150
+  offset: 0, 0
+  index: -1
+huo_073
+  rotate: true
+  xy: 1454, 235
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+huo_074
+  rotate: false
+  xy: 954, 98
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huo_075
+  rotate: true
+  xy: 1490, 745
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1
+qi_A
+  rotate: false
+  xy: 2, 14
+  size: 76, 23
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+qi_B
+  rotate: false
+  xy: 1434, 1002
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+qi_C
+  rotate: false
+  xy: 714, 5
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+qi_D
+  rotate: true
+  xy: 1084, 103
+  size: 123, 45
+  orig: 139, 53
+  offset: 0, 3
+  index: -1

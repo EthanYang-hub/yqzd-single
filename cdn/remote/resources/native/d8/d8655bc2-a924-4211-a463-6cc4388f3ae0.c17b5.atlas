@@ -1,0 +1,55 @@
+
+ui_zhaohuan_tianshu.png
+size: 1036,642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 670, 228
+  size: 412, 188
+  orig: 412, 188
+  offset: 0, 0
+  index: -1
+g_1
+  rotate: true
+  xy: 2, 33
+  size: 346, 430
+  orig: 391, 472
+  offset: 23, 21
+  index: -1
+g_2
+  rotate: true
+  xy: 2, 381
+  size: 259, 666
+  orig: 327, 666
+  offset: 23, 0
+  index: -1
+hei_L
+  rotate: false
+  xy: 434, 191
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: -1
+hei_R
+  rotate: false
+  xy: 633, 38
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 860, 155
+  size: 485, 174
+  orig: 485, 174
+  offset: 0, 0
+  index: -1
+zhen
+  rotate: true
+  xy: 434, 2
+  size: 187, 188
+  orig: 207, 188
+  offset: 14, 0
+  index: -1

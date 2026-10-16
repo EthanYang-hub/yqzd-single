@@ -1,0 +1,167 @@
+
+ronghe_shou2_monster_3004.png
+size: 966,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die_1
+  rotate: false
+  xy: 666, 2
+  size: 125, 131
+  orig: 125, 131
+  offset: 0, 0
+  index: -1
+die_10
+  rotate: false
+  xy: 549, 399
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+die_11
+  rotate: false
+  xy: 549, 267
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+die_12
+  rotate: false
+  xy: 560, 135
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+die_2
+  rotate: false
+  xy: 293, 399
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+die_3
+  rotate: false
+  xy: 293, 267
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+die_4
+  rotate: false
+  xy: 304, 135
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+die_5
+  rotate: false
+  xy: 410, 3
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+die_6
+  rotate: false
+  xy: 421, 399
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+die_7
+  rotate: false
+  xy: 421, 267
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+die_8
+  rotate: false
+  xy: 432, 135
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+die_9
+  rotate: false
+  xy: 538, 3
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+hu_G_1
+  rotate: false
+  xy: 862, 271
+  size: 102, 113
+  orig: 102, 113
+  offset: 0, 0
+  index: -1
+hu_G_2
+  rotate: true
+  xy: 224, 6
+  size: 93, 184
+  orig: 93, 184
+  offset: 0, 0
+  index: -1
+hu_G_3
+  rotate: false
+  xy: 774, 225
+  size: 86, 159
+  orig: 86, 159
+  offset: 0, 0
+  index: -1
+hu_G_4
+  rotate: true
+  xy: 774, 143
+  size: 80, 168
+  orig: 80, 168
+  offset: 0, 0
+  index: -1
+hu_G_5
+  rotate: false
+  xy: 677, 345
+  size: 84, 184
+  orig: 84, 184
+  offset: 0, 0
+  index: -1
+hu_G_6
+  rotate: false
+  xy: 688, 159
+  size: 84, 184
+  orig: 84, 184
+  offset: 0, 0
+  index: -1
+hu_G_7
+  rotate: false
+  xy: 763, 386
+  size: 104, 143
+  orig: 104, 143
+  offset: 0, 0
+  index: -1
+wuqi_2
+  rotate: true
+  xy: 2, 7
+  size: 92, 220
+  orig: 92, 220
+  offset: 0, 0
+  index: -1
+wuqi_guang_2
+  rotate: true
+  xy: 2, 227
+  size: 302, 289
+  orig: 302, 289
+  offset: 0, 0
+  index: -1
+youbi_1
+  rotate: false
+  xy: 869, 403
+  size: 86, 126
+  orig: 86, 126
+  offset: 0, 0
+  index: -1
+youbi_2
+  rotate: true
+  xy: 2, 101
+  size: 124, 300
+  orig: 124, 300
+  offset: 0, 0
+  index: -1

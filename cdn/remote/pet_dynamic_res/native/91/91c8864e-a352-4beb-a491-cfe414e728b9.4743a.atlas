@@ -1,0 +1,216 @@
+
+lihui_pet_genggui.png
+size: 2028,1726
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trail_fire
+  rotate: true
+  xy: 1964, 618
+  size: 93, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 1128, 24
+  size: 225, 228
+  orig: 225, 230
+  offset: 0, 1
+  index: -1
+flash_arcane_02
+  rotate: false
+  xy: 1146, 254
+  size: 336, 333
+  orig: 384, 384
+  offset: 21, 27
+  index: -1
+gui_A_1
+  rotate: true
+  xy: 1276, 819
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+gui_A_10
+  rotate: false
+  xy: 1690, 148
+  size: 156, 185
+  orig: 156, 185
+  offset: 0, 0
+  index: -1
+gui_A_2_1
+  rotate: false
+  xy: 793, 888
+  size: 541, 836
+  orig: 541, 836
+  offset: 0, 0
+  index: -1
+gui_A_3
+  rotate: true
+  xy: 793, 611
+  size: 275, 481
+  orig: 275, 481
+  offset: 0, 0
+  index: -1
+gui_A_4
+  rotate: true
+  xy: 1417, 947
+  size: 346, 520
+  orig: 346, 520
+  offset: 0, 0
+  index: -1
+gui_A_5
+  rotate: false
+  xy: 1832, 618
+  size: 130, 93
+  orig: 130, 93
+  offset: 0, 0
+  index: -1
+gui_A_6
+  rotate: true
+  xy: 1870, 364
+  size: 74, 147
+  orig: 74, 147
+  offset: 0, 0
+  index: -1
+gui_A_7
+  rotate: false
+  xy: 1417, 1295
+  size: 445, 429
+  orig: 445, 429
+  offset: 0, 0
+  index: -1
+gui_A_8
+  rotate: false
+  xy: 1484, 335
+  size: 268, 252
+  orig: 268, 252
+  offset: 0, 0
+  index: -1
+gui_A_9
+  rotate: false
+  xy: 723, 316
+  size: 421, 293
+  orig: 421, 293
+  offset: 0, 0
+  index: -1
+gui_A_weapon_2
+  rotate: false
+  xy: 1355, 43
+  size: 131, 209
+  orig: 131, 209
+  offset: 0, 0
+  index: -1
+gui_A_weapon_3
+  rotate: true
+  xy: 1488, 6
+  size: 121, 211
+  orig: 121, 211
+  offset: 0, 0
+  index: -1
+gui_A_weapon_4
+  rotate: false
+  xy: 1754, 367
+  size: 114, 220
+  orig: 114, 220
+  offset: 0, 0
+  index: -1
+gui_A_weapon_5
+  rotate: false
+  xy: 1870, 440
+  size: 156, 176
+  orig: 156, 176
+  offset: 0, 0
+  index: -1
+gui_A_weapon_6
+  rotate: false
+  xy: 2, 639
+  size: 789, 1085
+  orig: 789, 1085
+  offset: 0, 0
+  index: -1
+gui_A_xian_1
+  rotate: true
+  xy: 1417, 811
+  size: 134, 605
+  orig: 134, 605
+  offset: 0, 0
+  index: -1
+gui_A_xian_2
+  rotate: false
+  xy: 1336, 922
+  size: 79, 802
+  orig: 79, 802
+  offset: 0, 0
+  index: -1
+gui_A_xian_3
+  rotate: true
+  xy: 2, 36
+  size: 241, 587
+  orig: 241, 587
+  offset: 0, 0
+  index: -1
+gui_B_1
+  rotate: false
+  xy: 724, 4
+  size: 206, 310
+  orig: 206, 310
+  offset: 0, 0
+  index: -1
+gui_B_2
+  rotate: false
+  xy: 932, 11
+  size: 194, 303
+  orig: 194, 303
+  offset: 0, 0
+  index: -1
+gui_B_3
+  rotate: false
+  xy: 1864, 1380
+  size: 143, 344
+  orig: 143, 344
+  offset: 0, 0
+  index: -1
+gui_B_4
+  rotate: false
+  xy: 591, 2
+  size: 131, 275
+  orig: 131, 275
+  offset: 0, 0
+  index: -1
+gui_B_5
+  rotate: true
+  xy: 2, 279
+  size: 358, 719
+  orig: 358, 719
+  offset: 0, 0
+  index: -1
+gui_B_xian_1
+  rotate: true
+  xy: 1276, 589
+  size: 122, 554
+  orig: 122, 554
+  offset: 0, 0
+  index: -1
+gui_B_xian_2
+  rotate: true
+  xy: 1276, 713
+  size: 96, 692
+  orig: 96, 692
+  offset: 0, 0
+  index: -1
+shizhong_3
+  rotate: false
+  xy: 1488, 129
+  size: 200, 204
+  orig: 212, 212
+  offset: 7, 4
+  index: -1
+storm_smoke_out
+  rotate: true
+  xy: 1848, 190
+  size: 172, 169
+  orig: 192, 192
+  offset: 6, 14
+  index: -1

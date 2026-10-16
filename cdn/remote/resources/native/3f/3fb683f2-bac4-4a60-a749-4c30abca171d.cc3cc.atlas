@@ -1,0 +1,160 @@
+
+ui_beijingban8.png
+size: 1702,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1yanguang
+  rotate: true
+  xy: 1402, 34
+  size: 104, 50
+  orig: 120, 52
+  offset: 13, 2
+  index: -1
+2yanguang
+  rotate: true
+  xy: 1454, 34
+  size: 104, 50
+  orig: 120, 52
+  offset: 13, 2
+  index: -1
+Fire_1
+  rotate: false
+  xy: 867, 2
+  size: 59, 88
+  orig: 66, 99
+  offset: 4, 6
+  index: -1
+Fire_2
+  rotate: false
+  xy: 1276, 24
+  size: 61, 114
+  orig: 66, 131
+  offset: 2, 4
+  index: -1
+Fire_3
+  rotate: true
+  xy: 1506, 15
+  size: 49, 95
+  orig: 62, 106
+  offset: 5, 8
+  index: -1
+Fire_4
+  rotate: false
+  xy: 1146, 5
+  size: 63, 116
+  orig: 69, 131
+  offset: 4, 4
+  index: -1
+Fire_5
+  rotate: false
+  xy: 928, 2
+  size: 59, 88
+  orig: 66, 99
+  offset: 4, 6
+  index: -1
+Fire_6
+  rotate: false
+  xy: 1339, 24
+  size: 61, 114
+  orig: 66, 131
+  offset: 2, 4
+  index: -1
+Fire_7
+  rotate: true
+  xy: 1603, 15
+  size: 49, 95
+  orig: 62, 106
+  offset: 5, 8
+  index: -1
+Fire_8
+  rotate: false
+  xy: 1211, 5
+  size: 63, 116
+  orig: 69, 131
+  offset: 4, 4
+  index: -1
+hu
+  rotate: false
+  xy: 1070, 123
+  size: 158, 301
+  orig: 158, 301
+  offset: 0, 0
+  index: -1
+hu_di
+  rotate: true
+  xy: 547, 25
+  size: 399, 318
+  orig: 399, 318
+  offset: 0, 0
+  index: -1
+hu_guang
+  rotate: true
+  xy: 867, 92
+  size: 332, 201
+  orig: 332, 201
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 2, 4
+  size: 420, 543
+  orig: 433, 555
+  offset: 11, 7
+  index: -1
+laoshi_1
+  rotate: false
+  xy: 547, 9
+  size: 13, 14
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+laoshi_2
+  rotate: false
+  xy: 562, 9
+  size: 13, 14
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+long
+  rotate: false
+  xy: 1230, 140
+  size: 252, 284
+  orig: 252, 284
+  offset: 0, 0
+  index: -1
+long_shen
+  rotate: false
+  xy: 989, 6
+  size: 155, 84
+  orig: 155, 84
+  offset: 0, 0
+  index: -1
+long_shou
+  rotate: false
+  xy: 1484, 146
+  size: 84, 84
+  orig: 87, 88
+  offset: 2, 3
+  index: -1
+long_tou
+  rotate: false
+  xy: 1484, 232
+  size: 216, 192
+  orig: 216, 192
+  offset: 0, 0
+  index: -1
+long_xu1
+  rotate: false
+  xy: 1506, 66
+  size: 172, 78
+  orig: 172, 78
+  offset: 0, 0
+  index: -1
+long_xu2
+  rotate: false
+  xy: 1570, 189
+  size: 93, 41
+  orig: 95, 41
+  offset: 0, 0
+  index: -1

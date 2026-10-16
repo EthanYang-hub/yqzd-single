@@ -1,0 +1,27 @@
+
+Season_fight_perform_Base2.png
+size: 562,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base2_gaoliang
+  rotate: false
+  xy: 200, 384
+  size: 176, 176
+  orig: 178, 178
+  offset: 1, 1
+  index: -1
+Base2_hudun
+  rotate: false
+  xy: 378, 383
+  size: 182, 177
+  orig: 184, 183
+  offset: 1, 5
+  index: -1
+Base2_light
+  rotate: false
+  xy: 2, 416
+  size: 196, 144
+  orig: 204, 162
+  offset: 4, 14
+  index: -1

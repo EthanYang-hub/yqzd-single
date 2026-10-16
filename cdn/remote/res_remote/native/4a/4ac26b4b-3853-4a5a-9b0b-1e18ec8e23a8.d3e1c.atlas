@@ -1,0 +1,48 @@
+
+ui_fengdu_ta1.png
+size: 510,1129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+an_ta_1
+  rotate: true
+  xy: 233, 55
+  size: 135, 217
+  orig: 143, 225
+  offset: 4, 5
+  index: -1
+an_ta_2
+  rotate: false
+  xy: 2, 235
+  size: 238, 892
+  orig: 240, 919
+  offset: 1, 25
+  index: -1
+an_ta_g1
+  rotate: false
+  xy: 242, 657
+  size: 266, 470
+  orig: 269, 475
+  offset: 1, 4
+  index: -1
+an_ta_g2
+  rotate: false
+  xy: 242, 192
+  size: 264, 463
+  orig: 269, 475
+  offset: 2, 9
+  index: -1
+yanwu_1
+  rotate: true
+  xy: 2, 121
+  size: 112, 229
+  orig: 128, 238
+  offset: 7, 9
+  index: -1
+yanwu_2
+  rotate: true
+  xy: 2, 2
+  size: 117, 224
+  orig: 125, 233
+  offset: 3, 8
+  index: -1

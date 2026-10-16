@@ -1,0 +1,265 @@
+
+lihui_pet_shanhuagui.png
+size: 2026,1478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_ren_1
+  rotate: false
+  xy: 1300, 1120
+  size: 116, 112
+  orig: 116, 112
+  offset: 0, 0
+  index: -1
+A_ren_2
+  rotate: true
+  xy: 1093, 283
+  size: 226, 335
+  orig: 226, 335
+  offset: 0, 0
+  index: -1
+A_ren_3_1
+  rotate: false
+  xy: 1300, 540
+  size: 175, 361
+  orig: 180, 361
+  offset: 0, 0
+  index: -1
+A_ren_4
+  rotate: false
+  xy: 681, 14
+  size: 135, 259
+  orig: 135, 259
+  offset: 0, 0
+  index: -1
+A_ren_5
+  rotate: false
+  xy: 1236, 8
+  size: 210, 273
+  orig: 210, 273
+  offset: 0, 0
+  index: -1
+A_ren_6
+  rotate: true
+  xy: 1571, 520
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+A_ren_7
+  rotate: true
+  xy: 818, 46
+  size: 227, 301
+  orig: 227, 301
+  offset: 0, 0
+  index: -1
+A_ren_8
+  rotate: false
+  xy: 1430, 1023
+  size: 593, 453
+  orig: 597, 453
+  offset: 0, 0
+  index: -1
+A_shu_1
+  rotate: true
+  xy: 1415, 911
+  size: 110, 169
+  orig: 110, 169
+  offset: 0, 0
+  index: -1
+A_shu_2
+  rotate: false
+  xy: 441, 511
+  size: 857, 965
+  orig: 857, 965
+  offset: 0, 0
+  index: -1
+A_shu_3
+  rotate: false
+  xy: 1121, 6
+  size: 113, 275
+  orig: 113, 275
+  offset: 0, 0
+  index: -1
+B_guishou_1
+  rotate: true
+  xy: 1300, 1353
+  size: 123, 128
+  orig: 123, 128
+  offset: 0, 0
+  index: -1
+B_guishou_2
+  rotate: true
+  xy: 1522, 309
+  size: 208, 137
+  orig: 208, 137
+  offset: 0, 0
+  index: -1
+B_guishou_3
+  rotate: true
+  xy: 1300, 903
+  size: 215, 113
+  orig: 215, 113
+  offset: 0, 0
+  index: -1
+B_guishou_4
+  rotate: false
+  xy: 1300, 1234
+  size: 117, 117
+  orig: 117, 117
+  offset: 0, 0
+  index: -1
+B_guishou_5
+  rotate: true
+  xy: 1896, 411
+  size: 180, 104
+  orig: 180, 104
+  offset: 0, 0
+  index: -1
+B_guishou_6
+  rotate: true
+  xy: 1632, 530
+  size: 205, 91
+  orig: 205, 91
+  offset: 0, 0
+  index: -1
+B_guishou_7
+  rotate: false
+  xy: 1661, 332
+  size: 199, 80
+  orig: 199, 80
+  offset: 0, 0
+  index: -1
+B_guishou_8_1
+  rotate: false
+  xy: 1725, 447
+  size: 148, 144
+  orig: 148, 144
+  offset: 0, 0
+  index: -1
+B_ren_1
+  rotate: true
+  xy: 1661, 445
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+B_ren_10
+  rotate: true
+  xy: 1725, 593
+  size: 142, 299
+  orig: 142, 299
+  offset: 0, 0
+  index: -1
+B_ren_11
+  rotate: false
+  xy: 441, 254
+  size: 64, 255
+  orig: 64, 255
+  offset: 0, 0
+  index: -1
+B_ren_12
+  rotate: false
+  xy: 2, 253
+  size: 437, 1223
+  orig: 437, 1223
+  offset: 0, 0
+  index: -1
+B_ren_2
+  rotate: true
+  xy: 1448, 2
+  size: 281, 446
+  orig: 281, 446
+  offset: 0, 0
+  index: -1
+B_ren_3
+  rotate: false
+  xy: 995, 16
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+B_ren_4_1
+  rotate: true
+  xy: 1586, 737
+  size: 284, 438
+  orig: 284, 438
+  offset: 0, 0
+  index: -1
+B_ren_5
+  rotate: false
+  xy: 2, 8
+  size: 75, 243
+  orig: 75, 243
+  offset: 0, 0
+  index: -1
+B_ren_6
+  rotate: false
+  xy: 507, 274
+  size: 125, 235
+  orig: 125, 235
+  offset: 0, 0
+  index: -1
+B_ren_7
+  rotate: false
+  xy: 565, 11
+  size: 114, 261
+  orig: 114, 261
+  offset: 0, 0
+  index: -1
+B_ren_8
+  rotate: false
+  xy: 1477, 519
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+B_ren_9
+  rotate: false
+  xy: 1477, 569
+  size: 104, 340
+  orig: 104, 340
+  offset: 0, 0
+  index: -1
+fenjie_1
+  rotate: true
+  xy: 634, 275
+  size: 234, 457
+  orig: 234, 457
+  offset: 0, 0
+  index: -1
+fenjie_2
+  rotate: true
+  xy: 79, 9
+  size: 242, 484
+  orig: 242, 484
+  offset: 0, 0
+  index: -1
+heiwu
+  rotate: true
+  xy: 1430, 285
+  size: 225, 90
+  orig: 225, 94
+  offset: 0, 0
+  index: -1
+liefeng_1
+  rotate: true
+  xy: 818, 7
+  size: 37, 175
+  orig: 37, 175
+  offset: 0, 0
+  index: -1
+liefeng_2
+  rotate: true
+  xy: 1719, 414
+  size: 31, 175
+  orig: 31, 175
+  offset: 0, 0
+  index: -1
+liefeng_3
+  rotate: true
+  xy: 1300, 512
+  size: 26, 167
+  orig: 26, 167
+  offset: 0, 0
+  index: -1

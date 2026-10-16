@@ -1,0 +1,83 @@
+
+rareSkill_ice_2.png
+size: 1740,643
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_1
+  rotate: true
+  xy: 1230, 2
+  size: 211, 243
+  orig: 211, 243
+  offset: 0, 0
+  index: -1
+guang_2
+  rotate: true
+  xy: 1230, 215
+  size: 426, 209
+  orig: 477, 233
+  offset: 38, 9
+  index: -1
+guang_3
+  rotate: false
+  xy: 344, 40
+  size: 884, 601
+  orig: 959, 734
+  offset: 67, 4
+  index: -1
+lizi_1
+  rotate: true
+  xy: 429, 20
+  size: 18, 16
+  orig: 20, 17
+  offset: 1, 0
+  index: -1
+lizi_2
+  rotate: false
+  xy: 373, 11
+  size: 26, 27
+  orig: 32, 29
+  offset: 3, 0
+  index: -1
+lizi_3
+  rotate: true
+  xy: 344, 10
+  size: 28, 27
+  orig: 32, 29
+  offset: 2, 0
+  index: -1
+lizi_4
+  rotate: false
+  xy: 401, 12
+  size: 26, 26
+  orig: 32, 29
+  offset: 3, 0
+  index: -1
+shuang_1_2
+  rotate: true
+  xy: 1441, 256
+  size: 385, 146
+  orig: 385, 146
+  offset: 0, 0
+  index: -1
+shuang_2_2
+  rotate: true
+  xy: 2, 3
+  size: 638, 340
+  orig: 638, 340
+  offset: 0, 0
+  index: -1
+yanjing_1
+  rotate: true
+  xy: 1589, 287
+  size: 354, 140
+  orig: 354, 140
+  offset: 0, 0
+  index: -1
+yanjing_2
+  rotate: false
+  xy: 1475, 15
+  size: 263, 239
+  orig: 263, 239
+  offset: 0, 0
+  index: -1

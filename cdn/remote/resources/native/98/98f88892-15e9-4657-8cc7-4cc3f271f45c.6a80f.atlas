@@ -1,0 +1,41 @@
+
+ui_bianhuahecheng_down.png
+size: 323,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arcaneMissiles_projectile_rings_aqua
+  rotate: false
+  xy: 2, 2
+  size: 125, 122
+  orig: 128, 128
+  offset: 2, 1
+  index: -1
+barbarian_leapAttack_magicRings_addsStartDamage
+  rotate: false
+  xy: 2, 126
+  size: 164, 151
+  orig: 200, 200
+  offset: 18, 19
+  index: -1
+fazhen02
+  rotate: true
+  xy: 257, 3
+  size: 120, 59
+  orig: 140, 69
+  offset: 10, 5
+  index: -1
+glow_red1
+  rotate: true
+  xy: 168, 125
+  size: 152, 153
+  orig: 161, 161
+  offset: 5, 4
+  index: -1
+monk_handsofLightning_lineSwirl_indigo_chain
+  rotate: false
+  xy: 129, 11
+  size: 126, 112
+  orig: 172, 153
+  offset: 26, 17
+  index: -1

@@ -1,0 +1,62 @@
+
+monster_3015_2_bullet_effect.png
+size: 850,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KZ_2
+  rotate: false
+  xy: 2, 2
+  size: 122, 132
+  orig: 135, 134
+  offset: 6, 2
+  index: -1
+KZ_3
+  rotate: false
+  xy: 126, 2
+  size: 122, 132
+  orig: 135, 134
+  offset: 6, 2
+  index: -1
+KZ_4
+  rotate: false
+  xy: 250, 2
+  size: 122, 132
+  orig: 135, 134
+  offset: 6, 2
+  index: -1
+KZ_5
+  rotate: false
+  xy: 374, 2
+  size: 122, 132
+  orig: 135, 134
+  offset: 6, 2
+  index: -1
+fuzhou1
+  rotate: true
+  xy: 498, 3
+  size: 131, 86
+  orig: 135, 90
+  offset: 2, 2
+  index: -1
+fuzhou2
+  rotate: true
+  xy: 586, 3
+  size: 131, 86
+  orig: 135, 90
+  offset: 2, 2
+  index: -1
+fuzhou3
+  rotate: true
+  xy: 674, 3
+  size: 131, 86
+  orig: 135, 90
+  offset: 2, 2
+  index: -1
+fuzhou4
+  rotate: true
+  xy: 762, 3
+  size: 131, 86
+  orig: 135, 90
+  offset: 2, 2
+  index: -1

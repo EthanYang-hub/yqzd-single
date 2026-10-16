@@ -1,0 +1,34 @@
+
+ui_chunjie_chou_2.png
+size: 392,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1
+  rotate: true
+  xy: 276, 107
+  size: 96, 114
+  orig: 99, 115
+  offset: 1, 0
+  index: -1
+B2
+  rotate: true
+  xy: 276, 9
+  size: 96, 114
+  orig: 99, 115
+  offset: 1, 0
+  index: -1
+daoju_bg_001
+  rotate: false
+  xy: 2, 2
+  size: 135, 201
+  orig: 135, 201
+  offset: 0, 0
+  index: -1
+daoju_bg_02hei
+  rotate: false
+  xy: 139, 2
+  size: 135, 201
+  orig: 135, 201
+  offset: 0, 0
+  index: -1

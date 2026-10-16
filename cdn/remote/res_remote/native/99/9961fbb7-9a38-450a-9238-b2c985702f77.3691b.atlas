@@ -1,0 +1,13 @@
+
+ui_zhuanquan.png
+size: 68,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+storm_effect_demonhunterstreaks_yellow_emis
+  rotate: false
+  xy: 2, 2
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1

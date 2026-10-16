@@ -1,0 +1,97 @@
+
+rareSkill_casket_spirit_1_effect.png
+size: 1463,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Barbarian_seismicSlamRune_cost_sweep
+  rotate: true
+  xy: 1012, 150
+  size: 255, 132
+  orig: 256, 144
+  offset: 1, 4
+  index: -1
+Trail_fire
+  rotate: false
+  xy: 743, 13
+  size: 125, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+a724e2
+  rotate: false
+  xy: 1239, 2
+  size: 169, 165
+  orig: 200, 175
+  offset: 12, 5
+  index: -1
+c290d3533
+  rotate: false
+  xy: 165, 9
+  size: 396, 396
+  orig: 396, 402
+  offset: 0, 6
+  index: -1
+fire_2
+  rotate: false
+  xy: 563, 15
+  size: 178, 390
+  orig: 207, 411
+  offset: 19, 20
+  index: -1
+fire_3
+  rotate: false
+  xy: 2, 8
+  size: 161, 397
+  orig: 165, 405
+  offset: 0, 7
+  index: -1
+fire_4
+  rotate: false
+  xy: 743, 47
+  size: 171, 358
+  orig: 223, 383
+  offset: 52, 24
+  index: -1
+fuwen_7
+  rotate: true
+  xy: 916, 19
+  size: 95, 166
+  orig: 115, 168
+  offset: 2, 0
+  index: -1
+fuwen_8
+  rotate: false
+  xy: 1146, 198
+  size: 87, 207
+  orig: 100, 210
+  offset: 0, 3
+  index: -1
+fuwen_9
+  rotate: true
+  xy: 1235, 169
+  size: 47, 179
+  orig: 49, 181
+  offset: 0, 0
+  index: -1
+shitou_1
+  rotate: false
+  xy: 1239, 218
+  size: 222, 187
+  orig: 242, 201
+  offset: 9, 1
+  index: -1
+shitou_2
+  rotate: true
+  xy: 916, 116
+  size: 289, 94
+  orig: 291, 95
+  offset: 0, 1
+  index: -1
+shitou_3
+  rotate: false
+  xy: 1084, 6
+  size: 153, 142
+  orig: 155, 145
+  offset: 2, 2
+  index: -1

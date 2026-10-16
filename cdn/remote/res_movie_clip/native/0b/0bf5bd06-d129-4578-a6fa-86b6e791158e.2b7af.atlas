@@ -1,0 +1,146 @@
+
+petSkill_dun.png
+size: 320,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0676
+  rotate: false
+  xy: 2, 621
+  size: 178, 217
+  orig: 218, 218
+  offset: 15, 0
+  index: -1
+1
+  rotate: false
+  xy: 253, 45
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 253, 6
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+62a28652e2ca6464db98666b6659e0c03630a00f53ea8-FHq3RW
+  rotate: false
+  xy: 144, 191
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+Env_MB_shopSouth_wisp
+  rotate: false
+  xy: 2, 840
+  size: 214, 190
+  orig: 218, 218
+  offset: 0, 28
+  index: -1
+F1
+  rotate: true
+  xy: 182, 705
+  size: 133, 122
+  orig: 133, 133
+  offset: 0, 11
+  index: -1
+F2
+  rotate: false
+  xy: 2, 131
+  size: 133, 127
+  orig: 133, 133
+  offset: 0, 6
+  index: -1
+F3
+  rotate: false
+  xy: 182, 578
+  size: 133, 125
+  orig: 133, 133
+  offset: 0, 8
+  index: -1
+F4
+  rotate: false
+  xy: 2, 3
+  size: 133, 126
+  orig: 133, 133
+  offset: 0, 7
+  index: -1
+F5
+  rotate: false
+  xy: 177, 452
+  size: 133, 124
+  orig: 133, 133
+  offset: 0, 9
+  index: -1
+F6
+  rotate: true
+  xy: 144, 306
+  size: 132, 119
+  orig: 133, 126
+  offset: 0, 7
+  index: -1
+F7
+  rotate: true
+  xy: 218, 902
+  size: 128, 87
+  orig: 128, 87
+  offset: 0, 0
+  index: -1
+F8
+  rotate: false
+  xy: 137, 2
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1
+V1
+  rotate: false
+  xy: 246, 114
+  size: 68, 75
+  orig: 90, 99
+  offset: 9, 20
+  index: -1
+V2
+  rotate: false
+  xy: 246, 82
+  size: 62, 30
+  orig: 83, 48
+  offset: 17, 4
+  index: -1
+V4
+  rotate: false
+  xy: 218, 863
+  size: 92, 37
+  orig: 100, 42
+  offset: 5, 2
+  index: -1
+V5
+  rotate: true
+  xy: 260, 212
+  size: 92, 58
+  orig: 105, 68
+  offset: 3, 7
+  index: -1
+aaa
+  rotate: true
+  xy: 2, 440
+  size: 179, 173
+  orig: 181, 181
+  offset: 1, 3
+  index: -1
+eye
+  rotate: true
+  xy: 2, 260
+  size: 178, 140
+  orig: 218, 218
+  offset: 20, 46
+  index: -1
+hole32
+  rotate: false
+  xy: 137, 82
+  size: 107, 107
+  orig: 109, 109
+  offset: 2, 0
+  index: -1

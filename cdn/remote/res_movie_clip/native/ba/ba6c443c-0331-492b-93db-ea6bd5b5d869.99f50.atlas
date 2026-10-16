@@ -1,0 +1,13 @@
+
+buff_jiasu.png
+size: 260,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flash_blindingFlash_columnDiff_obsidian_confuse
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

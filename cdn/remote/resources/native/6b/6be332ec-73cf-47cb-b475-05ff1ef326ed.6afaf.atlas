@@ -1,0 +1,20 @@
+
+ui_tanchuang_anniu.png
+size: 179,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 2, 2
+  size: 126, 125
+  orig: 153, 147
+  offset: 10, 14
+  index: -1
+anniu_A_1
+  rotate: false
+  xy: 130, 77
+  size: 47, 50
+  orig: 51, 53
+  offset: 1, 1
+  index: -1

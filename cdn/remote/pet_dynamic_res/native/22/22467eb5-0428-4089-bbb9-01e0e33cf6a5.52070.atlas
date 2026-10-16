@@ -1,0 +1,111 @@
+
+lihui_pet_fox_2.png
+size: 1973,861
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huli_1
+  rotate: true
+  xy: 2, 2
+  size: 57, 197
+  orig: 57, 197
+  offset: 0, 0
+  index: -1
+huli_10
+  rotate: true
+  xy: 1681, 187
+  size: 205, 256
+  orig: 315, 296
+  offset: 0, 0
+  index: -1
+huli_11
+  rotate: true
+  xy: 75, 73
+  size: 260, 398
+  orig: 260, 398
+  offset: 0, 0
+  index: -1
+huli_12
+  rotate: true
+  xy: 475, 43
+  size: 290, 244
+  orig: 295, 252
+  offset: 5, 0
+  index: -1
+huli_13
+  rotate: false
+  xy: 37, 72
+  size: 36, 787
+  orig: 36, 787
+  offset: 0, 0
+  index: -1
+huli_14
+  rotate: true
+  xy: 201, 18
+  size: 23, 868
+  orig: 23, 868
+  offset: 0, 0
+  index: -1
+huli_15
+  rotate: false
+  xy: 2, 61
+  size: 33, 798
+  orig: 33, 798
+  offset: 0, 0
+  index: -1
+huli_2
+  rotate: false
+  xy: 721, 47
+  size: 286, 240
+  orig: 301, 240
+  offset: 0, 0
+  index: -1
+huli_3
+  rotate: true
+  xy: 1071, 394
+  size: 465, 900
+  orig: 476, 900
+  offset: 11, 0
+  index: -1
+huli_4
+  rotate: true
+  xy: 785, 289
+  size: 217, 274
+  orig: 217, 274
+  offset: 0, 0
+  index: -1
+huli_5
+  rotate: false
+  xy: 75, 335
+  size: 490, 524
+  orig: 490, 524
+  offset: 0, 0
+  index: -1
+huli_6
+  rotate: false
+  xy: 1071, 2
+  size: 378, 390
+  orig: 378, 390
+  offset: 0, 0
+  index: -1
+huli_7
+  rotate: false
+  xy: 1451, 43
+  size: 228, 349
+  orig: 228, 349
+  offset: 0, 0
+  index: -1
+huli_8
+  rotate: true
+  xy: 567, 508
+  size: 351, 471
+  orig: 351, 471
+  offset: 0, 0
+  index: -1
+huli_9
+  rotate: true
+  xy: 567, 362
+  size: 144, 216
+  orig: 165, 216
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+ui_jihuo.png
+size: 629,579
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 131
+  size: 446, 236
+  orig: 446, 236
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 240, 215
+  size: 362, 362
+  orig: 378, 377
+  offset: 8, 7
+  index: -1
+3
+  rotate: false
+  xy: 452, 36
+  size: 175, 177
+  orig: 458, 433
+  offset: 135, 125
+  index: -1
+4
+  rotate: false
+  xy: 240, 2
+  size: 210, 211
+  orig: 246, 245
+  offset: 18, 17
+  index: -1

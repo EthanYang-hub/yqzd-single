@@ -1,0 +1,132 @@
+
+ui_wuxing_changjing_biao.png
+size: 1103,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0408
+  rotate: false
+  xy: 626, 138
+  size: 122, 122
+  orig: 128, 128
+  offset: 3, 6
+  index: -1
+0444
+  rotate: true
+  xy: 542, 2
+  size: 128, 122
+  orig: 128, 128
+  offset: 0, 3
+  index: -1
+0529
+  rotate: true
+  xy: 497, 132
+  size: 128, 127
+  orig: 128, 128
+  offset: 0, 1
+  index: -1
+Electricity 014_00000
+  rotate: true
+  xy: 877, 147
+  size: 113, 126
+  orig: 143, 127
+  offset: 7, 1
+  index: -1
+Electricity 014_00002
+  rotate: false
+  xy: 666, 9
+  size: 117, 127
+  orig: 143, 127
+  offset: 0, 0
+  index: -1
+Electricity 014_00004
+  rotate: true
+  xy: 257, 119
+  size: 141, 119
+  orig: 143, 127
+  offset: 0, 5
+  index: -1
+Electricity 014_00006
+  rotate: false
+  xy: 257, 5
+  size: 142, 112
+  orig: 143, 127
+  offset: 0, 7
+  index: -1
+Electricity 014_00008
+  rotate: true
+  xy: 904, 7
+  size: 138, 102
+  orig: 143, 127
+  offset: 4, 9
+  index: -1
+Electricity 014_00010
+  rotate: false
+  xy: 401, 5
+  size: 139, 113
+  orig: 143, 127
+  offset: 4, 14
+  index: -1
+Electricity 014_00013
+  rotate: true
+  xy: 378, 120
+  size: 140, 117
+  orig: 143, 127
+  offset: 0, 9
+  index: -1
+Electricity 014_00015
+  rotate: false
+  xy: 750, 142
+  size: 125, 118
+  orig: 143, 127
+  offset: 3, 7
+  index: -1
+Electricity 014_00017
+  rotate: false
+  xy: 785, 16
+  size: 117, 124
+  orig: 143, 127
+  offset: 7, 0
+  index: -1
+TY_1
+  rotate: false
+  xy: 1056, 63
+  size: 43, 45
+  orig: 47, 50
+  offset: 2, 3
+  index: -1
+TY_2
+  rotate: true
+  xy: 1008, 110
+  size: 51, 50
+  orig: 53, 52
+  offset: 1, 1
+  index: -1
+TY_3
+  rotate: true
+  xy: 1008, 11
+  size: 47, 46
+  orig: 51, 50
+  offset: 2, 2
+  index: -1
+TY_4
+  rotate: true
+  xy: 1008, 60
+  size: 48, 46
+  orig: 52, 50
+  offset: 2, 2
+  index: -1
+dise
+  rotate: false
+  xy: 1005, 163
+  size: 96, 97
+  orig: 104, 105
+  offset: 4, 4
+  index: -1
+storm_smoke_wispy9alpha
+  rotate: false
+  xy: 2, 4
+  size: 253, 256
+  orig: 256, 256
+  offset: 3, 0
+  index: -1

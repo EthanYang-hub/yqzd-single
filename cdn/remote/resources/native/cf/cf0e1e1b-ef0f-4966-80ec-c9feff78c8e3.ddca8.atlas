@@ -1,0 +1,111 @@
+
+ui_beijingban10.png
+size: 1365,451
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 943, 2
+  size: 211, 86
+  orig: 243, 100
+  offset: 23, 7
+  index: -1
+guang2
+  rotate: false
+  xy: 545, 237
+  size: 378, 212
+  orig: 390, 225
+  offset: 8, 5
+  index: -1
+guangdi
+  rotate: true
+  xy: 545, 14
+  size: 221, 235
+  orig: 233, 242
+  offset: 8, 1
+  index: -1
+kuang
+  rotate: true
+  xy: 2, 15
+  size: 434, 541
+  orig: 441, 558
+  offset: 2, 8
+  index: -1
+lang
+  rotate: false
+  xy: 925, 281
+  size: 387, 168
+  orig: 387, 168
+  offset: 0, 0
+  index: -1
+lang2
+  rotate: false
+  xy: 943, 90
+  size: 238, 80
+  orig: 238, 80
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 1183, 22
+  size: 167, 148
+  orig: 174, 156
+  offset: 5, 3
+  index: -1
+long_guang
+  rotate: true
+  xy: 782, 3
+  size: 232, 159
+  orig: 241, 174
+  offset: 4, 3
+  index: -1
+piaodai1
+  rotate: false
+  xy: 1314, 353
+  size: 47, 96
+  orig: 68, 132
+  offset: 3, 6
+  index: -1
+piaodai2
+  rotate: true
+  xy: 1314, 296
+  size: 55, 49
+  orig: 66, 53
+  offset: 0, 3
+  index: -1
+piaodai3
+  rotate: true
+  xy: 1314, 266
+  size: 28, 42
+  orig: 33, 43
+  offset: 5, 0
+  index: -1
+piaodai4
+  rotate: false
+  xy: 1305, 224
+  size: 30, 40
+  orig: 40, 43
+  offset: 10, 2
+  index: -1
+piaodai5
+  rotate: true
+  xy: 1254, 208
+  size: 71, 49
+  orig: 83, 49
+  offset: 11, 0
+  index: -1
+piaodai6
+  rotate: false
+  xy: 1254, 180
+  size: 46, 26
+  orig: 51, 43
+  offset: 0, 14
+  index: -1
+yun2
+  rotate: false
+  xy: 943, 172
+  size: 309, 107
+  orig: 313, 139
+  offset: 2, 30
+  index: -1

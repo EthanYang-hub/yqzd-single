@@ -1,0 +1,1 @@
+"use strict";var e,t;System.register("chunks:///_virtual/ui_weekend",[],(function(){return{execute:function(){}}})),e="virtual:///prerequisite-imports/ui_weekend",t="chunks:///_virtual/ui_weekend",System.register(e,[t],(function(e,t){return{setters:[function(t){var u={};for(var r in t)"default"!==r&&"__esModule"!==r&&(u[r]=t[r]);e(u)}],execute:function(){}}})); 

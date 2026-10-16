@@ -1,0 +1,62 @@
+
+lihui_yuandan_2.png
+size: 947,1071
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GM_1
+  rotate: true
+  xy: 654, 483
+  size: 263, 291
+  orig: 263, 291
+  offset: 0, 0
+  index: -1
+GM_2
+  rotate: true
+  xy: 2, 20
+  size: 358, 346
+  orig: 365, 353
+  offset: 7, 7
+  index: -1
+GM_3
+  rotate: true
+  xy: 2, 692
+  size: 377, 650
+  orig: 377, 650
+  offset: 0, 0
+  index: -1
+GM_4
+  rotate: false
+  xy: 564, 37
+  size: 308, 444
+  orig: 308, 444
+  offset: 0, 0
+  index: -1
+GM_5
+  rotate: true
+  xy: 654, 748
+  size: 321, 241
+  orig: 321, 241
+  offset: 0, 0
+  index: -1
+GM_6
+  rotate: false
+  xy: 350, 138
+  size: 110, 240
+  orig: 110, 240
+  offset: 0, 0
+  index: -1
+GM_7
+  rotate: false
+  xy: 350, 2
+  size: 108, 134
+  orig: 108, 134
+  offset: 0, 0
+  index: -1
+GM_8
+  rotate: true
+  xy: 2, 380
+  size: 310, 560
+  orig: 310, 571
+  offset: 0, 0
+  index: -1

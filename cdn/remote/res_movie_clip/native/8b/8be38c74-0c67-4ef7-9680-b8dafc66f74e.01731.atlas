@@ -1,0 +1,104 @@
+
+rareSkill_ice_bullet.png
+size: 489,845
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_1
+  rotate: false
+  xy: 346, 700
+  size: 90, 77
+  orig: 94, 82
+  offset: 2, 2
+  index: -1
+fire_10
+  rotate: false
+  xy: 274, 320
+  size: 197, 191
+  orig: 308, 365
+  offset: 104, 11
+  index: -1
+fire_2
+  rotate: false
+  xy: 346, 618
+  size: 86, 80
+  orig: 90, 86
+  offset: 2, 3
+  index: -1
+fire_3
+  rotate: true
+  xy: 346, 779
+  size: 64, 100
+  orig: 68, 104
+  offset: 2, 2
+  index: -1
+fire_4
+  rotate: true
+  xy: 448, 827
+  size: 16, 39
+  orig: 20, 44
+  offset: 2, 1
+  index: -1
+fire_5
+  rotate: false
+  xy: 448, 779
+  size: 36, 21
+  orig: 41, 26
+  offset: 4, 2
+  index: -1
+fire_6
+  rotate: true
+  xy: 448, 802
+  size: 23, 36
+  orig: 28, 40
+  offset: 3, 0
+  index: -1
+fire_7
+  rotate: true
+  xy: 434, 624
+  size: 30, 32
+  orig: 34, 36
+  offset: 3, 1
+  index: -1
+fire_8
+  rotate: true
+  xy: 438, 656
+  size: 59, 44
+  orig: 64, 49
+  offset: 2, 3
+  index: -1
+fire_9
+  rotate: false
+  xy: 438, 717
+  size: 44, 60
+  orig: 48, 64
+  offset: 1, 3
+  index: -1
+wuqi_0
+  rotate: true
+  xy: 2, 2
+  size: 254, 252
+  orig: 257, 256
+  offset: 2, 2
+  index: -1
+wuqi_1
+  rotate: true
+  xy: 2, 258
+  size: 253, 270
+  orig: 285, 290
+  offset: 19, 0
+  index: -1
+wuqi_2
+  rotate: false
+  xy: 256, 35
+  size: 221, 221
+  orig: 233, 233
+  offset: 6, 6
+  index: -1
+wuqi_3
+  rotate: true
+  xy: 2, 513
+  size: 330, 342
+  orig: 343, 359
+  offset: 6, 9
+  index: -1

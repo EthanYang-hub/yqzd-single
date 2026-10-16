@@ -1,0 +1,62 @@
+
+ui_genggui_zhigou.png
+size: 1456,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 953, 519
+  size: 501, 501
+  orig: 517, 517
+  offset: 8, 8
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 544, 538
+  orig: 558, 544
+  offset: 9, 2
+  index: -1
+3
+  rotate: true
+  xy: 874, 23
+  size: 494, 495
+  orig: 496, 497
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 2, 542
+  size: 949, 478
+  orig: 1059, 482
+  offset: 87, 2
+  index: -1
+zi_A_1
+  rotate: false
+  xy: 682, 16
+  size: 117, 188
+  orig: 126, 190
+  offset: 5, 1
+  index: -1
+zi_A_2
+  rotate: false
+  xy: 548, 206
+  size: 324, 334
+  orig: 356, 356
+  offset: 10, 9
+  index: -1
+zi_B_2
+  rotate: false
+  xy: 548, 206
+  size: 324, 334
+  orig: 356, 356
+  offset: 10, 9
+  index: -1
+zi_B_1
+  rotate: false
+  xy: 548, 9
+  size: 132, 195
+  orig: 146, 204
+  offset: 3, 8
+  index: -1

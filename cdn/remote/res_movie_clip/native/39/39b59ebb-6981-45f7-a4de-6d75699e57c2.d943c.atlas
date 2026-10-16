@@ -1,0 +1,69 @@
+
+petSkill_zhihunzhe_2_1.png
+size: 1980,690
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou_1
+  rotate: false
+  xy: 1579, 292
+  size: 247, 217
+  orig: 247, 217
+  offset: 0, 0
+  index: -1
+shou_2
+  rotate: false
+  xy: 1579, 45
+  size: 212, 245
+  orig: 215, 252
+  offset: 1, 1
+  index: -1
+shou_3
+  rotate: true
+  xy: 1166, 74
+  size: 614, 411
+  orig: 614, 411
+  offset: 0, 0
+  index: -1
+shou_4
+  rotate: false
+  xy: 1579, 511
+  size: 291, 177
+  orig: 291, 177
+  offset: 0, 0
+  index: -1
+shou_5
+  rotate: true
+  xy: 1793, 85
+  size: 205, 185
+  orig: 205, 203
+  offset: 0, 8
+  index: -1
+shou_6
+  rotate: false
+  xy: 1828, 296
+  size: 133, 213
+  orig: 133, 213
+  offset: 0, 0
+  index: -1
+shou_7
+  rotate: false
+  xy: 1872, 512
+  size: 91, 176
+  orig: 91, 176
+  offset: 0, 0
+  index: -1
+zhuwang_1_1
+  rotate: true
+  xy: 447, 8
+  size: 680, 717
+  orig: 680, 717
+  offset: 0, 0
+  index: -1
+zhuwang_2_1
+  rotate: false
+  xy: 2, 2
+  size: 443, 686
+  orig: 443, 686
+  offset: 0, 0
+  index: -1

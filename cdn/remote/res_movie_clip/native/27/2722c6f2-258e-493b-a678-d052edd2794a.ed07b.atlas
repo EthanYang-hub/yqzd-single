@@ -1,0 +1,34 @@
+
+monster_3017_effect4.png
+size: 715,391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozhu_1
+  rotate: false
+  xy: 398, 132
+  size: 308, 257
+  orig: 356, 266
+  offset: 0, 0
+  index: -1
+baozhu_2
+  rotate: true
+  xy: 568, 63
+  size: 67, 145
+  orig: 67, 145
+  offset: 0, 0
+  index: -1
+baozhu_3
+  rotate: true
+  xy: 398, 29
+  size: 101, 168
+  orig: 101, 168
+  offset: 0, 0
+  index: -1
+baozhu_6
+  rotate: false
+  xy: 2, 2
+  size: 394, 387
+  orig: 461, 455
+  offset: 40, 30
+  index: -1

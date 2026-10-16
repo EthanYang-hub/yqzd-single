@@ -1,0 +1,48 @@
+
+buff_hundun_casket.png
+size: 1097,818
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun_liuguang
+  rotate: true
+  xy: 2, 8
+  size: 293, 431
+  orig: 492, 525
+  offset: 4, 94
+  index: -1
+hudun
+  rotate: true
+  xy: 604, 252
+  size: 564, 491
+  orig: 566, 503
+  offset: 1, 11
+  index: -1
+hudun_bian
+  rotate: false
+  xy: 2, 303
+  size: 600, 513
+  orig: 600, 513
+  offset: 0, 0
+  index: -1
+hudun_guodu
+  rotate: true
+  xy: 435, 55
+  size: 246, 144
+  orig: 256, 256
+  offset: 5, 111
+  index: -1
+hudun_wenli
+  rotate: true
+  xy: 839, 18
+  size: 232, 230
+  orig: 256, 256
+  offset: 10, 14
+  index: -1
+hudun_wenli2
+  rotate: true
+  xy: 581, 2
+  size: 248, 256
+  orig: 256, 256
+  offset: 8, 0
+  index: -1

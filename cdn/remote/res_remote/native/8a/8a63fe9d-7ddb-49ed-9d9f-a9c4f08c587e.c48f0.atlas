@@ -1,0 +1,27 @@
+
+ui_mojin_baoxiang.png
+size: 317,736
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 2, 417
+  size: 313, 317
+  orig: 313, 317
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 2, 175
+  size: 298, 240
+  orig: 298, 240
+  offset: 0, 0
+  index: -1
+d9402988
+  rotate: false
+  xy: 2, 2
+  size: 185, 171
+  orig: 192, 192
+  offset: 1, 3
+  index: -1

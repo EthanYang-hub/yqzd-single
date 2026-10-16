@@ -1,0 +1,118 @@
+
+ui_tianshu_fenwei.png
+size: 1378,578
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DD
+  rotate: true
+  xy: 268, 164
+  size: 412, 261
+  orig: 412, 261
+  offset: 0, 0
+  index: -1
+Red_di_1
+  rotate: false
+  xy: 269, 30
+  size: 340, 132
+  orig: 340, 132
+  offset: 0, 0
+  index: -1
+Red_di_2
+  rotate: true
+  xy: 1125, 434
+  size: 142, 199
+  orig: 142, 199
+  offset: 0, 0
+  index: -1
+SRU_Chaos_nexus_groundGlow
+  rotate: false
+  xy: 531, 320
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Varus_Skin01
+  rotate: false
+  xy: 874, 10
+  size: 184, 156
+  orig: 188, 187
+  offset: 2, 30
+  index: -1
+Varus_Skin02
+  rotate: false
+  xy: 822, 168
+  size: 198, 179
+  orig: 200, 184
+  offset: 1, 4
+  index: -1
+Varus_Skin03
+  rotate: true
+  xy: 1022, 181
+  size: 217, 206
+  orig: 230, 219
+  offset: 2, 8
+  index: -1
+Varus_Skin04
+  rotate: false
+  xy: 1060, 2
+  size: 199, 177
+  orig: 200, 186
+  offset: 1, 8
+  index: -1
+di_guang_1
+  rotate: false
+  xy: 531, 164
+  size: 289, 154
+  orig: 295, 155
+  offset: 1, 0
+  index: -1
+di_guang_2
+  rotate: false
+  xy: 611, 5
+  size: 261, 157
+  orig: 265, 161
+  offset: 2, 2
+  index: -1
+di_guang_3
+  rotate: false
+  xy: 789, 400
+  size: 334, 176
+  orig: 363, 178
+  offset: 1, 1
+  index: -1
+di_guang_4
+  rotate: false
+  xy: 2, 14
+  size: 265, 105
+  orig: 278, 110
+  offset: 7, 1
+  index: -1
+fuwen_1
+  rotate: false
+  xy: 1261, 52
+  size: 115, 168
+  orig: 115, 168
+  offset: 0, 0
+  index: -1
+fuwen_2
+  rotate: false
+  xy: 1230, 222
+  size: 100, 210
+  orig: 100, 210
+  offset: 0, 0
+  index: -1
+fuwen_3
+  rotate: true
+  xy: 789, 349
+  size: 49, 181
+  orig: 49, 181
+  offset: 0, 0
+  index: -1
+hong
+  rotate: true
+  xy: 2, 121
+  size: 455, 264
+  orig: 513, 310
+  offset: 28, 30
+  index: -1

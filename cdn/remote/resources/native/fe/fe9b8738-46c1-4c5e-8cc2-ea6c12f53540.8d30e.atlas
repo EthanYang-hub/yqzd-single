@@ -1,0 +1,13 @@
+
+ui_guipu_guang.png
+size: 260,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HA_abyssWind_01
+  rotate: false
+  xy: 2, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1

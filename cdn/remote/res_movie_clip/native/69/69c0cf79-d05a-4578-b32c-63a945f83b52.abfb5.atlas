@@ -1,0 +1,76 @@
+
+ui_shuijing_yudeng_hit.png
+size: 313,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D
+  rotate: false
+  xy: 187, 85
+  size: 88, 95
+  orig: 92, 100
+  offset: 0, 3
+  index: -1
+DH_caltrops_runeB_slower_fireRingDiffuse
+  rotate: true
+  xy: 2, 2
+  size: 178, 183
+  orig: 192, 186
+  offset: 9, 1
+  index: -1
+bing_1
+  rotate: true
+  xy: 277, 86
+  size: 49, 10
+  orig: 53, 11
+  offset: 2, 1
+  index: -1
+bing_2
+  rotate: true
+  xy: 289, 117
+  size: 18, 16
+  orig: 20, 16
+  offset: 1, 0
+  index: -1
+bing_3
+  rotate: false
+  xy: 277, 137
+  size: 18, 20
+  orig: 19, 22
+  offset: 1, 1
+  index: -1
+bing_4
+  rotate: false
+  xy: 297, 166
+  size: 14, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+bing_5
+  rotate: true
+  xy: 289, 96
+  size: 19, 15
+  orig: 21, 17
+  offset: 1, 1
+  index: -1
+bing_6
+  rotate: false
+  xy: 277, 159
+  size: 18, 21
+  orig: 20, 22
+  offset: 1, 0
+  index: -1
+bing_7
+  rotate: false
+  xy: 297, 151
+  size: 12, 13
+  orig: 14, 15
+  offset: 1, 1
+  index: -1
+lizi1
+  rotate: false
+  xy: 187, 4
+  size: 107, 79
+  orig: 138, 92
+  offset: 25, 10
+  index: -1

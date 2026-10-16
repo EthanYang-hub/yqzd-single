@@ -1,0 +1,62 @@
+
+monster_3008_effect.png
+size: 202,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barbarian_revenge_radialSmoke
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 154, 85
+  size: 25, 32
+  orig: 27, 32
+  offset: 1, 0
+  index: -1
+f2
+  rotate: false
+  xy: 181, 53
+  size: 18, 31
+  orig: 23, 31
+  offset: 3, 0
+  index: -1
+f4
+  rotate: false
+  xy: 154, 119
+  size: 29, 33
+  orig: 40, 33
+  offset: 10, 0
+  index: -1
+f5
+  rotate: false
+  xy: 154, 18
+  size: 22, 32
+  orig: 26, 32
+  offset: 3, 0
+  index: -1
+f6
+  rotate: false
+  xy: 154, 52
+  size: 25, 31
+  orig: 30, 33
+  offset: 5, 1
+  index: -1
+f7
+  rotate: false
+  xy: 181, 86
+  size: 19, 31
+  orig: 25, 32
+  offset: 2, 0
+  index: -1
+f8
+  rotate: false
+  xy: 178, 21
+  size: 21, 29
+  orig: 25, 31
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,62 @@
+
+roleSkill_Skulltower_13.png
+size: 1078,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G1
+  rotate: true
+  xy: 871, 9
+  size: 64, 70
+  orig: 65, 71
+  offset: 0, 1
+  index: -1
+G2
+  rotate: true
+  xy: 765, 6
+  size: 67, 104
+  orig: 69, 106
+  offset: 1, 1
+  index: -1
+G3
+  rotate: false
+  xy: 2, 25
+  size: 464, 439
+  orig: 506, 465
+  offset: 14, 13
+  index: -1
+d1
+  rotate: true
+  xy: 2, 5
+  size: 18, 90
+  orig: 18, 90
+  offset: 0, 0
+  index: -1
+d2
+  rotate: true
+  xy: 468, 2
+  size: 195, 295
+  orig: 195, 296
+  offset: 0, 1
+  index: -1
+di_guang
+  rotate: false
+  xy: 468, 199
+  size: 335, 265
+  orig: 335, 285
+  offset: 0, 3
+  index: -1
+dici_1
+  rotate: false
+  xy: 805, 234
+  size: 271, 230
+  orig: 283, 241
+  offset: 1, 11
+  index: -1
+dici_2
+  rotate: false
+  xy: 805, 75
+  size: 271, 157
+  orig: 321, 164
+  offset: 2, 5
+  index: -1

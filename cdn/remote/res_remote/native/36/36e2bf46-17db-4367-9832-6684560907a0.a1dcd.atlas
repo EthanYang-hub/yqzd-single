@@ -1,0 +1,27 @@
+
+ui_genggui_zhigou_qie.png
+size: 756,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AAA
+  rotate: false
+  xy: 2, 2
+  size: 265, 265
+  orig: 273, 276
+  offset: 1, 1
+  index: -1
+AAA2
+  rotate: false
+  xy: 269, 2
+  size: 265, 265
+  orig: 273, 276
+  offset: 1, 1
+  index: -1
+c2f456f
+  rotate: false
+  xy: 536, 44
+  size: 218, 223
+  orig: 256, 256
+  offset: 20, 17
+  index: -1

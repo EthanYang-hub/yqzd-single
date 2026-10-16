@@ -1,0 +1,13 @@
+
+rareSkill_skull_effect_2_3.png
+size: 119,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DH_safetyShot_blackMotes_explosion
+  rotate: false
+  xy: 2, 2
+  size: 115, 124
+  orig: 128, 128
+  offset: 0, 4
+  index: -1

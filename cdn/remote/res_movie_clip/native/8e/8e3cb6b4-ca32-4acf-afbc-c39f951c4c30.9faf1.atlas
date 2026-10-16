@@ -1,0 +1,27 @@
+
+monster_3017_2_bullet.png
+size: 671,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b2a6fabd
+  rotate: true
+  xy: 477, 66
+  size: 48, 192
+  orig: 48, 192
+  offset: 0, 0
+  index: -1
+shou_A_7
+  rotate: true
+  xy: 2, 2
+  size: 112, 473
+  orig: 112, 473
+  offset: 0, 0
+  index: -1
+zhui
+  rotate: false
+  xy: 477, 36
+  size: 103, 28
+  orig: 103, 28
+  offset: 0, 0
+  index: -1

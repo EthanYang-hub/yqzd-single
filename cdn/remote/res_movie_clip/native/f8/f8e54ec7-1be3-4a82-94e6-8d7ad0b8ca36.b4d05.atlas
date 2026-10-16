@@ -1,0 +1,62 @@
+
+sanskill_fengjin.png
+size: 1586,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Barbarian_battlecryRune_resists_aura_diff
+  rotate: false
+  xy: 909, 5
+  size: 204, 199
+  orig: 256, 256
+  offset: 25, 26
+  index: -1
+SRU_Order_Turret1_CrackWall
+  rotate: false
+  xy: 909, 206
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Ward_Season2014_01_Idle
+  rotate: false
+  xy: 1380, 232
+  size: 204, 230
+  orig: 256, 256
+  offset: 20, 26
+  index: -1
+blizzard_splash
+  rotate: true
+  xy: 473, 2
+  size: 460, 434
+  orig: 512, 512
+  offset: 34, 51
+  index: -1
+eye_lwy_t_sun_31_single
+  rotate: true
+  xy: 1237, 7
+  size: 221, 219
+  orig: 256, 256
+  offset: 12, 28
+  index: -1
+feng
+  rotate: true
+  xy: 2, 12
+  size: 450, 469
+  orig: 450, 469
+  offset: 0, 0
+  index: -1
+glow_haze1red
+  rotate: true
+  xy: 1115, 83
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+zi
+  rotate: false
+  xy: 1167, 230
+  size: 211, 232
+  orig: 211, 232
+  offset: 0, 0
+  index: -1

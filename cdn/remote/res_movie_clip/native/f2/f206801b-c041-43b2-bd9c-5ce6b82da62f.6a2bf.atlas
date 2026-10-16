@@ -1,0 +1,132 @@
+
+ui_shuijing_huolong_up.png
+size: 892,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: true
+  xy: 766, 248
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+C2
+  rotate: true
+  xy: 509, 28
+  size: 67, 121
+  orig: 77, 143
+  offset: 0, 1
+  index: -1
+C3
+  rotate: false
+  xy: 427, 127
+  size: 115, 122
+  orig: 119, 135
+  offset: 4, 0
+  index: -1
+S1
+  rotate: true
+  xy: 784, 2
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+S2
+  rotate: true
+  xy: 427, 2
+  size: 123, 80
+  orig: 123, 80
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: true
+  xy: 777, 378
+  size: 169, 113
+  orig: 184, 122
+  offset: 7, 5
+  index: -1
+longtou_liuguang1
+  rotate: false
+  xy: 714, 48
+  size: 53, 51
+  orig: 55, 53
+  offset: 1, 1
+  index: -1
+longtou_liuguang2
+  rotate: false
+  xy: 708, 101
+  size: 74, 140
+  orig: 76, 142
+  offset: 1, 1
+  index: -1
+longtou_liuguang3
+  rotate: true
+  xy: 382, 251
+  size: 72, 159
+  orig: 74, 171
+  offset: 1, 9
+  index: -1
+longtou_liuguang4
+  rotate: false
+  xy: 263, 17
+  size: 162, 201
+  orig: 169, 203
+  offset: 6, 1
+  index: -1
+longtou_liuguang5
+  rotate: true
+  xy: 544, 243
+  size: 154, 220
+  orig: 167, 231
+  offset: 12, 10
+  index: -1
+longtou_liuguang6
+  rotate: false
+  xy: 382, 325
+  size: 160, 222
+  orig: 175, 232
+  offset: 8, 6
+  index: -1
+longtou_liuguang7
+  rotate: true
+  xy: 544, 97
+  size: 144, 162
+  orig: 185, 251
+  offset: 32, 25
+  index: -1
+longtou_liuguang8
+  rotate: true
+  xy: 544, 399
+  size: 148, 231
+  orig: 156, 249
+  offset: 1, 11
+  index: -1
+shitou_1
+  rotate: false
+  xy: 632, 13
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+shitou_3
+  rotate: true
+  xy: 784, 120
+  size: 126, 101
+  orig: 127, 102
+  offset: 1, 0
+  index: -1
+suolian2
+  rotate: false
+  xy: 2, 220
+  size: 378, 327
+  orig: 381, 327
+  offset: 3, 0
+  index: -1
+yan_huo
+  rotate: false
+  xy: 2, 4
+  size: 259, 214
+  orig: 267, 218
+  offset: 6, 2
+  index: -1

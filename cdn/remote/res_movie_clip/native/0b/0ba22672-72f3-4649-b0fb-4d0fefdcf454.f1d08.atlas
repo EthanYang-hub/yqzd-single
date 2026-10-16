@@ -1,0 +1,55 @@
+
+rareSkill_wanshishuitan_bottom.png
+size: 1015,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0496
+  rotate: true
+  xy: 795, 801
+  size: 114, 122
+  orig: 128, 128
+  offset: 7, 2
+  index: -1
+SSD1
+  rotate: false
+  xy: 2, 820
+  size: 391, 193
+  orig: 400, 193
+  offset: 0, 0
+  index: -1
+SSD2
+  rotate: false
+  xy: 395, 778
+  size: 398, 137
+  orig: 400, 137
+  offset: 0, 0
+  index: -1
+dimian_hei
+  rotate: false
+  xy: 395, 917
+  size: 570, 96
+  orig: 572, 97
+  offset: 2, 0
+  index: -1
+shou
+  rotate: true
+  xy: 919, 762
+  size: 49, 85
+  orig: 49, 85
+  offset: 0, 0
+  index: -1
+shuibo_00045
+  rotate: true
+  xy: 967, 813
+  size: 200, 35
+  orig: 200, 39
+  offset: 0, 2
+  index: -1
+xue_xin
+  rotate: true
+  xy: 1004, 882
+  size: 131, 9
+  orig: 134, 9
+  offset: 1, 0
+  index: -1

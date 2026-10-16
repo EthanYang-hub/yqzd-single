@@ -1,0 +1,244 @@
+
+petSkill_runsheng.png
+size: 745,745
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1yanguang
+  rotate: false
+  xy: 466, 298
+  size: 104, 50
+  orig: 120, 52
+  offset: 13, 2
+  index: -1
+C2
+  rotate: true
+  xy: 115, 114
+  size: 77, 143
+  orig: 77, 143
+  offset: 0, 0
+  index: -1
+C3
+  rotate: false
+  xy: 613, 502
+  size: 119, 135
+  orig: 119, 135
+  offset: 0, 0
+  index: -1
+S1
+  rotate: true
+  xy: 401, 33
+  size: 111, 80
+  orig: 116, 83
+  offset: 3, 2
+  index: -1
+S2
+  rotate: true
+  xy: 2, 2
+  size: 117, 77
+  orig: 123, 80
+  offset: 5, 0
+  index: -1
+dai
+  rotate: false
+  xy: 569, 354
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+dang
+  rotate: true
+  xy: 289, 241
+  size: 59, 136
+  orig: 59, 136
+  offset: 0, 0
+  index: -1
+line1
+  rotate: false
+  xy: 363, 430
+  size: 112, 313
+  orig: 112, 313
+  offset: 0, 0
+  index: -1
+line2
+  rotate: false
+  xy: 569, 401
+  size: 42, 342
+  orig: 42, 342
+  offset: 0, 0
+  index: -1
+line3
+  rotate: false
+  xy: 477, 453
+  size: 90, 290
+  orig: 90, 290
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 2, 121
+  size: 111, 149
+  orig: 111, 149
+  offset: 0, 0
+  index: -1
+shitou_1
+  rotate: false
+  xy: 579, 105
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+shitou_10
+  rotate: true
+  xy: 288, 32
+  size: 112, 111
+  orig: 115, 115
+  offset: 2, 3
+  index: -1
+shitou_2
+  rotate: false
+  xy: 613, 639
+  size: 130, 104
+  orig: 132, 104
+  offset: 1, 0
+  index: -1
+shitou_3
+  rotate: true
+  xy: 363, 302
+  size: 126, 101
+  orig: 127, 102
+  offset: 1, 0
+  index: -1
+shitou_4
+  rotate: true
+  xy: 613, 400
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+shitou_5
+  rotate: false
+  xy: 483, 87
+  size: 94, 96
+  orig: 94, 104
+  offset: 0, 8
+  index: -1
+shitou_6
+  rotate: false
+  xy: 572, 256
+  size: 96, 96
+  orig: 97, 105
+  offset: 0, 1
+  index: -1
+shitou_7
+  rotate: true
+  xy: 81, 5
+  size: 107, 119
+  orig: 120, 132
+  offset: 6, 7
+  index: -1
+shitou_8
+  rotate: false
+  xy: 202, 9
+  size: 84, 103
+  orig: 93, 107
+  offset: 9, 3
+  index: -1
+shitou_9
+  rotate: true
+  xy: 477, 350
+  size: 101, 90
+  orig: 102, 91
+  offset: 0, 0
+  index: -1
+shou1a
+  rotate: false
+  xy: 579, 55
+  size: 71, 48
+  orig: 73, 50
+  offset: 1, 1
+  index: -1
+shou1b
+  rotate: false
+  xy: 570, 189
+  size: 84, 65
+  orig: 88, 65
+  offset: 1, 0
+  index: -1
+shou2a
+  rotate: false
+  xy: 670, 261
+  size: 61, 76
+  orig: 64, 78
+  offset: 1, 1
+  index: -1
+shou2b
+  rotate: false
+  xy: 673, 339
+  size: 66, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 115, 193
+  size: 154, 77
+  orig: 160, 79
+  offset: 1, 1
+  index: -1
+tui1a
+  rotate: false
+  xy: 477, 185
+  size: 91, 111
+  orig: 91, 112
+  offset: 0, 1
+  index: -1
+tui1b
+  rotate: true
+  xy: 395, 146
+  size: 93, 80
+  orig: 102, 80
+  offset: 9, 0
+  index: -1
+tui2a
+  rotate: true
+  xy: 483, 11
+  size: 74, 87
+  orig: 84, 87
+  offset: 10, 0
+  index: -1
+tui2b
+  rotate: true
+  xy: 271, 146
+  size: 93, 122
+  orig: 94, 122
+  offset: 0, 0
+  index: -1
+wggh
+  rotate: false
+  xy: 2, 272
+  size: 285, 471
+  orig: 287, 478
+  offset: 2, 5
+  index: -1
+wq
+  rotate: false
+  xy: 289, 302
+  size: 72, 441
+  orig: 74, 443
+  offset: 1, 1
+  index: -1
+yan
+  rotate: true
+  xy: 477, 173
+  size: 10, 4
+  orig: 12, 6
+  offset: 1, 1
+  index: -1
+yanwu_01
+  rotate: false
+  xy: 656, 191
+  size: 60, 63
+  orig: 64, 64
+  offset: 3, 1
+  index: -1

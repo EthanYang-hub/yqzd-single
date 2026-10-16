@@ -1,0 +1,90 @@
+
+ui_zouyin_fumo.png
+size: 267,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1di
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+1huo1
+  rotate: false
+  xy: 132, 8
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+1huo2
+  rotate: true
+  xy: 132, 74
+  size: 33, 91
+  orig: 51, 102
+  offset: 11, 6
+  index: -1
+1huo3
+  rotate: true
+  xy: 143, 331
+  size: 71, 103
+  orig: 71, 103
+  offset: 0, 0
+  index: -1
+1jian
+  rotate: false
+  xy: 225, 17
+  size: 36, 90
+  orig: 41, 93
+  offset: 2, 2
+  index: -1
+1kuang
+  rotate: true
+  xy: 134, 109
+  size: 125, 130
+  orig: 134, 138
+  offset: 6, 3
+  index: -1
+1liuxian
+  rotate: false
+  xy: 143, 236
+  size: 96, 93
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+1lizi1
+  rotate: false
+  xy: 248, 373
+  size: 16, 29
+  orig: 23, 36
+  offset: 5, 6
+  index: -1
+1lizi2
+  rotate: true
+  xy: 241, 277
+  size: 22, 23
+  orig: 26, 28
+  offset: 1, 2
+  index: -1
+1lizi3
+  rotate: true
+  xy: 241, 301
+  size: 28, 24
+  orig: 31, 28
+  offset: 1, 2
+  index: -1
+heidi
+  rotate: false
+  xy: 2, 132
+  size: 130, 129
+  orig: 180, 180
+  offset: 23, 29
+  index: -1
+xuanzhong
+  rotate: false
+  xy: 2, 263
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1

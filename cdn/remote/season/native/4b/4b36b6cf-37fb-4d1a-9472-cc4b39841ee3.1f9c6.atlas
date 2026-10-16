@@ -1,0 +1,20 @@
+
+zbz_ui_pointcircle.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zbz_ui_point1
+  rotate: false
+  xy: 2, 2
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+zbz_ui_point2
+  rotate: true
+  xy: 44, 9
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1

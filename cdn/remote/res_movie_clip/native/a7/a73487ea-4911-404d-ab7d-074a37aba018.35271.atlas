@@ -1,0 +1,146 @@
+
+rareSkill_skull_effect_5.png
+size: 852,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0335
+  rotate: true
+  xy: 293, 7
+  size: 57, 308
+  orig: 57, 308
+  offset: 0, 0
+  index: -1
+755
+  rotate: false
+  xy: 293, 66
+  size: 244, 246
+  orig: 256, 256
+  offset: 0, 4
+  index: -1
+DH_safetyShot_ember_yellow
+  rotate: false
+  xy: 603, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+suihuo_002
+  rotate: false
+  xy: 799, 5
+  size: 34, 35
+  orig: 40, 41
+  offset: 3, 3
+  index: -1
+suihuo_003
+  rotate: true
+  xy: 799, 42
+  size: 40, 41
+  orig: 46, 46
+  offset: 3, 3
+  index: -1
+suihuo_004
+  rotate: true
+  xy: 799, 266
+  size: 46, 50
+  orig: 52, 54
+  offset: 3, 2
+  index: -1
+suihuo_005
+  rotate: false
+  xy: 738, 78
+  size: 56, 58
+  orig: 61, 63
+  offset: 3, 3
+  index: -1
+suihuo_006
+  rotate: false
+  xy: 698, 138
+  size: 59, 62
+  orig: 65, 66
+  offset: 3, 1
+  index: -1
+suihuo_007
+  rotate: true
+  xy: 671, 72
+  size: 62, 65
+  orig: 68, 68
+  offset: 3, 0
+  index: -1
+suihuo_008
+  rotate: false
+  xy: 539, 68
+  size: 64, 66
+  orig: 69, 68
+  offset: 2, 0
+  index: -1
+suihuo_009
+  rotate: false
+  xy: 605, 70
+  size: 64, 64
+  orig: 69, 68
+  offset: 2, 1
+  index: -1
+suihuo_010
+  rotate: true
+  xy: 669, 4
+  size: 64, 63
+  orig: 69, 68
+  offset: 2, 2
+  index: -1
+suihuo_011
+  rotate: false
+  xy: 734, 7
+  size: 63, 63
+  orig: 68, 68
+  offset: 2, 2
+  index: -1
+suihuo_012
+  rotate: false
+  xy: 759, 141
+  size: 55, 59
+  orig: 66, 66
+  offset: 4, 2
+  index: -1
+suihuo_013
+  rotate: false
+  xy: 796, 208
+  size: 52, 56
+  orig: 59, 64
+  offset: 4, 5
+  index: -1
+suihuo_014
+  rotate: false
+  xy: 796, 84
+  size: 52, 55
+  orig: 59, 64
+  offset: 4, 6
+  index: -1
+suihuo_015
+  rotate: true
+  xy: 816, 160
+  size: 46, 34
+  orig: 54, 43
+  offset: 5, 6
+  index: -1
+yan_1
+  rotate: false
+  xy: 698, 202
+  size: 96, 110
+  orig: 96, 110
+  offset: 0, 0
+  index: -1
+yan_2
+  rotate: true
+  xy: 539, 136
+  size: 176, 157
+  orig: 185, 175
+  offset: 2, 5
+  index: -1
+yan_4
+  rotate: false
+  xy: 2, 21
+  size: 289, 291
+  orig: 293, 294
+  offset: 2, 3
+  index: -1

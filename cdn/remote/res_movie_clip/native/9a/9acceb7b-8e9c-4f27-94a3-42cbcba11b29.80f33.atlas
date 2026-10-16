@@ -1,0 +1,125 @@
+
+ronghe_body_monster_3016.png
+size: 1464,553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N_6
+  rotate: false
+  xy: 2, 154
+  size: 304, 397
+  orig: 594, 443
+  offset: 123, 46
+  index: -1
+huo_060
+  rotate: false
+  xy: 293, 21
+  size: 96, 80
+  orig: 96, 80
+  offset: 0, 0
+  index: -1
+huo_061
+  rotate: false
+  xy: 195, 35
+  size: 96, 117
+  orig: 96, 117
+  offset: 0, 0
+  index: -1
+huo_062
+  rotate: false
+  xy: 1139, 71
+  size: 150, 171
+  orig: 150, 171
+  offset: 0, 0
+  index: -1
+huo_063
+  rotate: false
+  xy: 1232, 401
+  size: 230, 150
+  orig: 230, 150
+  offset: 0, 0
+  index: -1
+huo_064
+  rotate: false
+  xy: 308, 103
+  size: 307, 195
+  orig: 307, 195
+  offset: 0, 0
+  index: -1
+huo_065
+  rotate: false
+  xy: 925, 305
+  size: 305, 246
+  orig: 305, 246
+  offset: 0, 0
+  index: -1
+huo_066
+  rotate: false
+  xy: 615, 305
+  size: 308, 246
+  orig: 308, 246
+  offset: 0, 0
+  index: -1
+huo_067
+  rotate: false
+  xy: 308, 300
+  size: 305, 251
+  orig: 305, 251
+  offset: 0, 0
+  index: -1
+huo_068
+  rotate: false
+  xy: 886, 52
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+huo_069
+  rotate: true
+  xy: 617, 52
+  size: 251, 267
+  orig: 251, 267
+  offset: 0, 0
+  index: -1
+huo_070
+  rotate: false
+  xy: 2, 2
+  size: 191, 150
+  orig: 191, 150
+  offset: 0, 0
+  index: -1
+huo_071
+  rotate: false
+  xy: 1232, 244
+  size: 191, 155
+  orig: 191, 155
+  offset: 0, 0
+  index: -1
+huo_072
+  rotate: true
+  xy: 1291, 51
+  size: 191, 113
+  orig: 191, 113
+  offset: 0, 0
+  index: -1
+huo_073
+  rotate: false
+  xy: 391, 21
+  size: 96, 80
+  orig: 96, 80
+  offset: 0, 0
+  index: -1
+huo_074
+  rotate: false
+  xy: 489, 5
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+huo_075
+  rotate: false
+  xy: 1139, 245
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1

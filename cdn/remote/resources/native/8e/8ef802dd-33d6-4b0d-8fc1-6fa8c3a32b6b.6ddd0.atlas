@@ -1,0 +1,55 @@
+
+UI_xinbaibei.png
+size: 2004,827
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0431
+  rotate: true
+  xy: 1779, 79
+  size: 117, 114
+  orig: 128, 128
+  offset: 4, 5
+  index: -1
+UI_xinshibai-1-1
+  rotate: false
+  xy: 1462, 103
+  size: 173, 156
+  orig: 174, 158
+  offset: 1, 0
+  index: -1
+UI_xinshibai-1-2
+  rotate: false
+  xy: 1637, 49
+  size: 140, 147
+  orig: 140, 149
+  offset: 0, 1
+  index: -1
+UI_xinshibai-2
+  rotate: false
+  xy: 1162, 2
+  size: 298, 257
+  orig: 298, 264
+  offset: 0, 7
+  index: -1
+UI_xinshibai-3
+  rotate: true
+  xy: 1162, 261
+  size: 564, 527
+  orig: 740, 580
+  offset: 0, 53
+  index: -1
+UI_xinshibai-4
+  rotate: true
+  xy: 1691, 198
+  size: 627, 311
+  orig: 627, 311
+  offset: 0, 0
+  index: -1
+UI_xinshibai-5
+  rotate: false
+  xy: 2, 75
+  size: 1158, 750
+  orig: 1158, 750
+  offset: 0, 0
+  index: -1

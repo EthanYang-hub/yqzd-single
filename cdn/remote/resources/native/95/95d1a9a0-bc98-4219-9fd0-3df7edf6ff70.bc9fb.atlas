@@ -1,0 +1,244 @@
+
+ui_shuijing_gui.png
+size: 1865,1795
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1311, 558
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 1706, 807
+  size: 270, 141
+  orig: 300, 164
+  offset: 13, 5
+  index: -1
+11
+  rotate: true
+  xy: 1429, 556
+  size: 396, 241
+  orig: 451, 268
+  offset: 28, 4
+  index: -1
+12_1
+  rotate: false
+  xy: 861, 43
+  size: 423, 202
+  orig: 440, 226
+  offset: 1, 4
+  index: -1
+13
+  rotate: false
+  xy: 510, 1436
+  size: 699, 357
+  orig: 699, 357
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1211, 1414
+  size: 545, 379
+  orig: 560, 400
+  offset: 12, 10
+  index: -1
+15
+  rotate: true
+  xy: 1057, 584
+  size: 368, 370
+  orig: 476, 483
+  offset: 102, 48
+  index: -1
+16
+  rotate: false
+  xy: 1286, 40
+  size: 209, 168
+  orig: 232, 194
+  offset: 13, 10
+  index: -1
+2
+  rotate: true
+  xy: 1672, 577
+  size: 500, 32
+  orig: 500, 33
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1758, 1527
+  size: 97, 266
+  orig: 97, 266
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1159, 954
+  size: 458, 506
+  orig: 458, 506
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 448
+  size: 506, 1345
+  orig: 506, 1353
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 861, 2
+  size: 264, 39
+  orig: 265, 46
+  offset: 1, 5
+  index: -1
+7
+  rotate: true
+  xy: 1679, 334
+  size: 241, 181
+  orig: 243, 202
+  offset: 0, 7
+  index: -1
+8
+  rotate: true
+  xy: 1706, 577
+  size: 228, 157
+  orig: 230, 170
+  offset: 0, 10
+  index: -1
+9
+  rotate: true
+  xy: 1532, 287
+  size: 267, 145
+  orig: 271, 161
+  offset: 4, 6
+  index: -1
+bu_1
+  rotate: false
+  xy: 938, 247
+  size: 371, 335
+  orig: 371, 335
+  offset: 0, 0
+  index: -1
+bu_2
+  rotate: false
+  xy: 1667, 1079
+  size: 155, 333
+  orig: 155, 333
+  offset: 0, 0
+  index: -1
+bu_3
+  rotate: true
+  xy: 1679, 167
+  size: 165, 179
+  orig: 165, 179
+  offset: 0, 0
+  index: -1
+bu_4
+  rotate: false
+  xy: 1311, 281
+  size: 219, 273
+  orig: 219, 273
+  offset: 0, 0
+  index: -1
+denglong_1
+  rotate: true
+  xy: 1311, 210
+  size: 69, 242
+  orig: 69, 242
+  offset: 0, 0
+  index: -1
+denglong_2
+  rotate: false
+  xy: 1758, 1434
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+fire_2
+  rotate: false
+  xy: 1497, 63
+  size: 67, 145
+  orig: 77, 154
+  offset: 7, 8
+  index: -1
+fire_3
+  rotate: true
+  xy: 861, 287
+  size: 30, 74
+  orig: 31, 76
+  offset: 0, 2
+  index: -1
+fire_4
+  rotate: false
+  xy: 1566, 152
+  size: 63, 133
+  orig: 83, 143
+  offset: 20, 9
+  index: -1
+huoxing_1
+  rotate: false
+  xy: 510, 319
+  size: 426, 264
+  orig: 449, 422
+  offset: 12, 21
+  index: -1
+huoxing_2
+  rotate: false
+  xy: 510, 585
+  size: 545, 440
+  orig: 560, 458
+  offset: 12, 13
+  index: -1
+huoxing_3
+  rotate: true
+  xy: 505, 22
+  size: 295, 354
+  orig: 488, 369
+  offset: 25, 13
+  index: -1
+huoxing_4
+  rotate: false
+  xy: 2, 14
+  size: 501, 432
+  orig: 551, 457
+  offset: 47, 8
+  index: -1
+lizi
+  rotate: false
+  xy: 510, 1027
+  size: 647, 407
+  orig: 734, 413
+  offset: 42, 5
+  index: -1
+zhiqian_1
+  rotate: false
+  xy: 1124, 995
+  size: 29, 30
+  orig: 29, 34
+  offset: 0, 1
+  index: -1
+zhiqian_2
+  rotate: false
+  xy: 1057, 968
+  size: 65, 57
+  orig: 65, 61
+  offset: 0, 4
+  index: -1
+zhiqian_3
+  rotate: true
+  xy: 1286, 211
+  size: 34, 23
+  orig: 35, 25
+  offset: 0, 2
+  index: -1
+zhiqian_4
+  rotate: false
+  xy: 1127, 11
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

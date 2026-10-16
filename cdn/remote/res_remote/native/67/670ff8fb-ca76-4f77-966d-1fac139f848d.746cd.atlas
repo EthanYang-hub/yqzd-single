@@ -1,0 +1,48 @@
+
+ui_paiming_up.png
+size: 387,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K_11
+  rotate: false
+  xy: 2, 7
+  size: 221, 113
+  orig: 221, 113
+  offset: 0, 0
+  index: -1
+K_12
+  rotate: false
+  xy: 2, 311
+  size: 299, 124
+  orig: 299, 124
+  offset: 0, 0
+  index: -1
+ui_2
+  rotate: true
+  xy: 225, 2
+  size: 166, 145
+  orig: 166, 145
+  offset: 0, 0
+  index: -1
+ui_3
+  rotate: false
+  xy: 2, 437
+  size: 334, 153
+  orig: 334, 153
+  offset: 0, 0
+  index: -1
+ui_4
+  rotate: false
+  xy: 186, 170
+  size: 199, 139
+  orig: 199, 150
+  offset: 0, 11
+  index: -1
+ui_5
+  rotate: true
+  xy: 2, 122
+  size: 187, 182
+  orig: 197, 187
+  offset: 6, 5
+  index: -1

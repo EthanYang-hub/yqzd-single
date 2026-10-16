@@ -1,0 +1,34 @@
+
+ui_zhounian_bg1.png
+size: 1932,1903
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QQ1
+  rotate: false
+  xy: 2, 1498
+  size: 1928, 403
+  orig: 1928, 403
+  offset: 0, 0
+  index: -1
+QQ2
+  rotate: false
+  xy: 2, 902
+  size: 1648, 594
+  orig: 1648, 594
+  offset: 0, 0
+  index: -1
+yun_a_1
+  rotate: false
+  xy: 2, 2
+  size: 925, 447
+  orig: 925, 447
+  offset: 0, 0
+  index: -1
+yun_a_2
+  rotate: false
+  xy: 2, 451
+  size: 1297, 449
+  orig: 1297, 449
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+roleSkill_spterra_blue.png
+size: 551,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S1
+  rotate: false
+  xy: 368, 21
+  size: 111, 80
+  orig: 116, 83
+  offset: 3, 2
+  index: -1
+S2
+  rotate: false
+  xy: 249, 24
+  size: 117, 77
+  orig: 123, 80
+  offset: 5, 0
+  index: -1
+datui_l
+  rotate: true
+  xy: 481, 56
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+datui_r
+  rotate: true
+  xy: 340, 6
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+gebo_l
+  rotate: true
+  xy: 404, 3
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+gebo_r
+  rotate: false
+  xy: 427, 5
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+gong
+  rotate: false
+  xy: 2, 41
+  size: 93, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 481, 2
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+jian_l
+  rotate: false
+  xy: 194, 64
+  size: 38, 32
+  orig: 38, 34
+  offset: 0, 2
+  index: -1
+jian_r
+  rotate: false
+  xy: 194, 31
+  size: 39, 31
+  orig: 40, 31
+  offset: 1, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 513, 54
+  size: 36, 86
+  orig: 36, 86
+  offset: 0, 0
+  index: -1
+shou_l
+  rotate: true
+  xy: 270, 4
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+shou_r
+  rotate: false
+  xy: 481, 77
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 160, 53
+  size: 32, 43
+  orig: 33, 43
+  offset: 1, 0
+  index: -1
+xian_02
+  rotate: true
+  xy: 249, 103
+  size: 37, 262
+  orig: 37, 262
+  offset: 0, 0
+  index: -1
+xian_03
+  rotate: true
+  xy: 2, 98
+  size: 42, 245
+  orig: 42, 245
+  offset: 0, 0
+  index: -1
+xiao_01
+  rotate: true
+  xy: 2, 9
+  size: 13, 266
+  orig: 13, 266
+  offset: 0, 0
+  index: -1
+xiaotui_l
+  rotate: true
+  xy: 306, 3
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+xiaotui_r
+  rotate: true
+  xy: 366, 6
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+yanwu_01
+  rotate: false
+  xy: 97, 33
+  size: 61, 63
+  orig: 64, 64
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,62 @@
+
+rareSkill_windbell_6.png
+size: 858,1091
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lingpai_a
+  rotate: true
+  xy: 526, 77
+  size: 134, 205
+  orig: 174, 225
+  offset: 20, 12
+  index: -1
+lingpai_b_1
+  rotate: false
+  xy: 374, 38
+  size: 150, 232
+  orig: 159, 254
+  offset: 5, 14
+  index: -1
+lingpai_b_2
+  rotate: false
+  xy: 374, 272
+  size: 268, 264
+  orig: 312, 327
+  offset: 22, 47
+  index: -1
+lingpai_c_1
+  rotate: true
+  xy: 359, 857
+  size: 232, 497
+  orig: 398, 593
+  offset: 87, 52
+  index: -1
+lingpai_c_2
+  rotate: false
+  xy: 644, 213
+  size: 201, 323
+  orig: 213, 343
+  offset: 6, 10
+  index: -1
+lingpai_c_3
+  rotate: true
+  xy: 2, 2
+  size: 366, 370
+  orig: 409, 461
+  offset: 29, 41
+  index: -1
+lingpai_c_4
+  rotate: true
+  xy: 359, 538
+  size: 317, 492
+  orig: 550, 662
+  offset: 162, 94
+  index: -1
+lingpai_c_5
+  rotate: false
+  xy: 2, 370
+  size: 355, 719
+  orig: 570, 822
+  offset: 133, 58
+  index: -1

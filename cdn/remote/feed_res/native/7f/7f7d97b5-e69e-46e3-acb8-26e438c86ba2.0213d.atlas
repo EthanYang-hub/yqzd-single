@@ -1,0 +1,209 @@
+
+rareSkill_casket.png
+size: 977,761
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SRU_Brazier_Glow_01
+  rotate: false
+  xy: 883, 25
+  size: 85, 80
+  orig: 96, 96
+  offset: 5, 5
+  index: -1
+firestreak3
+  rotate: false
+  xy: 934, 595
+  size: 41, 164
+  orig: 48, 182
+  offset: 5, 8
+  index: -1
+firestreak4
+  rotate: true
+  xy: 490, 3
+  size: 47, 165
+  orig: 48, 173
+  offset: 0, 2
+  index: -1
+guancai
+  rotate: false
+  xy: 2, 14
+  size: 175, 276
+  orig: 175, 278
+  offset: 0, 1
+  index: -1
+guang
+  rotate: true
+  xy: 802, 447
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+gui_1
+  rotate: true
+  xy: 492, 52
+  size: 111, 186
+  orig: 133, 186
+  offset: 22, 0
+  index: -1
+gui_2
+  rotate: true
+  xy: 802, 366
+  size: 79, 153
+  orig: 82, 170
+  offset: 3, 17
+  index: -1
+h4
+  rotate: false
+  xy: 792, 27
+  size: 89, 78
+  orig: 89, 80
+  offset: 0, 2
+  index: -1
+heihuo
+  rotate: true
+  xy: 668, 291
+  size: 80, 131
+  orig: 113, 155
+  offset: 6, 10
+  index: -1
+huo_1
+  rotate: true
+  xy: 490, 307
+  size: 125, 176
+  orig: 134, 198
+  offset: 2, 13
+  index: -1
+huo_2
+  rotate: true
+  xy: 674, 373
+  size: 79, 126
+  orig: 122, 140
+  offset: 32, 3
+  index: -1
+huo_3
+  rotate: true
+  xy: 179, 2
+  size: 88, 148
+  orig: 95, 162
+  offset: 2, 6
+  index: -1
+huo_4
+  rotate: true
+  xy: 801, 319
+  size: 45, 150
+  orig: 123, 237
+  offset: 1, 82
+  index: -1
+lizi_1
+  rotate: true
+  xy: 924, 229
+  size: 88, 35
+  orig: 91, 36
+  offset: 2, 1
+  index: -1
+lizi_2
+  rotate: false
+  xy: 660, 173
+  size: 131, 116
+  orig: 132, 117
+  offset: 0, 1
+  index: -1
+qi_1
+  rotate: false
+  xy: 674, 454
+  size: 126, 305
+  orig: 158, 359
+  offset: 11, 15
+  index: -1
+qi_2
+  rotate: false
+  xy: 680, 34
+  size: 110, 137
+  orig: 134, 174
+  offset: 21, 24
+  index: -1
+qi_3
+  rotate: false
+  xy: 179, 92
+  size: 122, 198
+  orig: 142, 209
+  offset: 18, 8
+  index: -1
+qi_4
+  rotate: true
+  xy: 329, 2
+  size: 84, 159
+  orig: 143, 185
+  offset: 20, 7
+  index: -1
+s1
+  rotate: true
+  xy: 801, 217
+  size: 100, 121
+  orig: 105, 128
+  offset: 2, 5
+  index: -1
+s2
+  rotate: true
+  xy: 802, 568
+  size: 191, 130
+  orig: 194, 135
+  offset: 3, 3
+  index: -1
+s3
+  rotate: false
+  xy: 300, 306
+  size: 188, 118
+  orig: 193, 129
+  offset: 0, 6
+  index: -1
+s4
+  rotate: true
+  xy: 303, 113
+  size: 191, 115
+  orig: 191, 120
+  offset: 0, 3
+  index: -1
+shitou_1
+  rotate: false
+  xy: 492, 165
+  size: 166, 140
+  orig: 182, 151
+  offset: 7, 1
+  index: -1
+shitou_2
+  rotate: true
+  xy: 420, 88
+  size: 216, 70
+  orig: 218, 71
+  offset: 0, 1
+  index: -1
+shitou_3
+  rotate: false
+  xy: 793, 107
+  size: 115, 108
+  orig: 116, 109
+  offset: 1, 1
+  index: -1
+suolian_1
+  rotate: false
+  xy: 300, 426
+  size: 185, 333
+  orig: 185, 333
+  offset: 0, 0
+  index: -1
+suolian_2
+  rotate: false
+  xy: 2, 292
+  size: 296, 467
+  orig: 322, 476
+  offset: 26, 9
+  index: -1
+suolian_3
+  rotate: false
+  xy: 487, 434
+  size: 185, 325
+  orig: 185, 325
+  offset: 0, 0
+  index: -1

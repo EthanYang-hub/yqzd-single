@@ -1,0 +1,20 @@
+
+Season_fight_perform_Smoke.png
+size: 375,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_dg
+  rotate: true
+  xy: 2, 309
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+Smoke_smoke
+  rotate: false
+  xy: 260, 263
+  size: 113, 110
+  orig: 119, 120
+  offset: 5, 5
+  index: -1

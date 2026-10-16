@@ -1,0 +1,34 @@
+
+petSkill_cure.png
+size: 161,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0188
+  rotate: false
+  xy: 46, 68
+  size: 107, 94
+  orig: 128, 128
+  offset: 12, 15
+  index: -1
+0255
+  rotate: false
+  xy: 46, 164
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+0259
+  rotate: true
+  xy: 2, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+DH_preparationRune_willpower_ray
+  rotate: false
+  xy: 2, 81
+  size: 42, 196
+  orig: 64, 256
+  offset: 12, 0
+  index: -1

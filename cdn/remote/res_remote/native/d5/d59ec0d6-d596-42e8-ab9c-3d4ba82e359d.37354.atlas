@@ -1,0 +1,41 @@
+
+ui_fengdu_bg.png
+size: 1652,1100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 2, 2
+  size: 592, 344
+  orig: 601, 366
+  offset: 7, 11
+  index: -1
+22
+  rotate: false
+  xy: 2, 348
+  size: 1648, 750
+  orig: 1648, 750
+  offset: 0, 0
+  index: -1
+F1
+  rotate: false
+  xy: 1162, 128
+  size: 196, 218
+  orig: 200, 222
+  offset: 1, 3
+  index: -1
+F2
+  rotate: false
+  xy: 1360, 133
+  size: 144, 213
+  orig: 146, 217
+  offset: 0, 3
+  index: -1
+fw1200
+  rotate: true
+  xy: 596, 57
+  size: 289, 564
+  orig: 289, 564
+  offset: 0, 0
+  index: -1

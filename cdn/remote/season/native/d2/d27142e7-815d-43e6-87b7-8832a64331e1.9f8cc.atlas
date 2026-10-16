@@ -1,0 +1,83 @@
+
+ui_yan_battle_2.png
+size: 2016,692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gui_bu
+  rotate: false
+  xy: 1720, 11
+  size: 294, 225
+  orig: 294, 225
+  offset: 0, 0
+  index: -1
+gui_denglong
+  rotate: false
+  xy: 874, 78
+  size: 93, 108
+  orig: 105, 116
+  offset: 4, 7
+  index: -1
+gui_gan
+  rotate: false
+  xy: 874, 14
+  size: 91, 62
+  orig: 93, 64
+  offset: 1, 1
+  index: -1
+gui_guanghuan
+  rotate: true
+  xy: 2, 57
+  size: 633, 398
+  orig: 869, 466
+  offset: 118, 3
+  index: -1
+gui_guihuo1
+  rotate: false
+  xy: 775, 24
+  size: 97, 162
+  orig: 97, 162
+  offset: 0, 0
+  index: -1
+gui_huo
+  rotate: true
+  xy: 969, 27
+  size: 296, 413
+  orig: 296, 516
+  offset: 0, 0
+  index: -1
+gui_jiaozi
+  rotate: false
+  xy: 1471, 238
+  size: 465, 452
+  orig: 467, 454
+  offset: 1, 1
+  index: -1
+gui_jiaozi_guang
+  rotate: true
+  xy: 402, 188
+  size: 502, 489
+  orig: 514, 500
+  offset: 5, 8
+  index: -1
+gui_shadow
+  rotate: false
+  xy: 893, 325
+  size: 576, 365
+  orig: 639, 421
+  offset: 29, 29
+  index: -1
+gui_youling
+  rotate: true
+  xy: 1384, 20
+  size: 216, 334
+  orig: 216, 334
+  offset: 0, 0
+  index: -1
+gui_youling_guang
+  rotate: true
+  xy: 402, 2
+  size: 184, 371
+  orig: 242, 378
+  offset: 4, 6
+  index: -1

@@ -1,0 +1,76 @@
+
+rareSkill_ice_3.png
+size: 1002,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0629
+  rotate: true
+  xy: 102, 14
+  size: 127, 133
+  orig: 155, 137
+  offset: 4, 2
+  index: -1
+1
+  rotate: true
+  xy: 237, 2
+  size: 93, 379
+  orig: 96, 384
+  offset: 3, 5
+  index: -1
+ddd22r1
+  rotate: false
+  xy: 33, 155
+  size: 151, 29
+  orig: 157, 32
+  offset: 2, 1
+  index: -1
+de777
+  rotate: false
+  xy: 392, 97
+  size: 590, 87
+  orig: 590, 87
+  offset: 0, 0
+  index: -1
+qi
+  rotate: true
+  xy: 2, 60
+  size: 93, 98
+  orig: 95, 101
+  offset: 1, 1
+  index: -1
+storm_energytile02
+  rotate: false
+  xy: 618, 2
+  size: 382, 93
+  orig: 384, 96
+  offset: 2, 3
+  index: -1
+xuehua_1
+  rotate: false
+  xy: 219, 143
+  size: 41, 41
+  orig: 50, 42
+  offset: 9, 1
+  index: -1
+xuehua_2
+  rotate: true
+  xy: 2, 157
+  size: 27, 29
+  orig: 28, 32
+  offset: 1, 0
+  index: -1
+xuehua_3
+  rotate: false
+  xy: 186, 154
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+xuehua_b
+  rotate: false
+  xy: 262, 99
+  size: 128, 85
+  orig: 138, 92
+  offset: 10, 6
+  index: -1

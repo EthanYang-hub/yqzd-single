@@ -1,0 +1,62 @@
+
+petSkill_muoushi_2_bullet.png
+size: 529,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo
+  rotate: false
+  xy: 2, 2
+  size: 287, 525
+  orig: 314, 571
+  offset: 26, 22
+  index: -1
+chongjibo
+  rotate: false
+  xy: 291, 429
+  size: 218, 98
+  orig: 256, 128
+  offset: 19, 15
+  index: -1
+impact1
+  rotate: false
+  xy: 291, 136
+  size: 162, 109
+  orig: 162, 163
+  offset: 0, 54
+  index: -1
+impact1gl
+  rotate: false
+  xy: 291, 25
+  size: 162, 109
+  orig: 162, 163
+  offset: 0, 54
+  index: -1
+impact2
+  rotate: true
+  xy: 459, 265
+  size: 162, 66
+  orig: 162, 98
+  offset: 0, 32
+  index: -1
+impact2gl
+  rotate: true
+  xy: 459, 101
+  size: 162, 66
+  orig: 162, 98
+  offset: 0, 32
+  index: -1
+impact3
+  rotate: false
+  xy: 291, 338
+  size: 166, 89
+  orig: 166, 89
+  offset: 0, 0
+  index: -1
+impact3gl
+  rotate: false
+  xy: 291, 247
+  size: 166, 89
+  orig: 166, 89
+  offset: 0, 0
+  index: -1

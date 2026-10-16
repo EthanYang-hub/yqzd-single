@@ -1,0 +1,34 @@
+
+monster_2023_bullet.png
+size: 543,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F1
+  rotate: true
+  xy: 319, 443
+  size: 98, 109
+  orig: 100, 111
+  offset: 1, 2
+  index: -1
+F2
+  rotate: true
+  xy: 2, 470
+  size: 71, 107
+  orig: 73, 109
+  offset: 1, 2
+  index: -1
+WeaponStreak05
+  rotate: true
+  xy: 111, 447
+  size: 94, 206
+  orig: 128, 256
+  offset: 17, 0
+  index: -1
+storm_smoke_creepy
+  rotate: true
+  xy: 430, 441
+  size: 100, 111
+  orig: 108, 122
+  offset: 4, 7
+  index: -1

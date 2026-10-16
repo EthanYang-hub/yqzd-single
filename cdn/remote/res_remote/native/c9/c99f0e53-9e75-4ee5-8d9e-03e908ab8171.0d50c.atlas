@@ -1,0 +1,293 @@
+
+ui_zhongkui_anniu.png
+size: 1685,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000
+  rotate: true
+  xy: 1484, 38
+  size: 93, 96
+  orig: 100, 100
+  offset: 4, 2
+  index: -1
+001
+  rotate: false
+  xy: 1582, 44
+  size: 97, 98
+  orig: 100, 100
+  offset: 2, 1
+  index: -1
+002
+  rotate: false
+  xy: 204, 8
+  size: 98, 97
+  orig: 100, 100
+  offset: 0, 2
+  index: -1
+003
+  rotate: true
+  xy: 404, 11
+  size: 96, 98
+  orig: 100, 100
+  offset: 3, 2
+  index: -1
+004
+  rotate: false
+  xy: 304, 10
+  size: 98, 97
+  orig: 100, 100
+  offset: 0, 2
+  index: -1
+005
+  rotate: true
+  xy: 755, 21
+  size: 98, 94
+  orig: 100, 100
+  offset: 2, 4
+  index: -1
+006
+  rotate: false
+  xy: 851, 25
+  size: 98, 96
+  orig: 100, 100
+  offset: 0, 4
+  index: -1
+007
+  rotate: true
+  xy: 1117, 113
+  size: 99, 97
+  orig: 100, 100
+  offset: 1, 3
+  index: -1
+008
+  rotate: false
+  xy: 1581, 144
+  size: 97, 99
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+009
+  rotate: true
+  xy: 1484, 133
+  size: 100, 95
+  orig: 100, 100
+  offset: 0, 3
+  index: -1
+010
+  rotate: true
+  xy: 951, 19
+  size: 92, 97
+  orig: 100, 100
+  offset: 5, 3
+  index: -1
+011
+  rotate: false
+  xy: 1149, 16
+  size: 93, 95
+  orig: 100, 100
+  offset: 4, 3
+  index: -1
+012
+  rotate: true
+  xy: 1050, 17
+  size: 94, 97
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+013
+  rotate: false
+  xy: 1244, 19
+  size: 94, 95
+  orig: 100, 100
+  offset: 4, 3
+  index: -1
+Env_MB_highWind_01
+  rotate: false
+  xy: 2, 55
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+Flare-Sun_07
+  rotate: false
+  xy: 260, 109
+  size: 255, 254
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Jar_Of_Souls_Flare
+  rotate: false
+  xy: 2, 107
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+S1
+  rotate: true
+  xy: 1421, 112
+  size: 106, 61
+  orig: 109, 64
+  offset: 2, 2
+  index: -1
+S2
+  rotate: false
+  xy: 1573, 245
+  size: 110, 118
+  orig: 117, 124
+  offset: 3, 2
+  index: -1
+S3
+  rotate: true
+  xy: 1340, 18
+  size: 97, 64
+  orig: 104, 67
+  offset: 4, 2
+  index: -1
+S4
+  rotate: true
+  xy: 997, 113
+  size: 99, 118
+  orig: 101, 133
+  offset: 1, 3
+  index: -1
+Zz
+  rotate: false
+  xy: 2, 9
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+euu
+  rotate: false
+  xy: 1298, 220
+  size: 143, 143
+  orig: 151, 150
+  offset: 4, 4
+  index: -1
+eye_lwy_t_sun_16_single
+  rotate: false
+  xy: 517, 2
+  size: 118, 117
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+fangkuai_0
+  rotate: true
+  xy: 1406, 31
+  size: 79, 76
+  orig: 101, 101
+  offset: 11, 12
+  index: -1
+feng_2
+  rotate: false
+  xy: 46, 9
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+feng_4
+  rotate: false
+  xy: 1216, 116
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+feng_5
+  rotate: false
+  xy: 1319, 117
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+feng_6
+  rotate: false
+  xy: 997, 214
+  size: 154, 149
+  orig: 165, 158
+  offset: 5, 4
+  index: -1
+healing_flash_red
+  rotate: false
+  xy: 1443, 235
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+kai_2
+  rotate: false
+  xy: 1153, 219
+  size: 143, 144
+  orig: 143, 144
+  offset: 0, 0
+  index: -1
+sui_1
+  rotate: false
+  xy: 90, 30
+  size: 29, 23
+  orig: 31, 25
+  offset: 1, 1
+  index: -1
+sui_2
+  rotate: false
+  xy: 90, 9
+  size: 24, 19
+  orig: 27, 21
+  offset: 1, 1
+  index: -1
+sui_3
+  rotate: false
+  xy: 1406, 2
+  size: 23, 27
+  orig: 25, 29
+  offset: 1, 1
+  index: -1
+sui_4
+  rotate: true
+  xy: 1431, 5
+  size: 24, 28
+  orig: 26, 30
+  offset: 1, 1
+  index: -1
+sui_5
+  rotate: false
+  xy: 755, 2
+  size: 16, 17
+  orig: 18, 20
+  offset: 1, 2
+  index: -1
+sui_6
+  rotate: false
+  xy: 1461, 11
+  size: 19, 18
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+sui_7
+  rotate: false
+  xy: 121, 33
+  size: 24, 20
+  orig: 28, 22
+  offset: 2, 1
+  index: -1
+tornado_spiral
+  rotate: false
+  xy: 517, 121
+  size: 240, 242
+  orig: 256, 256
+  offset: 6, 7
+  index: -1
+wizard_arcaneTorent_blast_diff_golden
+  rotate: false
+  xy: 759, 123
+  size: 236, 240
+  orig: 256, 256
+  offset: 8, 8
+  index: -1
+wizard_spectralBlade_cast_alabaster
+  rotate: false
+  xy: 637, 2
+  size: 116, 117
+  orig: 128, 128
+  offset: 5, 7
+  index: -1

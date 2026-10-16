@@ -1,0 +1,111 @@
+
+ui_shuxing_tisheng.png
+size: 447,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1_01
+  rotate: true
+  xy: 91, 4
+  size: 45, 24
+  orig: 47, 24
+  offset: 1, 0
+  index: -1
+A1_02
+  rotate: false
+  xy: 117, 5
+  size: 83, 44
+  orig: 87, 44
+  offset: 2, 0
+  index: -1
+A1_03
+  rotate: true
+  xy: 376, 180
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+A1_04
+  rotate: false
+  xy: 269, 13
+  size: 87, 74
+  orig: 87, 74
+  offset: 0, 0
+  index: -1
+A1_05
+  rotate: false
+  xy: 358, 2
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+A1_06
+  rotate: false
+  xy: 2, 27
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+A1_07
+  rotate: false
+  xy: 91, 51
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+A1_08
+  rotate: false
+  xy: 180, 51
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+A1_09
+  rotate: false
+  xy: 198, 179
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+A1_10
+  rotate: false
+  xy: 269, 89
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+A1_11
+  rotate: false
+  xy: 287, 179
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+Anivia_skn5_wisps
+  rotate: false
+  xy: 79, 141
+  size: 117, 126
+  orig: 128, 128
+  offset: 7, 0
+  index: -1
+Jayce_Glow
+  rotate: true
+  xy: 2, 117
+  size: 150, 75
+  orig: 150, 75
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 2, 15
+  size: 10, 10
+  orig: 11, 11
+  offset: 1, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 358, 90
+  size: 87, 87
+  orig: 88, 88
+  offset: 1, 1
+  index: -1

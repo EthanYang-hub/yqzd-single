@@ -1,0 +1,167 @@
+
+roleSkill_fire_blue_bullet.png
+size: 142,627
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire_ball_4
+  rotate: true
+  xy: 2, 539
+  size: 86, 115
+  orig: 87, 119
+  offset: 0, 1
+  index: -1
+G1
+  rotate: false
+  xy: 119, 593
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+G2
+  rotate: true
+  xy: 111, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+G3
+  rotate: false
+  xy: 119, 530
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+G4
+  rotate: true
+  xy: 79, 5
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+G_wei_1
+  rotate: false
+  xy: 95, 278
+  size: 45, 88
+  orig: 45, 89
+  offset: 0, 1
+  index: -1
+G_wei_10
+  rotate: true
+  xy: 2, 193
+  size: 45, 87
+  orig: 45, 89
+  offset: 0, 1
+  index: -1
+G_wei_11
+  rotate: false
+  xy: 99, 368
+  size: 41, 74
+  orig: 43, 75
+  offset: 1, 1
+  index: -1
+G_wei_12
+  rotate: true
+  xy: 2, 146
+  size: 45, 87
+  orig: 45, 89
+  offset: 0, 1
+  index: -1
+G_wei_13
+  rotate: true
+  xy: 2, 240
+  size: 43, 89
+  orig: 45, 90
+  offset: 1, 1
+  index: -1
+G_wei_2
+  rotate: true
+  xy: 2, 285
+  size: 44, 89
+  orig: 45, 91
+  offset: 0, 1
+  index: -1
+G_wei_3
+  rotate: false
+  xy: 93, 202
+  size: 46, 74
+  orig: 47, 75
+  offset: 0, 1
+  index: -1
+G_wei_4
+  rotate: true
+  xy: 2, 56
+  size: 38, 78
+  orig: 40, 80
+  offset: 2, 1
+  index: -1
+G_wei_5
+  rotate: false
+  xy: 104, 444
+  size: 34, 84
+  orig: 36, 87
+  offset: 1, 2
+  index: -1
+G_wei_6
+  rotate: true
+  xy: 2, 14
+  size: 40, 75
+  orig: 42, 76
+  offset: 1, 1
+  index: -1
+G_wei_7
+  rotate: false
+  xy: 89, 30
+  size: 44, 83
+  orig: 44, 85
+  offset: 0, 1
+  index: -1
+G_wei_8
+  rotate: true
+  xy: 2, 96
+  size: 48, 85
+  orig: 49, 87
+  offset: 1, 1
+  index: -1
+G_wei_9
+  rotate: false
+  xy: 91, 115
+  size: 49, 85
+  orig: 49, 87
+  offset: 0, 1
+  index: -1
+huo1_050
+  rotate: true
+  xy: 2, 434
+  size: 51, 95
+  orig: 53, 108
+  offset: 1, 10
+  index: -1
+huo1_051
+  rotate: true
+  xy: 2, 487
+  size: 50, 100
+  orig: 52, 108
+  offset: 1, 5
+  index: -1
+huo1_052
+  rotate: true
+  xy: 2, 331
+  size: 50, 91
+  orig: 52, 109
+  offset: 1, 15
+  index: -1
+huo1_053
+  rotate: true
+  xy: 2, 383
+  size: 49, 94
+  orig: 51, 105
+  offset: 1, 10
+  index: -1
+qiu_1
+  rotate: false
+  xy: 119, 563
+  size: 20, 28
+  orig: 23, 31
+  offset: 2, 2
+  index: -1

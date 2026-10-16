@@ -1,0 +1,13 @@
+
+ronghe_weapon_monster_3001.png
+size: 514,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 187
+  size: 510, 325
+  orig: 510, 325
+  offset: 0, 0
+  index: -1

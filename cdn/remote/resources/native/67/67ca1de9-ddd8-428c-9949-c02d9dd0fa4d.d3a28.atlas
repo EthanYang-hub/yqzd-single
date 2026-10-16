@@ -1,0 +1,167 @@
+
+zhandou_pet_spine_2.png
+size: 611,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0403
+  rotate: false
+  xy: 502, 190
+  size: 99, 125
+  orig: 128, 128
+  offset: 15, 3
+  index: -1
+0442
+  rotate: false
+  xy: 282, 120
+  size: 117, 121
+  orig: 128, 128
+  offset: 4, 6
+  index: -1
+KL_10
+  rotate: true
+  xy: 496, 15
+  size: 83, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+KL_11
+  rotate: false
+  xy: 307, 10
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+KL_12
+  rotate: true
+  xy: 160, 90
+  size: 147, 120
+  orig: 147, 120
+  offset: 0, 0
+  index: -1
+KL_13
+  rotate: false
+  xy: 236, 243
+  size: 226, 278
+  orig: 226, 278
+  offset: 0, 0
+  index: -1
+KL_1333
+  rotate: false
+  xy: 2, 239
+  size: 232, 282
+  orig: 232, 282
+  offset: 0, 0
+  index: -1
+KL_14
+  rotate: false
+  xy: 584, 461
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+KL_15
+  rotate: true
+  xy: 35, 14
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+KL_16
+  rotate: true
+  xy: 413, 2
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+KL_17
+  rotate: false
+  xy: 2, 45
+  size: 156, 192
+  orig: 156, 192
+  offset: 0, 0
+  index: -1
+KL_18
+  rotate: false
+  xy: 401, 163
+  size: 49, 78
+  orig: 57, 78
+  offset: 8, 0
+  index: -1
+KL_19
+  rotate: false
+  xy: 2, 2
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+KL_20
+  rotate: false
+  xy: 89, 14
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+KL_21
+  rotate: true
+  xy: 584, 425
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+KL_22
+  rotate: false
+  xy: 479, 214
+  size: 8, 307
+  orig: 8, 307
+  offset: 0, 0
+  index: -1
+KL_23
+  rotate: false
+  xy: 489, 230
+  size: 11, 291
+  orig: 11, 291
+  offset: 0, 0
+  index: -1
+KL_24
+  rotate: false
+  xy: 464, 214
+  size: 13, 307
+  orig: 13, 307
+  offset: 0, 0
+  index: -1
+kl_17_0
+  rotate: false
+  xy: 413, 49
+  size: 71, 112
+  orig: 75, 118
+  offset: 2, 3
+  index: -1
+kl_18_0
+  rotate: false
+  xy: 502, 317
+  size: 80, 204
+  orig: 84, 208
+  offset: 2, 2
+  index: -1
+kl_19_0
+  rotate: true
+  xy: 160, 3
+  size: 85, 145
+  orig: 93, 151
+  offset: 4, 3
+  index: -1
+kl_21_0
+  rotate: false
+  xy: 486, 100
+  size: 107, 88
+  orig: 115, 98
+  offset: 4, 5
+  index: -1
+yan
+  rotate: true
+  xy: 584, 388
+  size: 35, 12
+  orig: 35, 13
+  offset: 0, 0
+  index: -1

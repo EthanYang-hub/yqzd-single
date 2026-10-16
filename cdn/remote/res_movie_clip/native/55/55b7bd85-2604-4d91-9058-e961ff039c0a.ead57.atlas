@@ -1,0 +1,118 @@
+
+roleSkill_Skulltower.png
+size: 1829,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bule_1
+  rotate: false
+  xy: 166, 3
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+bule_2
+  rotate: true
+  xy: 501, 11
+  size: 45, 78
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+bule_3
+  rotate: true
+  xy: 678, 18
+  size: 282, 234
+  orig: 282, 234
+  offset: 0, 0
+  index: -1
+d1
+  rotate: true
+  xy: 2, 8
+  size: 18, 90
+  orig: 18, 90
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 1381, 5
+  size: 195, 295
+  orig: 195, 296
+  offset: 0, 1
+  index: -1
+di_guang
+  rotate: false
+  xy: 2, 28
+  size: 335, 272
+  orig: 335, 289
+  offset: 0, 0
+  index: -1
+dici_1
+  rotate: true
+  xy: 914, 29
+  size: 271, 230
+  orig: 283, 241
+  offset: 1, 11
+  index: -1
+dici_2
+  rotate: true
+  xy: 1578, 29
+  size: 271, 157
+  orig: 321, 164
+  offset: 2, 5
+  index: -1
+lizi_1
+  rotate: false
+  xy: 581, 10
+  size: 40, 46
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+lizi_2
+  rotate: false
+  xy: 1737, 69
+  size: 90, 231
+  orig: 90, 231
+  offset: 0, 0
+  index: -1
+red_1
+  rotate: false
+  xy: 94, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+red_2
+  rotate: true
+  xy: 339, 11
+  size: 45, 79
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+red_3
+  rotate: true
+  xy: 1146, 47
+  size: 253, 233
+  orig: 253, 233
+  offset: 0, 0
+  index: -1
+yellow_1
+  rotate: false
+  xy: 130, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+yellow_2
+  rotate: true
+  xy: 420, 11
+  size: 45, 79
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+yellow_3
+  rotate: false
+  xy: 339, 58
+  size: 337, 242
+  orig: 337, 242
+  offset: 0, 0
+  index: -1

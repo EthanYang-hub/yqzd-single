@@ -1,0 +1,13 @@
+
+ui_yan_battle_1.png
+size: 97,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guai_1
+  rotate: false
+  xy: 2, 2
+  size: 93, 162
+  orig: 93, 162
+  offset: 0, 0
+  index: -1

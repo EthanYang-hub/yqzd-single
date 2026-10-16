@@ -1,0 +1,153 @@
+
+chouka.png
+size: 2017,990
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1283, 27
+  size: 180, 255
+  orig: 184, 265
+  offset: 1, 10
+  index: -1
+2
+  rotate: false
+  xy: 1646, 240
+  size: 224, 169
+  orig: 224, 174
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1465, 147
+  size: 224, 174
+  orig: 224, 174
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1669, 557
+  size: 431, 310
+  orig: 431, 310
+  offset: 0, 0
+  index: -1
+L_men
+  rotate: false
+  xy: 749, 4
+  size: 289, 470
+  orig: 291, 471
+  offset: 1, 1
+  index: -1
+R_men
+  rotate: false
+  xy: 461, 2
+  size: 286, 472
+  orig: 287, 474
+  offset: 0, 1
+  index: -1
+SRU_RedBuff_CenterGlow
+  rotate: false
+  xy: 595, 476
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+baoxiang
+  rotate: false
+  xy: 1465, 30
+  size: 118, 115
+  orig: 118, 115
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 2, 33
+  size: 457, 465
+  orig: 457, 465
+  offset: 0, 0
+  index: -1
+flash_arcane_05
+  rotate: true
+  xy: 1839, 58
+  size: 180, 176
+  orig: 180, 176
+  offset: 0, 0
+  index: -1
+geru
+  rotate: false
+  xy: 1040, 40
+  size: 241, 242
+  orig: 241, 242
+  offset: 0, 0
+  index: -1
+guang_2
+  rotate: false
+  xy: 1109, 638
+  size: 558, 350
+  orig: 558, 354
+  offset: 0, 0
+  index: -1
+juanzhou_1
+  rotate: false
+  xy: 1109, 460
+  size: 430, 176
+  orig: 430, 176
+  offset: 0, 0
+  index: -1
+juanzhou_2
+  rotate: false
+  xy: 1040, 284
+  size: 420, 174
+  orig: 420, 174
+  offset: 0, 0
+  index: -1
+men_guang_1
+  rotate: true
+  xy: 1641, 43
+  size: 195, 196
+  orig: 195, 196
+  offset: 0, 0
+  index: -1
+men_guang_2
+  rotate: false
+  xy: 2, 500
+  size: 591, 488
+  orig: 596, 542
+  offset: 0, 37
+  index: -1
+nocturne_cyber_q_waveys_black
+  rotate: true
+  xy: 1872, 312
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+xian_1
+  rotate: false
+  xy: 1981, 690
+  size: 33, 298
+  orig: 36, 303
+  offset: 0, 4
+  index: -1
+xian_2
+  rotate: true
+  xy: 1646, 411
+  size: 144, 291
+  orig: 147, 293
+  offset: 0, 0
+  index: -1
+xian_3
+  rotate: false
+  xy: 1541, 373
+  size: 103, 263
+  orig: 105, 268
+  offset: 0, 4
+  index: -1
+xian_4
+  rotate: true
+  xy: 2, 18
+  size: 13, 351
+  orig: 14, 353
+  offset: 1, 1
+  index: -1

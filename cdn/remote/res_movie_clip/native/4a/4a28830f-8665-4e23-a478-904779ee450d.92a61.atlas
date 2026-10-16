@@ -1,0 +1,13 @@
+
+ronghe_leg_elite monster_2022.png
+size: 290,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+74
+  rotate: false
+  xy: 2, 2
+  size: 286, 165
+  orig: 292, 165
+  offset: 6, 0
+  index: -1

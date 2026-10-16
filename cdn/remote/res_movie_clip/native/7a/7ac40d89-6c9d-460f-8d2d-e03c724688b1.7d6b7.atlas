@@ -1,0 +1,62 @@
+
+petSkill_qinli_bullet.png
+size: 555,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo
+  rotate: false
+  xy: 2, 6
+  size: 298, 547
+  orig: 314, 571
+  offset: 15, 12
+  index: -1
+chongjibo
+  rotate: false
+  xy: 302, 460
+  size: 215, 93
+  orig: 256, 128
+  offset: 20, 18
+  index: -1
+impact1
+  rotate: false
+  xy: 302, 349
+  size: 162, 109
+  orig: 162, 163
+  offset: 0, 54
+  index: -1
+impact1gl
+  rotate: false
+  xy: 302, 238
+  size: 162, 109
+  orig: 162, 163
+  offset: 0, 54
+  index: -1
+impact2
+  rotate: false
+  xy: 302, 2
+  size: 162, 66
+  orig: 162, 98
+  offset: 0, 32
+  index: -1
+impact2gl
+  rotate: true
+  xy: 466, 296
+  size: 162, 66
+  orig: 162, 98
+  offset: 0, 32
+  index: -1
+impact3
+  rotate: true
+  xy: 302, 70
+  size: 166, 89
+  orig: 166, 89
+  offset: 0, 0
+  index: -1
+impact3gl
+  rotate: true
+  xy: 393, 70
+  size: 166, 89
+  orig: 166, 89
+  offset: 0, 0
+  index: -1

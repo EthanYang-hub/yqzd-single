@@ -1,0 +1,132 @@
+
+laoshu_3.png
+size: 950,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 574, 68
+  size: 153, 134
+  orig: 153, 134
+  offset: 0, 0
+  index: -1
+xuedao_1
+  rotate: false
+  xy: 363, 43
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+xuedao_10
+  rotate: true
+  xy: 363, 6
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+xuedao_11
+  rotate: false
+  xy: 417, 10
+  size: 68, 50
+  orig: 77, 50
+  offset: 9, 0
+  index: -1
+xuedao_12
+  rotate: true
+  xy: 314, 5
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+xuedao_13
+  rotate: true
+  xy: 487, 4
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+xuedao_14
+  rotate: true
+  xy: 417, 62
+  size: 140, 155
+  orig: 140, 155
+  offset: 0, 0
+  index: -1
+xuedao_15
+  rotate: true
+  xy: 554, 6
+  size: 54, 43
+  orig: 61, 43
+  offset: 7, 0
+  index: -1
+xuedao_16
+  rotate: false
+  xy: 827, 7
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+xuedao_17
+  rotate: false
+  xy: 599, 7
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+xuedao_2
+  rotate: true
+  xy: 2, 3
+  size: 199, 204
+  orig: 199, 204
+  offset: 0, 0
+  index: -1
+xuedao_3
+  rotate: true
+  xy: 870, 98
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+xuedao_4
+  rotate: true
+  xy: 729, 85
+  size: 117, 139
+  orig: 117, 150
+  offset: 0, 0
+  index: -1
+xuedao_5
+  rotate: false
+  xy: 208, 97
+  size: 207, 105
+  orig: 207, 105
+  offset: 0, 0
+  index: -1
+xuedao_6
+  rotate: false
+  xy: 208, 59
+  size: 153, 36
+  orig: 153, 36
+  offset: 0, 0
+  index: -1
+xuedao_7
+  rotate: false
+  xy: 729, 7
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+xuedao_8
+  rotate: false
+  xy: 208, 2
+  size: 104, 55
+  orig: 115, 60
+  offset: 5, 5
+  index: -1
+xuedao_9
+  rotate: true
+  xy: 882, 28
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1

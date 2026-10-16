@@ -1,0 +1,41 @@
+
+ui_shiri_qiandao.png
+size: 1484,377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_1
+  rotate: false
+  xy: 523, 4
+  size: 493, 184
+  orig: 493, 184
+  offset: 0, 0
+  index: -1
+3_1
+  rotate: false
+  xy: 2, 2
+  size: 519, 186
+  orig: 519, 186
+  offset: 0, 0
+  index: -1
+denglong_1
+  rotate: true
+  xy: 1018, 44
+  size: 144, 380
+  orig: 144, 380
+  offset: 0, 0
+  index: -1
+denglong_2
+  rotate: false
+  xy: 1414, 46
+  size: 68, 329
+  orig: 68, 329
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 190
+  size: 1410, 185
+  orig: 1428, 186
+  offset: 17, 1
+  index: -1

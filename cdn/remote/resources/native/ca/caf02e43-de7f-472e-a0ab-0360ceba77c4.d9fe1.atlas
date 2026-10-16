@@ -1,0 +1,62 @@
+
+ui_shuijing_hit_up.png
+size: 148,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D
+  rotate: false
+  xy: 2, 20
+  size: 117, 126
+  orig: 123, 133
+  offset: 0, 4
+  index: -1
+bing_1
+  rotate: false
+  xy: 2, 5
+  size: 64, 13
+  orig: 70, 15
+  offset: 3, 1
+  index: -1
+bing_2
+  rotate: true
+  xy: 121, 37
+  size: 24, 19
+  orig: 27, 21
+  offset: 1, 1
+  index: -1
+bing_3
+  rotate: false
+  xy: 121, 89
+  size: 23, 27
+  orig: 25, 29
+  offset: 1, 1
+  index: -1
+bing_4
+  rotate: false
+  xy: 121, 17
+  size: 19, 18
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+bing_5
+  rotate: true
+  xy: 121, 63
+  size: 24, 20
+  orig: 28, 22
+  offset: 2, 1
+  index: -1
+bing_6
+  rotate: false
+  xy: 121, 118
+  size: 24, 28
+  orig: 26, 29
+  offset: 1, 0
+  index: -1
+bing_7
+  rotate: true
+  xy: 68, 2
+  size: 16, 17
+  orig: 18, 20
+  offset: 1, 2
+  index: -1

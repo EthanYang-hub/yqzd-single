@@ -1,0 +1,90 @@
+
+ui_guipu_jienng_huo.png
+size: 268,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: true
+  xy: 143, 94
+  size: 57, 63
+  orig: 61, 65
+  offset: 2, 0
+  index: -1
+A3
+  rotate: true
+  xy: 208, 38
+  size: 56, 57
+  orig: 58, 60
+  offset: 2, 3
+  index: -1
+A4
+  rotate: true
+  xy: 208, 96
+  size: 55, 58
+  orig: 59, 61
+  offset: 0, 1
+  index: -1
+F1
+  rotate: true
+  xy: 143, 2
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 247, 5
+  size: 18, 31
+  orig: 23, 31
+  offset: 3, 0
+  index: -1
+f3
+  rotate: false
+  xy: 143, 60
+  size: 25, 32
+  orig: 27, 32
+  offset: 1, 0
+  index: -1
+f4
+  rotate: false
+  xy: 216, 3
+  size: 29, 33
+  orig: 40, 33
+  offset: 10, 0
+  index: -1
+f5
+  rotate: false
+  xy: 183, 60
+  size: 22, 32
+  orig: 26, 32
+  offset: 3, 0
+  index: -1
+f6
+  rotate: true
+  xy: 183, 2
+  size: 25, 31
+  orig: 30, 33
+  offset: 5, 1
+  index: -1
+f7
+  rotate: true
+  xy: 143, 39
+  size: 19, 31
+  orig: 25, 32
+  offset: 2, 0
+  index: -1
+f8
+  rotate: false
+  xy: 183, 29
+  size: 21, 29
+  orig: 25, 31
+  offset: 2, 1
+  index: -1
+flash_blind_blend
+  rotate: true
+  xy: 2, 7
+  size: 144, 139
+  orig: 150, 150
+  offset: 4, 5
+  index: -1

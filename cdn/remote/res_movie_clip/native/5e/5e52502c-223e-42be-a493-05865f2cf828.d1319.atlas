@@ -1,0 +1,69 @@
+
+rareSkill_wanshishuitan_3_hit.png
+size: 1030,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DemonHunter_ElementalArrow_PoisonTendril1_red
+  rotate: false
+  xy: 2, 516
+  size: 504, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Health_Well_Caustics
+  rotate: true
+  xy: 728, 299
+  size: 247, 254
+  orig: 256, 256
+  offset: 5, 1
+  index: -1
+heixian
+  rotate: false
+  xy: 379, 3
+  size: 520, 28
+  orig: 539, 30
+  offset: 6, 0
+  index: -1
+hit_1
+  rotate: true
+  xy: 379, 33
+  size: 69, 263
+  orig: 69, 263
+  offset: 0, 0
+  index: -1
+hit_2
+  rotate: true
+  xy: 644, 35
+  size: 67, 228
+  orig: 67, 228
+  offset: 0, 0
+  index: -1
+xue_qifei_1
+  rotate: true
+  xy: 2, 2
+  size: 512, 375
+  orig: 512, 375
+  offset: 0, 0
+  index: -1
+xue_qifei_2
+  rotate: true
+  xy: 379, 104
+  size: 410, 347
+  orig: 410, 347
+  offset: 0, 0
+  index: -1
+xue_qifei_3
+  rotate: true
+  xy: 508, 516
+  size: 512, 198
+  orig: 512, 198
+  offset: 0, 0
+  index: -1
+xue_qifei_4
+  rotate: true
+  xy: 708, 548
+  size: 480, 199
+  orig: 513, 199
+  offset: 33, 0
+  index: -1

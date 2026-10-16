@@ -1,0 +1,118 @@
+
+ui_heka_faqi.png
+size: 856,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 780, 120
+  size: 68, 113
+  orig: 68, 113
+  offset: 0, 0
+  index: -1
+DH_sentryRune_shield_alpha
+  rotate: true
+  xy: 748, 37
+  size: 31, 29
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MonkeyKing_Skin04_Q_Buf_Rays1
+  rotate: true
+  xy: 2, 2
+  size: 231, 237
+  orig: 241, 242
+  offset: 5, 3
+  index: -1
+handsofLightning_diff_test
+  rotate: false
+  xy: 565, 70
+  size: 213, 41
+  orig: 256, 64
+  offset: 24, 10
+  index: -1
+lizi_10
+  rotate: true
+  xy: 725, 121
+  size: 17, 16
+  orig: 20, 20
+  offset: 1, 2
+  index: -1
+lizi_6
+  rotate: false
+  xy: 687, 121
+  size: 17, 17
+  orig: 21, 20
+  offset: 2, 2
+  index: -1
+lizi_7
+  rotate: false
+  xy: 706, 121
+  size: 17, 17
+  orig: 20, 21
+  offset: 2, 2
+  index: -1
+lizi_8
+  rotate: true
+  xy: 743, 126
+  size: 12, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+lizi_9
+  rotate: true
+  xy: 743, 113
+  size: 11, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+s1
+  rotate: true
+  xy: 664, 4
+  size: 64, 82
+  orig: 64, 87
+  offset: 0, 3
+  index: -1
+s2
+  rotate: false
+  xy: 780, 19
+  size: 74, 99
+  orig: 74, 104
+  offset: 0, 3
+  index: -1
+s3
+  rotate: false
+  xy: 687, 140
+  size: 68, 93
+  orig: 68, 97
+  offset: 0, 2
+  index: -1
+s4
+  rotate: true
+  xy: 565, 4
+  size: 64, 97
+  orig: 64, 102
+  offset: 0, 3
+  index: -1
+storm_grad3b
+  rotate: true
+  xy: 468, 11
+  size: 222, 95
+  orig: 256, 128
+  offset: 0, 16
+  index: -1
+storm_smoke_out
+  rotate: true
+  xy: 241, 4
+  size: 229, 225
+  orig: 256, 256
+  offset: 8, 19
+  index: -1
+torchFlare
+  rotate: false
+  xy: 565, 113
+  size: 120, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1

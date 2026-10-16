@@ -1,0 +1,279 @@
+
+roleSkill_spfire_purple.png
+size: 94,812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodiand_02
+  rotate: false
+  xy: 54, 131
+  size: 27, 45
+  orig: 32, 64
+  offset: 2, 2
+  index: -1
+baodiand_03
+  rotate: false
+  xy: 62, 604
+  size: 30, 48
+  orig: 32, 64
+  offset: 1, 8
+  index: -1
+baodiand_04
+  rotate: false
+  xy: 57, 364
+  size: 31, 44
+  orig: 32, 64
+  offset: 1, 16
+  index: -1
+baodiand_05
+  rotate: false
+  xy: 57, 323
+  size: 31, 39
+  orig: 32, 64
+  offset: 1, 23
+  index: -1
+baodiand_06
+  rotate: false
+  xy: 62, 568
+  size: 30, 34
+  orig: 32, 64
+  offset: 2, 29
+  index: -1
+baodiand_07
+  rotate: false
+  xy: 56, 294
+  size: 30, 27
+  orig: 32, 64
+  offset: 1, 37
+  index: -1
+baodiand_08
+  rotate: true
+  xy: 71, 698
+  size: 27, 21
+  orig: 32, 64
+  offset: 2, 42
+  index: -1
+baozha_02_0
+  rotate: false
+  xy: 59, 490
+  size: 33, 40
+  orig: 64, 90
+  offset: 18, 2
+  index: -1
+baozha_02_1
+  rotate: true
+  xy: 2, 773
+  size: 37, 75
+  orig: 64, 90
+  offset: 15, 3
+  index: -1
+baozha_02_2
+  rotate: true
+  xy: 2, 727
+  size: 44, 73
+  orig: 64, 90
+  offset: 12, 6
+  index: -1
+baozha_02_3
+  rotate: true
+  xy: 2, 679
+  size: 46, 67
+  orig: 64, 90
+  offset: 10, 12
+  index: -1
+baozha_02_4
+  rotate: true
+  xy: 2, 545
+  size: 47, 58
+  orig: 64, 90
+  offset: 10, 15
+  index: -1
+baozha_02_5
+  rotate: true
+  xy: 2, 493
+  size: 50, 55
+  orig: 64, 90
+  offset: 8, 19
+  index: -1
+baozha_02_6
+  rotate: true
+  xy: 2, 177
+  size: 47, 50
+  orig: 64, 90
+  offset: 10, 21
+  index: -1
+baozha_02_7
+  rotate: false
+  xy: 2, 84
+  size: 47, 45
+  orig: 64, 90
+  offset: 10, 25
+  index: -1
+glow_01
+  rotate: false
+  xy: 2, 594
+  size: 58, 58
+  orig: 64, 64
+  offset: 3, 3
+  index: -1
+huan_03
+  rotate: true
+  xy: 71, 666
+  size: 30, 20
+  orig: 32, 32
+  offset: 1, 11
+  index: -1
+qilang_01
+  rotate: false
+  xy: 2, 654
+  size: 64, 23
+  orig: 64, 25
+  offset: 0, 2
+  index: -1
+zha_0
+  rotate: false
+  xy: 56, 266
+  size: 28, 26
+  orig: 64, 64
+  offset: 15, 3
+  index: -1
+zha_1
+  rotate: false
+  xy: 57, 410
+  size: 35, 32
+  orig: 64, 64
+  offset: 13, 1
+  index: -1
+zha_10
+  rotate: false
+  xy: 2, 274
+  size: 52, 38
+  orig: 64, 64
+  offset: 3, 10
+  index: -1
+zha_11
+  rotate: false
+  xy: 2, 43
+  size: 45, 39
+  orig: 64, 64
+  offset: 2, 11
+  index: -1
+zha_12
+  rotate: false
+  xy: 2, 2
+  size: 44, 39
+  orig: 64, 64
+  offset: 2, 12
+  index: -1
+zha_13
+  rotate: false
+  xy: 49, 43
+  size: 43, 39
+  orig: 64, 64
+  offset: 4, 13
+  index: -1
+zha_14
+  rotate: true
+  xy: 54, 178
+  size: 43, 38
+  orig: 64, 64
+  offset: 4, 13
+  index: -1
+zha_15
+  rotate: true
+  xy: 58, 444
+  size: 44, 34
+  orig: 64, 64
+  offset: 3, 16
+  index: -1
+zha_16
+  rotate: true
+  xy: 62, 532
+  size: 34, 30
+  orig: 64, 64
+  offset: 13, 16
+  index: -1
+zha_17
+  rotate: false
+  xy: 79, 793
+  size: 13, 7
+  orig: 64, 64
+  offset: 29, 15
+  index: -1
+zha_18
+  rotate: false
+  xy: 79, 802
+  size: 13, 8
+  orig: 64, 64
+  offset: 29, 14
+  index: -1
+zha_19
+  rotate: false
+  xy: 77, 754
+  size: 3, 3
+  orig: 64, 64
+  offset: 31, 14
+  index: -1
+zha_2
+  rotate: true
+  xy: 55, 223
+  size: 41, 37
+  orig: 64, 64
+  offset: 11, 0
+  index: -1
+zha_3
+  rotate: true
+  xy: 51, 84
+  size: 45, 41
+  orig: 64, 64
+  offset: 9, 0
+  index: -1
+zha_4
+  rotate: false
+  xy: 2, 131
+  size: 49, 44
+  orig: 64, 64
+  offset: 7, 0
+  index: -1
+zha_5
+  rotate: false
+  xy: 2, 226
+  size: 51, 46
+  orig: 64, 64
+  offset: 6, 0
+  index: -1
+zha_6
+  rotate: false
+  xy: 2, 314
+  size: 52, 47
+  orig: 64, 64
+  offset: 6, 0
+  index: -1
+zha_7
+  rotate: false
+  xy: 2, 405
+  size: 53, 48
+  orig: 64, 64
+  offset: 5, 0
+  index: -1
+zha_8
+  rotate: false
+  xy: 2, 363
+  size: 53, 40
+  orig: 64, 64
+  offset: 5, 8
+  index: -1
+zha_9
+  rotate: false
+  xy: 2, 455
+  size: 54, 36
+  orig: 64, 64
+  offset: 4, 9
+  index: -1
+zidan_01
+  rotate: false
+  xy: 79, 759
+  size: 12, 32
+  orig: 16, 32
+  offset: 1, 0
+  index: -1

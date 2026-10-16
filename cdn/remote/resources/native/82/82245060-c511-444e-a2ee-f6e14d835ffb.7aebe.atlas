@@ -1,0 +1,13 @@
+
+ui_zidong_anniu.png
+size: 144,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DH_safetyShot_flashSlice
+  rotate: false
+  xy: 2, 2
+  size: 140, 501
+  orig: 140, 501
+  offset: 0, 0
+  index: -1

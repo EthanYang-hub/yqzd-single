@@ -1,0 +1,153 @@
+
+zhandou_pet_genggui.png
+size: 712,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1dai1
+  rotate: true
+  xy: 520, 72
+  size: 115, 108
+  orig: 120, 113
+  offset: 0, 5
+  index: -1
+1dai2
+  rotate: false
+  xy: 193, 58
+  size: 179, 129
+  orig: 179, 133
+  offset: 0, 0
+  index: -1
+1dai3
+  rotate: false
+  xy: 630, 42
+  size: 70, 80
+  orig: 71, 83
+  offset: 1, 1
+  index: -1
+1kuzi
+  rotate: true
+  xy: 353, 274
+  size: 118, 215
+  orig: 122, 215
+  offset: 1, 0
+  index: -1
+1lian1
+  rotate: true
+  xy: 193, 2
+  size: 54, 95
+  orig: 59, 98
+  offset: 0, 3
+  index: -1
+1lian2
+  rotate: false
+  xy: 570, 256
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+1lian3
+  rotate: false
+  xy: 569, 191
+  size: 35, 63
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+1line1
+  rotate: false
+  xy: 589, 448
+  size: 108, 262
+  orig: 108, 262
+  offset: 0, 0
+  index: -1
+1line2
+  rotate: true
+  xy: 2, 189
+  size: 37, 357
+  orig: 37, 357
+  offset: 0, 0
+  index: -1
+1line3
+  rotate: false
+  xy: 630, 124
+  size: 62, 270
+  orig: 62, 270
+  offset: 0, 0
+  index: -1
+1mianju1
+  rotate: true
+  xy: 385, 11
+  size: 46, 90
+  orig: 51, 95
+  offset: 1, 1
+  index: -1
+1mianju2
+  rotate: false
+  xy: 570, 301
+  size: 58, 91
+  orig: 60, 93
+  offset: 1, 1
+  index: -1
+1mianju3
+  rotate: true
+  xy: 290, 6
+  size: 50, 93
+  orig: 56, 95
+  offset: 2, 1
+  index: -1
+1mianju4
+  rotate: true
+  xy: 520, 2
+  size: 68, 78
+  orig: 71, 81
+  offset: 1, 1
+  index: -1
+1shen
+  rotate: false
+  xy: 353, 394
+  size: 234, 316
+  orig: 234, 316
+  offset: 0, 0
+  index: -1
+1shou
+  rotate: false
+  xy: 374, 59
+  size: 144, 128
+  orig: 144, 135
+  offset: 0, 7
+  index: -1
+1tuiL
+  rotate: true
+  xy: 361, 189
+  size: 83, 206
+  orig: 83, 206
+  offset: 0, 0
+  index: -1
+1wq
+  rotate: false
+  xy: 2, 228
+  size: 349, 482
+  orig: 352, 484
+  offset: 1, 1
+  index: -1
+1yan
+  rotate: false
+  xy: 2, 10
+  size: 10, 9
+  orig: 13, 13
+  offset: 1, 2
+  index: -1
+1yanguang
+  rotate: false
+  xy: 589, 396
+  size: 104, 50
+  orig: 120, 52
+  offset: 13, 2
+  index: -1
+1yi1
+  rotate: false
+  xy: 2, 21
+  size: 189, 166
+  orig: 194, 172
+  offset: 0, 2
+  index: -1

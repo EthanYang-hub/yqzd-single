@@ -1,0 +1,118 @@
+
+ui_laoshiren_chou_effect.png
+size: 1135,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Env_MB_highWind_01
+  rotate: false
+  xy: 2, 8
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+F1
+  rotate: false
+  xy: 917, 62
+  size: 102, 119
+  orig: 108, 123
+  offset: 5, 1
+  index: -1
+F2
+  rotate: true
+  xy: 1021, 104
+  size: 98, 111
+  orig: 102, 118
+  offset: 3, 6
+  index: -1
+F3
+  rotate: true
+  xy: 1012, 204
+  size: 93, 121
+  orig: 109, 123
+  offset: 8, 1
+  index: -1
+F4
+  rotate: true
+  xy: 436, 2
+  size: 129, 122
+  orig: 131, 123
+  offset: 1, 0
+  index: -1
+JarvanIV_Lubu_red_smoke
+  rotate: true
+  xy: 236, 71
+  size: 226, 198
+  orig: 256, 256
+  offset: 18, 34
+  index: -1
+Zyra_Skin02_W_Fire
+  rotate: false
+  xy: 589, 144
+  size: 153, 153
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+arcaneMissiles_projectile_rings_aqua
+  rotate: true
+  xy: 560, 6
+  size: 125, 122
+  orig: 128, 128
+  offset: 2, 1
+  index: -1
+barbarian_leapAttack_magicRings_addsStartDamage
+  rotate: true
+  xy: 436, 133
+  size: 164, 151
+  orig: 200, 200
+  offset: 18, 19
+  index: -1
+eye_lwy_t_sun_16_single
+  rotate: true
+  xy: 798, 24
+  size: 118, 117
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+fazhen02
+  rotate: false
+  xy: 236, 10
+  size: 120, 59
+  orig: 140, 69
+  offset: 10, 5
+  index: -1
+flash_fireHit
+  rotate: true
+  xy: 2, 60
+  size: 237, 232
+  orig: 256, 256
+  offset: 9, 11
+  index: -1
+glow_red1
+  rotate: false
+  xy: 744, 144
+  size: 152, 153
+  orig: 161, 161
+  offset: 5, 4
+  index: -1
+monk_handsofLightning_lineSwirl_indigo_chain
+  rotate: true
+  xy: 684, 16
+  size: 126, 112
+  orig: 172, 153
+  offset: 26, 17
+  index: -1
+plasmaflare2
+  rotate: true
+  xy: 898, 183
+  size: 114, 112
+  orig: 150, 150
+  offset: 15, 13
+  index: -1
+trOut_Cultists_Summoning_Portal_Pattern_B
+  rotate: false
+  xy: 1021, 2
+  size: 106, 100
+  orig: 128, 128
+  offset: 11, 16
+  index: -1

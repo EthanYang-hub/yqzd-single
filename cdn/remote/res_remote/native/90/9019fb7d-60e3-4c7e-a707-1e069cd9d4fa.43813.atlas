@@ -1,0 +1,55 @@
+
+ui_chunjie_yanhua.png
+size: 395,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 332, 230
+  size: 61, 61
+  orig: 63, 63
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 127, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 169, 129
+  size: 162, 161
+  orig: 164, 163
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 242, 22
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 332, 170
+  size: 58, 56
+  orig: 59, 58
+  offset: 0, 1
+  index: -1
+6
+  rotate: false
+  xy: 2, 130
+  size: 165, 161
+  orig: 167, 161
+  offset: 1, 0
+  index: -1
+7
+  rotate: false
+  xy: 131, 18
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1

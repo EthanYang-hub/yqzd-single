@@ -1,0 +1,41 @@
+
+changjing_zhenlong.png
+size: 773,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long_1
+  rotate: false
+  xy: 330, 75
+  size: 441, 329
+  orig: 497, 341
+  offset: 56, 12
+  index: -1
+long_2
+  rotate: false
+  xy: 330, 41
+  size: 368, 32
+  orig: 368, 32
+  offset: 0, 0
+  index: -1
+long_3
+  rotate: true
+  xy: 501, 406
+  size: 625, 257
+  orig: 625, 257
+  offset: 0, 0
+  index: -1
+long_4
+  rotate: false
+  xy: 2, 585
+  size: 497, 446
+  orig: 497, 446
+  offset: 0, 0
+  index: -1
+long_5
+  rotate: true
+  xy: 2, 2
+  size: 581, 326
+  orig: 581, 326
+  offset: 0, 0
+  index: -1

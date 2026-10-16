@@ -1,0 +1,1 @@
+"use strict";try{if("undefined"!=typeof requirePlugin){var e=(0,requirePlugin("MiniGameCommon",{enableRequireHostModule:!0,customEnv:{wx:wx}}).default)();void 0===e||void 0===e.canIUse?console.error("miniGameCommon create error"):GameGlobal.miniGameCommon=e}}catch(e){console.error(e)} 

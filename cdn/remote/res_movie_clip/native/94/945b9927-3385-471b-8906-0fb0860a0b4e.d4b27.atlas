@@ -1,0 +1,27 @@
+
+ronghe_head_elite monster_2022.png
+size: 271,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 239, 125
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+73
+  rotate: true
+  xy: 2, 2
+  size: 175, 235
+  orig: 175, 235
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 239, 77
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1

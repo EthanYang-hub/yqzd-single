@@ -1,0 +1,132 @@
+
+rareSkill_skull_3_effect_hit.png
+size: 567,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DH_safetyShot_blackMotes_explosion
+  rotate: false
+  xy: 2, 8
+  size: 87, 93
+  orig: 96, 96
+  offset: 0, 3
+  index: -1
+DH_safetyShot_ember_yellow
+  rotate: false
+  xy: 308, 53
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+H1
+  rotate: false
+  xy: 91, 17
+  size: 81, 84
+  orig: 83, 89
+  offset: 1, 4
+  index: -1
+H2
+  rotate: false
+  xy: 174, 19
+  size: 82, 82
+  orig: 88, 84
+  offset: 2, 1
+  index: -1
+suihuo_002
+  rotate: false
+  xy: 537, 5
+  size: 26, 27
+  orig: 30, 31
+  offset: 2, 2
+  index: -1
+suihuo_003
+  rotate: false
+  xy: 534, 70
+  size: 31, 31
+  orig: 35, 35
+  offset: 2, 2
+  index: -1
+suihuo_004
+  rotate: false
+  xy: 497, 64
+  size: 35, 37
+  orig: 39, 41
+  offset: 2, 2
+  index: -1
+suihuo_005
+  rotate: false
+  xy: 453, 58
+  size: 42, 43
+  orig: 46, 47
+  offset: 2, 2
+  index: -1
+suihuo_006
+  rotate: false
+  xy: 408, 5
+  size: 45, 47
+  orig: 49, 50
+  offset: 2, 1
+  index: -1
+suihuo_007
+  rotate: true
+  xy: 358, 54
+  size: 47, 49
+  orig: 51, 51
+  offset: 2, 0
+  index: -1
+suihuo_008
+  rotate: false
+  xy: 258, 52
+  size: 48, 49
+  orig: 52, 51
+  offset: 2, 0
+  index: -1
+suihuo_009
+  rotate: true
+  xy: 258, 2
+  size: 48, 49
+  orig: 52, 51
+  offset: 2, 0
+  index: -1
+suihuo_010
+  rotate: false
+  xy: 309, 3
+  size: 48, 48
+  orig: 52, 51
+  offset: 2, 1
+  index: -1
+suihuo_011
+  rotate: false
+  xy: 359, 5
+  size: 47, 47
+  orig: 51, 51
+  offset: 2, 2
+  index: -1
+suihuo_012
+  rotate: false
+  xy: 409, 57
+  size: 42, 44
+  orig: 50, 50
+  offset: 3, 2
+  index: -1
+suihuo_013
+  rotate: false
+  xy: 455, 14
+  size: 39, 42
+  orig: 44, 48
+  offset: 3, 4
+  index: -1
+suihuo_014
+  rotate: false
+  xy: 496, 15
+  size: 39, 41
+  orig: 44, 48
+  offset: 3, 5
+  index: -1
+suihuo_015
+  rotate: true
+  xy: 537, 34
+  size: 34, 26
+  orig: 41, 32
+  offset: 4, 4
+  index: -1

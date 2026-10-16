@@ -1,0 +1,27 @@
+
+ui_jishi.png
+size: 287,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CD_1
+  rotate: true
+  xy: 126, 84
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+CD_2
+  rotate: false
+  xy: 2, 133
+  size: 151, 152
+  orig: 151, 152
+  offset: 0, 0
+  index: -1
+CD_3
+  rotate: true
+  xy: 2, 2
+  size: 129, 122
+  orig: 129, 122
+  offset: 0, 0
+  index: -1

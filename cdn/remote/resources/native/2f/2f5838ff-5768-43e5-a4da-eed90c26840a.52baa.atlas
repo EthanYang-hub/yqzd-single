@@ -1,0 +1,13 @@
+
+ui_dan_guang2.png
+size: 203,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guan_4
+  rotate: false
+  xy: 2, 2
+  size: 199, 199
+  orig: 200, 200
+  offset: 1, 0
+  index: -1

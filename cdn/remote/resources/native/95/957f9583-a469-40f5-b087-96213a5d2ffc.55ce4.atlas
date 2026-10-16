@@ -1,0 +1,13 @@
+
+ui_guipu_touxiang_biao.png
+size: 51,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaotubiao
+  rotate: false
+  xy: 2, 2
+  size: 47, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1

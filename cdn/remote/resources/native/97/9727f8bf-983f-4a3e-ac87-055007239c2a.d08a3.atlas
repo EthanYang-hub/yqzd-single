@@ -1,0 +1,27 @@
+
+ui_jingjie_shengji.png
+size: 257,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arcanum_galaxy_spillAlpha
+  rotate: false
+  xy: 121, 2
+  size: 115, 219
+  orig: 122, 242
+  offset: 4, 6
+  index: -1
+arcanum_galaxy_spillAlpha~
+  rotate: false
+  xy: 2, 2
+  size: 117, 219
+  orig: 122, 242
+  offset: 2, 6
+  index: -1
+monk_longReach_flashSlice_crits
+  rotate: false
+  xy: 238, 15
+  size: 17, 206
+  orig: 19, 208
+  offset: 1, 1
+  index: -1

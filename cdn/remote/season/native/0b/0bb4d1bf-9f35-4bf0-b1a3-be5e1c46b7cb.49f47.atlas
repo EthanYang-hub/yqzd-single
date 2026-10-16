@@ -1,0 +1,48 @@
+
+ui_yan_shoudaogongji.png
+size: 579,579
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TXT
+  rotate: false
+  xy: 208, 46
+  size: 143, 41
+  orig: 146, 45
+  offset: 2, 2
+  index: -1
+di
+  rotate: false
+  xy: 2, 43
+  size: 204, 44
+  orig: 206, 46
+  offset: 1, 1
+  index: -1
+ql1
+  rotate: false
+  xy: 242, 109
+  size: 105, 468
+  orig: 256, 512
+  offset: 72, 17
+  index: -1
+ql2
+  rotate: false
+  xy: 464, 115
+  size: 113, 462
+  orig: 256, 512
+  offset: 78, 19
+  index: -1
+ql3
+  rotate: false
+  xy: 353, 97
+  size: 109, 480
+  orig: 256, 512
+  offset: 75, 3
+  index: -1
+ql4
+  rotate: false
+  xy: 2, 89
+  size: 238, 488
+  orig: 256, 512
+  offset: 10, 3
+  index: -1

@@ -1,0 +1,237 @@
+
+monster_3017_effect1.png
+size: 2033,1066
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozhu_1
+  rotate: false
+  xy: 1368, 543
+  size: 308, 257
+  orig: 356, 266
+  offset: 0, 0
+  index: -1
+baozhu_2
+  rotate: true
+  xy: 1830, 198
+  size: 67, 145
+  orig: 67, 145
+  offset: 0, 0
+  index: -1
+baozhu_3
+  rotate: true
+  xy: 1660, 175
+  size: 101, 168
+  orig: 101, 168
+  offset: 0, 0
+  index: -1
+baozhu_4
+  rotate: false
+  xy: 934, 802
+  size: 451, 262
+  orig: 455, 266
+  offset: 2, 2
+  index: -1
+baozhu_4_2
+  rotate: false
+  xy: 1387, 802
+  size: 451, 262
+  orig: 455, 266
+  offset: 2, 2
+  index: -1
+baozhu_5
+  rotate: false
+  xy: 538, 435
+  size: 413, 240
+  orig: 413, 242
+  offset: 0, 1
+  index: -1
+baozhu_5_2
+  rotate: false
+  xy: 953, 560
+  size: 413, 240
+  orig: 413, 242
+  offset: 0, 1
+  index: -1
+baozhu_6
+  rotate: false
+  xy: 538, 677
+  size: 394, 387
+  orig: 461, 455
+  offset: 40, 30
+  index: -1
+baozhu_6_2
+  rotate: false
+  xy: 2, 11
+  size: 394, 387
+  orig: 461, 455
+  offset: 40, 30
+  index: -1
+baozhu_7
+  rotate: false
+  xy: 2, 733
+  size: 534, 331
+  orig: 568, 361
+  offset: 17, 14
+  index: -1
+baozhu_7_2
+  rotate: false
+  xy: 2, 400
+  size: 534, 331
+  orig: 568, 361
+  offset: 17, 14
+  index: -1
+fire_zha_10
+  rotate: false
+  xy: 1246, 372
+  size: 281, 169
+  orig: 281, 169
+  offset: 0, 0
+  index: -1
+fire_zha_11
+  rotate: false
+  xy: 878, 35
+  size: 284, 172
+  orig: 284, 172
+  offset: 0, 0
+  index: -1
+fire_zha_12
+  rotate: false
+  xy: 881, 209
+  size: 286, 172
+  orig: 286, 172
+  offset: 0, 0
+  index: -1
+fire_zha_13
+  rotate: true
+  xy: 1839, 475
+  size: 287, 173
+  orig: 287, 174
+  offset: 0, 1
+  index: -1
+fire_zha_14
+  rotate: false
+  xy: 953, 383
+  size: 291, 175
+  orig: 291, 176
+  offset: 0, 1
+  index: -1
+fire_zha_15
+  rotate: false
+  xy: 583, 74
+  size: 293, 177
+  orig: 293, 178
+  offset: 0, 1
+  index: -1
+fire_zha_16
+  rotate: false
+  xy: 583, 253
+  size: 296, 180
+  orig: 296, 180
+  offset: 0, 0
+  index: -1
+fire_zha_17
+  rotate: true
+  xy: 398, 99
+  size: 299, 183
+  orig: 299, 183
+  offset: 0, 0
+  index: -1
+fire_zha_18
+  rotate: true
+  xy: 1840, 764
+  size: 300, 185
+  orig: 300, 185
+  offset: 0, 0
+  index: -1
+fire_zha_2
+  rotate: false
+  xy: 1448, 169
+  size: 210, 142
+  orig: 210, 143
+  offset: 0, 1
+  index: -1
+fire_zha_3
+  rotate: true
+  xy: 1529, 313
+  size: 228, 143
+  orig: 228, 143
+  offset: 0, 0
+  index: -1
+fire_zha_4
+  rotate: false
+  xy: 1439, 16
+  size: 248, 151
+  orig: 248, 151
+  offset: 0, 0
+  index: -1
+fire_zha_5
+  rotate: false
+  xy: 1689, 20
+  size: 243, 153
+  orig: 249, 153
+  offset: 6, 0
+  index: -1
+fire_zha_6
+  rotate: true
+  xy: 1674, 278
+  size: 255, 156
+  orig: 255, 156
+  offset: 0, 0
+  index: -1
+fire_zha_7
+  rotate: true
+  xy: 1678, 535
+  size: 265, 159
+  orig: 265, 159
+  offset: 0, 0
+  index: -1
+fire_zha_8
+  rotate: false
+  xy: 1164, 39
+  size: 273, 162
+  orig: 274, 162
+  offset: 0, 0
+  index: -1
+fire_zha_9
+  rotate: false
+  xy: 1169, 203
+  size: 277, 167
+  orig: 277, 167
+  offset: 0, 0
+  index: -1
+flash_staffGlow
+  rotate: true
+  xy: 1934, 11
+  size: 91, 95
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+hhyan_1
+  rotate: true
+  xy: 398, 2
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+hhyan_3
+  rotate: true
+  xy: 496, 4
+  size: 93, 85
+  orig: 95, 89
+  offset: 2, 3
+  index: -1
+yanhua_hhh_1
+  rotate: false
+  xy: 1934, 104
+  size: 97, 92
+  orig: 97, 92
+  offset: 0, 0
+  index: -1
+yanhua_hhh_2
+  rotate: true
+  xy: 1832, 267
+  size: 206, 178
+  orig: 206, 178
+  offset: 0, 0
+  index: -1

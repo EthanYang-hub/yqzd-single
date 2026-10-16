@@ -1,0 +1,34 @@
+
+jidi_skill_guancai_1.png
+size: 1218,438
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fazhen_1
+  rotate: false
+  xy: 946, 166
+  size: 270, 270
+  orig: 273, 274
+  offset: 1, 2
+  index: -1
+fazhen_2
+  rotate: true
+  xy: 2, 2
+  size: 434, 436
+  orig: 443, 444
+  offset: 4, 4
+  index: -1
+fazhen_3
+  rotate: false
+  xy: 440, 82
+  size: 504, 354
+  orig: 510, 376
+  offset: 3, 16
+  index: -1
+gui_guihuo1
+  rotate: true
+  xy: 946, 67
+  size: 97, 162
+  orig: 97, 162
+  offset: 0, 0
+  index: -1

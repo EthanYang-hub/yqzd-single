@@ -1,0 +1,1 @@
+"use strict";var e,t;System.register("chunks:///_virtual/bullet",[],(function(){return{execute:function(){}}})),e="virtual:///prerequisite-imports/bullet",t="chunks:///_virtual/bullet",System.register(e,[t],(function(e,t){return{setters:[function(t){var u={};for(var r in t)"default"!==r&&"__esModule"!==r&&(u[r]=t[r]);e(u)}],execute:function(){}}})); 

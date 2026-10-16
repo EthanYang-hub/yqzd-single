@@ -1,0 +1,1 @@
+"use strict";var t,e;System.register("chunks:///_virtual/battle",[],(function(){return{execute:function(){}}})),t="virtual:///prerequisite-imports/battle",e="chunks:///_virtual/battle",System.register(t,[e],(function(t,e){return{setters:[function(e){var r={};for(var u in e)"default"!==u&&"__esModule"!==u&&(r[u]=e[u]);t(r)}],execute:function(){}}})); 

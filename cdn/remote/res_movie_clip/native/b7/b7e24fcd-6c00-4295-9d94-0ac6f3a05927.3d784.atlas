@@ -1,0 +1,34 @@
+
+ronghe_head_monster_2017_3.png
+size: 231,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_tou_1
+  rotate: false
+  xy: 2, 3
+  size: 40, 32
+  orig: 41, 32
+  offset: 1, 0
+  index: -1
+c_tou_2
+  rotate: false
+  xy: 176, 2
+  size: 27, 208
+  orig: 27, 208
+  offset: 0, 0
+  index: -1
+c_tou_3
+  rotate: false
+  xy: 205, 3
+  size: 24, 207
+  orig: 24, 207
+  offset: 0, 0
+  index: -1
+c_tou_4
+  rotate: false
+  xy: 2, 37
+  size: 172, 173
+  orig: 172, 197
+  offset: 0, 24
+  index: -1

@@ -1,0 +1,202 @@
+
+roleSkill_terra_blue.png
+size: 427,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0178
+  rotate: true
+  xy: 305, 148
+  size: 56, 55
+  orig: 64, 64
+  offset: 3, 4
+  index: -1
+0378
+  rotate: true
+  xy: 356, 92
+  size: 54, 56
+  orig: 64, 64
+  offset: 5, 4
+  index: -1
+03782
+  rotate: true
+  xy: 362, 150
+  size: 54, 47
+  orig: 64, 64
+  offset: 5, 13
+  index: -1
+145
+  rotate: true
+  xy: 240, 238
+  size: 109, 64
+  orig: 112, 64
+  offset: 3, 0
+  index: -1
+146
+  rotate: true
+  xy: 228, 28
+  size: 97, 64
+  orig: 119, 64
+  offset: 0, 0
+  index: -1
+C2
+  rotate: true
+  xy: 351, 16
+  size: 39, 72
+  orig: 39, 72
+  offset: 0, 0
+  index: -1
+C3
+  rotate: false
+  xy: 294, 57
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+dghh
+  rotate: false
+  xy: 2, 305
+  size: 124, 120
+  orig: 142, 142
+  offset: 1, 15
+  index: -1
+huo_3
+  rotate: false
+  xy: 306, 313
+  size: 113, 112
+  orig: 113, 112
+  offset: 0, 0
+  index: -1
+stone
+  rotate: true
+  xy: 128, 349
+  size: 76, 176
+  orig: 76, 176
+  offset: 0, 0
+  index: -1
+stone0001
+  rotate: false
+  xy: 2, 30
+  size: 96, 73
+  orig: 112, 111
+  offset: 6, 0
+  index: -1
+stone0002
+  rotate: false
+  xy: 2, 105
+  size: 99, 92
+  orig: 112, 111
+  offset: 3, 0
+  index: -1
+stone0003
+  rotate: false
+  xy: 2, 199
+  size: 109, 104
+  orig: 112, 111
+  offset: 2, 0
+  index: -1
+stone0004
+  rotate: true
+  xy: 306, 206
+  size: 105, 108
+  orig: 112, 111
+  offset: 7, 1
+  index: -1
+stone0005
+  rotate: true
+  xy: 128, 242
+  size: 105, 110
+  orig: 112, 111
+  offset: 7, 1
+  index: -1
+stone0006
+  rotate: false
+  xy: 113, 138
+  size: 106, 102
+  orig: 112, 111
+  offset: 5, 1
+  index: -1
+stone0007
+  rotate: true
+  xy: 103, 28
+  size: 108, 84
+  orig: 112, 111
+  offset: 4, 1
+  index: -1
+stone0008
+  rotate: true
+  xy: 240, 127
+  size: 109, 63
+  orig: 112, 111
+  offset: 2, 2
+  index: -1
+stone0009
+  rotate: true
+  xy: 189, 27
+  size: 109, 37
+  orig: 112, 111
+  offset: 0, 3
+  index: -1
+suitu_1
+  rotate: false
+  xy: 113, 286
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+suitu_10
+  rotate: false
+  xy: 416, 301
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+suitu_2
+  rotate: true
+  xy: 416, 293
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+suitu_3
+  rotate: false
+  xy: 113, 267
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+suitu_4
+  rotate: true
+  xy: 221, 225
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+suitu_5
+  rotate: false
+  xy: 2, 5
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+suitu_6
+  rotate: true
+  xy: 416, 278
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+suitu_9
+  rotate: true
+  xy: 416, 285
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+wizard_meteor_firePool
+  rotate: true
+  xy: 294, 3
+  size: 52, 55
+  orig: 58, 65
+  offset: 3, 5
+  index: -1

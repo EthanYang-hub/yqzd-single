@@ -1,0 +1,69 @@
+
+monster_001.png
+size: 157,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtui
+  rotate: false
+  xy: 57, 11
+  size: 18, 46
+  orig: 20, 49
+  offset: 1, 2
+  index: -1
+st
+  rotate: false
+  xy: 2, 59
+  size: 100, 96
+  orig: 103, 99
+  offset: 1, 2
+  index: -1
+ta1
+  rotate: false
+  xy: 2, 2
+  size: 24, 55
+  orig: 26, 57
+  offset: 1, 1
+  index: -1
+ta2
+  rotate: false
+  xy: 77, 27
+  size: 18, 30
+  orig: 20, 33
+  offset: 1, 2
+  index: -1
+tb1
+  rotate: false
+  xy: 28, 6
+  size: 27, 51
+  orig: 32, 54
+  offset: 2, 2
+  index: -1
+tb2
+  rotate: false
+  xy: 104, 94
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+tc1
+  rotate: false
+  xy: 104, 39
+  size: 27, 53
+  orig: 29, 55
+  offset: 1, 1
+  index: -1
+tc2
+  rotate: false
+  xy: 104, 125
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+waifaguang
+  rotate: false
+  xy: 97, 21
+  size: 25, 16
+  orig: 28, 18
+  offset: 2, 0
+  index: -1

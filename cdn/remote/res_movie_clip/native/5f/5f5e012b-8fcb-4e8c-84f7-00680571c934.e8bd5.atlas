@@ -1,0 +1,160 @@
+
+boss_3002_bullet.png
+size: 923,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Poison01_1
+  rotate: true
+  xy: 781, 139
+  size: 64, 102
+  orig: 90, 105
+  offset: 16, 3
+  index: -1
+c_00001
+  rotate: true
+  xy: 829, 88
+  size: 49, 77
+  orig: 151, 119
+  offset: 65, 6
+  index: -1
+c_00002
+  rotate: true
+  xy: 139, 10
+  size: 108, 98
+  orig: 151, 119
+  offset: 41, 15
+  index: -1
+c_00003
+  rotate: false
+  xy: 2, 4
+  size: 135, 113
+  orig: 151, 119
+  offset: 16, 6
+  index: -1
+c_00004
+  rotate: false
+  xy: 239, 3
+  size: 138, 119
+  orig: 151, 119
+  offset: 13, 0
+  index: -1
+c_00005
+  rotate: false
+  xy: 379, 19
+  size: 143, 107
+  orig: 151, 119
+  offset: 8, 6
+  index: -1
+c_00006
+  rotate: true
+  xy: 603, 154
+  size: 145, 106
+  orig: 151, 119
+  offset: 6, 7
+  index: -1
+c_00007
+  rotate: false
+  xy: 781, 205
+  size: 140, 94
+  orig: 151, 119
+  offset: 3, 7
+  index: -1
+c_00008
+  rotate: true
+  xy: 745, 38
+  size: 99, 82
+  orig: 151, 119
+  offset: 0, 22
+  index: -1
+c_00009
+  rotate: true
+  xy: 829, 20
+  size: 66, 54
+  orig: 151, 119
+  offset: 33, 39
+  index: -1
+fire_20_00000
+  rotate: false
+  xy: 524, 8
+  size: 69, 132
+  orig: 82, 188
+  offset: 8, 6
+  index: -1
+fire_20_00001
+  rotate: false
+  xy: 529, 146
+  size: 72, 153
+  orig: 82, 188
+  offset: 6, 6
+  index: -1
+fire_20_00002
+  rotate: false
+  xy: 456, 142
+  size: 71, 157
+  orig: 82, 188
+  offset: 5, 6
+  index: -1
+fire_20_00003
+  rotate: false
+  xy: 381, 135
+  size: 73, 164
+  orig: 82, 188
+  offset: 4, 7
+  index: -1
+fire_20_00004
+  rotate: false
+  xy: 304, 128
+  size: 75, 171
+  orig: 82, 188
+  offset: 3, 8
+  index: -1
+fire_20_00005
+  rotate: false
+  xy: 153, 122
+  size: 74, 177
+  orig: 82, 188
+  offset: 3, 6
+  index: -1
+fire_20_00006
+  rotate: false
+  xy: 229, 124
+  size: 73, 175
+  orig: 82, 188
+  offset: 4, 6
+  index: -1
+fire_20_00007
+  rotate: false
+  xy: 75, 120
+  size: 76, 179
+  orig: 82, 188
+  offset: 2, 6
+  index: -1
+fire_20_00008
+  rotate: false
+  xy: 2, 119
+  size: 71, 180
+  orig: 82, 188
+  offset: 6, 6
+  index: -1
+fire_20_00009
+  rotate: false
+  xy: 666, 7
+  size: 77, 145
+  orig: 82, 188
+  offset: 3, 2
+  index: -1
+fire_20_00010
+  rotate: false
+  xy: 595, 2
+  size: 69, 142
+  orig: 82, 188
+  offset: 9, 5
+  index: -1
+fire_20_00011
+  rotate: false
+  xy: 711, 154
+  size: 68, 145
+  orig: 82, 188
+  offset: 10, 5
+  index: -1

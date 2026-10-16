@@ -1,0 +1,20 @@
+
+ronghe_head_elite monster_2010.png
+size: 268,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 246, 82
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 242, 106
+  orig: 242, 106
+  offset: 0, 0
+  index: -1

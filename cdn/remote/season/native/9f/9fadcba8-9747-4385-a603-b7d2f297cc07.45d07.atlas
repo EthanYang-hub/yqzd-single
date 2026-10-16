@@ -1,0 +1,48 @@
+
+ui_yan_battle_3.png
+size: 539,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guan_fu
+  rotate: true
+  xy: 390, 637
+  size: 53, 98
+  orig: 53, 98
+  offset: 0, 0
+  index: -1
+guan_fu_shadow
+  rotate: true
+  xy: 390, 692
+  size: 56, 108
+  orig: 70, 131
+  offset: 3, 23
+  index: -1
+guan_huo
+  rotate: false
+  xy: 349, 72
+  size: 188, 289
+  orig: 259, 400
+  offset: 16, 9
+  index: -1
+guan_shadow
+  rotate: false
+  xy: 2, 750
+  size: 494, 244
+  orig: 521, 283
+  offset: 6, 13
+  index: -1
+guan_shiguan
+  rotate: true
+  xy: 2, 2
+  size: 359, 345
+  orig: 361, 347
+  offset: 1, 1
+  index: -1
+guan_shiguan_guang
+  rotate: false
+  xy: 2, 363
+  size: 386, 385
+  orig: 398, 396
+  offset: 5, 9
+  index: -1

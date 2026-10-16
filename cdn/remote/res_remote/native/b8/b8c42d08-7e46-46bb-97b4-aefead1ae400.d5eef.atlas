@@ -1,0 +1,125 @@
+
+ui_san_gongfeng_tubiao.png
+size: 943,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei_1
+  rotate: true
+  xy: 207, 10
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+bei_2
+  rotate: true
+  xy: 626, 10
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+bei_3
+  rotate: false
+  xy: 453, 105
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+pai_hong1
+  rotate: true
+  xy: 286, 10
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+pai_hong2
+  rotate: false
+  xy: 728, 11
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pai_hong3
+  rotate: false
+  xy: 305, 100
+  size: 146, 152
+  orig: 146, 152
+  offset: 0, 0
+  index: -1
+pai_huang1
+  rotate: true
+  xy: 365, 10
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+pai_huang2
+  rotate: false
+  xy: 830, 13
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pai_huang3
+  rotate: false
+  xy: 154, 100
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+pai_lv1
+  rotate: true
+  xy: 444, 10
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+pai_lv2
+  rotate: false
+  xy: 523, 2
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+pai_lv3
+  rotate: false
+  xy: 2, 100
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+paizi_chuxian1
+  rotate: true
+  xy: 602, 113
+  size: 139, 138
+  orig: 147, 147
+  offset: 4, 5
+  index: -1
+paizi_chuxian2
+  rotate: false
+  xy: 742, 115
+  size: 137, 137
+  orig: 147, 147
+  offset: 6, 5
+  index: -1
+tubaio_hong222
+  rotate: true
+  xy: 881, 169
+  size: 83, 60
+  orig: 89, 63
+  offset: 2, 2
+  index: -1
+tubaio_huang222
+  rotate: true
+  xy: 104, 10
+  size: 88, 101
+  orig: 88, 105
+  offset: 0, 2
+  index: -1
+tubaio_lv222
+  rotate: false
+  xy: 2, 7
+  size: 100, 91
+  orig: 104, 97
+  offset: 2, 3
+  index: -1

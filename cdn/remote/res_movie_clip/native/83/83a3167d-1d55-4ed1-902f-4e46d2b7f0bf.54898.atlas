@@ -1,0 +1,216 @@
+
+roleSkill_fire_bule.png
+size: 435,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0178
+  rotate: true
+  xy: 87, 56
+  size: 84, 83
+  orig: 96, 96
+  offset: 4, 6
+  index: -1
+0424
+  rotate: false
+  xy: 2, 50
+  size: 83, 90
+  orig: 96, 96
+  offset: 6, 4
+  index: -1
+baoh_01
+  rotate: true
+  xy: 405, 16
+  size: 29, 28
+  orig: 58, 58
+  offset: 1, 2
+  index: -1
+baoh_02
+  rotate: false
+  xy: 329, 4
+  size: 42, 39
+  orig: 58, 58
+  offset: 2, 4
+  index: -1
+baoh_03
+  rotate: true
+  xy: 62, 2
+  size: 46, 42
+  orig: 58, 58
+  offset: 3, 6
+  index: -1
+baoh_04
+  rotate: true
+  xy: 283, 16
+  size: 48, 44
+  orig: 58, 58
+  offset: 4, 8
+  index: -1
+baoh_05
+  rotate: true
+  xy: 106, 4
+  size: 50, 44
+  orig: 58, 58
+  offset: 5, 10
+  index: -1
+baoh_06
+  rotate: true
+  xy: 152, 5
+  size: 49, 42
+  orig: 58, 58
+  offset: 6, 13
+  index: -1
+baoh_07
+  rotate: true
+  xy: 328, 92
+  size: 48, 40
+  orig: 58, 58
+  offset: 8, 16
+  index: -1
+baoh_08
+  rotate: false
+  xy: 370, 102
+  size: 29, 38
+  orig: 58, 58
+  offset: 27, 18
+  index: -1
+baoh_09
+  rotate: false
+  xy: 243, 65
+  size: 27, 17
+  orig: 58, 58
+  offset: 29, 20
+  index: -1
+baoh_10
+  rotate: false
+  xy: 392, 47
+  size: 21, 15
+  orig: 58, 58
+  offset: 35, 21
+  index: -1
+baoh_11
+  rotate: true
+  xy: 283, 3
+  size: 11, 9
+  orig: 58, 58
+  offset: 44, 27
+  index: -1
+baoh_12
+  rotate: false
+  xy: 172, 56
+  size: 7, 7
+  orig: 58, 58
+  offset: 46, 28
+  index: -1
+huoyanxx01
+  rotate: true
+  xy: 272, 66
+  size: 16, 23
+  orig: 58, 58
+  offset: 7, 7
+  index: -1
+huoyanxx02
+  rotate: true
+  xy: 297, 67
+  size: 23, 30
+  orig: 58, 58
+  offset: 7, 7
+  index: -1
+huoyanxx03
+  rotate: true
+  xy: 373, 5
+  size: 38, 30
+  orig: 58, 58
+  offset: 6, 7
+  index: -1
+huoyanxx04
+  rotate: true
+  xy: 243, 84
+  size: 56, 34
+  orig: 58, 58
+  offset: 0, 3
+  index: -1
+huoyanxx05
+  rotate: true
+  xy: 242, 5
+  size: 58, 39
+  orig: 58, 58
+  offset: 0, 5
+  index: -1
+huoyanxx06
+  rotate: false
+  xy: 2, 2
+  size: 58, 46
+  orig: 58, 58
+  offset: 0, 5
+  index: -1
+huoyanxx07
+  rotate: true
+  xy: 196, 5
+  size: 58, 44
+  orig: 58, 58
+  offset: 0, 7
+  index: -1
+huoyanxx08
+  rotate: false
+  xy: 279, 92
+  size: 47, 48
+  orig: 58, 58
+  offset: 4, 7
+  index: -1
+huoyanxx09
+  rotate: true
+  xy: 329, 45
+  size: 45, 44
+  orig: 58, 58
+  offset: 6, 10
+  index: -1
+huoyanxx10
+  rotate: true
+  xy: 401, 106
+  size: 34, 27
+  orig: 58, 58
+  offset: 12, 28
+  index: -1
+huoyanxx11
+  rotate: true
+  xy: 375, 64
+  size: 36, 27
+  orig: 58, 58
+  offset: 12, 28
+  index: -1
+huoyanxx12
+  rotate: true
+  xy: 404, 72
+  size: 32, 18
+  orig: 58, 58
+  offset: 12, 36
+  index: -1
+huoyanxx13
+  rotate: false
+  xy: 375, 46
+  size: 15, 16
+  orig: 58, 58
+  offset: 7, 35
+  index: -1
+huoyanxx14
+  rotate: true
+  xy: 415, 55
+  size: 15, 14
+  orig: 58, 58
+  offset: 7, 37
+  index: -1
+huoyanxx15
+  rotate: false
+  xy: 294, 5
+  size: 15, 9
+  orig: 58, 58
+  offset: 8, 42
+  index: -1
+qb
+  rotate: true
+  xy: 172, 65
+  size: 75, 69
+  orig: 75, 75
+  offset: 0, 0
+  index: -1

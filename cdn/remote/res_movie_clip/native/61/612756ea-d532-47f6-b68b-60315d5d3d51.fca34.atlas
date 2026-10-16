@@ -1,0 +1,118 @@
+
+rareSkill_windkill_4.png
+size: 281,829
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F1
+  rotate: false
+  xy: 151, 366
+  size: 128, 35
+  orig: 128, 35
+  offset: 0, 0
+  index: -1
+Trail_fire
+  rotate: false
+  xy: 151, 332
+  size: 125, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+fe752732
+  rotate: true
+  xy: 2, 572
+  size: 255, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guang_1
+  rotate: false
+  xy: 141, 2
+  size: 65, 60
+  orig: 65, 65
+  offset: 0, 3
+  index: -1
+xiaoshi_089
+  rotate: false
+  xy: 166, 403
+  size: 100, 86
+  orig: 181, 108
+  offset: 49, 8
+  index: -1
+xiaoshi_090
+  rotate: false
+  xy: 168, 491
+  size: 107, 79
+  orig: 181, 108
+  offset: 45, 11
+  index: -1
+xiaoshi_091
+  rotate: false
+  xy: 148, 259
+  size: 130, 71
+  orig: 181, 108
+  offset: 24, 14
+  index: -1
+xiaoshi_092
+  rotate: false
+  xy: 2, 25
+  size: 137, 70
+  orig: 181, 108
+  offset: 15, 17
+  index: -1
+xiaoshi_093
+  rotate: false
+  xy: 2, 97
+  size: 138, 82
+  orig: 181, 108
+  offset: 11, 11
+  index: -1
+xiaoshi_094
+  rotate: false
+  xy: 142, 64
+  size: 137, 93
+  orig: 181, 108
+  offset: 10, 9
+  index: -1
+xiaoshi_095
+  rotate: false
+  xy: 143, 159
+  size: 135, 98
+  orig: 181, 108
+  offset: 7, 4
+  index: -1
+xiaoshi_096
+  rotate: false
+  xy: 2, 181
+  size: 139, 81
+  orig: 181, 108
+  offset: 19, 20
+  index: -1
+xiaoshi_097
+  rotate: false
+  xy: 2, 264
+  size: 144, 89
+  orig: 181, 108
+  offset: 15, 11
+  index: -1
+xiaoshi_098
+  rotate: false
+  xy: 2, 355
+  size: 147, 85
+  orig: 181, 108
+  offset: 13, 8
+  index: -1
+xiaoshi_099
+  rotate: false
+  xy: 2, 505
+  size: 164, 65
+  orig: 181, 108
+  offset: 10, 24
+  index: -1
+xiaoshi_100
+  rotate: false
+  xy: 2, 442
+  size: 162, 61
+  orig: 181, 108
+  offset: 14, 27
+  index: -1

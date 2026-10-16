@@ -1,0 +1,174 @@
+
+ui_lp_citiao_guang.png
+size: 1402,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_00000
+  rotate: true
+  xy: 632, 12
+  size: 98, 131
+  orig: 146, 146
+  offset: 16, 7
+  index: -1
+2_00001
+  rotate: true
+  xy: 389, 5
+  size: 104, 127
+  orig: 146, 146
+  offset: 19, 7
+  index: -1
+2_00002
+  rotate: true
+  xy: 1161, 33
+  size: 110, 127
+  orig: 146, 146
+  offset: 19, 7
+  index: -1
+2_00003
+  rotate: true
+  xy: 906, 113
+  size: 112, 122
+  orig: 146, 146
+  offset: 18, 6
+  index: -1
+2_00018
+  rotate: true
+  xy: 906, 113
+  size: 112, 122
+  orig: 146, 146
+  offset: 18, 6
+  index: -1
+2_00004
+  rotate: true
+  xy: 780, 112
+  size: 113, 124
+  orig: 146, 146
+  offset: 17, 6
+  index: -1
+2_00019
+  rotate: true
+  xy: 780, 112
+  size: 113, 124
+  orig: 146, 146
+  offset: 17, 6
+  index: -1
+2_00005
+  rotate: true
+  xy: 132, 110
+  size: 115, 126
+  orig: 146, 146
+  offset: 15, 6
+  index: -1
+2_00020
+  rotate: true
+  xy: 132, 110
+  size: 115, 126
+  orig: 146, 146
+  offset: 15, 6
+  index: -1
+2_00006
+  rotate: true
+  xy: 2, 110
+  size: 115, 128
+  orig: 146, 146
+  offset: 15, 6
+  index: -1
+2_00007
+  rotate: true
+  xy: 260, 111
+  size: 114, 129
+  orig: 146, 146
+  offset: 15, 6
+  index: -1
+2_00008
+  rotate: true
+  xy: 651, 112
+  size: 113, 127
+  orig: 146, 146
+  offset: 14, 6
+  index: -1
+2_00009
+  rotate: true
+  xy: 391, 111
+  size: 114, 127
+  orig: 146, 146
+  offset: 13, 7
+  index: -1
+2_00010
+  rotate: true
+  xy: 520, 112
+  size: 113, 129
+  orig: 146, 146
+  offset: 13, 6
+  index: -1
+2_00011
+  rotate: true
+  xy: 1030, 114
+  size: 111, 129
+  orig: 146, 146
+  offset: 13, 5
+  index: -1
+2_00012
+  rotate: true
+  xy: 1030, 3
+  size: 109, 129
+  orig: 146, 146
+  offset: 14, 6
+  index: -1
+2_00013
+  rotate: true
+  xy: 260, 4
+  size: 105, 127
+  orig: 146, 146
+  offset: 15, 6
+  index: -1
+2_00014
+  rotate: true
+  xy: 131, 8
+  size: 100, 125
+  orig: 146, 146
+  offset: 16, 6
+  index: -1
+2_00015
+  rotate: true
+  xy: 765, 12
+  size: 98, 131
+  orig: 146, 146
+  offset: 16, 7
+  index: -1
+2_00016
+  rotate: true
+  xy: 2, 4
+  size: 104, 127
+  orig: 146, 146
+  offset: 19, 7
+  index: -1
+2_00017
+  rotate: false
+  xy: 1290, 16
+  size: 110, 127
+  orig: 146, 146
+  offset: 19, 7
+  index: -1
+DG_guang_232
+  rotate: true
+  xy: 906, 3
+  size: 108, 110
+  orig: 113, 119
+  offset: 2, 8
+  index: -1
+DG_guang_233
+  rotate: true
+  xy: 520, 2
+  size: 108, 110
+  orig: 113, 119
+  offset: 2, 8
+  index: -1
+WeaponStreak02
+  rotate: true
+  xy: 1161, 145
+  size: 80, 189
+  orig: 96, 192
+  offset: 8, 2
+  index: -1

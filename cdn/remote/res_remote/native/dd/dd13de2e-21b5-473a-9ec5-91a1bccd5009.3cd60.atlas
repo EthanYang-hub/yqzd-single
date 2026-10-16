@@ -1,0 +1,97 @@
+
+ui_laodianying.png
+size: 1984,1256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_002
+  rotate: true
+  xy: 2, 454
+  size: 800, 450
+  orig: 800, 450
+  offset: 0, 0
+  index: -1
+10_004
+  rotate: false
+  xy: 2, 2
+  size: 800, 450
+  orig: 800, 450
+  offset: 0, 0
+  index: -1
+10_006
+  rotate: true
+  xy: 454, 454
+  size: 800, 450
+  orig: 800, 450
+  offset: 0, 0
+  index: -1
+10_008
+  rotate: false
+  xy: 804, 2
+  size: 800, 450
+  orig: 800, 450
+  offset: 0, 0
+  index: -1
+10_010
+  rotate: true
+  xy: 906, 454
+  size: 800, 450
+  orig: 800, 450
+  offset: 0, 0
+  index: -1
+bai_1
+  rotate: true
+  xy: 1796, 24
+  size: 404, 186
+  orig: 404, 186
+  offset: 0, 0
+  index: -1
+bai_2
+  rotate: true
+  xy: 1358, 458
+  size: 392, 178
+  orig: 396, 178
+  offset: 0, 0
+  index: -1
+bai_3
+  rotate: true
+  xy: 1606, 22
+  size: 404, 187
+  orig: 412, 188
+  offset: 0, 1
+  index: -1
+bai_4
+  rotate: true
+  xy: 1796, 843
+  size: 411, 185
+  orig: 411, 186
+  offset: 0, 1
+  index: -1
+hei_1
+  rotate: true
+  xy: 1606, 842
+  size: 412, 188
+  orig: 412, 188
+  offset: 0, 0
+  index: -1
+hei_2
+  rotate: true
+  xy: 1796, 430
+  size: 411, 184
+  orig: 411, 184
+  offset: 0, 0
+  index: -1
+hei_3
+  rotate: true
+  xy: 1606, 428
+  size: 412, 188
+  orig: 412, 188
+  offset: 0, 0
+  index: -1
+hei_4
+  rotate: true
+  xy: 1358, 852
+  size: 402, 186
+  orig: 409, 186
+  offset: 7, 0
+  index: -1

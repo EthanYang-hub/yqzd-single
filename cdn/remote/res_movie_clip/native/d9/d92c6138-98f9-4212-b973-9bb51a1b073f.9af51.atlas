@@ -1,0 +1,244 @@
+
+rareSkill_windkill_3.png
+size: 1963,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F1
+  rotate: true
+  xy: 1411, 137
+  size: 128, 35
+  orig: 128, 35
+  offset: 0, 0
+  index: -1
+F2
+  rotate: true
+  xy: 1345, 137
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+F3
+  rotate: true
+  xy: 1278, 137
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+GG_1
+  rotate: false
+  xy: 367, 16
+  size: 94, 249
+  orig: 94, 249
+  offset: 0, 0
+  index: -1
+GG_2
+  rotate: false
+  xy: 260, 9
+  size: 105, 256
+  orig: 105, 256
+  offset: 0, 0
+  index: -1
+H1
+  rotate: false
+  xy: 674, 5
+  size: 108, 111
+  orig: 111, 119
+  offset: 1, 6
+  index: -1
+H2
+  rotate: false
+  xy: 784, 14
+  size: 108, 110
+  orig: 117, 112
+  offset: 3, 1
+  index: -1
+Trail_fire
+  rotate: true
+  xy: 1445, 7
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+eye_lwy_t_hit_00_single
+  rotate: false
+  xy: 2, 9
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+feng_a_1
+  rotate: true
+  xy: 463, 3
+  size: 96, 106
+  orig: 98, 108
+  offset: 2, 1
+  index: -1
+feng_a_10
+  rotate: false
+  xy: 1866, 42
+  size: 90, 74
+  orig: 99, 87
+  offset: 3, 3
+  index: -1
+feng_a_11
+  rotate: true
+  xy: 1773, 105
+  size: 103, 91
+  orig: 106, 93
+  offset: 3, 1
+  index: -1
+feng_a_2
+  rotate: true
+  xy: 1866, 118
+  size: 90, 95
+  orig: 101, 108
+  offset: 9, 9
+  index: -1
+feng_a_3
+  rotate: false
+  xy: 1672, 6
+  size: 104, 95
+  orig: 110, 114
+  offset: 4, 1
+  index: -1
+feng_a_4
+  rotate: false
+  xy: 894, 15
+  size: 90, 110
+  orig: 93, 113
+  offset: 3, 1
+  index: -1
+feng_a_5
+  rotate: false
+  xy: 1581, 103
+  size: 96, 105
+  orig: 99, 109
+  offset: 2, 0
+  index: -1
+feng_a_6
+  rotate: false
+  xy: 1479, 50
+  size: 100, 106
+  orig: 101, 119
+  offset: 1, 0
+  index: -1
+feng_a_7
+  rotate: true
+  xy: 1679, 103
+  size: 105, 92
+  orig: 106, 94
+  offset: 0, 1
+  index: -1
+feng_a_8
+  rotate: true
+  xy: 571, 2
+  size: 99, 101
+  orig: 104, 103
+  offset: 3, 1
+  index: -1
+feng_a_9
+  rotate: true
+  xy: 1581, 5
+  size: 96, 89
+  orig: 99, 95
+  offset: 1, 1
+  index: -1
+guishou
+  rotate: true
+  xy: 986, 18
+  size: 108, 457
+  orig: 108, 457
+  offset: 0, 0
+  index: -1
+waiqiliu
+  rotate: false
+  xy: 1529, 210
+  size: 420, 55
+  orig: 420, 55
+  offset: 0, 0
+  index: -1
+xiaoshi_089
+  rotate: true
+  xy: 1778, 3
+  size: 100, 86
+  orig: 181, 108
+  offset: 49, 8
+  index: -1
+xiaoshi_090
+  rotate: true
+  xy: 1448, 158
+  size: 107, 79
+  orig: 181, 108
+  offset: 45, 11
+  index: -1
+xiaoshi_091
+  rotate: true
+  xy: 1205, 135
+  size: 130, 71
+  orig: 181, 108
+  offset: 24, 14
+  index: -1
+xiaoshi_092
+  rotate: true
+  xy: 1033, 128
+  size: 137, 70
+  orig: 181, 108
+  offset: 15, 17
+  index: -1
+xiaoshi_093
+  rotate: true
+  xy: 854, 127
+  size: 138, 82
+  orig: 181, 108
+  offset: 11, 11
+  index: -1
+xiaoshi_094
+  rotate: true
+  xy: 938, 128
+  size: 137, 93
+  orig: 181, 108
+  offset: 10, 9
+  index: -1
+xiaoshi_095
+  rotate: true
+  xy: 1105, 130
+  size: 135, 98
+  orig: 181, 108
+  offset: 7, 4
+  index: -1
+xiaoshi_096
+  rotate: true
+  xy: 771, 126
+  size: 139, 81
+  orig: 181, 108
+  offset: 19, 20
+  index: -1
+xiaoshi_097
+  rotate: true
+  xy: 680, 121
+  size: 144, 89
+  orig: 181, 108
+  offset: 15, 11
+  index: -1
+xiaoshi_098
+  rotate: true
+  xy: 593, 118
+  size: 147, 85
+  orig: 181, 108
+  offset: 13, 8
+  index: -1
+xiaoshi_099
+  rotate: true
+  xy: 463, 101
+  size: 164, 65
+  orig: 181, 108
+  offset: 10, 24
+  index: -1
+xiaoshi_100
+  rotate: true
+  xy: 530, 103
+  size: 162, 61
+  orig: 181, 108
+  offset: 14, 27
+  index: -1

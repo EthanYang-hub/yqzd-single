@@ -1,0 +1,20 @@
+
+ui_qiandao.png
+size: 569,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_qiandao-1
+  rotate: false
+  xy: 2, 215
+  size: 565, 140
+  orig: 828, 192
+  offset: 0, 0
+  index: -1
+ui_qiandao-2
+  rotate: false
+  xy: 2, 2
+  size: 430, 211
+  orig: 561, 211
+  offset: 131, 0
+  index: -1

@@ -1,0 +1,300 @@
+
+roleSkill_spfire_purple.png
+size: 1349,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodiand_02
+  rotate: true
+  xy: 859, 443
+  size: 110, 184
+  orig: 128, 256
+  offset: 5, 4
+  index: -1
+baodiand_03
+  rotate: true
+  xy: 864, 719
+  size: 121, 201
+  orig: 128, 256
+  offset: 3, 27
+  index: -1
+baodiand_04
+  rotate: false
+  xy: 901, 11
+  size: 124, 181
+  orig: 128, 256
+  offset: 4, 59
+  index: -1
+baodiand_05
+  rotate: true
+  xy: 1184, 693
+  size: 122, 160
+  orig: 128, 256
+  offset: 6, 88
+  index: -1
+baodiand_06
+  rotate: true
+  xy: 639, 2
+  size: 123, 144
+  orig: 128, 256
+  offset: 5, 112
+  index: -1
+baodiand_07
+  rotate: true
+  xy: 785, 2
+  size: 123, 114
+  orig: 128, 256
+  offset: 4, 142
+  index: -1
+baodiand_08
+  rotate: false
+  xy: 855, 194
+  size: 115, 91
+  orig: 128, 256
+  offset: 5, 165
+  index: -1
+baozha_02_0
+  rotate: false
+  xy: 1041, 560
+  size: 133, 157
+  orig: 256, 360
+  offset: 72, 11
+  index: -1
+baozha_02_1
+  rotate: true
+  xy: 648, 881
+  size: 149, 301
+  orig: 256, 360
+  offset: 59, 11
+  index: -1
+baozha_02_2
+  rotate: false
+  xy: 472, 737
+  size: 174, 293
+  orig: 256, 360
+  offset: 50, 22
+  index: -1
+baozha_02_3
+  rotate: false
+  xy: 2, 54
+  size: 184, 269
+  orig: 256, 360
+  offset: 42, 47
+  index: -1
+baozha_02_4
+  rotate: true
+  xy: 951, 842
+  size: 188, 231
+  orig: 256, 360
+  offset: 41, 61
+  index: -1
+baozha_02_5
+  rotate: false
+  xy: 240, 337
+  size: 198, 223
+  orig: 256, 360
+  offset: 32, 74
+  index: -1
+baozha_02_6
+  rotate: true
+  xy: 649, 348
+  size: 191, 199
+  orig: 256, 360
+  offset: 39, 83
+  index: -1
+baozha_02_7
+  rotate: true
+  xy: 465, 160
+  size: 190, 180
+  orig: 256, 360
+  offset: 40, 101
+  index: -1
+dilie_02
+  rotate: false
+  xy: 647, 127
+  size: 246, 64
+  orig: 256, 64
+  offset: 4, 0
+  index: -1
+glow_01
+  rotate: false
+  xy: 2, 325
+  size: 236, 235
+  orig: 256, 256
+  offset: 10, 10
+  index: -1
+huan_01
+  rotate: false
+  xy: 2, 562
+  size: 468, 468
+  orig: 512, 512
+  offset: 22, 22
+  index: -1
+huan_02
+  rotate: false
+  xy: 1045, 430
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huan_03
+  rotate: false
+  xy: 1027, 37
+  size: 121, 80
+  orig: 128, 128
+  offset: 4, 44
+  index: -1
+qilang_01
+  rotate: true
+  xy: 188, 67
+  size: 256, 90
+  orig: 256, 100
+  offset: 0, 10
+  index: -1
+zha_0
+  rotate: false
+  xy: 1067, 729
+  size: 115, 111
+  orig: 256, 256
+  offset: 58, 5
+  index: -1
+zha_1
+  rotate: false
+  xy: 280, 2
+  size: 142, 128
+  orig: 256, 256
+  offset: 50, 4
+  index: -1
+zha_10
+  rotate: false
+  xy: 647, 193
+  size: 206, 153
+  orig: 256, 256
+  offset: 12, 39
+  index: -1
+zha_11
+  rotate: false
+  xy: 855, 287
+  size: 176, 154
+  orig: 256, 256
+  offset: 10, 45
+  index: -1
+zha_12
+  rotate: false
+  xy: 1033, 273
+  size: 175, 155
+  orig: 256, 256
+  offset: 10, 50
+  index: -1
+zha_13
+  rotate: false
+  xy: 465, 2
+  size: 172, 156
+  orig: 256, 256
+  offset: 14, 51
+  index: -1
+zha_14
+  rotate: false
+  xy: 1027, 119
+  size: 175, 152
+  orig: 256, 256
+  offset: 14, 53
+  index: -1
+zha_15
+  rotate: true
+  xy: 1210, 245
+  size: 176, 136
+  orig: 256, 256
+  offset: 12, 63
+  index: -1
+zha_16
+  rotate: false
+  xy: 1210, 423
+  size: 137, 118
+  orig: 256, 256
+  offset: 50, 66
+  index: -1
+zha_17
+  rotate: true
+  xy: 1175, 430
+  size: 111, 26
+  orig: 256, 256
+  offset: 56, 62
+  index: -1
+zha_18
+  rotate: true
+  xy: 424, 81
+  size: 49, 28
+  orig: 256, 256
+  offset: 118, 58
+  index: -1
+zha_19
+  rotate: false
+  xy: 440, 337
+  size: 13, 13
+  orig: 256, 256
+  offset: 123, 55
+  index: -1
+zha_2
+  rotate: false
+  xy: 1176, 543
+  size: 160, 148
+  orig: 256, 256
+  offset: 46, 1
+  index: -1
+zha_3
+  rotate: false
+  xy: 859, 555
+  size: 180, 162
+  orig: 256, 256
+  offset: 36, 0
+  index: -1
+zha_4
+  rotate: true
+  xy: 472, 541
+  size: 194, 174
+  orig: 256, 256
+  offset: 29, 0
+  index: -1
+zha_5
+  rotate: true
+  xy: 280, 132
+  size: 203, 183
+  orig: 256, 256
+  offset: 25, 0
+  index: -1
+zha_6
+  rotate: false
+  xy: 440, 352
+  size: 207, 187
+  orig: 256, 256
+  offset: 23, 0
+  index: -1
+zha_7
+  rotate: false
+  xy: 648, 541
+  size: 209, 189
+  orig: 256, 256
+  offset: 22, 2
+  index: -1
+zha_8
+  rotate: true
+  xy: 1184, 817
+  size: 213, 157
+  orig: 256, 256
+  offset: 19, 34
+  index: -1
+zha_9
+  rotate: false
+  xy: 648, 732
+  size: 214, 147
+  orig: 256, 256
+  offset: 16, 35
+  index: -1
+zidan_01
+  rotate: true
+  xy: 2, 4
+  size: 48, 128
+  orig: 64, 128
+  offset: 6, 0
+  index: -1

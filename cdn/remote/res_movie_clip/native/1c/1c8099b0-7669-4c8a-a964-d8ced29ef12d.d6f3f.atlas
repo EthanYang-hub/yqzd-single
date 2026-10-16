@@ -1,0 +1,265 @@
+
+petSkill_long3.png
+size: 1831,1831
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0617
+  rotate: true
+  xy: 400, 8
+  size: 214, 231
+  orig: 256, 256
+  offset: 28, 0
+  index: -1
+1di
+  rotate: false
+  xy: 1208, 268
+  size: 130, 282
+  orig: 149, 306
+  offset: 12, 5
+  index: -1
+1shen
+  rotate: true
+  xy: 1587, 255
+  size: 124, 190
+  orig: 141, 211
+  offset: 8, 8
+  index: -1
+1shenhuo1
+  rotate: false
+  xy: 1728, 1099
+  size: 81, 578
+  orig: 91, 664
+  offset: 6, 13
+  index: -1
+1shenhuo2
+  rotate: true
+  xy: 641, 115
+  size: 128, 620
+  orig: 139, 672
+  offset: 4, 17
+  index: -1
+1shou1
+  rotate: true
+  xy: 875, 37
+  size: 76, 136
+  orig: 86, 144
+  offset: 8, 1
+  index: -1
+1shou2
+  rotate: true
+  xy: 1013, 36
+  size: 77, 109
+  orig: 82, 116
+  offset: 0, 5
+  index: -1
+1shou2huo
+  rotate: true
+  xy: 709, 760
+  size: 204, 578
+  orig: 248, 615
+  offset: 14, 13
+  index: -1
+1shouhuo
+  rotate: true
+  xy: 709, 966
+  size: 245, 588
+  orig: 261, 617
+  offset: 10, 12
+  index: -1
+1tou
+  rotate: true
+  xy: 751, 15
+  size: 98, 122
+  orig: 101, 125
+  offset: 2, 0
+  index: -1
+1touhuo
+  rotate: false
+  xy: 1439, 1136
+  size: 287, 541
+  orig: 322, 602
+  offset: 15, 50
+  index: -1
+2TX_liusu1
+  rotate: true
+  xy: 400, 224
+  size: 552, 239
+  orig: 552, 271
+  offset: 0, 15
+  index: -1
+2TX_liusu2
+  rotate: true
+  xy: 1675, 552
+  size: 545, 154
+  orig: 589, 238
+  offset: 20, 22
+  index: -1
+Aatrox_Passive_blood_smoke
+  rotate: false
+  xy: 1340, 352
+  size: 223, 217
+  orig: 256, 256
+  offset: 14, 19
+  index: -1
+Wizard_Archon_energyBlow
+  rotate: false
+  xy: 1213, 693
+  size: 65, 65
+  orig: 71, 71
+  offset: 3, 3
+  index: -1
+a724e2
+  rotate: false
+  xy: 1565, 381
+  size: 173, 169
+  orig: 200, 175
+  offset: 10, 1
+  index: -1
+c290d3533
+  rotate: false
+  xy: 2, 62
+  size: 396, 396
+  orig: 396, 402
+  offset: 0, 6
+  index: -1
+chongji
+  rotate: false
+  xy: 2, 460
+  size: 381, 842
+  orig: 406, 865
+  offset: 13, 1
+  index: -1
+chongji1
+  rotate: false
+  xy: 2, 1304
+  size: 747, 525
+  orig: 790, 543
+  offset: 19, 8
+  index: -1
+chongji2
+  rotate: false
+  xy: 751, 1679
+  size: 1012, 150
+  orig: 1078, 201
+  offset: 44, 21
+  index: -1
+chongjibo
+  rotate: false
+  xy: 1340, 235
+  size: 245, 115
+  orig: 256, 128
+  offset: 3, 8
+  index: -1
+chongjidi
+  rotate: true
+  xy: 385, 778
+  size: 524, 322
+  orig: 545, 324
+  offset: 11, 1
+  index: -1
+f01f24271
+  rotate: true
+  xy: 875, 2
+  size: 33, 124
+  orig: 64, 128
+  offset: 16, 0
+  index: -1
+f01f24272
+  rotate: true
+  xy: 1299, 1186
+  size: 25, 128
+  orig: 64, 128
+  offset: 20, 0
+  index: -1
+f_1
+  rotate: true
+  xy: 1381, 121
+  size: 112, 116
+  orig: 122, 124
+  offset: 5, 4
+  index: -1
+f_2
+  rotate: false
+  xy: 1263, 118
+  size: 116, 115
+  orig: 126, 123
+  offset: 6, 4
+  index: -1
+f_3
+  rotate: false
+  xy: 1263, 2
+  size: 112, 114
+  orig: 120, 123
+  offset: 5, 5
+  index: -1
+f_4
+  rotate: true
+  xy: 633, 3
+  size: 110, 116
+  orig: 120, 124
+  offset: 0, 3
+  index: -1
+guangdi
+  rotate: false
+  xy: 641, 552
+  size: 570, 206
+  orig: 590, 242
+  offset: 9, 9
+  index: -1
+lizi1
+  rotate: true
+  xy: 751, 1213
+  size: 464, 686
+  orig: 481, 706
+  offset: 6, 1
+  index: -1
+shan1
+  rotate: false
+  xy: 1289, 571
+  size: 365, 191
+  orig: 389, 213
+  offset: 4, 18
+  index: -1
+shan2
+  rotate: true
+  xy: 1299, 764
+  size: 370, 374
+  orig: 398, 416
+  offset: 24, 36
+  index: -1
+shan3
+  rotate: true
+  xy: 641, 245
+  size: 305, 432
+  orig: 341, 461
+  offset: 4, 22
+  index: -1
+shan4
+  rotate: true
+  xy: 1075, 264
+  size: 286, 131
+  orig: 315, 145
+  offset: 24, 8
+  index: -1
+suishi1
+  rotate: false
+  xy: 1124, 32
+  size: 92, 81
+  orig: 128, 128
+  offset: 15, 28
+  index: -1
+suishi2
+  rotate: false
+  xy: 1740, 443
+  size: 89, 107
+  orig: 128, 128
+  offset: 11, 10
+  index: -1
+yanwu
+  rotate: true
+  xy: 1765, 1768
+  size: 61, 64
+  orig: 64, 64
+  offset: 3, 0
+  index: -1

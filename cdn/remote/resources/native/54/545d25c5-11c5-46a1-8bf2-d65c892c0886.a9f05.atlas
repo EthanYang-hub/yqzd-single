@@ -1,0 +1,62 @@
+
+zhandou_pet_cat.png
+size: 745,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 121, 9
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 69, 5
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 452, 20
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 9
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 515, 2
+  size: 106, 228
+  orig: 106, 228
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 62
+  size: 22, 470
+  orig: 22, 470
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 37
+  size: 23, 448
+  orig: 23, 448
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 86
+  size: 22, 511
+  orig: 22, 511
+  offset: 0, 0
+  index: -1

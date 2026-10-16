@@ -1,0 +1,1 @@
+"use strict";var t,e;System.register("chunks:///_virtual/ui_platform",[],(function(){return{execute:function(){}}})),t="virtual:///prerequisite-imports/ui_platform",e="chunks:///_virtual/ui_platform",System.register(t,[e],(function(t,e){return{setters:[function(e){var r={};for(var u in e)"default"!==u&&"__esModule"!==u&&(r[u]=e[u]);t(r)}],execute:function(){}}})); 

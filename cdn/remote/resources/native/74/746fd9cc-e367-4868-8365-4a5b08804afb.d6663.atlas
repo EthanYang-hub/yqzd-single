@@ -1,0 +1,90 @@
+
+zhandou_pet_bird.png
+size: 193,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 119, 77
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 26, 2
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 143, 178
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 75, 173
+  size: 66, 86
+  orig: 103, 93
+  offset: 37, 0
+  index: -1
+5
+  rotate: true
+  xy: 75, 388
+  size: 133, 116
+  orig: 133, 116
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 143, 212
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 75, 261
+  size: 125, 97
+  orig: 125, 97
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 75, 74
+  size: 42, 97
+  orig: 42, 97
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 119, 93
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+xian_1
+  rotate: false
+  xy: 26, 51
+  size: 22, 470
+  orig: 22, 470
+  offset: 0, 0
+  index: -1
+xian_2
+  rotate: false
+  xy: 50, 73
+  size: 23, 448
+  orig: 23, 448
+  offset: 0, 0
+  index: -1
+xian_3
+  rotate: false
+  xy: 2, 10
+  size: 22, 511
+  orig: 22, 511
+  offset: 0, 0
+  index: -1

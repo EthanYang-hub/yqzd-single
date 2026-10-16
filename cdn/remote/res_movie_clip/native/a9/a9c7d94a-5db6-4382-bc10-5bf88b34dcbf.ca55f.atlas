@@ -1,0 +1,83 @@
+
+roleSkill_terra_purple.png
+size: 990,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabi_r
+  rotate: false
+  xy: 714, 49
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+shnti
+  rotate: true
+  xy: 822, 2
+  size: 136, 166
+  orig: 139, 178
+  offset: 2, 6
+  index: -1
+shou_l
+  rotate: false
+  xy: 519, 30
+  size: 80, 69
+  orig: 80, 71
+  offset: 0, 2
+  index: -1
+shou_r
+  rotate: false
+  xy: 519, 4
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+shoubi_r
+  rotate: false
+  xy: 657, 39
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 410, 2
+  size: 107, 97
+  orig: 107, 97
+  offset: 0, 0
+  index: -1
+tui_r
+  rotate: false
+  xy: 601, 36
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 366, 30
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+xian_1
+  rotate: true
+  xy: 410, 101
+  size: 37, 410
+  orig: 214, 410
+  offset: 80, 0
+  index: -1
+xian_2
+  rotate: true
+  xy: 2, 15
+  size: 48, 362
+  orig: 48, 362
+  offset: 0, 0
+  index: -1
+xian_3
+  rotate: true
+  xy: 2, 65
+  size: 73, 406
+  orig: 73, 406
+  offset: 0, 0
+  index: -1

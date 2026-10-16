@@ -1,0 +1,20 @@
+
+ui_yan_tiaozhan.png
+size: 672,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 575, 8
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 571, 84
+  orig: 571, 84
+  offset: 0, 0
+  index: -1

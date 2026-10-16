@@ -1,0 +1,1 @@
+"use strict";var t,e;System.register("chunks:///_virtual/ui_pay_gift",[],(function(){return{execute:function(){}}})),t="virtual:///prerequisite-imports/ui_pay_gift",e="chunks:///_virtual/ui_pay_gift",System.register(t,[e],(function(t,e){return{setters:[function(e){var i={};for(var u in e)"default"!==u&&"__esModule"!==u&&(i[u]=e[u]);t(i)}],execute:function(){}}})); 

@@ -1,0 +1,20 @@
+
+ui_fuzhou_ka_effect2.png
+size: 536,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G3
+  rotate: true
+  xy: 273, 2
+  size: 259, 261
+  orig: 259, 261
+  offset: 0, 0
+  index: -1
+G4
+  rotate: true
+  xy: 2, 8
+  size: 253, 269
+  orig: 253, 271
+  offset: 0, 2
+  index: -1

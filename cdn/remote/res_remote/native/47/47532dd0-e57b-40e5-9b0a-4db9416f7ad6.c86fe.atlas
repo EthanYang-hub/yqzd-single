@@ -1,0 +1,34 @@
+
+ui_mojin_uijinbi.png
+size: 787,787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Currency
+  rotate: true
+  xy: 2, 752
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1
+D_eye_lwy_t_sun_38_single
+  rotate: false
+  xy: 286, 553
+  size: 247, 232
+  orig: 256, 256
+  offset: 5, 0
+  index: -1
+guang
+  rotate: true
+  xy: 535, 552
+  size: 233, 250
+  orig: 256, 256
+  offset: 14, 2
+  index: -1
+moon
+  rotate: false
+  xy: 38, 641
+  size: 246, 144
+  orig: 256, 256
+  offset: 5, 111
+  index: -1

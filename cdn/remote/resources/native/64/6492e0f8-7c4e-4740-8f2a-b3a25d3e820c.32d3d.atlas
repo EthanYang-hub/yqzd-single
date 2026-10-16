@@ -1,0 +1,146 @@
+
+ui_hanbing_chouka.png
+size: 2000,969
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_bing
+  rotate: false
+  xy: 1052, 527
+  size: 119, 80
+  orig: 119, 80
+  offset: 0, 0
+  index: -1
+2_bing
+  rotate: true
+  xy: 1763, 192
+  size: 178, 200
+  orig: 228, 209
+  offset: 1, 9
+  index: -1
+3_bing
+  rotate: false
+  xy: 595, 490
+  size: 73, 21
+  orig: 75, 24
+  offset: 1, 2
+  index: -1
+4_bing
+  rotate: false
+  xy: 1430, 328
+  size: 331, 279
+  orig: 331, 279
+  offset: 0, 0
+  index: -1
+5_bing
+  rotate: false
+  xy: 1052, 609
+  size: 507, 358
+  orig: 507, 358
+  offset: 0, 0
+  index: -1
+6_bing
+  rotate: true
+  xy: 1193, 60
+  size: 81, 114
+  orig: 86, 122
+  offset: 1, 4
+  index: -1
+7_bing
+  rotate: false
+  xy: 2, 11
+  size: 457, 465
+  orig: 457, 465
+  offset: 0, 0
+  index: -1
+L_men_1_bing
+  rotate: false
+  xy: 955, 47
+  size: 236, 464
+  orig: 236, 464
+  offset: 0, 0
+  index: -1
+L_men_2_bing
+  rotate: false
+  xy: 461, 2
+  size: 245, 474
+  orig: 249, 477
+  offset: 2, 2
+  index: -1
+R_1
+  rotate: true
+  xy: 1430, 115
+  size: 63, 341
+  orig: 63, 341
+  offset: 0, 0
+  index: -1
+R_2
+  rotate: true
+  xy: 1430, 180
+  size: 146, 300
+  orig: 146, 300
+  offset: 0, 0
+  index: -1
+R_3
+  rotate: true
+  xy: 1309, 11
+  size: 102, 266
+  orig: 102, 266
+  offset: 0, 0
+  index: -1
+R_men_1_bing
+  rotate: false
+  xy: 1193, 143
+  size: 235, 464
+  orig: 235, 464
+  offset: 0, 0
+  index: -1
+R_men_2_bing
+  rotate: false
+  xy: 708, 37
+  size: 245, 474
+  orig: 248, 478
+  offset: 2, 2
+  index: -1
+SRU_RedBuff_CenterGlow
+  rotate: true
+  xy: 1561, 609
+  size: 358, 414
+  orig: 512, 512
+  offset: 70, 46
+  index: -1
+flash_arcane_05
+  rotate: false
+  xy: 1773, 14
+  size: 180, 176
+  orig: 180, 176
+  offset: 0, 0
+  index: -1
+geru
+  rotate: false
+  xy: 595, 513
+  size: 455, 454
+  orig: 483, 484
+  offset: 13, 15
+  index: -1
+men_g_1_bing
+  rotate: false
+  xy: 1763, 372
+  size: 235, 235
+  orig: 235, 235
+  offset: 0, 0
+  index: -1
+men_g_2_bing
+  rotate: false
+  xy: 2, 478
+  size: 591, 489
+  orig: 596, 542
+  offset: 0, 37
+  index: -1
+nocturne_cyber_q_waveys_black
+  rotate: false
+  xy: 1577, 27
+  size: 91, 86
+  orig: 97, 89
+  offset: 3, 1
+  index: -1

@@ -1,0 +1,34 @@
+
+ronghe_head_monster_2017_1_2.png
+size: 431,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 367, 25
+  size: 85, 32
+  orig: 85, 32
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 214, 363
+  orig: 214, 363
+  offset: 0, 0
+  index: -1
+FSGER1
+  rotate: true
+  xy: 401, 59
+  size: 51, 28
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+ggg1
+  rotate: true
+  xy: 367, 112
+  size: 104, 50
+  orig: 120, 52
+  offset: 13, 2
+  index: -1

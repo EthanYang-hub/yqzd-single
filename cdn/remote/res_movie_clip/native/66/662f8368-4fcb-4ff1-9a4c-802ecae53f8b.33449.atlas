@@ -1,0 +1,76 @@
+
+ui_shuijing_shiguan_hit.png
+size: 248,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0240
+  rotate: true
+  xy: 96, 2
+  size: 116, 117
+  orig: 128, 128
+  offset: 8, 4
+  index: -1
+C
+  rotate: false
+  xy: 2, 81
+  size: 92, 165
+  orig: 163, 184
+  offset: 2, 7
+  index: -1
+D
+  rotate: false
+  xy: 96, 120
+  size: 117, 126
+  orig: 123, 133
+  offset: 0, 4
+  index: -1
+bing_1
+  rotate: false
+  xy: 2, 69
+  size: 31, 10
+  orig: 70, 15
+  offset: 21, 3
+  index: -1
+bing_2
+  rotate: false
+  xy: 29, 50
+  size: 15, 9
+  orig: 27, 21
+  offset: 6, 6
+  index: -1
+bing_3
+  rotate: false
+  xy: 2, 49
+  size: 13, 18
+  orig: 25, 29
+  offset: 6, 6
+  index: -1
+bing_4
+  rotate: true
+  xy: 17, 38
+  size: 11, 9
+  orig: 20, 21
+  offset: 5, 6
+  index: -1
+bing_5
+  rotate: true
+  xy: 17, 51
+  size: 16, 10
+  orig: 28, 22
+  offset: 6, 6
+  index: -1
+bing_6
+  rotate: false
+  xy: 35, 61
+  size: 14, 18
+  orig: 26, 29
+  offset: 5, 5
+  index: -1
+bing_7
+  rotate: false
+  xy: 2, 35
+  size: 7, 12
+  orig: 18, 20
+  offset: 5, 4
+  index: -1

@@ -1,0 +1,69 @@
+
+rareSkill_windkill_2_2.png
+size: 1987,1132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: true
+  xy: 1464, 344
+  size: 259, 521
+  orig: 285, 553
+  offset: 0, 29
+  index: -1
+zhaohuan_1
+  rotate: true
+  xy: 2, 2
+  size: 1128, 934
+  orig: 1128, 934
+  offset: 0, 0
+  index: -1
+zhaohuan_2
+  rotate: true
+  xy: 938, 5
+  size: 37, 261
+  orig: 37, 289
+  offset: 0, 2
+  index: -1
+zhaohuan_3
+  rotate: true
+  xy: 938, 5
+  size: 37, 261
+  orig: 37, 289
+  offset: 0, 2
+  index: -1
+zhaohuan_4
+  rotate: false
+  xy: 1563, 827
+  size: 318, 303
+  orig: 318, 303
+  offset: 0, 0
+  index: -1
+zhaohuan_5
+  rotate: false
+  xy: 1464, 54
+  size: 374, 288
+  orig: 374, 288
+  offset: 0, 0
+  index: -1
+zhaohuan_6
+  rotate: true
+  xy: 1563, 615
+  size: 210, 349
+  orig: 288, 427
+  offset: 21, 15
+  index: -1
+zhaohuan_7
+  rotate: false
+  xy: 938, 605
+  size: 623, 525
+  orig: 623, 525
+  offset: 0, 0
+  index: -1
+zhaohuan_8
+  rotate: false
+  xy: 938, 44
+  size: 524, 559
+  orig: 640, 627
+  offset: 65, 40
+  index: -1

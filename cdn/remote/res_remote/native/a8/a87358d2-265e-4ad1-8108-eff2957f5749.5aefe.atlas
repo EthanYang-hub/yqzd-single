@@ -1,0 +1,97 @@
+
+ui_laoshiren_shenqi.png
+size: 1256,1256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0234
+  rotate: false
+  xy: 1030, 785
+  size: 119, 117
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+0662_1
+  rotate: false
+  xy: 516, 484
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+0662_2
+  rotate: false
+  xy: 614, 226
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+0662_3
+  rotate: false
+  xy: 774, 484
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+111_1
+  rotate: false
+  xy: 438, 55
+  size: 174, 171
+  orig: 240, 240
+  offset: 30, 39
+  index: -1
+111_2
+  rotate: true
+  xy: 1030, 1080
+  size: 174, 171
+  orig: 240, 240
+  offset: 30, 39
+  index: -1
+111_3
+  rotate: true
+  xy: 1030, 904
+  size: 174, 171
+  orig: 240, 240
+  offset: 30, 39
+  index: -1
+DeathStatue_boneyClouds_diffAlpha_alabaster
+  rotate: false
+  xy: 872, 226
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+a2dun_Zolt_SandCloud
+  rotate: true
+  xy: 2, 2
+  size: 224, 255
+  orig: 256, 256
+  offset: 2, 1
+  index: -1
+barbarian_groundStompRune_resistance_bloom
+  rotate: false
+  xy: 2, 742
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+barbarian_groundStompRune_slow_bloom
+  rotate: false
+  xy: 2, 228
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+barbarian_groundStompRune_stun_bloom
+  rotate: false
+  xy: 516, 742
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+demonHunter_entangleShot_blackHole
+  rotate: true
+  xy: 259, 52
+  size: 174, 177
+  orig: 256, 256
+  offset: 39, 35
+  index: -1

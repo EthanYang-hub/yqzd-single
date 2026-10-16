@@ -1,0 +1,41 @@
+
+ui_tianshuwudao_erjue_fengyin.png
+size: 513,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengyi
+  rotate: false
+  xy: 2, 2
+  size: 336, 509
+  orig: 336, 515
+  offset: 0, 3
+  index: -1
+fengyintxt
+  rotate: false
+  xy: 340, 385
+  size: 114, 126
+  orig: 114, 126
+  offset: 0, 0
+  index: -1
+yan_1
+  rotate: true
+  xy: 340, 267
+  size: 116, 102
+  orig: 127, 104
+  offset: 6, 1
+  index: -1
+yan_2
+  rotate: false
+  xy: 340, 170
+  size: 101, 95
+  orig: 107, 101
+  offset: 3, 2
+  index: -1
+yan_3
+  rotate: false
+  xy: 340, 79
+  size: 99, 89
+  orig: 109, 96
+  offset: 5, 5
+  index: -1

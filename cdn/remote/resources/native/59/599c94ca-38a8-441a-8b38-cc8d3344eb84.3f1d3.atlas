@@ -1,0 +1,27 @@
+
+UI_fight_huoqujinbi.png
+size: 363,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian
+  rotate: false
+  xy: 260, 63
+  size: 78, 87
+  orig: 128, 128
+  offset: 27, 21
+  index: -1
+raindow
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 260, 152
+  size: 106, 101
+  orig: 128, 128
+  offset: 11, 12
+  index: -1

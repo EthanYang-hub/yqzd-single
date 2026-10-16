@@ -1,0 +1,13 @@
+
+ui_zhanling_guang.png
+size: 318,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HA_AP_explosion_physical_disk
+  rotate: false
+  xy: 2, 188
+  size: 314, 128
+  orig: 512, 128
+  offset: 97, 0
+  index: -1

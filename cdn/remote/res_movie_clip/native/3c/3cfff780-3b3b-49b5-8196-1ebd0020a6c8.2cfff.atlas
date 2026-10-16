@@ -1,0 +1,188 @@
+
+petSkill_dun_3.png
+size: 1385,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hudun
+  rotate: false
+  xy: 632, 396
+  size: 582, 379
+  orig: 648, 503
+  offset: 33, 29
+  index: -1
+hudun_di
+  rotate: false
+  xy: 2, 319
+  size: 628, 456
+  orig: 644, 503
+  offset: 8, 14
+  index: -1
+hudun_wenli
+  rotate: false
+  xy: 390, 128
+  size: 232, 189
+  orig: 256, 256
+  offset: 10, 34
+  index: -1
+hudun_wenli2
+  rotate: false
+  xy: 1014, 138
+  size: 248, 256
+  orig: 256, 256
+  offset: 8, 0
+  index: -1
+qiliu1
+  rotate: false
+  xy: 632, 234
+  size: 380, 160
+  orig: 390, 223
+  offset: 5, 32
+  index: -1
+qiliu2
+  rotate: false
+  xy: 2, 139
+  size: 386, 178
+  orig: 390, 223
+  offset: 4, 21
+  index: -1
+qiliu3
+  rotate: true
+  xy: 1216, 397
+  size: 378, 167
+  orig: 390, 223
+  offset: 8, 22
+  index: -1
+qiliu4
+  rotate: false
+  xy: 2, 34
+  size: 381, 103
+  orig: 390, 223
+  offset: 6, 66
+  index: -1
+qiliuX1
+  rotate: false
+  xy: 1264, 208
+  size: 101, 187
+  orig: 107, 197
+  offset: 4, 1
+  index: -1
+qiliuX2
+  rotate: true
+  xy: 624, 113
+  size: 119, 323
+  orig: 122, 336
+  offset: 0, 6
+  index: -1
+qiliuX3
+  rotate: true
+  xy: 624, 32
+  size: 79, 163
+  orig: 110, 164
+  offset: 26, 0
+  index: -1
+qiliuX4
+  rotate: true
+  xy: 385, 51
+  size: 75, 237
+  orig: 77, 250
+  offset: 1, 5
+  index: -1
+shuye_1
+  rotate: true
+  xy: 385, 36
+  size: 13, 16
+  orig: 14, 17
+  offset: 0, 1
+  index: -1
+shuye_10
+  rotate: false
+  xy: 2, 9
+  size: 43, 23
+  orig: 76, 40
+  offset: 0, 17
+  index: -1
+shuye_2
+  rotate: true
+  xy: 1335, 55
+  size: 36, 40
+  orig: 45, 44
+  offset: 7, 1
+  index: -1
+shuye_3
+  rotate: true
+  xy: 890, 16
+  size: 95, 81
+  orig: 97, 81
+  offset: 2, 0
+  index: -1
+shuye_4
+  rotate: false
+  xy: 949, 166
+  size: 61, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+shuye_5
+  rotate: false
+  xy: 1221, 2
+  size: 58, 51
+  orig: 60, 52
+  offset: 2, 0
+  index: -1
+shuye_6
+  rotate: true
+  xy: 1327, 16
+  size: 37, 39
+  orig: 41, 55
+  offset: 4, 3
+  index: -1
+shuye_7
+  rotate: false
+  xy: 1281, 18
+  size: 44, 35
+  orig: 56, 43
+  offset: 10, 0
+  index: -1
+shuye_8
+  rotate: false
+  xy: 1262, 55
+  size: 71, 36
+  orig: 73, 37
+  offset: 1, 1
+  index: -1
+shuye_9
+  rotate: true
+  xy: 1221, 63
+  size: 73, 39
+  orig: 102, 70
+  offset: 17, 19
+  index: -1
+xql1
+  rotate: false
+  xy: 1264, 93
+  size: 113, 113
+  orig: 128, 128
+  offset: 6, 9
+  index: -1
+xql2
+  rotate: true
+  xy: 973, 19
+  size: 117, 121
+  orig: 128, 128
+  offset: 4, 6
+  index: -1
+xql3
+  rotate: true
+  xy: 1096, 25
+  size: 111, 123
+  orig: 128, 128
+  offset: 8, 5
+  index: -1
+xql4
+  rotate: false
+  xy: 789, 12
+  size: 99, 99
+  orig: 128, 128
+  offset: 17, 12
+  index: -1

@@ -1,0 +1,62 @@
+
+ui_juedoujiesuan1.png
+size: 1184,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_juedouchangdi-11
+  rotate: true
+  xy: 2, 410
+  size: 618, 619
+  orig: 618, 619
+  offset: 0, 0
+  index: -1
+huaban-6110331551
+  rotate: true
+  xy: 623, 460
+  size: 568, 559
+  orig: 602, 584
+  offset: 21, 11
+  index: -1
+huaban-6485016613
+  rotate: true
+  xy: 623, 6
+  size: 452, 459
+  orig: 512, 512
+  offset: 25, 31
+  index: -1
+huaban-6485016647
+  rotate: true
+  xy: 2, 184
+  size: 224, 225
+  orig: 256, 256
+  offset: 16, 14
+  index: -1
+huaban-7059217315
+  rotate: false
+  xy: 229, 2
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1
+huaban-7059217603
+  rotate: false
+  xy: 229, 198
+  size: 199, 210
+  orig: 200, 210
+  offset: 0, 0
+  index: -1
+huaban-7107867422
+  rotate: true
+  xy: 430, 212
+  size: 196, 191
+  orig: 200, 194
+  offset: 3, 2
+  index: -1
+huaban-7227217671
+  rotate: false
+  xy: 2, 12
+  size: 152, 170
+  orig: 200, 200
+  offset: 23, 17
+  index: -1

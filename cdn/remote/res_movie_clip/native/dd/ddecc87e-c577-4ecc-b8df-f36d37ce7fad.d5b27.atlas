@@ -1,0 +1,167 @@
+
+rareSkill_bell.png
+size: 1592,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DeathScythe01
+  rotate: true
+  xy: 1397, 2
+  size: 105, 114
+  orig: 106, 115
+  offset: 1, 0
+  index: -1
+Karthus_Base_E_ManaDrain
+  rotate: false
+  xy: 454, 269
+  size: 443, 84
+  orig: 443, 84
+  offset: 0, 0
+  index: -1
+bowen
+  rotate: false
+  xy: 656, 34
+  size: 226, 233
+  orig: 256, 256
+  offset: 15, 16
+  index: -1
+lingdang_4
+  rotate: true
+  xy: 900, 7
+  size: 389, 416
+  orig: 504, 569
+  offset: 49, 71
+  index: -1
+nuo_4
+  rotate: true
+  xy: 900, 7
+  size: 389, 416
+  orig: 504, 569
+  offset: 49, 71
+  index: -1
+nuo_2
+  rotate: true
+  xy: 1339, 237
+  size: 284, 197
+  orig: 314, 367
+  offset: 20, 76
+  index: -1
+nuo_3_1
+  rotate: true
+  xy: 2, 31
+  size: 271, 402
+  orig: 380, 448
+  offset: 14, 5
+  index: -1
+nuo_3_2
+  rotate: false
+  xy: 1397, 109
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+qi_1
+  rotate: false
+  xy: 1318, 47
+  size: 77, 188
+  orig: 77, 188
+  offset: 0, 0
+  index: -1
+qi_2
+  rotate: true
+  xy: 900, 398
+  size: 374, 437
+  orig: 374, 437
+  offset: 0, 0
+  index: -1
+qi_3
+  rotate: false
+  xy: 2, 304
+  size: 450, 468
+  orig: 450, 468
+  offset: 0, 0
+  index: -1
+qi_4
+  rotate: false
+  xy: 454, 355
+  size: 444, 417
+  orig: 444, 417
+  offset: 0, 0
+  index: -1
+stormArmor_duration_glow
+  rotate: false
+  xy: 1339, 523
+  size: 249, 249
+  orig: 256, 256
+  offset: 7, 0
+  index: -1
+tornado_spiral2
+  rotate: false
+  xy: 406, 32
+  size: 248, 235
+  orig: 256, 256
+  offset: 0, 11
+  index: -1
+xz_01
+  rotate: true
+  xy: 1533, 112
+  size: 41, 37
+  orig: 100, 100
+  offset: 8, 28
+  index: -1
+xz_02
+  rotate: false
+  xy: 1318, 4
+  size: 70, 41
+  orig: 100, 100
+  offset: 7, 22
+  index: -1
+xz_03
+  rotate: true
+  xy: 1513, 26
+  size: 81, 40
+  orig: 100, 100
+  offset: 8, 22
+  index: -1
+xz_04
+  rotate: true
+  xy: 1538, 438
+  size: 83, 39
+  orig: 100, 100
+  offset: 8, 21
+  index: -1
+xz_06
+  rotate: true
+  xy: 1538, 352
+  size: 84, 37
+  orig: 100, 100
+  offset: 9, 21
+  index: -1
+xz_08
+  rotate: true
+  xy: 1538, 266
+  size: 84, 35
+  orig: 100, 100
+  offset: 8, 21
+  index: -1
+xz_10
+  rotate: true
+  xy: 1533, 155
+  size: 80, 35
+  orig: 100, 100
+  offset: 10, 21
+  index: -1
+xz_12
+  rotate: true
+  xy: 1555, 30
+  size: 80, 35
+  orig: 100, 100
+  offset: 10, 22
+  index: -1
+xz_14
+  rotate: false
+  xy: 2, 12
+  size: 22, 17
+  orig: 100, 100
+  offset: 68, 29
+  index: -1

@@ -1,0 +1,34 @@
+
+ui_fuzhou_yin_anniu.png
+size: 229,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yin_an
+  rotate: false
+  xy: 127, 92
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+yin_jiantou_1
+  rotate: true
+  xy: 2, 2
+  size: 67, 74
+  orig: 76, 86
+  offset: 3, 6
+  index: -1
+yin_jiantou_2
+  rotate: false
+  xy: 127, 13
+  size: 90, 77
+  orig: 104, 101
+  offset: 13, 12
+  index: -1
+yin_liang
+  rotate: false
+  xy: 2, 71
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1

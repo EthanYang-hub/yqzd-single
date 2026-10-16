@@ -1,0 +1,48 @@
+
+ronghe_leg_monster_2020.png
+size: 172,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: true
+  xy: 2, 49
+  size: 227, 136
+  orig: 227, 136
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 21
+  size: 26, 168
+  orig: 26, 168
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 140, 108
+  size: 27, 168
+  orig: 29, 168
+  offset: 2, 0
+  index: -1
+6
+  rotate: true
+  xy: 53, 8
+  size: 11, 49
+  orig: 11, 49
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 2
+  size: 17, 49
+  orig: 17, 49
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 140, 68
+  size: 29, 38
+  orig: 43, 57
+  offset: 0, 2
+  index: -1

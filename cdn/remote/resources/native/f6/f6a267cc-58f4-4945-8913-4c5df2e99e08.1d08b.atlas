@@ -1,0 +1,90 @@
+
+zhandou_pet_shanhuagui.png
+size: 348,745
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1yanguang
+  rotate: false
+  xy: 241, 305
+  size: 104, 50
+  orig: 120, 52
+  offset: 13, 2
+  index: -1
+A_ren_1
+  rotate: false
+  xy: 183, 5
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+A_ren_2
+  rotate: false
+  xy: 241, 112
+  size: 91, 135
+  orig: 91, 135
+  offset: 0, 0
+  index: -1
+A_ren_3
+  rotate: true
+  xy: 2, 98
+  size: 74, 144
+  orig: 141, 144
+  offset: 67, 0
+  index: -1
+A_ren_4
+  rotate: true
+  xy: 241, 249
+  size: 54, 103
+  orig: 54, 103
+  offset: 0, 0
+  index: -1
+A_ren_5
+  rotate: false
+  xy: 241, 2
+  size: 84, 108
+  orig: 84, 108
+  offset: 0, 0
+  index: -1
+A_ren_6
+  rotate: false
+  xy: 327, 86
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+A_ren_7
+  rotate: false
+  xy: 148, 52
+  size: 91, 120
+  orig: 91, 120
+  offset: 0, 0
+  index: -1
+A_ren_8
+  rotate: false
+  xy: 2, 174
+  size: 237, 181
+  orig: 237, 181
+  offset: 0, 0
+  index: -1
+A_shu_1
+  rotate: true
+  xy: 114, 6
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+A_shu_2
+  rotate: false
+  xy: 2, 357
+  size: 343, 386
+  orig: 343, 386
+  offset: 0, 0
+  index: -1
+A_shu_3
+  rotate: true
+  xy: 2, 51
+  size: 45, 110
+  orig: 45, 110
+  offset: 0, 0
+  index: -1

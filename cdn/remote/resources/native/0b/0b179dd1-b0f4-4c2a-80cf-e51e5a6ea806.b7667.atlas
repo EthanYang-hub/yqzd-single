@@ -1,0 +1,62 @@
+
+ui_huangquan_shuijing.png
+size: 943,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 599, 65
+  size: 192, 151
+  orig: 192, 151
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 599, 218
+  size: 218, 135
+  orig: 218, 135
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 599, 355
+  size: 236, 157
+  orig: 249, 168
+  offset: 9, 6
+  index: -1
+4
+  rotate: false
+  xy: 2, 2
+  size: 595, 510
+  orig: 595, 510
+  offset: 0, 0
+  index: -1
+F1
+  rotate: false
+  xy: 837, 393
+  size: 102, 119
+  orig: 108, 123
+  offset: 5, 1
+  index: -1
+F2
+  rotate: false
+  xy: 793, 26
+  size: 98, 111
+  orig: 102, 118
+  offset: 3, 6
+  index: -1
+F3
+  rotate: false
+  xy: 837, 270
+  size: 93, 121
+  orig: 109, 123
+  offset: 8, 1
+  index: -1
+F4
+  rotate: true
+  xy: 819, 139
+  size: 129, 122
+  orig: 131, 123
+  offset: 1, 0
+  index: -1

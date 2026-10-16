@@ -1,0 +1,62 @@
+
+ui_tianshuwudao_qiehuan.png
+size: 804,804
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 2, 671
+  size: 131, 131
+  orig: 133, 133
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 268, 664
+  size: 144, 138
+  orig: 168, 150
+  offset: 15, 3
+  index: -1
+a3
+  rotate: false
+  xy: 560, 589
+  size: 242, 213
+  orig: 442, 349
+  offset: 79, 100
+  index: -1
+a4
+  rotate: false
+  xy: 2, 523
+  size: 498, 139
+  orig: 552, 141
+  offset: 17, 1
+  index: -1
+b1
+  rotate: false
+  xy: 135, 671
+  size: 131, 131
+  orig: 133, 133
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 414, 664
+  size: 144, 138
+  orig: 168, 150
+  offset: 15, 3
+  index: -1
+b3
+  rotate: false
+  xy: 502, 374
+  size: 242, 213
+  orig: 442, 349
+  offset: 79, 100
+  index: -1
+b4
+  rotate: false
+  xy: 2, 382
+  size: 498, 139
+  orig: 552, 141
+  offset: 17, 1
+  index: -1

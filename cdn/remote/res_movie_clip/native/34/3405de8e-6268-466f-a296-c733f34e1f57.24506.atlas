@@ -1,0 +1,125 @@
+
+monster_3004_bullet.png
+size: 396,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi1
+  rotate: false
+  xy: 158, 356
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+sj4_035
+  rotate: false
+  xy: 158, 215
+  size: 108, 100
+  orig: 116, 108
+  offset: 4, 5
+  index: -1
+sj4_036
+  rotate: false
+  xy: 176, 317
+  size: 110, 100
+  orig: 117, 104
+  offset: 4, 2
+  index: -1
+sj4_037
+  rotate: false
+  xy: 176, 419
+  size: 114, 101
+  orig: 120, 107
+  offset: 3, 3
+  index: -1
+sj4_038
+  rotate: false
+  xy: 2, 2
+  size: 111, 103
+  orig: 119, 109
+  offset: 4, 3
+  index: -1
+sj4_039
+  rotate: false
+  xy: 2, 107
+  size: 110, 105
+  orig: 120, 111
+  offset: 5, 3
+  index: -1
+sj4_040
+  rotate: false
+  xy: 268, 204
+  size: 107, 105
+  orig: 116, 111
+  offset: 5, 3
+  index: -1
+sj4_041
+  rotate: false
+  xy: 288, 311
+  size: 106, 106
+  orig: 116, 112
+  offset: 6, 3
+  index: -1
+sj4_042
+  rotate: false
+  xy: 114, 107
+  size: 103, 105
+  orig: 114, 112
+  offset: 5, 3
+  index: -1
+sj4_043
+  rotate: true
+  xy: 292, 419
+  size: 101, 102
+  orig: 113, 112
+  offset: 4, 5
+  index: -1
+sj4_044
+  rotate: false
+  xy: 213, 8
+  size: 92, 96
+  orig: 106, 109
+  offset: 5, 8
+  index: -1
+sj4_045
+  rotate: false
+  xy: 317, 110
+  size: 68, 92
+  orig: 83, 108
+  offset: 7, 10
+  index: -1
+skeletonKingGhost_ectoPlasm
+  rotate: false
+  xy: 2, 214
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+storm_death_smoke2b
+  rotate: false
+  xy: 219, 106
+  size: 96, 96
+  orig: 96, 97
+  offset: 0, 1
+  index: -1
+storm_death_smoke2b_blur
+  rotate: false
+  xy: 307, 17
+  size: 87, 87
+  orig: 90, 90
+  offset: 1, 2
+  index: -1
+storm_death_smoke2c
+  rotate: false
+  xy: 115, 8
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+storm_death_smoke4
+  rotate: false
+  xy: 2, 370
+  size: 172, 150
+  orig: 185, 155
+  offset: 8, 2
+  index: -1

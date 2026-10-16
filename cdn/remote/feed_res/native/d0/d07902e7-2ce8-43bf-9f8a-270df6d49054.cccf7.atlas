@@ -1,0 +1,27 @@
+
+rareSkill_icegirl_summon.png
+size: 306,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_lan
+  rotate: false
+  xy: 2, 2
+  size: 236, 235
+  orig: 256, 256
+  offset: 10, 10
+  index: -1
+xuehua_zhu
+  rotate: false
+  xy: 240, 173
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+yanwu_1
+  rotate: false
+  xy: 240, 115
+  size: 56, 56
+  orig: 64, 64
+  offset: 5, 4
+  index: -1

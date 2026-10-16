@@ -1,0 +1,48 @@
+
+zhandou_pet_jiangshi.png
+size: 576,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: true
+  xy: 2, 2
+  size: 22, 470
+  orig: 22, 470
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 126, 180
+  size: 23, 448
+  orig: 23, 448
+  offset: 0, 0
+  index: -1
+A1
+  rotate: true
+  xy: 126, 26
+  size: 152, 150
+  orig: 152, 150
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 412, 51
+  size: 155, 127
+  orig: 155, 127
+  offset: 0, 0
+  index: -1
+B1
+  rotate: true
+  xy: 2, 26
+  size: 177, 122
+  orig: 177, 122
+  offset: 0, 0
+  index: -1
+B2
+  rotate: true
+  xy: 278, 44
+  size: 134, 132
+  orig: 136, 132
+  offset: 0, 0
+  index: -1

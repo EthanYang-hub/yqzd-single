@@ -1,0 +1,111 @@
+
+ui_fengdu_hit.png
+size: 672,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit_22
+  rotate: true
+  xy: 516, 264
+  size: 230, 154
+  orig: 255, 186
+  offset: 14, 10
+  index: -1
+hit_a_1
+  rotate: true
+  xy: 545, 177
+  size: 15, 28
+  orig: 16, 40
+  offset: 0, 7
+  index: -1
+hit_a_10
+  rotate: true
+  xy: 587, 224
+  size: 6, 15
+  orig: 11, 26
+  offset: 2, 5
+  index: -1
+hit_a_11
+  rotate: true
+  xy: 516, 218
+  size: 44, 38
+  orig: 60, 46
+  offset: 6, 1
+  index: -1
+hit_a_12
+  rotate: false
+  xy: 604, 251
+  size: 21, 11
+  orig: 29, 31
+  offset: 7, 7
+  index: -1
+hit_a_13
+  rotate: false
+  xy: 545, 194
+  size: 27, 22
+  orig: 47, 44
+  offset: 8, 10
+  index: -1
+hit_a_2
+  rotate: false
+  xy: 516, 157
+  size: 27, 59
+  orig: 43, 76
+  offset: 6, 8
+  index: -1
+hit_a_3
+  rotate: true
+  xy: 516, 88
+  size: 27, 30
+  orig: 35, 42
+  offset: 3, 5
+  index: -1
+hit_a_4
+  rotate: true
+  xy: 516, 117
+  size: 38, 27
+  orig: 47, 36
+  offset: 8, 4
+  index: -1
+hit_a_5
+  rotate: false
+  xy: 587, 232
+  size: 25, 11
+  orig: 30, 13
+  offset: 4, 2
+  index: -1
+hit_a_6
+  rotate: false
+  xy: 556, 241
+  size: 25, 21
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+hit_a_7
+  rotate: false
+  xy: 556, 220
+  size: 29, 19
+  orig: 39, 30
+  offset: 0, 2
+  index: -1
+hit_a_8
+  rotate: true
+  xy: 574, 206
+  size: 12, 18
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+hit_a_9
+  rotate: true
+  xy: 583, 245
+  size: 17, 19
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+storm_fractalsmoke1b
+  rotate: false
+  xy: 2, 2
+  size: 512, 492
+  orig: 512, 512
+  offset: 0, 20
+  index: -1

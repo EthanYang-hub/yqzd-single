@@ -1,0 +1,104 @@
+
+ui_saiji_beijing.png
+size: 1797,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_saiji_beijing-1
+  rotate: true
+  xy: 2, 269
+  size: 255, 519
+  orig: 255, 519
+  offset: 0, 0
+  index: -1
+ui_saiji_beijing-10
+  rotate: true
+  xy: 1686, 204
+  size: 320, 80
+  orig: 322, 81
+  offset: 1, 1
+  index: -1
+ui_saiji_beijing-11
+  rotate: true
+  xy: 464, 129
+  size: 138, 46
+  orig: 139, 47
+  offset: 1, 1
+  index: -1
+ui_saiji_beijing-12
+  rotate: true
+  xy: 1352, 289
+  size: 164, 39
+  orig: 165, 39
+  offset: 0, 0
+  index: -1
+ui_saiji_beijing-13
+  rotate: false
+  xy: 299, 38
+  size: 208, 58
+  orig: 209, 58
+  offset: 0, 0
+  index: -1
+ui_saiji_beijing-14
+  rotate: false
+  xy: 1105, 281
+  size: 245, 172
+  orig: 261, 173
+  offset: 2, 0
+  index: -1
+ui_saiji_beijing-2
+  rotate: true
+  xy: 523, 278
+  size: 246, 580
+  orig: 246, 580
+  offset: 0, 0
+  index: -1
+ui_saiji_beijing-3
+  rotate: false
+  xy: 2, 98
+  size: 460, 169
+  orig: 470, 175
+  offset: 10, 6
+  index: -1
+ui_saiji_beijing-4
+  rotate: false
+  xy: 1105, 455
+  size: 250, 69
+  orig: 266, 71
+  offset: 15, 1
+  index: -1
+ui_saiji_beijing-5
+  rotate: false
+  xy: 2, 2
+  size: 295, 94
+  orig: 295, 94
+  offset: 0, 0
+  index: -1
+ui_saiji_beijing-6
+  rotate: true
+  xy: 1534, 124
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+ui_saiji_beijing-7
+  rotate: false
+  xy: 1412, 6
+  size: 383, 109
+  orig: 383, 109
+  offset: 0, 0
+  index: -1
+ui_saiji_beijing-8
+  rotate: true
+  xy: 1412, 117
+  size: 407, 120
+  orig: 407, 120
+  offset: 0, 0
+  index: -1
+ui_saiji_beijing-9
+  rotate: false
+  xy: 523, 46
+  size: 887, 230
+  orig: 887, 230
+  offset: 0, 0
+  index: -1

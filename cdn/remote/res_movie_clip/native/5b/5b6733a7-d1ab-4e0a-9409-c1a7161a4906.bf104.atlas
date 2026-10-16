@@ -1,0 +1,62 @@
+
+sanskill_jianyu.png
+size: 1091,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DH_safetyShot_ember
+  rotate: false
+  xy: 1025, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+eye_lwy_t_ptc_24_single
+  rotate: true
+  xy: 2, 6
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+sj1_019
+  rotate: true
+  xy: 753, 2
+  size: 106, 108
+  orig: 109, 109
+  offset: 1, 1
+  index: -1
+sj1_020
+  rotate: false
+  xy: 260, 7
+  size: 154, 127
+  orig: 157, 128
+  offset: 1, 1
+  index: -1
+sj1_021
+  rotate: false
+  xy: 416, 12
+  size: 171, 122
+  orig: 172, 124
+  offset: 0, 2
+  index: -1
+sj1_022
+  rotate: false
+  xy: 589, 24
+  size: 162, 110
+  orig: 167, 110
+  offset: 1, 0
+  index: -1
+sj1_023
+  rotate: false
+  xy: 863, 23
+  size: 160, 85
+  orig: 160, 87
+  offset: 0, 2
+  index: -1
+v
+  rotate: false
+  xy: 753, 110
+  size: 333, 24
+  orig: 346, 26
+  offset: 1, 2
+  index: -1

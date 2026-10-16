@@ -1,0 +1,48 @@
+
+ronghe_weapon_elite monster_2022.png
+size: 1158,1014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 1023, 778
+  size: 133, 234
+  orig: 133, 234
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1042, 348
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1023, 416
+  size: 93, 221
+  orig: 93, 221
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1023, 639
+  size: 137, 111
+  orig: 137, 111
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1023, 15
+  size: 17, 399
+  orig: 17, 399
+  offset: 0, 0
+  index: -1
+feng
+  rotate: true
+  xy: 2, 2
+  size: 1010, 1019
+  orig: 1010, 1019
+  offset: 0, 0
+  index: -1

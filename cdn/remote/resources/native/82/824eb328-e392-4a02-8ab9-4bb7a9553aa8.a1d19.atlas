@@ -1,0 +1,132 @@
+
+changjing_yinxu_shixiang.png
+size: 1612,686
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1026, 346
+  size: 217, 163
+  orig: 217, 163
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1501, 94
+  size: 98, 87
+  orig: 98, 89
+  offset: 0, 1
+  index: -1
+11
+  rotate: false
+  xy: 1026, 19
+  size: 192, 163
+  orig: 194, 165
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 1456, 183
+  size: 149, 68
+  orig: 149, 68
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 1252, 478
+  size: 102, 222
+  orig: 105, 223
+  offset: 1, 1
+  index: -1
+14
+  rotate: false
+  xy: 1414, 69
+  size: 85, 112
+  orig: 85, 112
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1026, 184
+  size: 214, 160
+  orig: 214, 161
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1501, 5
+  size: 98, 87
+  orig: 98, 89
+  offset: 0, 1
+  index: -1
+17
+  rotate: false
+  xy: 1220, 19
+  size: 192, 163
+  orig: 194, 165
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 1476, 502
+  size: 127, 182
+  orig: 141, 190
+  offset: 0, 1
+  index: -1
+3
+  rotate: false
+  xy: 1026, 511
+  size: 224, 173
+  orig: 245, 182
+  offset: 21, 9
+  index: -1
+4
+  rotate: false
+  xy: 1476, 323
+  size: 127, 177
+  orig: 134, 178
+  offset: 0, 1
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 1022, 682
+  orig: 1253, 692
+  offset: 131, 10
+  index: -1
+6
+  rotate: false
+  xy: 1461, 253
+  size: 149, 68
+  orig: 149, 68
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 1252, 582
+  size: 102, 222
+  orig: 105, 223
+  offset: 2, 1
+  index: -1
+8
+  rotate: true
+  xy: 1342, 229
+  size: 85, 112
+  orig: 85, 112
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1245, 316
+  size: 214, 160
+  orig: 214, 161
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 1242, 200
+  size: 98, 114
+  orig: 102, 122
+  offset: 2, 4
+  index: -1

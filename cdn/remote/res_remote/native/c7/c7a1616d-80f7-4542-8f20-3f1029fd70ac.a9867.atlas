@@ -1,0 +1,146 @@
+
+ui_fengdu_zhanfaup.png
+size: 475,391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+856
+  rotate: false
+  xy: 2, 60
+  size: 281, 329
+  orig: 322, 384
+  offset: 16, 29
+  index: -1
+A_01
+  rotate: false
+  xy: 173, 3
+  size: 84, 17
+  orig: 86, 17
+  offset: 0, 0
+  index: -1
+A_02
+  rotate: true
+  xy: 456, 224
+  size: 165, 17
+  orig: 168, 17
+  offset: 0, 0
+  index: -1
+A_03
+  rotate: true
+  xy: 418, 143
+  size: 246, 17
+  orig: 250, 17
+  offset: 0, 0
+  index: -1
+A_04
+  rotate: true
+  xy: 361, 61
+  size: 328, 17
+  orig: 332, 17
+  offset: 0, 0
+  index: -1
+A_05
+  rotate: true
+  xy: 285, 2
+  size: 387, 17
+  orig: 387, 17
+  offset: 0, 0
+  index: -1
+A_06
+  rotate: true
+  xy: 304, 2
+  size: 387, 17
+  orig: 387, 17
+  offset: 0, 0
+  index: -1
+A_07
+  rotate: true
+  xy: 323, 18
+  size: 371, 17
+  orig: 375, 17
+  offset: 4, 0
+  index: -1
+A_08
+  rotate: true
+  xy: 342, 47
+  size: 342, 17
+  orig: 347, 17
+  offset: 5, 0
+  index: -1
+A_09
+  rotate: true
+  xy: 380, 76
+  size: 313, 17
+  orig: 317, 17
+  offset: 4, 0
+  index: -1
+A_10
+  rotate: true
+  xy: 399, 105
+  size: 284, 17
+  orig: 289, 17
+  offset: 5, 0
+  index: -1
+A_11
+  rotate: false
+  xy: 2, 41
+  size: 256, 17
+  orig: 260, 17
+  offset: 4, 0
+  index: -1
+A_12
+  rotate: false
+  xy: 2, 22
+  size: 227, 17
+  orig: 231, 17
+  offset: 4, 0
+  index: -1
+A_13
+  rotate: true
+  xy: 437, 191
+  size: 198, 17
+  orig: 203, 17
+  offset: 5, 0
+  index: -1
+A_14
+  rotate: false
+  xy: 2, 3
+  size: 169, 17
+  orig: 173, 17
+  offset: 4, 0
+  index: -1
+A_15
+  rotate: true
+  xy: 437, 49
+  size: 140, 17
+  orig: 145, 17
+  offset: 5, 0
+  index: -1
+A_16
+  rotate: true
+  xy: 418, 30
+  size: 111, 17
+  orig: 116, 17
+  offset: 5, 0
+  index: -1
+A_17
+  rotate: true
+  xy: 399, 20
+  size: 83, 17
+  orig: 87, 17
+  offset: 4, 0
+  index: -1
+A_18
+  rotate: true
+  xy: 380, 20
+  size: 54, 17
+  orig: 59, 17
+  offset: 5, 0
+  index: -1
+A_19
+  rotate: false
+  xy: 231, 22
+  size: 25, 17
+  orig: 30, 17
+  offset: 5, 0
+  index: -1

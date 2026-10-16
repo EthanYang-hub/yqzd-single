@@ -1,0 +1,20 @@
+
+ui_fengdu_denglong.png
+size: 276,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 205, 2
+  size: 69, 282
+  orig: 69, 282
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 82
+  size: 201, 202
+  orig: 280, 280
+  offset: 39, 38
+  index: -1

@@ -1,0 +1,62 @@
+
+ui_yan_battle_4.png
+size: 679,924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hu_guang
+  rotate: false
+  xy: 248, 8
+  size: 75, 115
+  orig: 111, 170
+  offset: 8, 24
+  index: -1
+hu_huo1
+  rotate: true
+  xy: 2, 2
+  size: 121, 244
+  orig: 121, 244
+  offset: 0, 0
+  index: -1
+hu_huo2
+  rotate: false
+  xy: 391, 486
+  size: 246, 436
+  orig: 246, 436
+  offset: 0, 0
+  index: -1
+hu_shadow
+  rotate: true
+  xy: 416, 56
+  size: 428, 261
+  orig: 534, 279
+  offset: 15, 10
+  index: -1
+hu_shen
+  rotate: true
+  xy: 2, 125
+  size: 350, 412
+  orig: 352, 414
+  offset: 1, 1
+  index: -1
+hu_shen_guang
+  rotate: false
+  xy: 2, 477
+  size: 387, 445
+  orig: 393, 454
+  offset: 3, 5
+  index: -1
+hu_yan
+  rotate: true
+  xy: 385, 5
+  size: 49, 60
+  orig: 184, 192
+  offset: 29, 25
+  index: -1
+hu_yan_guang
+  rotate: true
+  xy: 325, 19
+  size: 104, 58
+  orig: 128, 87
+  offset: 10, 20
+  index: -1

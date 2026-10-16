@@ -1,0 +1,55 @@
+
+changjing_002_zhizhu.png
+size: 356,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhizhu_1
+  rotate: true
+  xy: 43, 6
+  size: 157, 101
+  orig: 157, 101
+  offset: 0, 0
+  index: -1
+zhizhu_2
+  rotate: true
+  xy: 146, 59
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+zhizhu_3
+  rotate: false
+  xy: 2, 3
+  size: 39, 160
+  orig: 39, 160
+  offset: 0, 0
+  index: -1
+zhizhu_4
+  rotate: false
+  xy: 146, 3
+  size: 95, 54
+  orig: 96, 56
+  offset: 0, 1
+  index: -1
+zhizhu_5
+  rotate: true
+  xy: 309, 78
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+zhizhu_7
+  rotate: true
+  xy: 235, 66
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+zhizhu_8
+  rotate: false
+  xy: 243, 2
+  size: 81, 62
+  orig: 81, 62
+  offset: 0, 0
+  index: -1

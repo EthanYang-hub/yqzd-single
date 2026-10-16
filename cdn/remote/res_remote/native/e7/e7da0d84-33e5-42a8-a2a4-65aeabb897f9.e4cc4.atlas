@@ -1,0 +1,125 @@
+
+ui_fengdu_k_fire.png
+size: 639,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 254, 2
+  size: 97, 43
+  orig: 109, 68
+  offset: 11, 2
+  index: -1
+a2
+  rotate: true
+  xy: 578, 209
+  size: 78, 59
+  orig: 112, 66
+  offset: 29, 3
+  index: -1
+a3
+  rotate: false
+  xy: 356, 165
+  size: 90, 122
+  orig: 97, 131
+  offset: 2, 1
+  index: -1
+a4
+  rotate: true
+  xy: 511, 194
+  size: 93, 65
+  orig: 130, 80
+  offset: 20, 4
+  index: -1
+b1
+  rotate: false
+  xy: 227, 89
+  size: 156, 54
+  orig: 191, 117
+  offset: 16, 49
+  index: -1
+b2
+  rotate: false
+  xy: 385, 111
+  size: 134, 52
+  orig: 169, 85
+  offset: 28, 15
+  index: -1
+b3
+  rotate: false
+  xy: 254, 47
+  size: 195, 40
+  orig: 223, 87
+  offset: 1, 29
+  index: -1
+b4
+  rotate: false
+  xy: 2, 82
+  size: 223, 61
+  orig: 256, 94
+  offset: 31, 24
+  index: -1
+c1
+  rotate: true
+  xy: 537, 63
+  size: 68, 65
+  orig: 85, 72
+  offset: 2, 6
+  index: -1
+c2
+  rotate: false
+  xy: 134, 2
+  size: 118, 78
+  orig: 130, 91
+  offset: 2, 6
+  index: -1
+c3
+  rotate: false
+  xy: 2, 2
+  size: 130, 78
+  orig: 153, 91
+  offset: 22, 6
+  index: -1
+c4
+  rotate: false
+  xy: 451, 18
+  size: 84, 91
+  orig: 113, 94
+  offset: 20, 2
+  index: -1
+d1
+  rotate: false
+  xy: 448, 173
+  size: 61, 114
+  orig: 75, 122
+  offset: 5, 5
+  index: -1
+d2
+  rotate: true
+  xy: 521, 133
+  size: 59, 90
+  orig: 72, 100
+  offset: 10, 7
+  index: -1
+d3
+  rotate: true
+  xy: 537, 23
+  size: 38, 84
+  orig: 44, 84
+  offset: 6, 0
+  index: -1
+d4
+  rotate: true
+  xy: 353, 2
+  size: 43, 96
+  orig: 60, 108
+  offset: 14, 11
+  index: -1
+ddd
+  rotate: false
+  xy: 2, 145
+  size: 352, 142
+  orig: 630, 317
+  offset: 110, 65
+  index: -1

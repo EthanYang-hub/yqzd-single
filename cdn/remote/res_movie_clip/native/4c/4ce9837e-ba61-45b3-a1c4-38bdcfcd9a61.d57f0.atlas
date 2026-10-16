@@ -1,0 +1,97 @@
+
+rareSkill_ice_2_bullet.png
+size: 458,975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feibiao_1
+  rotate: false
+  xy: 2, 251
+  size: 368, 368
+  orig: 368, 368
+  offset: 0, 0
+  index: -1
+feibiao_2
+  rotate: false
+  xy: 2, 2
+  size: 244, 247
+  orig: 252, 256
+  offset: 4, 5
+  index: -1
+feibiao_3
+  rotate: true
+  xy: 2, 621
+  size: 352, 408
+  orig: 521, 534
+  offset: 87, 27
+  index: -1
+fire_1
+  rotate: true
+  xy: 372, 529
+  size: 90, 77
+  orig: 94, 82
+  offset: 2, 2
+  index: -1
+fire_10
+  rotate: false
+  xy: 248, 58
+  size: 197, 191
+  orig: 308, 365
+  offset: 104, 11
+  index: -1
+fire_2
+  rotate: true
+  xy: 372, 441
+  size: 86, 80
+  orig: 90, 86
+  offset: 2, 3
+  index: -1
+fire_3
+  rotate: false
+  xy: 372, 339
+  size: 64, 100
+  orig: 68, 104
+  offset: 2, 2
+  index: -1
+fire_4
+  rotate: true
+  xy: 412, 754
+  size: 16, 39
+  orig: 20, 44
+  offset: 2, 1
+  index: -1
+fire_5
+  rotate: false
+  xy: 412, 772
+  size: 36, 21
+  orig: 41, 26
+  offset: 4, 2
+  index: -1
+fire_6
+  rotate: true
+  xy: 412, 795
+  size: 23, 36
+  orig: 28, 40
+  offset: 3, 0
+  index: -1
+fire_7
+  rotate: true
+  xy: 412, 820
+  size: 30, 32
+  orig: 34, 36
+  offset: 3, 1
+  index: -1
+fire_8
+  rotate: true
+  xy: 412, 852
+  size: 59, 44
+  orig: 64, 49
+  offset: 2, 3
+  index: -1
+fire_9
+  rotate: false
+  xy: 412, 913
+  size: 44, 60
+  orig: 48, 64
+  offset: 1, 3
+  index: -1

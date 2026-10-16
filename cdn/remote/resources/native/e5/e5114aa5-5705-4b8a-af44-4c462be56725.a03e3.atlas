@@ -1,0 +1,48 @@
+
+changjing_wuxing.png
+size: 684,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 374, 59
+  size: 146, 68
+  orig: 153, 75
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 522, 36
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+A3
+  rotate: false
+  xy: 374, 12
+  size: 88, 45
+  orig: 88, 45
+  offset: 0, 0
+  index: -1
+B1
+  rotate: true
+  xy: 429, 129
+  size: 374, 253
+  orig: 469, 253
+  offset: 42, 0
+  index: -1
+B2
+  rotate: false
+  xy: 2, 212
+  size: 425, 291
+  orig: 425, 335
+  offset: 0, 44
+  index: -1
+B3
+  rotate: false
+  xy: 2, 2
+  size: 370, 208
+  orig: 370, 208
+  offset: 0, 0
+  index: -1

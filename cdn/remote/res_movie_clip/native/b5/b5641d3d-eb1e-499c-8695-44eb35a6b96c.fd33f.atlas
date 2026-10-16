@@ -1,0 +1,104 @@
+
+ui_shuijing_gui_up.png
+size: 1218,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 784, 84
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 12
+  size: 500, 32
+  orig: 500, 33
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1104, 238
+  size: 97, 266
+  orig: 97, 266
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 46
+  size: 458, 506
+  orig: 458, 506
+  offset: 0, 0
+  index: -1
+bu_1
+  rotate: false
+  xy: 510, 169
+  size: 371, 335
+  orig: 371, 335
+  offset: 0, 0
+  index: -1
+bu_2
+  rotate: true
+  xy: 883, 74
+  size: 155, 333
+  orig: 155, 333
+  offset: 0, 0
+  index: -1
+bu_3
+  rotate: true
+  xy: 510, 2
+  size: 165, 179
+  orig: 165, 179
+  offset: 0, 0
+  index: -1
+bu_4
+  rotate: false
+  xy: 883, 231
+  size: 219, 273
+  orig: 219, 273
+  offset: 0, 0
+  index: -1
+denglong_1
+  rotate: true
+  xy: 691, 3
+  size: 69, 242
+  orig: 69, 242
+  offset: 0, 0
+  index: -1
+denglong_2
+  rotate: true
+  xy: 691, 89
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+zhiqian_1
+  rotate: false
+  xy: 851, 105
+  size: 29, 30
+  orig: 29, 34
+  offset: 0, 1
+  index: -1
+zhiqian_2
+  rotate: false
+  xy: 784, 110
+  size: 65, 57
+  orig: 65, 61
+  offset: 0, 4
+  index: -1
+zhiqian_3
+  rotate: true
+  xy: 821, 74
+  size: 34, 23
+  orig: 35, 25
+  offset: 0, 2
+  index: -1
+zhiqian_4
+  rotate: false
+  xy: 851, 137
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

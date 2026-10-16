@@ -1,0 +1,83 @@
+
+ui_duanwu_guanggao.png
+size: 915,598
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 828, 594
+  orig: 828, 594
+  offset: 0, 0
+  index: -1
+shuye_1
+  rotate: true
+  xy: 832, 36
+  size: 13, 16
+  orig: 14, 17
+  offset: 0, 1
+  index: -1
+shuye_10
+  rotate: true
+  xy: 832, 51
+  size: 43, 23
+  orig: 76, 40
+  offset: 0, 17
+  index: -1
+shuye_2
+  rotate: false
+  xy: 832, 142
+  size: 36, 40
+  orig: 45, 44
+  offset: 7, 1
+  index: -1
+shuye_3
+  rotate: true
+  xy: 832, 501
+  size: 95, 81
+  orig: 97, 81
+  offset: 2, 0
+  index: -1
+shuye_4
+  rotate: false
+  xy: 832, 433
+  size: 61, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+shuye_5
+  rotate: true
+  xy: 832, 373
+  size: 58, 51
+  orig: 60, 52
+  offset: 2, 0
+  index: -1
+shuye_6
+  rotate: false
+  xy: 832, 257
+  size: 37, 39
+  orig: 41, 55
+  offset: 4, 3
+  index: -1
+shuye_7
+  rotate: true
+  xy: 832, 96
+  size: 44, 35
+  orig: 56, 43
+  offset: 10, 0
+  index: -1
+shuye_8
+  rotate: true
+  xy: 832, 184
+  size: 71, 36
+  orig: 73, 37
+  offset: 1, 1
+  index: -1
+shuye_9
+  rotate: true
+  xy: 832, 298
+  size: 73, 39
+  orig: 102, 70
+  offset: 17, 19
+  index: -1

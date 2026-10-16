@@ -1,0 +1,146 @@
+
+ui_guimenguan_shizi.png
+size: 912,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A2
+  rotate: false
+  xy: 163, 7
+  size: 157, 135
+  orig: 157, 137
+  offset: 0, 0
+  index: -1
+A3
+  rotate: true
+  xy: 817, 86
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+A4
+  rotate: false
+  xy: 573, 14
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+A5
+  rotate: false
+  xy: 636, 62
+  size: 111, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: -1
+A6
+  rotate: true
+  xy: 759, 19
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+A7
+  rotate: false
+  xy: 749, 78
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+AA1
+  rotate: false
+  xy: 894, 33
+  size: 16, 40
+  orig: 30, 43
+  offset: 12, 2
+  index: -1
+AA2
+  rotate: true
+  xy: 889, 75
+  size: 67, 18
+  orig: 70, 21
+  offset: 1, 2
+  index: -1
+AA3
+  rotate: false
+  xy: 812, 23
+  size: 39, 41
+  orig: 40, 43
+  offset: 1, 1
+  index: -1
+AA4
+  rotate: false
+  xy: 322, 82
+  size: 155, 60
+  orig: 155, 62
+  offset: 0, 1
+  index: -1
+B2
+  rotate: false
+  xy: 2, 8
+  size: 159, 134
+  orig: 159, 134
+  offset: 0, 0
+  index: -1
+B3
+  rotate: true
+  xy: 687, 4
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+B4
+  rotate: false
+  xy: 510, 14
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+B5
+  rotate: false
+  xy: 322, 2
+  size: 109, 78
+  orig: 111, 80
+  offset: 1, 0
+  index: -1
+B6
+  rotate: true
+  xy: 635, 2
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+B7
+  rotate: false
+  xy: 433, 11
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+BB1
+  rotate: true
+  xy: 812, 5
+  size: 16, 40
+  orig: 30, 43
+  offset: 12, 2
+  index: -1
+BB2
+  rotate: false
+  xy: 817, 66
+  size: 67, 18
+  orig: 70, 21
+  offset: 1, 2
+  index: -1
+BB3
+  rotate: false
+  xy: 853, 23
+  size: 39, 41
+  orig: 40, 43
+  offset: 1, 1
+  index: -1
+BB4
+  rotate: false
+  xy: 479, 82
+  size: 155, 60
+  orig: 155, 62
+  offset: 0, 1
+  index: -1

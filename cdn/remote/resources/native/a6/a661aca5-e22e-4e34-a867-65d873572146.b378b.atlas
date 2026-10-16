@@ -1,0 +1,48 @@
+
+ui_lunpan.png
+size: 742,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Anivia_Base_Q_SnowSwirl
+  rotate: true
+  xy: 328, 92
+  size: 234, 232
+  orig: 256, 256
+  offset: 13, 10
+  index: -1
+guangquan
+  rotate: false
+  xy: 562, 41
+  size: 94, 94
+  orig: 96, 96
+  offset: 1, 1
+  index: -1
+jiantou
+  rotate: true
+  xy: 658, 87
+  size: 48, 54
+  orig: 50, 58
+  offset: 1, 2
+  index: -1
+taiji
+  rotate: true
+  xy: 562, 137
+  size: 189, 178
+  orig: 199, 195
+  offset: 5, 12
+  index: -1
+zhuangshi2
+  rotate: false
+  xy: 328, 27
+  size: 323, 12
+  orig: 324, 12
+  offset: 0, 0
+  index: -1

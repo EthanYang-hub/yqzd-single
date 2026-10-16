@@ -1,0 +1,83 @@
+
+ui_lunhui_denglong.png
+size: 303,545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AAA
+  rotate: false
+  xy: 258, 16
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+G_wei_1
+  rotate: false
+  xy: 203, 71
+  size: 89, 175
+  orig: 90, 178
+  offset: 1, 2
+  index: -1
+G_wei_2
+  rotate: false
+  xy: 204, 364
+  size: 88, 179
+  orig: 90, 182
+  offset: 1, 2
+  index: -1
+G_wei_3
+  rotate: false
+  xy: 2, 16
+  size: 91, 146
+  orig: 93, 149
+  offset: 1, 2
+  index: -1
+G_wei_4
+  rotate: false
+  xy: 95, 5
+  size: 75, 157
+  orig: 79, 160
+  offset: 3, 1
+  index: -1
+denglong_2
+  rotate: true
+  xy: 172, 2
+  size: 67, 84
+  orig: 68, 85
+  offset: 0, 1
+  index: -1
+denglong_3
+  rotate: false
+  xy: 203, 248
+  size: 98, 101
+  orig: 98, 101
+  offset: 0, 0
+  index: -1
+huo1_050
+  rotate: false
+  xy: 102, 351
+  size: 100, 192
+  orig: 105, 216
+  offset: 2, 18
+  index: -1
+huo1_051
+  rotate: false
+  xy: 2, 348
+  size: 98, 195
+  orig: 104, 216
+  offset: 3, 14
+  index: -1
+huo1_052
+  rotate: false
+  xy: 2, 164
+  size: 99, 182
+  orig: 104, 218
+  offset: 2, 30
+  index: -1
+huo1_053
+  rotate: false
+  xy: 103, 172
+  size: 98, 177
+  orig: 102, 210
+  offset: 2, 30
+  index: -1

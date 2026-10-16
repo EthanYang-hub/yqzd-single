@@ -1,0 +1,76 @@
+
+petSkill_muoushi_sword.png
+size: 1389,1389
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1fire
+  rotate: true
+  xy: 1121, 576
+  size: 289, 247
+  orig: 336, 277
+  offset: 20, 15
+  index: -1
+1wqdi
+  rotate: false
+  xy: 2, 497
+  size: 396, 890
+  orig: 467, 1009
+  offset: 1, 73
+  index: -1
+2TX_DG
+  rotate: true
+  xy: 400, 867
+  size: 520, 746
+  orig: 520, 748
+  offset: 0, 2
+  index: -1
+2TX_DG2
+  rotate: true
+  xy: 641, 37
+  size: 520, 746
+  orig: 520, 748
+  offset: 0, 2
+  index: -1
+2light
+  rotate: true
+  xy: 2, 169
+  size: 326, 637
+  orig: 365, 855
+  offset: 17, 179
+  index: -1
+2wq
+  rotate: true
+  xy: 400, 559
+  size: 306, 719
+  orig: 315, 744
+  offset: 4, 22
+  index: -1
+JJ_G_1
+  rotate: false
+  xy: 1279, 1072
+  size: 97, 153
+  orig: 114, 170
+  offset: 13, 7
+  index: -1
+JJ_G_2
+  rotate: false
+  xy: 1148, 1227
+  size: 147, 160
+  orig: 158, 178
+  offset: 4, 8
+  index: -1
+JJ_G_3
+  rotate: true
+  xy: 1148, 917
+  size: 121, 163
+  orig: 132, 185
+  offset: 6, 12
+  index: -1
+JJ_G_4
+  rotate: false
+  xy: 1148, 1040
+  size: 129, 185
+  orig: 141, 202
+  offset: 6, 8
+  index: -1

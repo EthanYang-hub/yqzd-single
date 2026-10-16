@@ -1,0 +1,118 @@
+
+hero_bullet.png
+size: 872,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin_001_bullet
+  rotate: false
+  xy: 282, 225
+  size: 293, 52
+  orig: 308, 61
+  offset: 10, 4
+  index: -1
+skin_001_bullet_bao
+  rotate: false
+  xy: 577, 225
+  size: 293, 52
+  orig: 308, 61
+  offset: 10, 4
+  index: -1
+skin_002_bullet
+  rotate: false
+  xy: 282, 171
+  size: 293, 52
+  orig: 308, 61
+  offset: 10, 4
+  index: -1
+skin_002_bullet_bao
+  rotate: false
+  xy: 577, 171
+  size: 293, 52
+  orig: 308, 61
+  offset: 10, 4
+  index: -1
+skin_003_bullet
+  rotate: false
+  xy: 282, 108
+  size: 209, 61
+  orig: 219, 65
+  offset: 5, 2
+  index: -1
+skin_003_bullet_bao
+  rotate: false
+  xy: 282, 45
+  size: 209, 61
+  orig: 219, 65
+  offset: 5, 2
+  index: -1
+skin_004_bullet
+  rotate: true
+  xy: 72, 31
+  size: 246, 69
+  orig: 249, 72
+  offset: 2, 1
+  index: -1
+skin_004_bullet_bao
+  rotate: true
+  xy: 143, 31
+  size: 246, 69
+  orig: 249, 72
+  offset: 2, 1
+  index: -1
+skin_008_bullet
+  rotate: false
+  xy: 658, 105
+  size: 160, 64
+  orig: 168, 70
+  offset: 5, 4
+  index: -1
+skin_008_bullet_bao
+  rotate: false
+  xy: 493, 102
+  size: 163, 67
+  orig: 187, 70
+  offset: 10, 1
+  index: -1
+skin_009_bullet
+  rotate: false
+  xy: 559, 2
+  size: 153, 59
+  orig: 156, 61
+  offset: 2, 1
+  index: -1
+skin_009_bullet_bao
+  rotate: false
+  xy: 714, 2
+  size: 153, 59
+  orig: 156, 61
+  offset: 2, 1
+  index: -1
+skin_010_bullet
+  rotate: false
+  xy: 493, 63
+  size: 270, 37
+  orig: 308, 61
+  offset: 26, 13
+  index: -1
+skin_010_bullet_bao
+  rotate: false
+  xy: 282, 2
+  size: 275, 41
+  orig: 308, 61
+  offset: 23, 11
+  index: -1
+skin_011_bullet
+  rotate: true
+  xy: 214, 24
+  size: 253, 66
+  orig: 259, 71
+  offset: 4, 3
+  index: -1
+skin_011_bullet_bao
+  rotate: true
+  xy: 2, 23
+  size: 254, 68
+  orig: 259, 71
+  offset: 4, 2
+  index: -1

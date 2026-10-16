@@ -1,0 +1,258 @@
+
+roleSkill_wind_little.png
+size: 787,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0425
+  rotate: true
+  xy: 335, 2
+  size: 64, 63
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+0458
+  rotate: false
+  xy: 436, 3
+  size: 63, 63
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+A
+  rotate: true
+  xy: 530, 5
+  size: 61, 27
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 623, 146
+  size: 50, 31
+  orig: 50, 36
+  offset: 0, 1
+  index: -1
+A3
+  rotate: false
+  xy: 713, 112
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 630, 2
+  size: 51, 90
+  orig: 54, 90
+  offset: 3, 0
+  index: -1
+C
+  rotate: false
+  xy: 501, 3
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+F
+  rotate: true
+  xy: 142, 5
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+SRU_Gromp_death_sporeTex2
+  rotate: true
+  xy: 458, 178
+  size: 93, 41
+  orig: 93, 41
+  offset: 0, 0
+  index: -1
+SRU_clouds
+  rotate: false
+  xy: 683, 71
+  size: 88, 39
+  orig: 88, 39
+  offset: 0, 0
+  index: -1
+TX_ljf_00000
+  rotate: true
+  xy: 559, 52
+  size: 92, 69
+  orig: 103, 81
+  offset: 5, 6
+  index: -1
+TX_ljf_00002
+  rotate: true
+  xy: 501, 179
+  size: 92, 71
+  orig: 103, 81
+  offset: 5, 4
+  index: -1
+TX_ljf_00004
+  rotate: false
+  xy: 423, 68
+  size: 89, 73
+  orig: 103, 81
+  offset: 8, 2
+  index: -1
+TX_ljf_00006
+  rotate: false
+  xy: 328, 68
+  size: 93, 73
+  orig: 103, 81
+  offset: 5, 2
+  index: -1
+TX_ljf_00008
+  rotate: true
+  xy: 574, 179
+  size: 92, 70
+  orig: 103, 81
+  offset: 5, 4
+  index: -1
+TX_ljf_00010
+  rotate: true
+  xy: 646, 180
+  size: 91, 67
+  orig: 103, 81
+  offset: 6, 4
+  index: -1
+di_1
+  rotate: false
+  xy: 253, 111
+  size: 73, 160
+  orig: 73, 160
+  offset: 0, 0
+  index: -1
+di_2
+  rotate: false
+  xy: 2, 53
+  size: 116, 218
+  orig: 116, 218
+  offset: 0, 0
+  index: -1
+di_3
+  rotate: true
+  xy: 120, 62
+  size: 209, 131
+  orig: 209, 131
+  offset: 0, 0
+  index: -1
+eye_lwy_t_hit_00_single
+  rotate: false
+  xy: 328, 143
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 400, 2
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+gui_1
+  rotate: false
+  xy: 683, 41
+  size: 85, 28
+  orig: 86, 31
+  offset: 1, 0
+  index: -1
+gui_4
+  rotate: true
+  xy: 270, 3
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+gui_5
+  rotate: true
+  xy: 559, 8
+  size: 42, 24
+  orig: 46, 25
+  offset: 0, 1
+  index: -1
+xiaoshi_089
+  rotate: true
+  xy: 630, 94
+  size: 50, 43
+  orig: 91, 54
+  offset: 25, 4
+  index: -1
+xiaoshi_090
+  rotate: true
+  xy: 228, 7
+  size: 53, 40
+  orig: 91, 54
+  offset: 23, 5
+  index: -1
+xiaoshi_091
+  rotate: true
+  xy: 675, 112
+  size: 66, 36
+  orig: 91, 54
+  offset: 12, 7
+  index: -1
+xiaoshi_092
+  rotate: false
+  xy: 715, 150
+  size: 69, 36
+  orig: 91, 54
+  offset: 8, 8
+  index: -1
+xiaoshi_093
+  rotate: false
+  xy: 715, 188
+  size: 69, 42
+  orig: 91, 54
+  offset: 6, 5
+  index: -1
+xiaoshi_094
+  rotate: false
+  xy: 71, 5
+  size: 69, 46
+  orig: 91, 54
+  offset: 5, 5
+  index: -1
+xiaoshi_095
+  rotate: false
+  xy: 2, 2
+  size: 67, 49
+  orig: 91, 54
+  offset: 4, 2
+  index: -1
+xiaoshi_096
+  rotate: false
+  xy: 715, 232
+  size: 70, 39
+  orig: 91, 54
+  offset: 10, 12
+  index: -1
+xiaoshi_097
+  rotate: false
+  xy: 253, 64
+  size: 73, 45
+  orig: 91, 54
+  offset: 7, 5
+  index: -1
+xiaoshi_098
+  rotate: true
+  xy: 514, 68
+  size: 73, 43
+  orig: 91, 54
+  offset: 7, 4
+  index: -1
+xiaoshi_099
+  rotate: false
+  xy: 458, 143
+  size: 82, 33
+  orig: 91, 54
+  offset: 5, 12
+  index: -1
+xiaoshi_100
+  rotate: false
+  xy: 542, 146
+  size: 79, 31
+  orig: 91, 54
+  offset: 7, 13
+  index: -1

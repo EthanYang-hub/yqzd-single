@@ -1,0 +1,41 @@
+
+ui_mojin_effect_down.png
+size: 421,341
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0389
+  rotate: false
+  xy: 2, 10
+  size: 116, 121
+  orig: 128, 128
+  offset: 3, 4
+  index: -1
+9b350db9
+  rotate: false
+  xy: 120, 18
+  size: 112, 113
+  orig: 128, 128
+  offset: 8, 8
+  index: -1
+Varus_Skin01
+  rotate: false
+  xy: 234, 2
+  size: 184, 156
+  orig: 188, 187
+  offset: 2, 30
+  index: -1
+Varus_Skin02
+  rotate: false
+  xy: 221, 160
+  size: 198, 179
+  orig: 200, 184
+  offset: 1, 4
+  index: -1
+Varus_Skin03
+  rotate: false
+  xy: 2, 133
+  size: 217, 206
+  orig: 230, 219
+  offset: 2, 8
+  index: -1

@@ -1,0 +1,20 @@
+
+changjing_laoshi_huodong4.png
+size: 250,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanzi_1
+  rotate: false
+  xy: 189, 35
+  size: 59, 113
+  orig: 59, 113
+  offset: 0, 0
+  index: -1
+shanzi_2
+  rotate: false
+  xy: 2, 2
+  size: 185, 146
+  orig: 185, 146
+  offset: 0, 0
+  index: -1

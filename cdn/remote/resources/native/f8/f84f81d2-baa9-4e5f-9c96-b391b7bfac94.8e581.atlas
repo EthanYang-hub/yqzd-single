@@ -1,0 +1,90 @@
+
+ui_yinxu_men.png
+size: 805,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0658
+  rotate: false
+  xy: 683, 102
+  size: 112, 101
+  orig: 126, 106
+  offset: 1, 1
+  index: -1
+0713
+  rotate: true
+  xy: 683, 2
+  size: 98, 103
+  orig: 115, 118
+  offset: 9, 6
+  index: -1
+359
+  rotate: true
+  xy: 685, 205
+  size: 111, 113
+  orig: 128, 128
+  offset: 8, 5
+  index: -1
+A
+  rotate: false
+  xy: 2, 70
+  size: 289, 492
+  orig: 289, 507
+  offset: 0, 7
+  index: -1
+B
+  rotate: true
+  xy: 293, 273
+  size: 289, 390
+  orig: 289, 504
+  offset: 0, 86
+  index: -1
+MegaAdhesivePool
+  rotate: false
+  xy: 527, 100
+  size: 154, 171
+  orig: 180, 180
+  offset: 13, 2
+  index: -1
+eye_lwy_t_sun_38_single
+  rotate: true
+  xy: 293, 24
+  size: 247, 232
+  orig: 256, 256
+  offset: 5, 0
+  index: -1
+storm_energyring3
+  rotate: false
+  xy: 685, 441
+  size: 118, 121
+  orig: 119, 123
+  offset: 0, 1
+  index: -1
+storm_energyring3purple
+  rotate: false
+  xy: 685, 318
+  size: 118, 121
+  orig: 119, 123
+  offset: 0, 1
+  index: -1
+xing_1
+  rotate: false
+  xy: 527, 22
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+xing_2
+  rotate: true
+  xy: 2, 7
+  size: 61, 76
+  orig: 76, 76
+  offset: 15, 0
+  index: -1
+xing_3
+  rotate: false
+  xy: 605, 22
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1

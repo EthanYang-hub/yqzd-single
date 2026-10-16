@@ -1,0 +1,48 @@
+
+ronghe_weapon_elite monster_2003.png
+size: 462,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: true
+  xy: 129, 8
+  size: 87, 226
+  orig: 87, 226
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 82
+  size: 125, 138
+  orig: 125, 138
+  offset: 0, 0
+  index: -1
+G1
+  rotate: true
+  xy: 236, 104
+  size: 116, 112
+  orig: 121, 112
+  offset: 5, 0
+  index: -1
+G2
+  rotate: true
+  xy: 350, 108
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+SRU_Baron_Deathbreath_poolBright
+  rotate: true
+  xy: 357, 2
+  size: 104, 103
+  orig: 128, 128
+  offset: 8, 10
+  index: -1
+storm_death_smoke
+  rotate: false
+  xy: 129, 97
+  size: 105, 123
+  orig: 111, 127
+  offset: 4, 3
+  index: -1

@@ -1,0 +1,181 @@
+
+lihui_pet_qinli.png
+size: 1900,1281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guai_1
+  rotate: true
+  xy: 689, 218
+  size: 286, 263
+  orig: 291, 281
+  offset: 1, 13
+  index: -1
+guai_2
+  rotate: true
+  xy: 833, 837
+  size: 442, 546
+  orig: 442, 546
+  offset: 0, 0
+  index: -1
+guai_3
+  rotate: true
+  xy: 2, 506
+  size: 232, 773
+  orig: 232, 773
+  offset: 0, 0
+  index: -1
+guai_4
+  rotate: true
+  xy: 1602, 353
+  size: 362, 241
+  orig: 362, 241
+  offset: 0, 0
+  index: -1
+guai_5_1
+  rotate: false
+  xy: 2, 740
+  size: 829, 539
+  orig: 829, 539
+  offset: 0, 0
+  index: -1
+guai_6
+  rotate: false
+  xy: 833, 527
+  size: 396, 308
+  orig: 396, 308
+  offset: 0, 0
+  index: -1
+guai_7
+  rotate: true
+  xy: 1115, 6
+  size: 133, 215
+  orig: 133, 215
+  offset: 0, 0
+  index: -1
+guai_8
+  rotate: false
+  xy: 1611, 204
+  size: 145, 147
+  orig: 145, 147
+  offset: 0, 0
+  index: -1
+monk_dise
+  rotate: false
+  xy: 309, 143
+  size: 378, 361
+  orig: 384, 384
+  offset: 6, 18
+  index: -1
+ren_1
+  rotate: false
+  xy: 1812, 783
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+ren_2
+  rotate: true
+  xy: 883, 8
+  size: 131, 230
+  orig: 131, 230
+  offset: 0, 0
+  index: -1
+ren_3
+  rotate: false
+  xy: 1487, 19
+  size: 108, 138
+  orig: 108, 138
+  offset: 0, 0
+  index: -1
+ren_4
+  rotate: true
+  xy: 1381, 1024
+  size: 255, 517
+  orig: 255, 517
+  offset: 0, 0
+  index: -1
+ren_5
+  rotate: false
+  xy: 1332, 23
+  size: 153, 134
+  orig: 153, 134
+  offset: 0, 0
+  index: -1
+skin_2_1
+  rotate: true
+  xy: 689, 160
+  size: 56, 93
+  orig: 56, 93
+  offset: 0, 0
+  index: -1
+skin_2_2
+  rotate: false
+  xy: 1758, 213
+  size: 108, 138
+  orig: 108, 138
+  offset: 0, 0
+  index: -1
+skin_2_3
+  rotate: false
+  xy: 2, 2
+  size: 305, 502
+  orig: 305, 502
+  offset: 0, 0
+  index: -1
+storm_doodad_nexus_planetsflyby_shockwave
+  rotate: false
+  xy: 1420, 159
+  size: 189, 190
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+tornado_spiral2
+  rotate: true
+  xy: 1231, 351
+  size: 364, 369
+  orig: 384, 384
+  offset: 6, 6
+  index: -1
+tx_1
+  rotate: false
+  xy: 954, 330
+  size: 271, 195
+  orig: 308, 306
+  offset: 26, 27
+  index: -1
+tx_2
+  rotate: false
+  xy: 954, 141
+  size: 267, 187
+  orig: 308, 316
+  offset: 29, 40
+  index: -1
+wizard_Archon_stars_diff
+  rotate: false
+  xy: 1227, 159
+  size: 191, 190
+  orig: 192, 192
+  offset: 1, 2
+  index: -1
+xian_1
+  rotate: true
+  xy: 1231, 717
+  size: 92, 579
+  orig: 92, 579
+  offset: 0, 0
+  index: -1
+xian_2
+  rotate: true
+  xy: 1381, 811
+  size: 211, 515
+  orig: 211, 515
+  offset: 0, 0
+  index: -1
+xian_3
+  rotate: true
+  xy: 309, 2
+  size: 139, 572
+  orig: 139, 572
+  offset: 0, 0
+  index: -1

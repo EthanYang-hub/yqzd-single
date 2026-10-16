@@ -1,0 +1,62 @@
+
+ui_faqi_beijingguang_3.png
+size: 217,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f1
+  rotate: true
+  xy: 2, 2
+  size: 25, 32
+  orig: 27, 32
+  offset: 1, 0
+  index: -1
+f2
+  rotate: false
+  xy: 78, 31
+  size: 18, 31
+  orig: 23, 31
+  offset: 3, 0
+  index: -1
+f4
+  rotate: false
+  xy: 2, 29
+  size: 29, 33
+  orig: 40, 33
+  offset: 10, 0
+  index: -1
+f5
+  rotate: false
+  xy: 33, 30
+  size: 22, 32
+  orig: 26, 32
+  offset: 3, 0
+  index: -1
+f6
+  rotate: true
+  xy: 36, 3
+  size: 25, 31
+  orig: 30, 33
+  offset: 5, 1
+  index: -1
+f7
+  rotate: false
+  xy: 57, 31
+  size: 19, 31
+  orig: 25, 32
+  offset: 2, 0
+  index: -1
+f8
+  rotate: true
+  xy: 69, 8
+  size: 21, 29
+  orig: 25, 31
+  offset: 2, 1
+  index: -1
+pai_lan_00000
+  rotate: false
+  xy: 2, 64
+  size: 100, 151
+  orig: 102, 154
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,41 @@
+
+ui_tianfushu_2.png
+size: 882,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fdw
+  rotate: false
+  xy: 2, 2
+  size: 680, 375
+  orig: 680, 375
+  offset: 0, 0
+  index: -1
+heiwu_1
+  rotate: true
+  xy: 792, 8
+  size: 118, 88
+  orig: 124, 99
+  offset: 0, 6
+  index: -1
+heiwu_2
+  rotate: false
+  xy: 684, 19
+  size: 106, 107
+  orig: 125, 116
+  offset: 15, 5
+  index: -1
+heiwu_3
+  rotate: false
+  xy: 684, 128
+  size: 124, 123
+  orig: 131, 126
+  offset: 7, 0
+  index: -1
+heiwu_4
+  rotate: false
+  xy: 684, 253
+  size: 125, 124
+  orig: 125, 128
+  offset: 0, 0
+  index: -1

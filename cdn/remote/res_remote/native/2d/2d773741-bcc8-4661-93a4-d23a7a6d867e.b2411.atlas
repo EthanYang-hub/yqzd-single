@@ -1,0 +1,27 @@
+
+ui_lp_bihua.png
+size: 292,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bihua_bihua_1
+  rotate: false
+  xy: 232, 128
+  size: 58, 69
+  orig: 65, 128
+  offset: 4, 56
+  index: -1
+bihua_bihua_2
+  rotate: false
+  xy: 232, 60
+  size: 57, 66
+  orig: 67, 75
+  offset: 5, 5
+  index: -1
+bihua_bihua_3
+  rotate: true
+  xy: 2, 2
+  size: 195, 228
+  orig: 224, 242
+  offset: 14, 14
+  index: -1

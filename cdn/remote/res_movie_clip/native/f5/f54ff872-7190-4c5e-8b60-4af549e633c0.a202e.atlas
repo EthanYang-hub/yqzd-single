@@ -1,0 +1,34 @@
+
+effect_sence_general_zhuye.png
+size: 1823,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dibu
+  rotate: false
+  xy: 2, 2
+  size: 1335, 262
+  orig: 1337, 327
+  offset: 1, 64
+  index: -1
+zhuzi_l
+  rotate: true
+  xy: 1629, 131
+  size: 133, 192
+  orig: 157, 192
+  offset: 0, 0
+  index: -1
+zhuzi_r
+  rotate: true
+  xy: 1339, 83
+  size: 181, 288
+  orig: 181, 288
+  offset: 0, 0
+  index: -1
+zhuzi_zhong
+  rotate: false
+  xy: 1629, 22
+  size: 114, 107
+  orig: 156, 107
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+roleSkill_water_white_ground.png
+size: 425,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0391
+  rotate: false
+  xy: 203, 37
+  size: 46, 46
+  orig: 51, 51
+  offset: 2, 4
+  index: -1
+0392
+  rotate: false
+  xy: 314, 39
+  size: 43, 44
+  orig: 51, 51
+  offset: 4, 4
+  index: -1
+809
+  rotate: false
+  xy: 2, 6
+  size: 100, 102
+  orig: 102, 102
+  offset: 2, 0
+  index: -1
+Zyra_Skin02_W_Fire
+  rotate: true
+  xy: 251, 21
+  size: 62, 61
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+bai_1
+  rotate: true
+  xy: 104, 37
+  size: 46, 97
+  orig: 46, 97
+  offset: 0, 0
+  index: -1
+baoh_01
+  rotate: false
+  xy: 317, 88
+  size: 20, 20
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+baoh_03
+  rotate: true
+  xy: 394, 41
+  size: 31, 29
+  orig: 40, 40
+  offset: 2, 4
+  index: -1
+baoh_04
+  rotate: false
+  xy: 359, 40
+  size: 33, 31
+  orig: 40, 40
+  offset: 3, 5
+  index: -1
+baoh_05
+  rotate: true
+  xy: 359, 73
+  size: 35, 31
+  orig: 40, 40
+  offset: 3, 7
+  index: -1
+baoh_06
+  rotate: true
+  xy: 392, 74
+  size: 34, 29
+  orig: 40, 40
+  offset: 4, 9
+  index: -1
+baoh_07
+  rotate: true
+  xy: 393, 4
+  size: 34, 28
+  orig: 40, 40
+  offset: 5, 11
+  index: -1
+baoh_08
+  rotate: true
+  xy: 322, 3
+  size: 21, 26
+  orig: 40, 40
+  offset: 18, 13
+  index: -1
+baoh_09
+  rotate: false
+  xy: 251, 7
+  size: 18, 12
+  orig: 40, 40
+  offset: 20, 14
+  index: -1
+baoh_11
+  rotate: true
+  xy: 327, 29
+  size: 8, 7
+  orig: 40, 40
+  offset: 30, 18
+  index: -1
+bing_2
+  rotate: false
+  xy: 350, 9
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+bing_3
+  rotate: true
+  xy: 194, 7
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+bing_4
+  rotate: true
+  xy: 104, 2
+  size: 33, 88
+  orig: 36, 88
+  offset: 0, 0
+  index: -1
+bing_di
+  rotate: false
+  xy: 104, 85
+  size: 211, 23
+  orig: 220, 25
+  offset: 5, 2
+  index: -1
+sui_1
+  rotate: true
+  xy: 271, 7
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+sui_2
+  rotate: false
+  xy: 314, 26
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+suibing_5
+  rotate: false
+  xy: 307, 6
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+suibing_6
+  rotate: false
+  xy: 291, 4
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1

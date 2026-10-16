@@ -1,0 +1,55 @@
+
+ui_duanwu_chou_effect.png
+size: 888,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00035
+  rotate: true
+  xy: 686, 246
+  size: 206, 200
+  orig: 208, 205
+  offset: 0, 5
+  index: -1
+0099
+  rotate: false
+  xy: 781, 23
+  size: 103, 102
+  orig: 128, 128
+  offset: 12, 14
+  index: -1
+0629
+  rotate: true
+  xy: 452, 237
+  size: 215, 232
+  orig: 256, 256
+  offset: 9, 9
+  index: -1
+SRU_JungleBuff_RedBuff_Health_flash_core_2x2
+  rotate: true
+  xy: 452, 9
+  size: 226, 225
+  orig: 256, 256
+  offset: 19, 18
+  index: -1
+eye_lwy_t_sun_16_single
+  rotate: false
+  xy: 686, 127
+  size: 118, 117
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+flash_arcane_02
+  rotate: true
+  xy: 2, 2
+  size: 450, 448
+  orig: 512, 512
+  offset: 28, 32
+  index: -1
+trOut_Cultists_Summoning_Portal_Pattern_B
+  rotate: true
+  xy: 679, 19
+  size: 106, 100
+  orig: 128, 128
+  offset: 11, 16
+  index: -1

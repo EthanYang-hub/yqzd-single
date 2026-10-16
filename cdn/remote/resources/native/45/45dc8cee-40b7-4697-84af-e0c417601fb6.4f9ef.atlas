@@ -1,0 +1,237 @@
+
+ui_tanchu_huoyan.png
+size: 1126,1126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheng
+  rotate: false
+  xy: 858, 15
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+deng
+  rotate: false
+  xy: 992, 365
+  size: 87, 87
+  orig: 91, 91
+  offset: 2, 2
+  index: -1
+di
+  rotate: false
+  xy: 2, 581
+  size: 1059, 543
+  orig: 1116, 612
+  offset: 28, 46
+  index: -1
+gong
+  rotate: false
+  xy: 949, 63
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+huo_di
+  rotate: false
+  xy: 2, 277
+  size: 654, 302
+  orig: 913, 302
+  offset: 16, 0
+  index: -1
+huomiao_1
+  rotate: false
+  xy: 358, 154
+  size: 223, 109
+  orig: 240, 113
+  offset: 5, 0
+  index: -1
+huomiao_2
+  rotate: false
+  xy: 658, 284
+  size: 191, 149
+  orig: 324, 262
+  offset: 67, 23
+  index: -1
+huomiao_3
+  rotate: false
+  xy: 866, 454
+  size: 196, 125
+  orig: 214, 131
+  offset: 6, 0
+  index: -1
+huomiao_4
+  rotate: false
+  xy: 658, 435
+  size: 206, 144
+  orig: 642, 252
+  offset: 130, 22
+  index: -1
+huomiao_5
+  rotate: false
+  xy: 366, 49
+  size: 224, 103
+  orig: 268, 103
+  offset: 9, 0
+  index: -1
+huomiao_6
+  rotate: false
+  xy: 2, 2
+  size: 196, 144
+  orig: 642, 252
+  offset: 106, 22
+  index: -1
+huomiao_7
+  rotate: false
+  xy: 592, 3
+  size: 159, 149
+  orig: 228, 167
+  offset: 23, 8
+  index: -1
+huomiao_8
+  rotate: false
+  xy: 2, 148
+  size: 228, 115
+  orig: 248, 131
+  offset: 10, 0
+  index: -1
+huowen_10_C
+  rotate: true
+  xy: 851, 259
+  size: 100, 106
+  orig: 170, 136
+  offset: 0, 0
+  index: -1
+huowen_11_C
+  rotate: false
+  xy: 583, 154
+  size: 148, 109
+  orig: 169, 136
+  offset: 0, 0
+  index: -1
+huowen_1_A
+  rotate: false
+  xy: 200, 2
+  size: 164, 144
+  orig: 287, 236
+  offset: 123, 43
+  index: -1
+huowen_4_A
+  rotate: true
+  xy: 753, 12
+  size: 144, 103
+  orig: 305, 234
+  offset: 109, 77
+  index: -1
+huowen_5_A
+  rotate: false
+  xy: 849, 164
+  size: 98, 93
+  orig: 257, 227
+  offset: 66, 93
+  index: -1
+huowen_6_A
+  rotate: true
+  xy: 866, 361
+  size: 91, 124
+  orig: 277, 249
+  offset: 47, 30
+  index: -1
+huowen_7_B
+  rotate: false
+  xy: 959, 279
+  size: 73, 80
+  orig: 75, 80
+  offset: 2, 0
+  index: -1
+huowen_8_B
+  rotate: true
+  xy: 232, 148
+  size: 115, 124
+  orig: 115, 124
+  offset: 0, 0
+  index: -1
+huowen_9_B
+  rotate: true
+  xy: 858, 68
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+huoxing_1
+  rotate: true
+  xy: 1063, 844
+  size: 96, 57
+  orig: 100, 85
+  offset: 2, 4
+  index: -1
+huoxing_2
+  rotate: true
+  xy: 1063, 942
+  size: 182, 58
+  orig: 267, 223
+  offset: 83, 64
+  index: -1
+huoxing_3
+  rotate: false
+  xy: 733, 158
+  size: 114, 124
+  orig: 254, 229
+  offset: 83, 4
+  index: -1
+ji
+  rotate: true
+  xy: 1020, 133
+  size: 70, 67
+  orig: 74, 71
+  offset: 2, 2
+  index: -1
+jie
+  rotate: false
+  xy: 1063, 731
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+jie_1
+  rotate: true
+  xy: 1034, 286
+  size: 77, 75
+  orig: 82, 79
+  offset: 2, 2
+  index: -1
+jin
+  rotate: true
+  xy: 1063, 783
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+sheng
+  rotate: true
+  xy: 959, 205
+  size: 72, 77
+  orig: 77, 80
+  offset: 3, 1
+  index: -1
+suo_1
+  rotate: true
+  xy: 1038, 212
+  size: 72, 70
+  orig: 75, 73
+  offset: 2, 1
+  index: -1
+ti
+  rotate: false
+  xy: 949, 133
+  size: 69, 70
+  orig: 74, 73
+  offset: 2, 1
+  index: -1
+xian
+  rotate: false
+  xy: 2, 265
+  size: 643, 10
+  orig: 654, 12
+  offset: 7, 0
+  index: -1

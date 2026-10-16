@@ -1,0 +1,27 @@
+
+ui_tianshuwudao_xuanzhong.png
+size: 472,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: true
+  xy: 2, 7
+  size: 179, 165
+  orig: 217, 177
+  offset: 18, 6
+  index: -1
+g2
+  rotate: true
+  xy: 169, 2
+  size: 184, 157
+  orig: 207, 169
+  offset: 12, 6
+  index: -1
+g3
+  rotate: true
+  xy: 328, 14
+  size: 172, 142
+  orig: 177, 152
+  offset: 3, 5
+  index: -1

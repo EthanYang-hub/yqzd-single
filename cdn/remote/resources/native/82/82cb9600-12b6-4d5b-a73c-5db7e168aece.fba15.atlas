@@ -1,0 +1,83 @@
+
+ui_zhounian_dikuang2.png
+size: 1215,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0656
+  rotate: true
+  xy: 720, 154
+  size: 198, 188
+  orig: 200, 193
+  offset: 2, 3
+  index: -1
+TEMP_Relic_flash_cloudpuff
+  rotate: false
+  xy: 910, 159
+  size: 189, 193
+  orig: 200, 200
+  offset: 0, 3
+  index: -1
+smokecloud1
+  rotate: false
+  xy: 526, 154
+  size: 192, 198
+  orig: 200, 200
+  offset: 0, 2
+  index: -1
+smokewispy5
+  rotate: true
+  xy: 1068, 13
+  size: 88, 128
+  orig: 128, 128
+  offset: 15, 0
+  index: -1
+storm_shockwave02b
+  rotate: false
+  xy: 922, 13
+  size: 144, 144
+  orig: 150, 150
+  offset: 3, 3
+  index: -1
+ui_zhounian_dikuang-kuang
+  rotate: true
+  xy: 2, 2
+  size: 350, 522
+  orig: 394, 699
+  offset: 20, 140
+  index: -1
+ui_zhounian_dikuang-kuang2
+  rotate: false
+  xy: 746, 20
+  size: 174, 132
+  orig: 174, 136
+  offset: 0, 4
+  index: -1
+ui_zhounian_dikuang-shuimo-1
+  rotate: true
+  xy: 1101, 216
+  size: 136, 103
+  orig: 198, 126
+  offset: 43, 3
+  index: -1
+ui_zhounian_dikuang-xuanzhuan
+  rotate: true
+  xy: 1101, 103
+  size: 111, 112
+  orig: 114, 115
+  offset: 2, 1
+  index: -1
+ui_zhounian_dikuang-zi2
+  rotate: false
+  xy: 526, 6
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+ui_zhounian_dikuangwaifaguang
+  rotate: false
+  xy: 526, 40
+  size: 218, 112
+  orig: 242, 121
+  offset: 11, 1
+  index: -1

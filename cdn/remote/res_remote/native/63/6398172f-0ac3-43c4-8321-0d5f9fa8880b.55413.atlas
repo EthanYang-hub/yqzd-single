@@ -1,0 +1,27 @@
+
+ui_lp_lian.png
+size: 481,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20260526-190059
+  rotate: false
+  xy: 2, 24
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+20260526-190116
+  rotate: false
+  xy: 154, 24
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+c435db98
+  rotate: true
+  xy: 306, 2
+  size: 172, 173
+  orig: 192, 192
+  offset: 11, 13
+  index: -1

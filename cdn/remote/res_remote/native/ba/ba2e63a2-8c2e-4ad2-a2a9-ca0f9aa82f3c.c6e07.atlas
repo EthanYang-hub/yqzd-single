@@ -1,0 +1,55 @@
+
+ui_xinchun_hongbao.png
+size: 615,1029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BTN
+  rotate: true
+  xy: 557, 435
+  size: 238, 56
+  orig: 238, 56
+  offset: 0, 0
+  index: -1
+HB1
+  rotate: true
+  xy: 2, 2
+  size: 671, 308
+  orig: 671, 308
+  offset: 0, 0
+  index: -1
+HB2
+  rotate: false
+  xy: 2, 675
+  size: 593, 352
+  orig: 593, 352
+  offset: 0, 0
+  index: -1
+guashi
+  rotate: true
+  xy: 557, 394
+  size: 39, 50
+  orig: 113, 50
+  offset: 50, 0
+  index: -1
+ma
+  rotate: false
+  xy: 457, 21
+  size: 67, 81
+  orig: 67, 82
+  offset: 0, 1
+  index: -1
+ruyi
+  rotate: true
+  xy: 312, 12
+  size: 90, 143
+  orig: 96, 143
+  offset: 6, 0
+  index: -1
+zhi
+  rotate: true
+  xy: 312, 104
+  size: 569, 243
+  orig: 569, 243
+  offset: 0, 0
+  index: -1

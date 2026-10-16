@@ -1,0 +1,69 @@
+
+lihui_pet_mirror.png
+size: 1578,624
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1271, 176
+  size: 124, 222
+  orig: 124, 222
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 573, 77
+  size: 696, 545
+  orig: 696, 545
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1495, 139
+  size: 81, 161
+  orig: 81, 161
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1271, 302
+  size: 320, 302
+  orig: 320, 302
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1340, 161
+  size: 13, 8
+  orig: 14, 9
+  offset: 1, 1
+  index: -1
+6
+  rotate: true
+  xy: 2, 54
+  size: 568, 569
+  orig: 568, 569
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 2
+  size: 15, 901
+  orig: 15, 901
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 19
+  size: 23, 928
+  orig: 23, 928
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 573, 44
+  size: 31, 765
+  orig: 31, 765
+  offset: 0, 0
+  index: -1

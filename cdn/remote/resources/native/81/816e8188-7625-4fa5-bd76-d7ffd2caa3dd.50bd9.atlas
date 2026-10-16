@@ -1,0 +1,181 @@
+
+zhandou_pet_genggui_2.png
+size: 501,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1jian
+  rotate: true
+  xy: 259, 21
+  size: 65, 69
+  orig: 72, 74
+  offset: 2, 4
+  index: -1
+1jiao
+  rotate: true
+  xy: 384, 52
+  size: 26, 59
+  orig: 28, 61
+  offset: 1, 1
+  index: -1
+1shen
+  rotate: false
+  xy: 2, 194
+  size: 179, 305
+  orig: 179, 305
+  offset: 0, 0
+  index: -1
+1shou1
+  rotate: false
+  xy: 388, 80
+  size: 111, 120
+  orig: 111, 120
+  offset: 0, 0
+  index: -1
+1shou2a
+  rotate: false
+  xy: 433, 204
+  size: 58, 34
+  orig: 60, 36
+  offset: 1, 1
+  index: -1
+1shou2b
+  rotate: true
+  xy: 330, 53
+  size: 33, 29
+  orig: 35, 31
+  offset: 1, 1
+  index: -1
+1shou2c
+  rotate: false
+  xy: 361, 46
+  size: 21, 40
+  orig: 23, 42
+  offset: 1, 1
+  index: -1
+1tou
+  rotate: false
+  xy: 331, 412
+  size: 101, 87
+  orig: 101, 87
+  offset: 0, 0
+  index: -1
+1yan
+  rotate: true
+  xy: 241, 74
+  size: 14, 10
+  orig: 18, 12
+  offset: 2, 1
+  index: -1
+1yanguang
+  rotate: true
+  xy: 434, 395
+  size: 104, 50
+  orig: 120, 52
+  offset: 13, 2
+  index: -1
+1yanwu1
+  rotate: true
+  xy: 183, 195
+  size: 5, 19
+  orig: 7, 25
+  offset: 1, 2
+  index: -1
+1yanwu2
+  rotate: true
+  xy: 433, 240
+  size: 22, 61
+  orig: 24, 84
+  offset: 1, 1
+  index: -1
+1yanwu3
+  rotate: true
+  xy: 331, 395
+  size: 15, 81
+  orig: 17, 99
+  offset: 1, 1
+  index: -1
+1yanwu4
+  rotate: false
+  xy: 241, 149
+  size: 15, 51
+  orig: 17, 63
+  offset: 1, 1
+  index: -1
+2shou1
+  rotate: true
+  xy: 183, 390
+  size: 109, 146
+  orig: 111, 150
+  offset: 1, 1
+  index: -1
+2shou2
+  rotate: true
+  xy: 183, 261
+  size: 127, 142
+  orig: 129, 146
+  offset: 1, 3
+  index: -1
+2shou3
+  rotate: false
+  xy: 327, 264
+  size: 129, 124
+  orig: 131, 127
+  offset: 1, 1
+  index: -1
+2shou4
+  rotate: true
+  xy: 259, 88
+  size: 112, 127
+  orig: 114, 129
+  offset: 1, 1
+  index: -1
+2yan1
+  rotate: false
+  xy: 241, 90
+  size: 13, 14
+  orig: 16, 17
+  offset: 1, 1
+  index: -1
+2yan2
+  rotate: false
+  xy: 241, 106
+  size: 13, 16
+  orig: 15, 18
+  offset: 1, 1
+  index: -1
+2yan3
+  rotate: false
+  xy: 414, 391
+  size: 14, 19
+  orig: 16, 21
+  offset: 1, 1
+  index: -1
+2yan4
+  rotate: false
+  xy: 241, 124
+  size: 14, 23
+  orig: 17, 27
+  offset: 1, 3
+  index: -1
+line1
+  rotate: true
+  xy: 2, 59
+  size: 133, 237
+  orig: 133, 237
+  offset: 0, 0
+  index: -1
+line2
+  rotate: true
+  xy: 2, 10
+  size: 47, 255
+  orig: 47, 255
+  offset: 0, 0
+  index: -1
+line3
+  rotate: true
+  xy: 183, 202
+  size: 57, 248
+  orig: 57, 248
+  offset: 0, 0
+  index: -1

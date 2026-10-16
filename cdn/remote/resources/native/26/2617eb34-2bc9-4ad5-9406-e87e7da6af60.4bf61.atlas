@@ -1,0 +1,62 @@
+
+ui_tanchuang_a.png
+size: 1603,652
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban3
+  rotate: false
+  xy: 2, 2
+  size: 1374, 648
+  orig: 1421, 657
+  offset: 45, 1
+  index: -1
+f2
+  rotate: false
+  xy: 1456, 164
+  size: 18, 31
+  orig: 23, 31
+  offset: 3, 0
+  index: -1
+f5
+  rotate: false
+  xy: 1378, 85
+  size: 22, 32
+  orig: 26, 32
+  offset: 3, 0
+  index: -1
+f6
+  rotate: false
+  xy: 1478, 266
+  size: 25, 31
+  orig: 30, 33
+  offset: 5, 1
+  index: -1
+f8
+  rotate: false
+  xy: 1478, 235
+  size: 21, 29
+  orig: 25, 31
+  offset: 2, 1
+  index: -1
+fire
+  rotate: false
+  xy: 1378, 197
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+janna_monsoon_swirl_01
+  rotate: false
+  xy: 1378, 119
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+xian_2
+  rotate: true
+  xy: 1378, 299
+  size: 351, 223
+  orig: 351, 223
+  offset: 0, 0
+  index: -1

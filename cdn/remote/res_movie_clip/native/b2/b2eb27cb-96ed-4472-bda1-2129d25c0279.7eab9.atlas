@@ -1,0 +1,20 @@
+
+ui_shuijing_fenghuang_hit.png
+size: 390,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aatrox_skin01_R_explosion_centerFlare2
+  rotate: false
+  xy: 311, 232
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Global_Asc_Pulse
+  rotate: false
+  xy: 2, 2
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1

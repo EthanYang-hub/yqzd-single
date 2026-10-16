@@ -1,0 +1,83 @@
+
+jidi_skill_1_effect_2.png
+size: 293,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di_huo_1
+  rotate: true
+  xy: 171, 259
+  size: 256, 120
+  orig: 256, 122
+  offset: 0, 0
+  index: -1
+dici_1
+  rotate: false
+  xy: 202, 147
+  size: 65, 54
+  orig: 72, 54
+  offset: 7, 0
+  index: -1
+dici_2
+  rotate: false
+  xy: 202, 203
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+dici_3
+  rotate: false
+  xy: 202, 101
+  size: 55, 44
+  orig: 56, 44
+  offset: 1, 0
+  index: -1
+dici_4
+  rotate: false
+  xy: 202, 60
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+dici_5
+  rotate: false
+  xy: 202, 13
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+dici_6
+  rotate: false
+  xy: 109, 4
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+global_ss_teleport_wake_ring
+  rotate: true
+  xy: 171, 2
+  size: 255, 29
+  orig: 260, 29
+  offset: 3, 0
+  index: -1
+hei_1
+  rotate: true
+  xy: 2, 6
+  size: 509, 49
+  orig: 511, 54
+  offset: 1, 4
+  index: -1
+hei_2
+  rotate: true
+  xy: 53, 17
+  size: 498, 54
+  orig: 504, 68
+  offset: 2, 3
+  index: -1
+hei_3
+  rotate: true
+  xy: 109, 55
+  size: 460, 60
+  orig: 475, 62
+  offset: 8, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+petSkill_long_skill5.png
+size: 1840,1840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_002
+  rotate: false
+  xy: 1050, 1388
+  size: 788, 450
+  orig: 790, 452
+  offset: 1, 1
+  index: -1
+10_004
+  rotate: false
+  xy: 803, 32
+  size: 790, 450
+  orig: 794, 452
+  offset: 1, 1
+  index: -1
+10_006
+  rotate: false
+  xy: 1050, 484
+  size: 745, 450
+  orig: 749, 452
+  offset: 3, 1
+  index: -1
+10_008
+  rotate: false
+  xy: 2, 32
+  size: 799, 450
+  orig: 801, 452
+  offset: 1, 1
+  index: -1
+10_010
+  rotate: false
+  xy: 1050, 936
+  size: 779, 450
+  orig: 796, 452
+  offset: 16, 1
+  index: -1
+Aatrox_Passive_blood_smoke
+  rotate: false
+  xy: 803, 643
+  size: 223, 217
+  orig: 256, 256
+  offset: 14, 19
+  index: -1
+Graves_Plasma_Trail_01
+  rotate: false
+  xy: 263, 657
+  size: 512, 203
+  orig: 512, 256
+  offset: 0, 29
+  index: -1
+SRU_Wjungle_Magic_GlowBot_01
+  rotate: false
+  xy: 460, 531
+  size: 256, 110
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 2, 496
+  size: 206, 145
+  orig: 206, 145
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 210, 525
+  size: 248, 116
+  orig: 256, 128
+  offset: 4, 7
+  index: -1
+hutou
+  rotate: false
+  xy: 2, 862
+  size: 1046, 976
+  orig: 1088, 976
+  offset: 42, 0
+  index: -1
+suishi1
+  rotate: false
+  xy: 1797, 831
+  size: 23, 19
+  orig: 128, 128
+  offset: 52, 53
+  index: -1
+suishi2
+  rotate: true
+  xy: 1797, 878
+  size: 56, 31
+  orig: 128, 128
+  offset: 21, 48
+  index: -1
+suishi3
+  rotate: false
+  xy: 1797, 852
+  size: 26, 24
+  orig: 128, 128
+  offset: 51, 52
+  index: -1
+suishi4
+  rotate: true
+  xy: 1822, 835
+  size: 15, 16
+  orig: 128, 128
+  offset: 57, 56
+  index: -1
+yan_huo
+  rotate: false
+  xy: 2, 646
+  size: 259, 214
+  orig: 267, 218
+  offset: 6, 2
+  index: -1
+yan_huo2
+  rotate: true
+  xy: 1595, 223
+  size: 259, 214
+  orig: 267, 218
+  offset: 6, 2
+  index: -1
+yanwu
+  rotate: true
+  xy: 718, 594
+  size: 61, 64
+  orig: 64, 64
+  offset: 3, 0
+  index: -1

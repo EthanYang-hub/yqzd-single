@@ -1,0 +1,237 @@
+
+monster_3015_1.png
+size: 1634,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0521
+  rotate: false
+  xy: 1546, 307
+  size: 86, 91
+  orig: 96, 96
+  offset: 5, 0
+  index: -1
+20251216-195557
+  rotate: false
+  xy: 724, 357
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+3015_die_1
+  rotate: false
+  xy: 1314, 112
+  size: 105, 142
+  orig: 109, 142
+  offset: 0, 0
+  index: -1
+3015_die_2
+  rotate: false
+  xy: 369, 315
+  size: 353, 417
+  orig: 353, 417
+  offset: 0, 0
+  index: -1
+3015_die_3
+  rotate: true
+  xy: 724, 2
+  size: 353, 336
+  orig: 353, 417
+  offset: 0, 81
+  index: -1
+3015_die_4
+  rotate: false
+  xy: 1101, 479
+  size: 288, 296
+  orig: 353, 417
+  offset: 0, 87
+  index: -1
+A_KL_bian
+  rotate: false
+  xy: 2, 734
+  size: 1075, 41
+  orig: 1075, 41
+  offset: 0, 0
+  index: -1
+A_KL_shou_1
+  rotate: false
+  xy: 1585, 613
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+A_KL_shou_2
+  rotate: true
+  xy: 1552, 400
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+A_kl_1
+  rotate: false
+  xy: 369, 299
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+A_kl_10
+  rotate: true
+  xy: 1314, 20
+  size: 90, 119
+  orig: 90, 119
+  offset: 0, 0
+  index: -1
+A_kl_11
+  rotate: true
+  xy: 1101, 453
+  size: 24, 449
+  orig: 24, 449
+  offset: 0, 0
+  index: -1
+A_kl_12
+  rotate: true
+  xy: 1101, 428
+  size: 23, 449
+  orig: 23, 449
+  offset: 0, 0
+  index: -1
+A_kl_2
+  rotate: false
+  xy: 1062, 59
+  size: 126, 179
+  orig: 126, 184
+  offset: 0, 0
+  index: -1
+A_kl_3
+  rotate: false
+  xy: 692, 194
+  size: 29, 119
+  orig: 29, 119
+  offset: 0, 0
+  index: -1
+A_kl_4
+  rotate: false
+  xy: 1461, 271
+  size: 83, 155
+  orig: 83, 155
+  offset: 0, 0
+  index: -1
+A_kl_5
+  rotate: true
+  xy: 1111, 16
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+A_kl_6
+  rotate: false
+  xy: 2, 283
+  size: 365, 449
+  orig: 365, 465
+  offset: 0, 16
+  index: -1
+A_kl_7
+  rotate: false
+  xy: 1585, 655
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+A_kl_8
+  rotate: false
+  xy: 1502, 147
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+A_kl_9
+  rotate: true
+  xy: 1585, 710
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+A_kl_gubina2
+  rotate: false
+  xy: 2, 9
+  size: 377, 272
+  orig: 377, 272
+  offset: 0, 0
+  index: -1
+A_kl_jipo_1
+  rotate: false
+  xy: 1062, 2
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+A_kl_jipo_2
+  rotate: false
+  xy: 1435, 2
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1
+A_kl_jipo_3
+  rotate: true
+  xy: 1391, 483
+  size: 98, 147
+  orig: 98, 147
+  offset: 0, 0
+  index: -1
+Red_1
+  rotate: true
+  xy: 1502, 77
+  size: 68, 103
+  orig: 68, 103
+  offset: 0, 0
+  index: -1
+Red_2
+  rotate: false
+  xy: 1540, 486
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+Red_3
+  rotate: false
+  xy: 1190, 58
+  size: 122, 180
+  orig: 122, 180
+  offset: 0, 0
+  index: -1
+Red_4
+  rotate: false
+  xy: 1421, 114
+  size: 79, 140
+  orig: 79, 140
+  offset: 0, 0
+  index: -1
+barbarian_groundStompRune_pullClose_magicCracks
+  rotate: false
+  xy: 1391, 583
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+barbarian_hammeroftheAncientsRune_stun_maceTrail
+  rotate: true
+  xy: 381, 11
+  size: 302, 309
+  orig: 325, 381
+  offset: 8, 69
+  index: -1
+storm_smokewispy10
+  rotate: false
+  xy: 1293, 256
+  size: 166, 170
+  orig: 192, 192
+  offset: 14, 11
+  index: -1
+trdun_waterfall_splash
+  rotate: false
+  xy: 1101, 240
+  size: 190, 186
+  orig: 192, 192
+  offset: 2, 3
+  index: -1

@@ -1,0 +1,13 @@
+
+ui_paiming_down.png
+size: 1327,745
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_bg_saijiwanfa_tank
+  rotate: false
+  xy: 2, 2
+  size: 1323, 741
+  orig: 1362, 749
+  offset: 19, 0
+  index: -1

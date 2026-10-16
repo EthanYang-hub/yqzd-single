@@ -1,0 +1,41 @@
+
+ui_tianshu_jiban.png
+size: 329,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daquan
+  rotate: false
+  xy: 2, 2
+  size: 185, 184
+  orig: 185, 185
+  offset: 0, 1
+  index: -1
+jihuo_0
+  rotate: false
+  xy: 264, 123
+  size: 63, 63
+  orig: 67, 67
+  offset: 2, 2
+  index: -1
+jihuo_guang
+  rotate: false
+  xy: 189, 44
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+weijihuo_0
+  rotate: false
+  xy: 264, 58
+  size: 63, 63
+  orig: 67, 67
+  offset: 2, 2
+  index: -1
+xiaoquan
+  rotate: false
+  xy: 189, 113
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1

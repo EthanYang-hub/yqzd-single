@@ -1,0 +1,202 @@
+
+roleSkill_fire_white_hit.png
+size: 142,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_00002
+  rotate: false
+  xy: 45, 10
+  size: 34, 34
+  orig: 57, 49
+  offset: 17, 9
+  index: -1
+c_00003
+  rotate: false
+  xy: 2, 6
+  size: 41, 36
+  orig: 57, 49
+  offset: 12, 8
+  index: -1
+c_00004
+  rotate: false
+  xy: 2, 91
+  size: 42, 37
+  orig: 57, 49
+  offset: 11, 6
+  index: -1
+c_00005
+  rotate: true
+  xy: 2, 44
+  size: 45, 34
+  orig: 57, 49
+  offset: 9, 8
+  index: -1
+c_00006
+  rotate: false
+  xy: 46, 95
+  size: 45, 33
+  orig: 57, 49
+  offset: 9, 9
+  index: -1
+c_00007
+  rotate: true
+  xy: 38, 46
+  size: 43, 30
+  orig: 57, 49
+  offset: 8, 9
+  index: -1
+c_00008
+  rotate: true
+  xy: 115, 109
+  size: 31, 25
+  orig: 57, 49
+  offset: 8, 13
+  index: -1
+c_00009
+  rotate: false
+  xy: 115, 87
+  size: 25, 20
+  orig: 57, 49
+  offset: 15, 16
+  index: -1
+di
+  rotate: false
+  xy: 2, 130
+  size: 111, 10
+  orig: 111, 13
+  offset: 0, 0
+  index: -1
+heiyan
+  rotate: false
+  xy: 115, 64
+  size: 24, 21
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+huo1_1
+  rotate: false
+  xy: 93, 99
+  size: 20, 29
+  orig: 21, 31
+  offset: 1, 1
+  index: -1
+huo1_2
+  rotate: false
+  xy: 81, 14
+  size: 19, 30
+  orig: 21, 31
+  offset: 1, 0
+  index: -1
+huo1_3
+  rotate: false
+  xy: 70, 62
+  size: 21, 31
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+huo1_4
+  rotate: false
+  xy: 93, 70
+  size: 20, 27
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+suihuo_002
+  rotate: false
+  xy: 130, 28
+  size: 7, 7
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+suihuo_003
+  rotate: false
+  xy: 115, 40
+  size: 7, 9
+  orig: 9, 9
+  offset: 1, 0
+  index: -1
+suihuo_004
+  rotate: false
+  xy: 130, 51
+  size: 9, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+suihuo_005
+  rotate: false
+  xy: 124, 37
+  size: 12, 12
+  orig: 12, 13
+  offset: 0, 1
+  index: -1
+suihuo_006
+  rotate: true
+  xy: 115, 51
+  size: 11, 13
+  orig: 13, 13
+  offset: 1, 0
+  index: -1
+suihuo_007
+  rotate: false
+  xy: 70, 46
+  size: 13, 14
+  orig: 14, 14
+  offset: 1, 0
+  index: -1
+suihuo_008
+  rotate: false
+  xy: 85, 46
+  size: 13, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+suihuo_009
+  rotate: false
+  xy: 102, 25
+  size: 13, 13
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+suihuo_010
+  rotate: false
+  xy: 100, 54
+  size: 13, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+suihuo_011
+  rotate: false
+  xy: 102, 10
+  size: 13, 13
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+suihuo_012
+  rotate: false
+  xy: 102, 40
+  size: 11, 12
+  orig: 13, 13
+  offset: 1, 0
+  index: -1
+suihuo_013
+  rotate: false
+  xy: 117, 24
+  size: 11, 11
+  orig: 12, 13
+  offset: 1, 1
+  index: -1
+suihuo_014
+  rotate: true
+  xy: 81, 2
+  size: 10, 11
+  orig: 12, 13
+  offset: 1, 1
+  index: -1
+suihuo_015
+  rotate: false
+  xy: 117, 15
+  size: 9, 7
+  orig: 11, 9
+  offset: 1, 1
+  index: -1

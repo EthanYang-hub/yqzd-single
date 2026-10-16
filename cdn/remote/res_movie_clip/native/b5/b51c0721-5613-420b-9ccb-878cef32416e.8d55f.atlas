@@ -1,0 +1,41 @@
+
+monster_3015_3_effect.png
+size: 864,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Barbarian_seismicSlam_wave_alpha
+  rotate: false
+  xy: 674, 168
+  size: 173, 178
+  orig: 192, 192
+  offset: 3, 11
+  index: -1
+Shyvana_Frost_scroll
+  rotate: false
+  xy: 674, 94
+  size: 174, 72
+  orig: 192, 96
+  offset: 9, 11
+  index: -1
+dun_3
+  rotate: true
+  xy: 2, 28
+  size: 496, 670
+  orig: 567, 722
+  offset: 12, 44
+  index: -1
+hit_1
+  rotate: false
+  xy: 674, 2
+  size: 134, 90
+  orig: 134, 90
+  offset: 0, 0
+  index: -1
+hit_2
+  rotate: false
+  xy: 674, 348
+  size: 188, 176
+  orig: 210, 184
+  offset: 19, 6
+  index: -1

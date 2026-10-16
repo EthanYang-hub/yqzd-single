@@ -1,0 +1,76 @@
+
+ui_shuijing_qilin_down.png
+size: 1645,991
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down_1
+  rotate: false
+  xy: 2, 2
+  size: 467, 75
+  orig: 467, 76
+  offset: 0, 0
+  index: -1
+down_2
+  rotate: false
+  xy: 659, 397
+  size: 355, 592
+  orig: 356, 594
+  offset: 1, 1
+  index: -1
+down_fire
+  rotate: false
+  xy: 2, 79
+  size: 655, 910
+  orig: 655, 910
+  offset: 0, 0
+  index: -1
+fire_1
+  rotate: false
+  xy: 1016, 541
+  size: 389, 448
+  orig: 389, 448
+  offset: 0, 0
+  index: -1
+fire_2
+  rotate: true
+  xy: 987, 188
+  size: 178, 390
+  orig: 207, 411
+  offset: 19, 20
+  index: -1
+fire_3
+  rotate: true
+  xy: 987, 25
+  size: 161, 397
+  orig: 165, 405
+  offset: 0, 7
+  index: -1
+fire_4
+  rotate: true
+  xy: 1016, 368
+  size: 171, 358
+  orig: 223, 383
+  offset: 52, 24
+  index: -1
+up_lizi_1
+  rotate: false
+  xy: 659, 137
+  size: 326, 258
+  orig: 334, 277
+  offset: 5, 3
+  index: -1
+up_lizi_2
+  rotate: true
+  xy: 1386, 142
+  size: 284, 257
+  orig: 289, 272
+  offset: 3, 11
+  index: -1
+up_lizi_4
+  rotate: true
+  xy: 1407, 428
+  size: 561, 235
+  orig: 613, 245
+  offset: 51, 1
+  index: -1

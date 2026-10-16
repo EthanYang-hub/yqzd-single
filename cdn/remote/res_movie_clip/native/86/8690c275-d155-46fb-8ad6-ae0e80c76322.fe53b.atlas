@@ -1,0 +1,90 @@
+
+roleSkill_spwind_purple.png
+size: 1152,1152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 953, 294
+  size: 435, 86
+  orig: 435, 103
+  offset: 0, 9
+  index: -1
+feng_1
+  rotate: true
+  xy: 1053, 98
+  size: 872, 84
+  orig: 873, 91
+  offset: 1, 4
+  index: -1
+feng_2
+  rotate: false
+  xy: 2, 2
+  size: 604, 59
+  orig: 611, 64
+  offset: 7, 2
+  index: -1
+gui_1
+  rotate: false
+  xy: 2, 289
+  size: 552, 498
+  orig: 581, 498
+  offset: 0, 0
+  index: -1
+gui_2
+  rotate: true
+  xy: 747, 186
+  size: 543, 204
+  orig: 596, 311
+  offset: 21, 38
+  index: -1
+gui_3
+  rotate: false
+  xy: 748, 972
+  size: 400, 178
+  orig: 480, 218
+  offset: 17, 3
+  index: -1
+gui_4
+  rotate: false
+  xy: 2, 63
+  size: 608, 224
+  orig: 676, 263
+  offset: 21, 28
+  index: -1
+gui_5
+  rotate: false
+  xy: 2, 789
+  size: 744, 361
+  orig: 845, 426
+  offset: 23, 27
+  index: -1
+shou_c_1_1
+  rotate: false
+  xy: 612, 31
+  size: 305, 153
+  orig: 319, 200
+  offset: 9, 14
+  index: -1
+shou_c_2_1
+  rotate: true
+  xy: 612, 218
+  size: 205, 120
+  orig: 230, 149
+  offset: 13, 14
+  index: -1
+shou_c_3_1
+  rotate: true
+  xy: 556, 425
+  size: 362, 189
+  orig: 380, 210
+  offset: 8, 11
+  index: -1
+shou_c_4_1
+  rotate: false
+  xy: 748, 731
+  size: 303, 239
+  orig: 303, 239
+  offset: 0, 0
+  index: -1

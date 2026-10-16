@@ -1,0 +1,97 @@
+
+ui_beijingban6.png
+size: 760,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoshi_1
+  rotate: false
+  xy: 728, 982
+  size: 14, 14
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+laoshi_10
+  rotate: true
+  xy: 653, 399
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+laoshi_11
+  rotate: false
+  xy: 539, 425
+  size: 112, 130
+  orig: 112, 130
+  offset: 0, 0
+  index: -1
+laoshi_12
+  rotate: true
+  xy: 452, 2
+  size: 383, 300
+  orig: 383, 300
+  offset: 0, 0
+  index: -1
+laoshi_13
+  rotate: false
+  xy: 2, 10
+  size: 448, 551
+  orig: 467, 571
+  offset: 12, 10
+  index: -1
+laoshi_2
+  rotate: false
+  xy: 744, 982
+  size: 14, 14
+  orig: 15, 15
+  offset: 1, 0
+  index: -1
+laoshi_3
+  rotate: false
+  xy: 744, 982
+  size: 14, 14
+  orig: 15, 15
+  offset: 1, 0
+  index: -1
+laoshi_4
+  rotate: true
+  xy: 728, 998
+  size: 21, 22
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+laoshi_5
+  rotate: false
+  xy: 452, 387
+  size: 85, 174
+  orig: 85, 174
+  offset: 0, 0
+  index: -1
+laoshi_6
+  rotate: true
+  xy: 551, 557
+  size: 116, 199
+  orig: 117, 203
+  offset: 1, 3
+  index: -1
+laoshi_7
+  rotate: true
+  xy: 2, 563
+  size: 456, 547
+  orig: 456, 547
+  offset: 0, 0
+  index: -1
+laoshi_8
+  rotate: false
+  xy: 653, 489
+  size: 99, 66
+  orig: 99, 66
+  offset: 0, 0
+  index: -1
+laoshi_9
+  rotate: true
+  xy: 551, 675
+  size: 344, 175
+  orig: 344, 175
+  offset: 0, 0
+  index: -1

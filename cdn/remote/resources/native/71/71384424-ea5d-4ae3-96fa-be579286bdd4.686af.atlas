@@ -1,0 +1,20 @@
+
+fight_protagonist_weapon.png
+size: 190,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gong
+  rotate: true
+  xy: 2, 19
+  size: 59, 186
+  orig: 59, 186
+  offset: 0, 0
+  index: -1
+gongxian
+  rotate: true
+  xy: 2, 2
+  size: 15, 123
+  orig: 15, 123
+  offset: 0, 0
+  index: -1

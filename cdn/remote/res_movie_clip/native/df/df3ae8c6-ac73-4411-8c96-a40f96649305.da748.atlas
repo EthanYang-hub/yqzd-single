@@ -1,0 +1,20 @@
+
+roleSkill_Skulltower_1.png
+size: 871,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dici_2
+  rotate: true
+  xy: 712, 209
+  size: 271, 157
+  orig: 321, 164
+  offset: 2, 5
+  index: -1
+dici_2222222
+  rotate: false
+  xy: 2, 2
+  size: 708, 478
+  orig: 708, 480
+  offset: 0, 0
+  index: -1

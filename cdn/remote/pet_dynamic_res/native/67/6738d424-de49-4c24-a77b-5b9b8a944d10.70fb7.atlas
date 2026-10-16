@@ -1,0 +1,55 @@
+
+lihui_pet_bird.png
+size: 1355,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1122, 31
+  size: 301, 231
+  orig: 301, 231
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 736, 69
+  size: 119, 303
+  orig: 119, 303
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 736, 190
+  size: 142, 281
+  orig: 142, 281
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 6
+  size: 385, 326
+  orig: 396, 332
+  offset: 11, 6
+  index: -1
+5
+  rotate: false
+  xy: 389, 65
+  size: 345, 267
+  orig: 345, 349
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 389, 2
+  size: 26, 792
+  orig: 26, 792
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 389, 30
+  size: 33, 731
+  orig: 33, 731
+  offset: 0, 0
+  index: -1

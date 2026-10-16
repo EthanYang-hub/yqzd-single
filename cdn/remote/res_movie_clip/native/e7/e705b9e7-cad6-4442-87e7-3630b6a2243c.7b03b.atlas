@@ -1,0 +1,27 @@
+
+rareSkill_windkill2.png
+size: 725,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S1
+  rotate: false
+  xy: 513, 39
+  size: 183, 93
+  orig: 183, 98
+  offset: 0, 5
+  index: -1
+gui_1
+  rotate: false
+  xy: 2, 2
+  size: 509, 422
+  orig: 581, 498
+  offset: 0, 36
+  index: -1
+shou_c_4_1
+  rotate: true
+  xy: 513, 134
+  size: 290, 210
+  orig: 303, 239
+  offset: 0, 14
+  index: -1

@@ -1,0 +1,13 @@
+
+ui_yan_jibai3.png
+size: 85,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhua_ji
+  rotate: false
+  xy: 2, 2
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1

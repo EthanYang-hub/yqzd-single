@@ -1,0 +1,27 @@
+
+changjing_003.png
+size: 570,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+003_zhuwang
+  rotate: true
+  xy: 2, 2
+  size: 300, 306
+  orig: 300, 306
+  offset: 0, 0
+  index: -1
+Aatrox_range_green1b
+  rotate: true
+  xy: 310, 46
+  size: 256, 55
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+beijing_
+  rotate: false
+  xy: 2, 304
+  size: 566, 137
+  orig: 566, 137
+  offset: 0, 0
+  index: -1

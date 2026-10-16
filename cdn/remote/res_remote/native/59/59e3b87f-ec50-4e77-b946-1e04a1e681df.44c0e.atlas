@@ -1,0 +1,48 @@
+
+ui_fengdu_baoxiang.png
+size: 188,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_1
+  rotate: true
+  xy: 124, 188
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+B_2
+  rotate: true
+  xy: 2, 62
+  size: 70, 109
+  orig: 72, 118
+  offset: 1, 9
+  index: -1
+B_3
+  rotate: true
+  xy: 2, 134
+  size: 119, 120
+  orig: 129, 129
+  offset: 5, 3
+  index: -1
+K_1
+  rotate: true
+  xy: 124, 119
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+K_1_2
+  rotate: false
+  xy: 2, 2
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+K_2
+  rotate: false
+  xy: 113, 19
+  size: 71, 98
+  orig: 72, 107
+  offset: 0, 8
+  index: -1

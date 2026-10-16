@@ -1,0 +1,202 @@
+
+ui_denglong.png
+size: 624,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 236, 4
+  size: 57, 63
+  orig: 61, 65
+  offset: 2, 0
+  index: -1
+A2
+  rotate: false
+  xy: 2, 2
+  size: 58, 58
+  orig: 63, 62
+  offset: 3, 2
+  index: -1
+A3
+  rotate: false
+  xy: 354, 48
+  size: 56, 57
+  orig: 58, 60
+  offset: 2, 3
+  index: -1
+A4
+  rotate: false
+  xy: 122, 2
+  size: 55, 58
+  orig: 59, 61
+  offset: 0, 1
+  index: -1
+B1
+  rotate: false
+  xy: 295, 14
+  size: 57, 63
+  orig: 61, 65
+  offset: 1, 0
+  index: -1
+B2
+  rotate: false
+  xy: 62, 2
+  size: 58, 58
+  orig: 63, 62
+  offset: 3, 2
+  index: -1
+B3
+  rotate: true
+  xy: 542, 75
+  size: 56, 57
+  orig: 58, 60
+  offset: 2, 3
+  index: -1
+B4
+  rotate: false
+  xy: 179, 2
+  size: 55, 58
+  orig: 59, 61
+  offset: 0, 1
+  index: -1
+Morgana_Skin05_Idle1_Wisps_Buf
+  rotate: false
+  xy: 494, 393
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Morgana_Skin05_Idle1_Wisps_Buf2
+  rotate: false
+  xy: 494, 263
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Morgana_Skin05_Q_Wisps_Mis
+  rotate: false
+  xy: 492, 133
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Morgana_Skin05_Q_Wisps_Mis2
+  rotate: false
+  xy: 412, 3
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+chuangguan_an
+  rotate: false
+  xy: 360, 164
+  size: 130, 176
+  orig: 212, 240
+  offset: 43, 22
+  index: -1
+chuanguan_1
+  rotate: false
+  xy: 224, 107
+  size: 134, 180
+  orig: 212, 240
+  offset: 41, 20
+  index: -1
+chuanguan_2
+  rotate: false
+  xy: 2, 62
+  size: 220, 225
+  orig: 266, 264
+  offset: 24, 5
+  index: -1
+lizi_1
+  rotate: false
+  xy: 224, 88
+  size: 17, 17
+  orig: 21, 20
+  offset: 2, 2
+  index: -1
+lizi_10
+  rotate: true
+  xy: 262, 69
+  size: 17, 16
+  orig: 20, 20
+  offset: 1, 2
+  index: -1
+lizi_2
+  rotate: false
+  xy: 224, 69
+  size: 17, 17
+  orig: 20, 21
+  offset: 2, 2
+  index: -1
+lizi_3
+  rotate: true
+  xy: 280, 93
+  size: 12, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+lizi_4
+  rotate: false
+  xy: 280, 79
+  size: 11, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+lizi_5
+  rotate: true
+  xy: 262, 88
+  size: 17, 16
+  orig: 20, 20
+  offset: 1, 2
+  index: -1
+lizi_6
+  rotate: false
+  xy: 243, 88
+  size: 17, 17
+  orig: 21, 20
+  offset: 2, 2
+  index: -1
+lizi_7
+  rotate: false
+  xy: 243, 69
+  size: 17, 17
+  orig: 20, 21
+  offset: 2, 2
+  index: -1
+lizi_8
+  rotate: true
+  xy: 293, 93
+  size: 12, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+lizi_9
+  rotate: false
+  xy: 293, 79
+  size: 11, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+zhaohuan_1
+  rotate: false
+  xy: 230, 342
+  size: 133, 179
+  orig: 212, 240
+  offset: 41, 20
+  index: -1
+zhaohuan_2
+  rotate: false
+  xy: 2, 289
+  size: 226, 232
+  orig: 278, 271
+  offset: 28, 3
+  index: -1
+zhaohuan_an
+  rotate: false
+  xy: 365, 347
+  size: 127, 174
+  orig: 212, 240
+  offset: 44, 23
+  index: -1

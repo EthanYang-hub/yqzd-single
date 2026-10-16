@@ -1,0 +1,160 @@
+
+zhandou_pet_horse_2.png
+size: 743,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1
+  rotate: true
+  xy: 123, 26
+  size: 150, 97
+  orig: 158, 103
+  offset: 5, 6
+  index: -1
+c9f6a
+  rotate: true
+  xy: 2, 692
+  size: 337, 534
+  orig: 375, 600
+  offset: 18, 62
+  index: -1
+jinguang_1
+  rotate: true
+  xy: 417, 321
+  size: 369, 91
+  orig: 369, 101
+  offset: 0, 10
+  index: -1
+jinguang_2
+  rotate: false
+  xy: 2, 178
+  size: 348, 141
+  orig: 348, 141
+  offset: 0, 0
+  index: -1
+jinguang_3
+  rotate: true
+  xy: 510, 30
+  size: 291, 115
+  orig: 291, 115
+  offset: 0, 0
+  index: -1
+jinguang_4
+  rotate: true
+  xy: 627, 18
+  size: 323, 88
+  orig: 323, 88
+  offset: 0, 0
+  index: -1
+jinguang_5
+  rotate: true
+  xy: 531, 343
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+jinguang_6
+  rotate: true
+  xy: 632, 389
+  size: 233, 106
+  orig: 233, 106
+  offset: 0, 0
+  index: -1
+ma_1
+  rotate: false
+  xy: 726, 1019
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+ma_10
+  rotate: false
+  xy: 2, 339
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+ma_11
+  rotate: true
+  xy: 538, 624
+  size: 405, 186
+  orig: 405, 186
+  offset: 0, 0
+  index: -1
+ma_12
+  rotate: false
+  xy: 510, 323
+  size: 19, 367
+  orig: 19, 367
+  offset: 0, 0
+  index: -1
+ma_13
+  rotate: false
+  xy: 416, 17
+  size: 84, 302
+  orig: 84, 302
+  offset: 0, 0
+  index: -1
+ma_14
+  rotate: false
+  xy: 352, 47
+  size: 62, 367
+  orig: 62, 367
+  offset: 0, 0
+  index: -1
+ma_2
+  rotate: false
+  xy: 103, 362
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1
+ma_3
+  rotate: false
+  xy: 280, 334
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+ma_4
+  rotate: false
+  xy: 225, 324
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+ma_5
+  rotate: true
+  xy: 2, 416
+  size: 274, 413
+  orig: 359, 422
+  offset: 79, 9
+  index: -1
+ma_6
+  rotate: false
+  xy: 2, 39
+  size: 119, 137
+  orig: 119, 137
+  offset: 0, 0
+  index: -1
+ma_7
+  rotate: false
+  xy: 222, 73
+  size: 115, 103
+  orig: 115, 103
+  offset: 0, 0
+  index: -1
+ma_8
+  rotate: false
+  xy: 2, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+ma_9
+  rotate: false
+  xy: 632, 345
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1

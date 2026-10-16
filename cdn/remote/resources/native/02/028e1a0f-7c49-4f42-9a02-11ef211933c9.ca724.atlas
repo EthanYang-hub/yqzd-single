@@ -1,0 +1,230 @@
+
+ui_bianhuahecheng_up.png
+size: 1755,358
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Env_MB_highWind_01
+  rotate: true
+  xy: 939, 156
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+F1
+  rotate: true
+  xy: 1394, 4
+  size: 102, 119
+  orig: 108, 123
+  offset: 5, 1
+  index: -1
+F2
+  rotate: false
+  xy: 1622, 11
+  size: 98, 111
+  orig: 102, 118
+  offset: 3, 6
+  index: -1
+F3
+  rotate: false
+  xy: 1439, 235
+  size: 93, 121
+  orig: 109, 123
+  offset: 8, 1
+  index: -1
+F4
+  rotate: true
+  xy: 729, 3
+  size: 129, 122
+  orig: 131, 123
+  offset: 1, 0
+  index: -1
+JarvanIV_Lubu_red_smoke
+  rotate: true
+  xy: 408, 130
+  size: 226, 198
+  orig: 256, 256
+  offset: 18, 34
+  index: -1
+Zyra_Skin02_W_Fire
+  rotate: false
+  xy: 1087, 203
+  size: 153, 153
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+eye_lwy_t_sun_16_single
+  rotate: true
+  xy: 1534, 238
+  size: 118, 117
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+flash_fireHit
+  rotate: true
+  xy: 174, 119
+  size: 237, 232
+  orig: 256, 256
+  offset: 9, 11
+  index: -1
+hehua_1
+  rotate: true
+  xy: 1015, 28
+  size: 157, 156
+  orig: 157, 156
+  offset: 0, 0
+  index: -1
+hehua_10
+  rotate: true
+  xy: 1254, 83
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+hehua_10_b
+  rotate: false
+  xy: 1515, 7
+  size: 105, 105
+  orig: 113, 110
+  offset: 3, 2
+  index: -1
+hehua_11
+  rotate: true
+  xy: 991, 187
+  size: 169, 94
+  orig: 169, 94
+  offset: 0, 0
+  index: -1
+hehua_11_b
+  rotate: true
+  xy: 1344, 231
+  size: 125, 93
+  orig: 133, 99
+  offset: 4, 3
+  index: -1
+hehua_1_b
+  rotate: true
+  xy: 444, 2
+  size: 126, 124
+  orig: 131, 130
+  offset: 2, 3
+  index: -1
+hehua_2
+  rotate: true
+  xy: 384, 5
+  size: 112, 58
+  orig: 112, 58
+  offset: 0, 0
+  index: -1
+hehua_2_b
+  rotate: false
+  xy: 1298, 9
+  size: 94, 72
+  orig: 104, 80
+  offset: 5, 3
+  index: -1
+hehua_3
+  rotate: false
+  xy: 1173, 2
+  size: 123, 47
+  orig: 123, 47
+  offset: 0, 0
+  index: -1
+hehua_3_b
+  rotate: false
+  xy: 1653, 179
+  size: 99, 69
+  orig: 108, 74
+  offset: 5, 3
+  index: -1
+hehua_4
+  rotate: false
+  xy: 1578, 124
+  size: 111, 53
+  orig: 111, 53
+  offset: 0, 0
+  index: -1
+hehua_5
+  rotate: true
+  xy: 2, 42
+  size: 314, 170
+  orig: 314, 170
+  offset: 0, 0
+  index: -1
+hehua_5_b
+  rotate: true
+  xy: 801, 149
+  size: 207, 136
+  orig: 207, 136
+  offset: 0, 0
+  index: -1
+hehua_6
+  rotate: true
+  xy: 608, 134
+  size: 222, 191
+  orig: 222, 191
+  offset: 0, 0
+  index: -1
+hehua_6_b
+  rotate: false
+  xy: 853, 2
+  size: 160, 145
+  orig: 160, 145
+  offset: 0, 0
+  index: -1
+hehua_7
+  rotate: false
+  xy: 570, 3
+  size: 157, 125
+  orig: 157, 125
+  offset: 0, 0
+  index: -1
+hehua_7_b
+  rotate: true
+  xy: 1375, 108
+  size: 121, 111
+  orig: 128, 115
+  offset: 4, 2
+  index: -1
+hehua_8
+  rotate: false
+  xy: 1242, 217
+  size: 100, 139
+  orig: 100, 139
+  offset: 0, 0
+  index: -1
+hehua_8_b
+  rotate: false
+  xy: 288, 4
+  size: 94, 113
+  orig: 100, 120
+  offset: 3, 4
+  index: -1
+hehua_9
+  rotate: true
+  xy: 1173, 51
+  size: 150, 79
+  orig: 150, 79
+  offset: 0, 0
+  index: -1
+hehua_9_b
+  rotate: true
+  xy: 1488, 114
+  size: 119, 88
+  orig: 125, 93
+  offset: 3, 2
+  index: -1
+plasmaflare2
+  rotate: true
+  xy: 174, 3
+  size: 114, 112
+  orig: 150, 150
+  offset: 15, 13
+  index: -1
+trOut_Cultists_Summoning_Portal_Pattern_B
+  rotate: true
+  xy: 1653, 250
+  size: 106, 100
+  orig: 128, 128
+  offset: 11, 16
+  index: -1

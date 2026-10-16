@@ -1,0 +1,132 @@
+
+ui_beijingban11.png
+size: 1397,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jar_Of_Souls_Glow
+  rotate: false
+  xy: 1127, 192
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+yizhou_dikuang
+  rotate: true
+  xy: 2, 2
+  size: 446, 604
+  orig: 446, 604
+  offset: 0, 0
+  index: -1
+yizhou_lizi_1
+  rotate: true
+  xy: 1050, 86
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+yizhou_niao_1
+  rotate: false
+  xy: 1067, 64
+  size: 20, 20
+  orig: 28, 25
+  offset: 4, 1
+  index: -1
+yizhou_niao_2
+  rotate: false
+  xy: 946, 36
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+yizhou_niao_3
+  rotate: false
+  xy: 993, 40
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+yizhou_niao_4
+  rotate: true
+  xy: 946, 76
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+yizhou_niao_5
+  rotate: false
+  xy: 1044, 23
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+yizhou_niao_6
+  rotate: false
+  xy: 993, 101
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+yizhou_niao_7
+  rotate: false
+  xy: 946, 129
+  size: 102, 33
+  orig: 102, 33
+  offset: 0, 0
+  index: -1
+yizhou_wenzi
+  rotate: false
+  xy: 1330, 14
+  size: 48, 176
+  orig: 51, 182
+  offset: 1, 6
+  index: -1
+yizhou_xian_g_1
+  rotate: true
+  xy: 608, 164
+  size: 284, 517
+  orig: 287, 522
+  offset: 3, 4
+  index: -1
+yizhou_xian_g_2
+  rotate: true
+  xy: 1380, 140
+  size: 21, 13
+  orig: 23, 16
+  offset: 1, 2
+  index: -1
+yizhou_xian_g_3
+  rotate: false
+  xy: 1044, 46
+  size: 21, 38
+  orig: 27, 53
+  offset: 2, 13
+  index: -1
+yizhou_xian_g_4
+  rotate: false
+  xy: 1380, 163
+  size: 15, 27
+  orig: 23, 47
+  offset: 7, 9
+  index: -1
+yizhou_zhuanshi_1
+  rotate: false
+  xy: 1127, 36
+  size: 201, 154
+  orig: 201, 154
+  offset: 0, 0
+  index: -1
+yizhou_zhuanshi_2
+  rotate: true
+  xy: 760, 50
+  size: 112, 184
+  orig: 116, 193
+  offset: 4, 9
+  index: -1
+yizhou_zhuanshi_3
+  rotate: true
+  xy: 608, 14
+  size: 148, 150
+  orig: 159, 155
+  offset: 8, 2
+  index: -1

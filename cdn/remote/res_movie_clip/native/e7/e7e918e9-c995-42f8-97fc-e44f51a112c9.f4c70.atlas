@@ -1,0 +1,279 @@
+
+petSkill_spine_2.png
+size: 2015,651
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0856
+  rotate: false
+  xy: 2, 36
+  size: 314, 465
+  orig: 360, 490
+  offset: 22, 14
+  index: -1
+AA1
+  rotate: true
+  xy: 1407, 497
+  size: 152, 337
+  orig: 182, 386
+  offset: 13, 15
+  index: -1
+AA3
+  rotate: true
+  xy: 744, 489
+  size: 42, 657
+  orig: 42, 657
+  offset: 0, 0
+  index: -1
+AA4
+  rotate: true
+  xy: 2, 503
+  size: 146, 740
+  orig: 146, 740
+  offset: 0, 0
+  index: -1
+Electricity 003_00000
+  rotate: false
+  xy: 1473, 24
+  size: 79, 167
+  orig: 200, 303
+  offset: 39, 136
+  index: -1
+Electricity 003_00001
+  rotate: false
+  xy: 1446, 193
+  size: 107, 302
+  orig: 200, 303
+  offset: 37, 1
+  index: -1
+Electricity 003_00002
+  rotate: false
+  xy: 1198, 184
+  size: 158, 303
+  orig: 200, 303
+  offset: 18, 0
+  index: -1
+Electricity 003_00003
+  rotate: false
+  xy: 848, 184
+  size: 183, 303
+  orig: 200, 303
+  offset: 14, 0
+  index: -1
+Electricity 003_00004
+  rotate: false
+  xy: 1033, 184
+  size: 163, 303
+  orig: 200, 303
+  offset: 25, 0
+  index: -1
+Electricity 003_00006
+  rotate: false
+  xy: 662, 184
+  size: 184, 303
+  orig: 200, 303
+  offset: 2, 0
+  index: -1
+Electricity 003_00009
+  rotate: true
+  xy: 1554, 34
+  size: 153, 131
+  orig: 200, 303
+  offset: 9, 35
+  index: -1
+Electricity 003_00011
+  rotate: true
+  xy: 1687, 34
+  size: 143, 128
+  orig: 200, 303
+  offset: 13, 36
+  index: -1
+d2
+  rotate: true
+  xy: 1935, 246
+  size: 254, 69
+  orig: 256, 70
+  offset: 2, 1
+  index: -1
+s4_dian3_000
+  rotate: true
+  xy: 1340, 126
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+s4_dian3_001
+  rotate: false
+  xy: 1881, 67
+  size: 74, 164
+  orig: 74, 164
+  offset: 0, 0
+  index: -1
+s4_dian3_002
+  rotate: true
+  xy: 1196, 2
+  size: 92, 275
+  orig: 92, 275
+  offset: 0, 0
+  index: -1
+s4_dian3_003
+  rotate: true
+  xy: 850, 2
+  size: 89, 344
+  orig: 89, 344
+  offset: 0, 0
+  index: -1
+s4_dian3_004
+  rotate: true
+  xy: 662, 93
+  size: 89, 350
+  orig: 89, 350
+  offset: 0, 0
+  index: -1
+s4_dian3_005
+  rotate: true
+  xy: 498, 2
+  size: 89, 350
+  orig: 89, 350
+  offset: 0, 0
+  index: -1
+s4_dian3_006
+  rotate: true
+  xy: 1014, 96
+  size: 86, 324
+  orig: 86, 324
+  offset: 0, 0
+  index: -1
+s4_dian3_007
+  rotate: false
+  xy: 1358, 171
+  size: 86, 316
+  orig: 86, 316
+  offset: 0, 0
+  index: -1
+s4_dian3_008
+  rotate: true
+  xy: 1746, 567
+  size: 82, 267
+  orig: 82, 267
+  offset: 0, 0
+  index: -1
+s4_dian3_009
+  rotate: false
+  xy: 1779, 225
+  size: 78, 275
+  orig: 78, 275
+  offset: 0, 0
+  index: -1
+s4_dian3_010
+  rotate: false
+  xy: 1555, 189
+  size: 74, 306
+  orig: 74, 306
+  offset: 0, 0
+  index: -1
+s4_dian3_011
+  rotate: false
+  xy: 1707, 179
+  size: 70, 316
+  orig: 70, 316
+  offset: 0, 0
+  index: -1
+s4_dian3_012
+  rotate: false
+  xy: 1631, 189
+  size: 74, 306
+  orig: 74, 306
+  offset: 0, 0
+  index: -1
+s4_dian3_013
+  rotate: false
+  xy: 1859, 233
+  size: 74, 267
+  orig: 74, 267
+  offset: 0, 0
+  index: -1
+s4_dian3_014
+  rotate: false
+  xy: 1817, 39
+  size: 62, 184
+  orig: 62, 184
+  offset: 0, 0
+  index: -1
+shandian_1
+  rotate: true
+  xy: 744, 533
+  size: 116, 661
+  orig: 129, 703
+  offset: 2, 19
+  index: -1
+shandian_2
+  rotate: false
+  xy: 318, 35
+  size: 178, 466
+  orig: 195, 506
+  offset: 12, 22
+  index: -1
+shandian_3
+  rotate: false
+  xy: 498, 147
+  size: 162, 354
+  orig: 189, 400
+  offset: 8, 21
+  index: -1
+suolian_1
+  rotate: true
+  xy: 498, 110
+  size: 35, 115
+  orig: 35, 122
+  offset: 0, 0
+  index: -1
+suolian_2
+  rotate: false
+  xy: 1957, 132
+  size: 34, 112
+  orig: 41, 113
+  offset: 0, 0
+  index: -1
+suolian_3
+  rotate: true
+  xy: 1667, 4
+  size: 28, 91
+  orig: 28, 92
+  offset: 0, 0
+  index: -1
+suolian_4
+  rotate: true
+  xy: 130, 6
+  size: 28, 112
+  orig: 28, 112
+  offset: 0, 0
+  index: -1
+suolian_5
+  rotate: true
+  xy: 1340, 96
+  size: 28, 90
+  orig: 28, 90
+  offset: 0, 0
+  index: -1
+suolian_6
+  rotate: true
+  xy: 1554, 4
+  size: 28, 111
+  orig: 28, 111
+  offset: 0, 0
+  index: -1
+suolian_7
+  rotate: true
+  xy: 2, 6
+  size: 28, 126
+  orig: 28, 127
+  offset: 0, 0
+  index: -1
+sv
+  rotate: false
+  xy: 1746, 502
+  size: 256, 63
+  orig: 256, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+ui_zhanli_up.png
+size: 806,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_5
+  rotate: true
+  xy: 376, 493
+  size: 520, 242
+  orig: 677, 246
+  offset: 17, 4
+  index: -1
+fire_bagua
+  rotate: true
+  xy: 641, 422
+  size: 173, 163
+  orig: 188, 177
+  offset: 6, 5
+  index: -1
+fire_di
+  rotate: true
+  xy: 2, 129
+  size: 884, 372
+  orig: 932, 424
+  offset: 23, 30
+  index: -1
+fire_wen_1
+  rotate: false
+  xy: 699, 19
+  size: 88, 98
+  orig: 88, 98
+  offset: 0, 0
+  index: -1
+fire_wen_2
+  rotate: true
+  xy: 581, 5
+  size: 112, 116
+  orig: 112, 116
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 624, 520
+  size: 493, 7
+  orig: 502, 9
+  offset: 6, 0
+  index: -1
+huomiao_1
+  rotate: true
+  xy: 633, 597
+  size: 223, 109
+  orig: 240, 113
+  offset: 5, 0
+  index: -1
+huomiao_2
+  rotate: true
+  xy: 633, 822
+  size: 191, 149
+  orig: 324, 262
+  offset: 67, 23
+  index: -1
+huomiao_3
+  rotate: false
+  xy: 232, 2
+  size: 196, 125
+  orig: 214, 131
+  offset: 6, 0
+  index: -1
+huomiao_4
+  rotate: false
+  xy: 581, 119
+  size: 149, 103
+  orig: 173, 130
+  offset: 6, 6
+  index: -1
+huomiao_5
+  rotate: true
+  xy: 536, 227
+  size: 224, 103
+  orig: 268, 103
+  offset: 9, 0
+  index: -1
+huomiao_6
+  rotate: true
+  xy: 641, 224
+  size: 196, 136
+  orig: 218, 157
+  offset: 20, 6
+  index: -1
+huomiao_7
+  rotate: true
+  xy: 430, 45
+  size: 159, 149
+  orig: 228, 167
+  offset: 23, 8
+  index: -1
+huomiao_8
+  rotate: false
+  xy: 2, 12
+  size: 228, 115
+  orig: 248, 131
+  offset: 10, 0
+  index: -1
+lizi
+  rotate: true
+  xy: 376, 206
+  size: 285, 158
+  orig: 327, 182
+  offset: 40, 5
+  index: -1
+xian
+  rotate: true
+  xy: 620, 453
+  size: 560, 2
+  orig: 560, 2
+  offset: 0, 0
+  index: -1

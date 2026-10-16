@@ -1,0 +1,55 @@
+
+ui_niejing_bg.png
+size: 1662,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_bian_1
+  rotate: true
+  xy: 2, 40
+  size: 342, 358
+  orig: 342, 358
+  offset: 0, 0
+  index: -1
+BG_bian_2
+  rotate: true
+  xy: 1573, 219
+  size: 71, 80
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+BG_kulou
+  rotate: true
+  xy: 362, 60
+  size: 322, 343
+  orig: 322, 343
+  offset: 0, 0
+  index: -1
+BG_kuloufaguang
+  rotate: false
+  xy: 707, 117
+  size: 305, 265
+  orig: 305, 265
+  offset: 0, 0
+  index: -1
+BG_tongjing
+  rotate: true
+  xy: 1573, 292
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+BG_wota
+  rotate: false
+  xy: 707, 2
+  size: 888, 113
+  orig: 888, 113
+  offset: 0, 0
+  index: -1
+BG_yifu
+  rotate: false
+  xy: 1014, 135
+  size: 557, 247
+  orig: 570, 247
+  offset: 0, 0
+  index: -1

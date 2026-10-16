@@ -1,0 +1,62 @@
+
+rareSkill_windbell_3_effect_hit.png
+size: 1594,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Barbarian_battleRage_ember_yellow
+  rotate: false
+  xy: 1423, 27
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Electricity 027_00004
+  rotate: true
+  xy: 521, 7
+  size: 255, 238
+  orig: 300, 267
+  offset: 35, 15
+  index: -1
+Electricity 027_00005
+  rotate: true
+  xy: 264, 2
+  size: 260, 255
+  orig: 300, 267
+  offset: 32, 6
+  index: -1
+Electricity 027_00006
+  rotate: false
+  xy: 2, 2
+  size: 260, 260
+  orig: 300, 267
+  offset: 33, 4
+  index: -1
+Electricity 027_00007
+  rotate: true
+  xy: 1000, 25
+  size: 237, 228
+  orig: 300, 267
+  offset: 44, 19
+  index: -1
+Electricity 027_00008
+  rotate: true
+  xy: 761, 18
+  size: 244, 237
+  orig: 300, 267
+  offset: 41, 15
+  index: -1
+Electricity 027_00009
+  rotate: false
+  xy: 1230, 18
+  size: 191, 244
+  orig: 300, 267
+  offset: 54, 11
+  index: -1
+Electricity 027_00010
+  rotate: false
+  xy: 1423, 93
+  size: 169, 169
+  orig: 300, 267
+  offset: 60, 49
+  index: -1

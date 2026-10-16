@@ -1,0 +1,20 @@
+
+ui_jinbi_shuijing_up.png
+size: 945,1027
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 765, 454
+  orig: 765, 454
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 458
+  size: 941, 567
+  orig: 1059, 620
+  offset: 24, 25
+  index: -1

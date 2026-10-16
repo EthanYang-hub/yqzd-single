@@ -1,0 +1,62 @@
+
+changjing_laoshi_huodong5.png
+size: 1308,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SSK_1
+  rotate: true
+  xy: 1039, 124
+  size: 221, 151
+  orig: 221, 151
+  offset: 0, 0
+  index: -1
+SSK_2
+  rotate: true
+  xy: 2, 347
+  size: 471, 1304
+  orig: 471, 1304
+  offset: 0, 0
+  index: -1
+SSK_3
+  rotate: false
+  xy: 443, 23
+  size: 594, 322
+  orig: 594, 322
+  offset: 0, 0
+  index: -1
+SSK_4
+  rotate: true
+  xy: 2, 2
+  size: 343, 439
+  orig: 343, 439
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 1039, 44
+  size: 19, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+f4
+  rotate: false
+  xy: 1039, 97
+  size: 23, 25
+  orig: 30, 25
+  offset: 7, 0
+  index: -1
+f6
+  rotate: false
+  xy: 1039, 70
+  size: 20, 25
+  orig: 23, 25
+  offset: 3, 0
+  index: -1
+f8
+  rotate: true
+  xy: 1039, 26
+  size: 16, 22
+  orig: 19, 23
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,139 @@
+
+ui_lp_shou.png
+size: 1900,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0234
+  rotate: true
+  xy: 1004, 14
+  size: 93, 94
+  orig: 96, 96
+  offset: 3, 2
+  index: -1
+0662
+  rotate: false
+  xy: 459, 54
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+MinotaurBasicAttack02
+  rotate: true
+  xy: 1753, 154
+  size: 92, 93
+  orig: 92, 96
+  offset: 0, 2
+  index: -1
+Yd_shou_1
+  rotate: true
+  xy: 880, 21
+  size: 67, 120
+  orig: 67, 120
+  offset: 0, 0
+  index: -1
+Yd_shou_2
+  rotate: true
+  xy: 1100, 2
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+Yd_shou_3
+  rotate: false
+  xy: 1004, 109
+  size: 165, 137
+  orig: 165, 137
+  offset: 0, 0
+  index: -1
+Yd_shou_4
+  rotate: false
+  xy: 1171, 33
+  size: 132, 85
+  orig: 132, 85
+  offset: 0, 0
+  index: -1
+Yd_shou_5
+  rotate: true
+  xy: 1848, 165
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+Yd_shou_6
+  rotate: false
+  xy: 459, 5
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+Yd_shou_7
+  rotate: false
+  xy: 1100, 53
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Yd_shou_8
+  rotate: true
+  xy: 653, 7
+  size: 65, 225
+  orig: 65, 225
+  offset: 0, 0
+  index: -1
+Yd_shou_9
+  rotate: true
+  xy: 1171, 120
+  size: 126, 137
+  orig: 126, 137
+  offset: 0, 0
+  index: -1
+Yd_tou
+  rotate: false
+  xy: 1747, 9
+  size: 151, 114
+  orig: 184, 161
+  offset: 14, 28
+  index: -1
+c435db98
+  rotate: true
+  xy: 653, 74
+  size: 172, 173
+  orig: 192, 192
+  offset: 11, 13
+  index: -1
+huoxing_1
+  rotate: false
+  xy: 256, 47
+  size: 201, 199
+  orig: 242, 203
+  offset: 32, 1
+  index: -1
+huoxing_3
+  rotate: false
+  xy: 2, 16
+  size: 252, 230
+  orig: 263, 231
+  offset: 9, 0
+  index: -1
+huoxing_4
+  rotate: false
+  xy: 828, 90
+  size: 174, 156
+  orig: 239, 230
+  offset: 1, 36
+  index: -1
+jvqi_1
+  rotate: false
+  xy: 1310, 125
+  size: 441, 121
+  orig: 441, 121
+  offset: 0, 0
+  index: -1
+jvqi_2
+  rotate: false
+  xy: 1310, 2
+  size: 435, 121
+  orig: 435, 121
+  offset: 0, 0
+  index: -1

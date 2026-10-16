@@ -1,0 +1,20 @@
+
+ui_liandongzhuye_anniu.png
+size: 160,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 108, 23
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1

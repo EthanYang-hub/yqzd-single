@@ -1,0 +1,125 @@
+
+rareSkill_stone.png
+size: 462,1045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C2
+  rotate: true
+  xy: 132, 493
+  size: 77, 143
+  orig: 77, 143
+  offset: 0, 0
+  index: -1
+C3
+  rotate: true
+  xy: 277, 451
+  size: 119, 135
+  orig: 119, 135
+  offset: 0, 0
+  index: -1
+S1
+  rotate: false
+  xy: 246, 157
+  size: 111, 80
+  orig: 116, 83
+  offset: 3, 2
+  index: -1
+S2
+  rotate: true
+  xy: 381, 229
+  size: 117, 77
+  orig: 123, 80
+  offset: 5, 0
+  index: -1
+eye_lwy_t_mul_81_single
+  rotate: true
+  xy: 2, 19
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1
+shitou_1
+  rotate: false
+  xy: 132, 2
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+shitou_10
+  rotate: false
+  xy: 132, 172
+  size: 112, 111
+  orig: 115, 115
+  offset: 2, 3
+  index: -1
+shitou_2
+  rotate: false
+  xy: 132, 387
+  size: 130, 104
+  orig: 132, 104
+  offset: 1, 0
+  index: -1
+shitou_3
+  rotate: false
+  xy: 264, 348
+  size: 126, 101
+  orig: 127, 102
+  offset: 1, 0
+  index: -1
+shitou_4
+  rotate: true
+  xy: 132, 285
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+shitou_5
+  rotate: true
+  xy: 335, 41
+  size: 94, 96
+  orig: 94, 104
+  offset: 0, 8
+  index: -1
+shitou_6
+  rotate: false
+  xy: 237, 59
+  size: 96, 96
+  orig: 97, 105
+  offset: 0, 1
+  index: -1
+shitou_7
+  rotate: true
+  xy: 260, 239
+  size: 107, 119
+  orig: 120, 132
+  offset: 6, 7
+  index: -1
+shitou_8
+  rotate: true
+  xy: 132, 86
+  size: 84, 103
+  orig: 93, 107
+  offset: 9, 3
+  index: -1
+shitou_9
+  rotate: false
+  xy: 359, 137
+  size: 101, 90
+  orig: 102, 91
+  offset: 0, 0
+  index: -1
+wggh
+  rotate: false
+  xy: 132, 572
+  size: 285, 471
+  orig: 287, 478
+  offset: 2, 5
+  index: -1
+yanwu_01
+  rotate: true
+  xy: 392, 389
+  size: 60, 63
+  orig: 64, 64
+  offset: 3, 1
+  index: -1

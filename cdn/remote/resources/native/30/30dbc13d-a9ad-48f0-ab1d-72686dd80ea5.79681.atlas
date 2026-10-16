@@ -1,0 +1,55 @@
+
+ui_tianshu.png
+size: 436,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blizzard_cloud
+  rotate: true
+  xy: 2, 125
+  size: 133, 121
+  orig: 149, 142
+  offset: 9, 10
+  index: -1
+Blizzard_cloud2
+  rotate: false
+  xy: 2, 2
+  size: 133, 121
+  orig: 149, 142
+  offset: 9, 10
+  index: -1
+Blizzard_cloud3
+  rotate: false
+  xy: 125, 137
+  size: 133, 121
+  orig: 149, 142
+  offset: 9, 10
+  index: -1
+Blizzard_cloud4
+  rotate: true
+  xy: 137, 2
+  size: 133, 121
+  orig: 149, 142
+  offset: 9, 10
+  index: -1
+storm_smoke_wispy9alpha
+  rotate: true
+  xy: 2, 260
+  size: 253, 256
+  orig: 256, 256
+  offset: 3, 0
+  index: -1
+tia
+  rotate: false
+  xy: 260, 294
+  size: 174, 219
+  orig: 174, 219
+  offset: 0, 0
+  index: -1
+tiandi
+  rotate: false
+  xy: 260, 73
+  size: 174, 219
+  orig: 174, 219
+  offset: 0, 0
+  index: -1

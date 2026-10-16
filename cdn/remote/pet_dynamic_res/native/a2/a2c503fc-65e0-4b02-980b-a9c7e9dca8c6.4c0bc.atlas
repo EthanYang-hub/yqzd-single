@@ -1,0 +1,139 @@
+
+lihui_pet_luocha_2.png
+size: 2033,792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gui_1
+  rotate: true
+  xy: 1545, 5
+  size: 431, 448
+  orig: 431, 448
+  offset: 0, 0
+  index: -1
+gui_2
+  rotate: true
+  xy: 1042, 2
+  size: 434, 501
+  orig: 434, 501
+  offset: 0, 0
+  index: -1
+gui_3
+  rotate: false
+  xy: 2, 8
+  size: 289, 332
+  orig: 289, 343
+  offset: 0, 11
+  index: -1
+gui_4
+  rotate: false
+  xy: 293, 68
+  size: 253, 272
+  orig: 253, 272
+  offset: 0, 0
+  index: -1
+gui_5
+  rotate: true
+  xy: 968, 3
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+gui_6
+  rotate: true
+  xy: 666, 77
+  size: 90, 158
+  orig: 99, 172
+  offset: 9, 2
+  index: -1
+gui_7
+  rotate: false
+  xy: 968, 53
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+gui_8
+  rotate: true
+  xy: 799, 228
+  size: 112, 126
+  orig: 118, 144
+  offset: 6, 0
+  index: -1
+ren_1
+  rotate: true
+  xy: 666, 169
+  size: 171, 131
+  orig: 171, 131
+  offset: 0, 0
+  index: -1
+ren_2
+  rotate: false
+  xy: 892, 91
+  size: 66, 135
+  orig: 66, 135
+  offset: 0, 0
+  index: -1
+ren_3
+  rotate: false
+  xy: 548, 127
+  size: 116, 213
+  orig: 167, 213
+  offset: 0, 0
+  index: -1
+ren_4
+  rotate: false
+  xy: 968, 130
+  size: 58, 210
+  orig: 58, 219
+  offset: 0, 9
+  index: -1
+ren_5
+  rotate: true
+  xy: 2, 342
+  size: 448, 1038
+  orig: 696, 1058
+  offset: 57, 0
+  index: -1
+ren_6
+  rotate: false
+  xy: 826, 79
+  size: 64, 147
+  orig: 64, 147
+  offset: 0, 0
+  index: -1
+ren_7
+  rotate: false
+  xy: 1995, 95
+  size: 35, 78
+  orig: 35, 78
+  offset: 0, 0
+  index: -1
+ren_8
+  rotate: false
+  xy: 1042, 438
+  size: 969, 352
+  orig: 970, 353
+  offset: 1, 0
+  index: -1
+xian_1
+  rotate: false
+  xy: 2013, 175
+  size: 18, 615
+  orig: 18, 615
+  offset: 0, 0
+  index: -1
+xian_2
+  rotate: true
+  xy: 293, 13
+  size: 20, 673
+  orig: 20, 673
+  offset: 0, 0
+  index: -1
+xian_3
+  rotate: true
+  xy: 293, 35
+  size: 31, 634
+  orig: 31, 634
+  offset: 0, 0
+  index: -1

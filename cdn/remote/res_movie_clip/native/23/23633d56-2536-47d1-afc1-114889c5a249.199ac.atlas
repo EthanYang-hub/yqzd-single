@@ -1,0 +1,174 @@
+
+merge.png
+size: 1985,1404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheng_000
+  rotate: false
+  xy: 1038, 2
+  size: 267, 259
+  orig: 410, 395
+  offset: 67, 72
+  index: -1
+cheng_001
+  rotate: false
+  xy: 1038, 2
+  size: 267, 259
+  orig: 410, 395
+  offset: 67, 72
+  index: -1
+cheng_002
+  rotate: true
+  xy: 389, 992
+  size: 410, 384
+  orig: 410, 395
+  offset: 0, 9
+  index: -1
+cheng_003
+  rotate: true
+  xy: 389, 580
+  size: 410, 384
+  orig: 410, 395
+  offset: 0, 9
+  index: -1
+cheng_004
+  rotate: true
+  xy: 389, 168
+  size: 410, 384
+  orig: 410, 395
+  offset: 0, 9
+  index: -1
+cheng_005
+  rotate: false
+  xy: 1187, 633
+  size: 410, 383
+  orig: 410, 395
+  offset: 0, 10
+  index: -1
+cheng_007
+  rotate: false
+  xy: 775, 281
+  size: 359, 349
+  orig: 410, 395
+  offset: 26, 19
+  index: -1
+cheng_006
+  rotate: false
+  xy: 775, 281
+  size: 359, 349
+  orig: 410, 395
+  offset: 26, 19
+  index: -1
+lan_000
+  rotate: false
+  xy: 1307, 23
+  size: 245, 238
+  orig: 410, 395
+  offset: 78, 83
+  index: -1
+lan_001
+  rotate: false
+  xy: 1307, 23
+  size: 245, 238
+  orig: 410, 395
+  offset: 78, 83
+  index: -1
+lan_002
+  rotate: false
+  xy: 775, 1018
+  size: 410, 384
+  orig: 410, 395
+  offset: 0, 9
+  index: -1
+lan_003
+  rotate: true
+  xy: 2, 992
+  size: 410, 385
+  orig: 410, 395
+  offset: 0, 9
+  index: -1
+lan_004
+  rotate: true
+  xy: 2, 580
+  size: 410, 385
+  orig: 410, 395
+  offset: 0, 9
+  index: -1
+lan_005
+  rotate: false
+  xy: 1187, 1018
+  size: 410, 384
+  orig: 410, 395
+  offset: 0, 9
+  index: -1
+lan_006
+  rotate: false
+  xy: 1187, 263
+  size: 380, 368
+  orig: 410, 395
+  offset: 16, 10
+  index: -1
+lan_007
+  rotate: false
+  xy: 1187, 263
+  size: 380, 368
+  orig: 410, 395
+  offset: 16, 10
+  index: -1
+zi_000
+  rotate: true
+  xy: 775, 10
+  size: 269, 261
+  orig: 410, 395
+  offset: 66, 71
+  index: -1
+zi_001
+  rotate: true
+  xy: 775, 10
+  size: 269, 261
+  orig: 410, 395
+  offset: 66, 71
+  index: -1
+zi_002
+  rotate: true
+  xy: 1599, 992
+  size: 410, 384
+  orig: 410, 395
+  offset: 0, 9
+  index: -1
+zi_003
+  rotate: true
+  xy: 2, 168
+  size: 410, 385
+  orig: 410, 395
+  offset: 0, 9
+  index: -1
+zi_004
+  rotate: false
+  xy: 775, 632
+  size: 410, 384
+  orig: 410, 395
+  offset: 0, 9
+  index: -1
+zi_005
+  rotate: true
+  xy: 1599, 580
+  size: 410, 383
+  orig: 410, 395
+  offset: 0, 10
+  index: -1
+zi_006
+  rotate: false
+  xy: 1569, 221
+  size: 364, 357
+  orig: 410, 395
+  offset: 24, 12
+  index: -1
+zi_007
+  rotate: false
+  xy: 1569, 221
+  size: 364, 357
+  orig: 410, 395
+  offset: 24, 12
+  index: -1

@@ -1,0 +1,41 @@
+
+ui_shenkan_effect_3.png
+size: 384,307
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban
+  rotate: false
+  xy: 251, 151
+  size: 131, 154
+  orig: 136, 160
+  offset: 2, 3
+  index: -1
+ban2
+  rotate: true
+  xy: 251, 14
+  size: 135, 127
+  orig: 136, 137
+  offset: 0, 1
+  index: -1
+energyplane322
+  rotate: false
+  xy: 2, 67
+  size: 247, 238
+  orig: 256, 248
+  offset: 3, 0
+  index: -1
+lulu_dragontrainer_purpbel222222
+  rotate: true
+  xy: 2, 2
+  size: 63, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+lulu_dragontrainer_purpbell
+  rotate: true
+  xy: 68, 2
+  size: 63, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+ui_tianshu_wanshipu.png
+size: 1982,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_tianshu_wsp10
+  rotate: false
+  xy: 1833, 54
+  size: 117, 119
+  orig: 117, 119
+  offset: 0, 0
+  index: -1
+ui_tianshu_wsp11
+  rotate: true
+  xy: 1689, 108
+  size: 256, 142
+  orig: 256, 142
+  offset: 0, 0
+  index: -1
+ui_tianshu_wsp12
+  rotate: false
+  xy: 1046, 32
+  size: 382, 41
+  orig: 386, 41
+  offset: 0, 0
+  index: -1
+ui_tianshu_wsp13
+  rotate: false
+  xy: 575, 57
+  size: 469, 307
+  orig: 469, 307
+  offset: 0, 0
+  index: -1
+ui_tianshu_wsp14
+  rotate: true
+  xy: 1833, 175
+  size: 189, 147
+  orig: 189, 147
+  offset: 0, 0
+  index: -1
+ui_tianshu_wsp15
+  rotate: false
+  xy: 2, 31
+  size: 571, 333
+  orig: 571, 333
+  offset: 0, 0
+  index: -1
+ui_tianshu_wsp16
+  rotate: false
+  xy: 1430, 2
+  size: 200, 71
+  orig: 221, 71
+  offset: 21, 0
+  index: -1
+ui_tianshu_wsp17
+  rotate: false
+  xy: 1046, 75
+  size: 641, 289
+  orig: 641, 289
+  offset: 0, 0
+  index: -1
+ui_tianshu_wsp18
+  rotate: true
+  xy: 1689, 3
+  size: 103, 133
+  orig: 103, 170
+  offset: 0, 37
+  index: -1
+ui_tianshu_wsp9
+  rotate: false
+  xy: 1824, 6
+  size: 88, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1

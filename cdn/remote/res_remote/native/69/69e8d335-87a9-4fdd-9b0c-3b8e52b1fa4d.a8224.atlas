@@ -1,0 +1,118 @@
+
+ui_xingtian_tiaozhan.png
+size: 2018,1875
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_1
+  rotate: true
+  xy: 1864, 1717
+  size: 156, 152
+  orig: 160, 159
+  offset: 4, 4
+  index: -1
+B_10
+  rotate: false
+  xy: 1864, 1361
+  size: 121, 178
+  orig: 121, 178
+  offset: 0, 0
+  index: -1
+B_11
+  rotate: false
+  xy: 704, 489
+  size: 166, 183
+  orig: 166, 183
+  offset: 0, 0
+  index: -1
+B_12
+  rotate: false
+  xy: 1033, 1188
+  size: 829, 685
+  orig: 829, 685
+  offset: 0, 0
+  index: -1
+B_2
+  rotate: true
+  xy: 1864, 1541
+  size: 174, 139
+  orig: 178, 143
+  offset: 0, 0
+  index: -1
+B_3
+  rotate: true
+  xy: 1806, 664
+  size: 265, 197
+  orig: 309, 275
+  offset: 19, 21
+  index: -1
+B_4
+  rotate: false
+  xy: 704, 837
+  size: 299, 161
+  orig: 381, 167
+  offset: 1, 5
+  index: -1
+B_5
+  rotate: true
+  xy: 2, 942
+  size: 931, 345
+  orig: 937, 420
+  offset: 4, 1
+  index: -1
+B_6
+  rotate: false
+  xy: 1806, 931
+  size: 201, 255
+  orig: 226, 255
+  offset: 25, 0
+  index: -1
+B_7
+  rotate: false
+  xy: 1806, 387
+  size: 187, 275
+  orig: 318, 480
+  offset: 0, 0
+  index: -1
+B_8
+  rotate: true
+  xy: 704, 674
+  size: 161, 212
+  orig: 161, 212
+  offset: 0, 0
+  index: -1
+B_9
+  rotate: false
+  xy: 1033, 455
+  size: 771, 731
+  orig: 771, 731
+  offset: 0, 0
+  index: -1
+huo1
+  rotate: false
+  xy: 704, 2
+  size: 683, 383
+  orig: 683, 493
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: true
+  xy: 2, 42
+  size: 898, 700
+  orig: 898, 700
+  offset: 0, 0
+  index: -1
+huo3
+  rotate: false
+  xy: 1389, 7
+  size: 573, 378
+  orig: 573, 397
+  offset: 0, 0
+  index: -1
+huo4
+  rotate: true
+  xy: 349, 1000
+  size: 873, 682
+  orig: 873, 682
+  offset: 0, 0
+  index: -1

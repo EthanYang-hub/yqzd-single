@@ -1,0 +1,125 @@
+
+zhandou_renwu_weapon.png
+size: 872,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZK_11
+  rotate: true
+  xy: 631, 214
+  size: 187, 231
+  orig: 207, 231
+  offset: 0, 0
+  index: -1
+skin_001_wuqi
+  rotate: true
+  xy: 262, 246
+  size: 114, 367
+  orig: 114, 367
+  offset: 0, 0
+  index: -1
+skin_001_xian
+  rotate: true
+  xy: 2, 2
+  size: 26, 242
+  orig: 26, 242
+  offset: 0, 0
+  index: -1
+skin_002_wuqi
+  rotate: true
+  xy: 258, 8
+  size: 65, 290
+  orig: 65, 290
+  offset: 0, 0
+  index: -1
+skin_003_wuqi
+  rotate: true
+  xy: 262, 189
+  size: 55, 312
+  orig: 55, 313
+  offset: 0, 1
+  index: -1
+skin_004_wuqi_2
+  rotate: false
+  xy: 576, 135
+  size: 233, 77
+  orig: 242, 83
+  offset: 6, 2
+  index: -1
+skin_006_13
+  rotate: true
+  xy: 2, 30
+  size: 212, 254
+  orig: 215, 255
+  offset: 3, 1
+  index: -1
+skin_006_fire_1
+  rotate: false
+  xy: 258, 75
+  size: 298, 112
+  orig: 298, 140
+  offset: 0, 28
+  index: -1
+skin_006_fire_2
+  rotate: true
+  xy: 585, 403
+  size: 142, 285
+  orig: 165, 337
+  offset: 0, 52
+  index: -1
+skin_007_19
+  rotate: false
+  xy: 558, 38
+  size: 156, 95
+  orig: 251, 101
+  offset: 95, 0
+  index: -1
+skin_009_wu_2
+  rotate: false
+  xy: 262, 362
+  size: 321, 183
+  orig: 321, 183
+  offset: 0, 0
+  index: -1
+zhuiyuan_10
+  rotate: false
+  xy: 2, 244
+  size: 258, 301
+  orig: 258, 301
+  offset: 0, 0
+  index: -1
+zhuiyuan_11
+  rotate: false
+  xy: 811, 145
+  size: 24, 67
+  orig: 24, 67
+  offset: 0, 0
+  index: -1
+zhuiyuan_12
+  rotate: true
+  xy: 716, 12
+  size: 121, 145
+  orig: 121, 145
+  offset: 0, 0
+  index: -1
+zhuiyuan_13
+  rotate: true
+  xy: 576, 227
+  size: 17, 52
+  orig: 17, 52
+  offset: 0, 0
+  index: -1
+zhuiyuan_15
+  rotate: false
+  xy: 837, 154
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+zhuiyuan_17
+  rotate: true
+  xy: 550, 23
+  size: 13, 64
+  orig: 14, 64
+  offset: 1, 0
+  index: -1

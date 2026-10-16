@@ -1,0 +1,55 @@
+
+damage_effect.png
+size: 375,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0275
+  rotate: true
+  xy: 260, 150
+  size: 137, 112
+  orig: 137, 120
+  offset: 0, 3
+  index: -1
+A1
+  rotate: true
+  xy: 260, 71
+  size: 29, 30
+  orig: 39, 36
+  offset: 6, 1
+  index: -1
+A2
+  rotate: false
+  xy: 260, 102
+  size: 35, 46
+  orig: 52, 51
+  offset: 2, 3
+  index: -1
+A3
+  rotate: true
+  xy: 292, 63
+  size: 37, 26
+  orig: 44, 33
+  offset: 5, 6
+  index: -1
+sparks_09_00001
+  rotate: false
+  xy: 2, 2
+  size: 256, 192
+  orig: 350, 271
+  offset: 0, 11
+  index: -1
+sparks_09_00002
+  rotate: true
+  xy: 2, 196
+  size: 331, 230
+  orig: 350, 271
+  offset: 14, 9
+  index: -1
+sparks_09_00003
+  rotate: true
+  xy: 234, 289
+  size: 238, 139
+  orig: 350, 271
+  offset: 88, 128
+  index: -1

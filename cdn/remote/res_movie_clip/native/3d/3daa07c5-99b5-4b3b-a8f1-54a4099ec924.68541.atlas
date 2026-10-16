@@ -1,0 +1,13 @@
+
+ronghe_shou2_elite monster_2022.png
+size: 96,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: false
+  xy: 2, 2
+  size: 92, 192
+  orig: 92, 192
+  offset: 0, 0
+  index: -1

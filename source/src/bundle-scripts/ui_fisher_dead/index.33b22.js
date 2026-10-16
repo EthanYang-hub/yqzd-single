@@ -1,0 +1,1 @@
+"use strict";var e,r;System.register("chunks:///_virtual/ui_fisher_dead",[],(function(){return{execute:function(){}}})),e="virtual:///prerequisite-imports/ui_fisher_dead",r="chunks:///_virtual/ui_fisher_dead",System.register(e,[r],(function(e,r){return{setters:[function(r){var t={};for(var i in r)"default"!==i&&"__esModule"!==i&&(t[i]=r[i]);e(t)}],execute:function(){}}})); 

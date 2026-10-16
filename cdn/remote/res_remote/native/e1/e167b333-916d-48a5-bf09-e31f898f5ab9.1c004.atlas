@@ -1,0 +1,48 @@
+
+ui_mh_juezhan.png
+size: 793,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0143
+  rotate: false
+  xy: 747, 151
+  size: 44, 124
+  orig: 64, 128
+  offset: 10, 2
+  index: -1
+0166
+  rotate: false
+  xy: 715, 2
+  size: 53, 120
+  orig: 64, 128
+  offset: 5, 5
+  index: -1
+0311
+  rotate: true
+  xy: 610, 24
+  size: 98, 103
+  orig: 128, 128
+  offset: 18, 14
+  index: -1
+ui_mh_juezhan-4
+  rotate: true
+  xy: 610, 124
+  size: 151, 135
+  orig: 154, 137
+  offset: 1, 1
+  index: -1
+ui_mh_juezhan-5
+  rotate: true
+  xy: 610, 277
+  size: 141, 137
+  orig: 151, 140
+  offset: 2, 2
+  index: -1
+ui_mh_juezhan-6
+  rotate: true
+  xy: 2, 4
+  size: 414, 606
+  orig: 427, 625
+  offset: 3, 1
+  index: -1

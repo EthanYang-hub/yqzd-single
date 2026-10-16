@@ -1,0 +1,83 @@
+
+zhandou_pet_qinli_3.png
+size: 904,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1yanguang
+  rotate: false
+  xy: 770, 15
+  size: 104, 50
+  orig: 120, 52
+  offset: 13, 2
+  index: -1
+zhandou_qinli-1
+  rotate: true
+  xy: 567, 134
+  size: 75, 110
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+zhandou_qinli-10
+  rotate: true
+  xy: 431, 2
+  size: 25, 337
+  orig: 25, 337
+  offset: 0, 0
+  index: -1
+zhandou_qinli-11
+  rotate: true
+  xy: 184, 17
+  size: 86, 245
+  orig: 86, 245
+  offset: 0, 0
+  index: -1
+zhandou_qinli-2
+  rotate: true
+  xy: 184, 105
+  size: 104, 267
+  orig: 118, 267
+  offset: 0, 0
+  index: -1
+zhandou_qinli-3
+  rotate: false
+  xy: 688, 34
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+zhandou_qinli-4
+  rotate: true
+  xy: 873, 162
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+zhandou_qinli-5
+  rotate: false
+  xy: 453, 109
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+zhandou_qinli-6
+  rotate: true
+  xy: 688, 67
+  size: 142, 183
+  orig: 142, 183
+  offset: 0, 0
+  index: -1
+zhandou_qinli-7
+  rotate: false
+  xy: 2, 4
+  size: 180, 205
+  orig: 180, 205
+  offset: 0, 0
+  index: -1
+zhandou_qinli-9
+  rotate: true
+  xy: 431, 29
+  size: 74, 255
+  orig: 74, 255
+  offset: 0, 0
+  index: -1

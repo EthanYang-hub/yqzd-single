@@ -1,0 +1,27 @@
+
+rareSkill_windkill_2_3.png
+size: 525,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengren_1
+  rotate: false
+  xy: 2, 2
+  size: 298, 281
+  orig: 376, 316
+  offset: 60, 18
+  index: -1
+fengren_2
+  rotate: false
+  xy: 2, 285
+  size: 343, 271
+  orig: 420, 320
+  offset: 48, 18
+  index: -1
+fengren_3
+  rotate: true
+  xy: 347, 129
+  size: 427, 176
+  orig: 495, 224
+  offset: 33, 35
+  index: -1

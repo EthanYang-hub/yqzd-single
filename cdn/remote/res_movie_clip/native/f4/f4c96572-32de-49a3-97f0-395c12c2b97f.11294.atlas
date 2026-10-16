@@ -1,0 +1,90 @@
+
+rareSkill_wanshishuitan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0403
+  rotate: false
+  xy: 833, 317
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+DemonHunter_ElementalArrow_PoisonTendril1_red
+  rotate: false
+  xy: 2, 510
+  size: 504, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Health_Well_Caustics
+  rotate: false
+  xy: 139, 53
+  size: 247, 254
+  orig: 256, 256
+  offset: 5, 1
+  index: -1
+aabe4130
+  rotate: false
+  xy: 833, 187
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hit_1
+  rotate: false
+  xy: 2, 44
+  size: 69, 263
+  orig: 69, 263
+  offset: 0, 0
+  index: -1
+hit_2
+  rotate: false
+  xy: 388, 79
+  size: 67, 228
+  orig: 67, 228
+  offset: 0, 0
+  index: -1
+monk_cripplingWave_clawScratchTrail
+  rotate: true
+  xy: 73, 51
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+shou _hei
+  rotate: true
+  xy: 139, 2
+  size: 49, 246
+  orig: 49, 246
+  offset: 0, 0
+  index: -1
+xue_qifei_1
+  rotate: false
+  xy: 508, 647
+  size: 512, 375
+  orig: 512, 375
+  offset: 0, 0
+  index: -1
+xue_qifei_2
+  rotate: true
+  xy: 484, 35
+  size: 410, 347
+  orig: 410, 347
+  offset: 0, 0
+  index: -1
+xue_qifei_3
+  rotate: false
+  xy: 508, 447
+  size: 512, 198
+  orig: 512, 198
+  offset: 0, 0
+  index: -1
+xue_qifei_4
+  rotate: false
+  xy: 2, 309
+  size: 480, 199
+  orig: 513, 199
+  offset: 33, 0
+  index: -1

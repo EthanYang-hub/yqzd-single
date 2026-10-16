@@ -1,0 +1,48 @@
+
+ui_gongxihuode.png
+size: 433,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 280, 185
+  size: 142, 32
+  orig: 152, 35
+  offset: 9, 1
+  index: -1
+a
+  rotate: true
+  xy: 280, 91
+  size: 92, 84
+  orig: 107, 145
+  offset: 0, 44
+  index: -1
+b
+  rotate: false
+  xy: 366, 116
+  size: 65, 67
+  orig: 84, 83
+  offset: 5, 9
+  index: -1
+c
+  rotate: false
+  xy: 353, 10
+  size: 76, 79
+  orig: 99, 177
+  offset: 10, 90
+  index: -1
+d
+  rotate: true
+  xy: 280, 8
+  size: 81, 71
+  orig: 114, 85
+  offset: 14, 8
+  index: -1
+e
+  rotate: false
+  xy: 2, 2
+  size: 276, 215
+  orig: 284, 216
+  offset: 7, 1
+  index: -1

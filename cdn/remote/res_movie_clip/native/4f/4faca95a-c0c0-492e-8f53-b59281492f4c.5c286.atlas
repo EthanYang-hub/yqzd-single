@@ -1,0 +1,90 @@
+
+petSkill_muoushi_2_shield.png
+size: 1401,1401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1dun
+  rotate: false
+  xy: 2, 345
+  size: 732, 1054
+  orig: 732, 1054
+  offset: 0, 0
+  index: -1
+1fire2
+  rotate: false
+  xy: 736, 485
+  size: 289, 247
+  orig: 336, 277
+  offset: 20, 15
+  index: -1
+1guodu
+  rotate: false
+  xy: 1027, 476
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+1light
+  rotate: true
+  xy: 2, 80
+  size: 263, 665
+  orig: 375, 703
+  offset: 66, 12
+  index: -1
+1start1
+  rotate: true
+  xy: 878, 413
+  size: 70, 101
+  orig: 74, 105
+  offset: 2, 3
+  index: -1
+1start2
+  rotate: true
+  xy: 736, 390
+  size: 93, 140
+  orig: 97, 144
+  offset: 1, 2
+  index: -1
+1start3
+  rotate: false
+  xy: 1285, 590
+  size: 84, 142
+  orig: 86, 147
+  offset: 1, 3
+  index: -1
+Fire_1
+  rotate: false
+  xy: 1285, 500
+  size: 59, 88
+  orig: 66, 99
+  offset: 4, 6
+  index: -1
+Fire_2
+  rotate: false
+  xy: 669, 229
+  size: 61, 114
+  orig: 66, 131
+  offset: 2, 4
+  index: -1
+Fire_3
+  rotate: true
+  xy: 120, 29
+  size: 49, 95
+  orig: 62, 106
+  offset: 5, 8
+  index: -1
+Fire_4
+  rotate: true
+  xy: 2, 15
+  size: 63, 116
+  orig: 69, 131
+  offset: 4, 4
+  index: -1
+bagua
+  rotate: false
+  xy: 736, 734
+  size: 663, 665
+  orig: 695, 695
+  offset: 18, 19
+  index: -1

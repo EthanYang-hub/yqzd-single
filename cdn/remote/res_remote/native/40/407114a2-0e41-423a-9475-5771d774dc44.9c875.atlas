@@ -1,0 +1,20 @@
+
+ui_xingtian_zhujiemian_3.png
+size: 329,342
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X_xingtian_1
+  rotate: true
+  xy: 2, 2
+  size: 338, 119
+  orig: 338, 120
+  offset: 0, 0
+  index: -1
+X_xingtian_2
+  rotate: true
+  xy: 123, 101
+  size: 239, 204
+  orig: 273, 258
+  offset: 13, 0
+  index: -1

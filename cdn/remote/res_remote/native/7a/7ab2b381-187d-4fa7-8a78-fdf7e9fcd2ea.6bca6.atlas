@@ -1,0 +1,48 @@
+
+ui_duanwu_zhuye.png
+size: 1573,1458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1111111
+  rotate: false
+  xy: 784, 798
+  size: 787, 658
+  orig: 787, 658
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1129, 52
+  size: 441, 399
+  orig: 441, 399
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 120
+  size: 1125, 235
+  orig: 1125, 235
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 784, 453
+  size: 649, 343
+  orig: 649, 389
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 357
+  size: 1099, 780
+  orig: 1103, 783
+  offset: 3, 1
+  index: -1
+hudie
+  rotate: true
+  xy: 2, 2
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1

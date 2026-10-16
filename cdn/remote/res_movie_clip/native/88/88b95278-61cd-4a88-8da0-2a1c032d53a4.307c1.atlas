@@ -1,0 +1,83 @@
+
+ui_shuijing_baihu_effect.png
+size: 1894,1705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 502, 539
+  orig: 502, 539
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1619, 996
+  size: 273, 707
+  orig: 308, 814
+  offset: 3, 38
+  index: -1
+3_1
+  rotate: false
+  xy: 1556, 34
+  size: 131, 384
+  orig: 209, 432
+  offset: 1, 1
+  index: -1
+3_2
+  rotate: false
+  xy: 1399, 16
+  size: 155, 402
+  orig: 193, 437
+  offset: 36, 7
+  index: -1
+4_1
+  rotate: false
+  xy: 1689, 85
+  size: 169, 333
+  orig: 187, 345
+  offset: 1, 10
+  index: -1
+4_2
+  rotate: false
+  xy: 1703, 531
+  size: 184, 463
+  orig: 235, 504
+  offset: 24, 36
+  index: -1
+5
+  rotate: false
+  xy: 989, 966
+  size: 628, 737
+  orig: 681, 763
+  offset: 44, 18
+  index: -1
+zhua_a_1
+  rotate: false
+  xy: 2, 506
+  size: 503, 1197
+  orig: 503, 1197
+  offset: 0, 0
+  index: -1
+zhua_b_1
+  rotate: true
+  xy: 543, 6
+  size: 412, 854
+  orig: 429, 871
+  offset: 11, 9
+  index: -1
+zhua_b_2
+  rotate: true
+  xy: 989, 420
+  size: 544, 712
+  orig: 594, 765
+  offset: 40, 45
+  index: -1
+zhua_b_3
+  rotate: false
+  xy: 507, 529
+  size: 480, 1174
+  orig: 494, 1192
+  offset: 8, 11
+  index: -1

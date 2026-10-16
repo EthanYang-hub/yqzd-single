@@ -1,0 +1,13 @@
+
+ui_yindao_jihuo.png
+size: 85,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+13
+  rotate: false
+  xy: 2, 2
+  size: 81, 81
+  orig: 87, 87
+  offset: 3, 3
+  index: -1

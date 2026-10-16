@@ -1,0 +1,223 @@
+
+ui_jiangli_shanguang.png
+size: 1895,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000
+  rotate: true
+  xy: 1508, 2
+  size: 188, 192
+  orig: 200, 200
+  offset: 7, 4
+  index: -1
+001
+  rotate: false
+  xy: 910, 382
+  size: 195, 196
+  orig: 200, 200
+  offset: 3, 2
+  index: -1
+002
+  rotate: true
+  xy: 1107, 382
+  size: 196, 194
+  orig: 200, 200
+  offset: 0, 4
+  index: -1
+003
+  rotate: false
+  xy: 1115, 184
+  size: 194, 196
+  orig: 200, 200
+  offset: 5, 4
+  index: -1
+004
+  rotate: true
+  xy: 919, 183
+  size: 197, 194
+  orig: 200, 200
+  offset: 0, 3
+  index: -1
+005
+  rotate: false
+  xy: 1505, 389
+  size: 196, 189
+  orig: 200, 200
+  offset: 4, 7
+  index: -1
+006
+  rotate: true
+  xy: 1311, 190
+  size: 196, 193
+  orig: 200, 200
+  offset: 0, 7
+  index: -1
+007
+  rotate: true
+  xy: 723, 179
+  size: 199, 194
+  orig: 200, 200
+  offset: 1, 6
+  index: -1
+008
+  rotate: false
+  xy: 712, 380
+  size: 196, 198
+  orig: 200, 200
+  offset: 1, 2
+  index: -1
+009
+  rotate: false
+  xy: 1303, 388
+  size: 200, 190
+  orig: 200, 200
+  offset: 0, 6
+  index: -1
+010
+  rotate: true
+  xy: 1311, 3
+  size: 185, 195
+  orig: 200, 200
+  offset: 10, 5
+  index: -1
+011
+  rotate: false
+  xy: 1702, 2
+  size: 187, 191
+  orig: 200, 200
+  offset: 8, 6
+  index: -1
+012
+  rotate: false
+  xy: 1506, 192
+  size: 188, 195
+  orig: 200, 200
+  offset: 6, 5
+  index: -1
+013
+  rotate: true
+  xy: 1703, 389
+  size: 189, 190
+  orig: 200, 200
+  offset: 8, 6
+  index: -1
+0640
+  rotate: false
+  xy: 509, 377
+  size: 201, 201
+  orig: 207, 207
+  offset: 3, 3
+  index: -1
+HA_AP_wisp
+  rotate: false
+  xy: 2, 322
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+HA_AP_wisp_mult
+  rotate: false
+  xy: 2, 64
+  size: 250, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+HA_AP_wisp_mult2
+  rotate: false
+  xy: 260, 326
+  size: 247, 252
+  orig: 256, 256
+  offset: 0, 2
+  index: -1
+Jar_Of_Souls_Flare_2
+  rotate: true
+  xy: 254, 64
+  size: 256, 248
+  orig: 256, 256
+  offset: 0, 3
+  index: -1
+S1
+  rotate: false
+  xy: 504, 100
+  size: 217, 224
+  orig: 239, 238
+  offset: 11, 7
+  index: -1
+f1
+  rotate: true
+  xy: 2, 2
+  size: 25, 32
+  orig: 27, 32
+  offset: 1, 0
+  index: -1
+f2
+  rotate: true
+  xy: 83, 44
+  size: 18, 31
+  orig: 23, 31
+  offset: 3, 0
+  index: -1
+f4
+  rotate: false
+  xy: 2, 29
+  size: 29, 33
+  orig: 40, 33
+  offset: 10, 0
+  index: -1
+f5
+  rotate: true
+  xy: 36, 7
+  size: 22, 32
+  orig: 26, 32
+  offset: 3, 0
+  index: -1
+f6
+  rotate: false
+  xy: 33, 31
+  size: 25, 31
+  orig: 30, 33
+  offset: 5, 1
+  index: -1
+f7
+  rotate: true
+  xy: 70, 12
+  size: 19, 31
+  orig: 25, 32
+  offset: 2, 0
+  index: -1
+f8
+  rotate: false
+  xy: 60, 33
+  size: 21, 29
+  orig: 25, 31
+  offset: 2, 1
+  index: -1
+player_gained_fury_clouds_diff
+  rotate: true
+  xy: 1079, 56
+  size: 125, 124
+  orig: 128, 128
+  offset: 1, 2
+  index: -1
+shan
+  rotate: false
+  xy: 1696, 195
+  size: 190, 192
+  orig: 194, 196
+  offset: 2, 2
+  index: -1
+storm_energyring4orange2
+  rotate: false
+  xy: 723, 8
+  size: 176, 169
+  orig: 180, 177
+  offset: 2, 5
+  index: -1
+storm_energyring4orange3
+  rotate: false
+  xy: 901, 8
+  size: 176, 169
+  orig: 180, 177
+  offset: 2, 5
+  index: -1

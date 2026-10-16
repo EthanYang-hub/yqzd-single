@@ -1,0 +1,104 @@
+
+ui_heka_down.png
+size: 794,794
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 732, 110
+  size: 57, 63
+  orig: 61, 65
+  offset: 2, 0
+  index: -1
+A2
+  rotate: false
+  xy: 732, 235
+  size: 58, 58
+  orig: 63, 62
+  offset: 3, 2
+  index: -1
+A3
+  rotate: true
+  xy: 493, 4
+  size: 56, 57
+  orig: 58, 60
+  offset: 2, 3
+  index: -1
+A4
+  rotate: true
+  xy: 611, 5
+  size: 55, 58
+  orig: 59, 61
+  offset: 0, 1
+  index: -1
+B1
+  rotate: false
+  xy: 732, 45
+  size: 57, 63
+  orig: 61, 65
+  offset: 1, 0
+  index: -1
+B2
+  rotate: false
+  xy: 732, 175
+  size: 58, 58
+  orig: 63, 62
+  offset: 3, 2
+  index: -1
+B3
+  rotate: true
+  xy: 552, 4
+  size: 56, 57
+  orig: 58, 60
+  offset: 2, 3
+  index: -1
+B4
+  rotate: false
+  xy: 671, 2
+  size: 55, 58
+  orig: 59, 61
+  offset: 0, 1
+  index: -1
+MonkeyKing_Skin04_Q_Buf_Rays1
+  rotate: false
+  xy: 260, 297
+  size: 231, 237
+  orig: 241, 242
+  offset: 5, 3
+  index: -1
+MonkeyKing_Skin04_Q_Buf_Rays2
+  rotate: false
+  xy: 260, 58
+  size: 231, 237
+  orig: 241, 242
+  offset: 5, 3
+  index: -1
+MonkeyKing_Skin04_Q_Buf_Rays3
+  rotate: true
+  xy: 493, 62
+  size: 231, 237
+  orig: 241, 242
+  offset: 5, 3
+  index: -1
+monk_boh_radius_golden_holyPower1
+  rotate: false
+  xy: 2, 536
+  size: 497, 256
+  orig: 512, 256
+  offset: 15, 0
+  index: -1
+monk_boh_radius_golden_holyPower2
+  rotate: true
+  xy: 501, 295
+  size: 497, 256
+  orig: 512, 256
+  offset: 15, 0
+  index: -1
+monk_boh_radius_golden_holyPower3
+  rotate: true
+  xy: 2, 37
+  size: 497, 256
+  orig: 512, 256
+  offset: 15, 0
+  index: -1

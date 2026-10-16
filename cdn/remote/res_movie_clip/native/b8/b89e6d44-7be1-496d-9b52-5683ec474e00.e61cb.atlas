@@ -1,0 +1,300 @@
+
+roleSkill_fire_bule_hit.png
+size: 945,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 2, 9
+  size: 22, 17
+  orig: 22, 19
+  offset: 0, 1
+  index: -1
+A2
+  rotate: true
+  xy: 465, 24
+  size: 22, 16
+  orig: 22, 18
+  offset: 0, 1
+  index: -1
+A3
+  rotate: false
+  xy: 935, 510
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+A4
+  rotate: true
+  xy: 562, 333
+  size: 11, 6
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+AAA
+  rotate: false
+  xy: 2, 290
+  size: 352, 177
+  orig: 356, 186
+  offset: 0, 0
+  index: -1
+c_00002
+  rotate: false
+  xy: 570, 176
+  size: 171, 168
+  orig: 283, 247
+  offset: 83, 47
+  index: -1
+c_00003
+  rotate: false
+  xy: 356, 286
+  size: 204, 181
+  orig: 283, 247
+  offset: 57, 41
+  index: -1
+c_00004
+  rotate: false
+  xy: 2, 103
+  size: 213, 185
+  orig: 283, 247
+  offset: 52, 32
+  index: -1
+c_00005
+  rotate: false
+  xy: 562, 346
+  size: 221, 172
+  orig: 283, 247
+  offset: 46, 41
+  index: -1
+c_00006
+  rotate: false
+  xy: 345, 115
+  size: 223, 169
+  orig: 283, 247
+  offset: 43, 45
+  index: -1
+c_00007
+  rotate: true
+  xy: 785, 304
+  size: 214, 148
+  orig: 283, 247
+  offset: 40, 47
+  index: -1
+c_00008
+  rotate: true
+  xy: 217, 132
+  size: 156, 126
+  orig: 283, 247
+  offset: 38, 67
+  index: -1
+c_00009
+  rotate: false
+  xy: 570, 72
+  size: 120, 102
+  orig: 283, 247
+  offset: 76, 82
+  index: -1
+di
+  rotate: false
+  xy: 2, 469
+  size: 557, 49
+  orig: 557, 64
+  offset: 0, 0
+  index: -1
+heiyan
+  rotate: false
+  xy: 743, 193
+  size: 121, 109
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+lianhua_1
+  rotate: true
+  xy: 640, 19
+  size: 51, 49
+  orig: 54, 56
+  offset: 1, 6
+  index: -1
+lianhua_10
+  rotate: true
+  xy: 281, 3
+  size: 70, 74
+  orig: 77, 78
+  offset: 3, 2
+  index: -1
+lianhua_11
+  rotate: false
+  xy: 889, 139
+  size: 53, 60
+  orig: 60, 69
+  offset: 4, 9
+  index: -1
+lianhua_12
+  rotate: false
+  xy: 692, 85
+  size: 55, 89
+  orig: 63, 110
+  offset: 6, 20
+  index: -1
+lianhua_13
+  rotate: true
+  xy: 817, 6
+  size: 47, 49
+  orig: 48, 54
+  offset: 0, 4
+  index: -1
+lianhua_2
+  rotate: false
+  xy: 357, 2
+  size: 64, 45
+  orig: 69, 49
+  offset: 2, 3
+  index: -1
+lianhua_3
+  rotate: false
+  xy: 210, 2
+  size: 69, 68
+  orig: 71, 79
+  offset: 1, 9
+  index: -1
+lianhua_4
+  rotate: false
+  xy: 2, 28
+  size: 116, 73
+  orig: 123, 76
+  offset: 4, 1
+  index: -1
+lianhua_5
+  rotate: true
+  xy: 866, 201
+  size: 101, 74
+  orig: 117, 80
+  offset: 14, 1
+  index: -1
+lianhua_6
+  rotate: false
+  xy: 120, 37
+  size: 88, 64
+  orig: 100, 65
+  offset: 2, 1
+  index: -1
+lianhua_7
+  rotate: false
+  xy: 749, 113
+  size: 74, 78
+  orig: 79, 89
+  offset: 4, 11
+  index: -1
+lianhua_8
+  rotate: true
+  xy: 275, 75
+  size: 55, 65
+  orig: 62, 74
+  offset: 5, 8
+  index: -1
+lianhua_9
+  rotate: true
+  xy: 825, 116
+  size: 75, 62
+  orig: 82, 68
+  offset: 5, 4
+  index: -1
+suihuo_002
+  rotate: false
+  xy: 743, 309
+  size: 34, 35
+  orig: 40, 41
+  offset: 3, 3
+  index: -1
+suihuo_003
+  rotate: false
+  xy: 423, 5
+  size: 40, 41
+  orig: 46, 46
+  offset: 3, 3
+  index: -1
+suihuo_004
+  rotate: true
+  xy: 487, 2
+  size: 46, 50
+  orig: 52, 54
+  offset: 3, 2
+  index: -1
+suihuo_005
+  rotate: false
+  xy: 217, 72
+  size: 56, 58
+  orig: 61, 63
+  offset: 3, 3
+  index: -1
+suihuo_006
+  rotate: true
+  xy: 825, 55
+  size: 59, 62
+  orig: 65, 66
+  offset: 3, 1
+  index: -1
+suihuo_007
+  rotate: false
+  xy: 423, 48
+  size: 62, 65
+  orig: 68, 68
+  offset: 3, 0
+  index: -1
+suihuo_008
+  rotate: true
+  xy: 749, 47
+  size: 64, 66
+  orig: 69, 68
+  offset: 2, 0
+  index: -1
+suihuo_009
+  rotate: false
+  xy: 357, 49
+  size: 64, 64
+  orig: 69, 68
+  offset: 2, 1
+  index: -1
+suihuo_010
+  rotate: false
+  xy: 487, 50
+  size: 64, 63
+  orig: 69, 68
+  offset: 2, 2
+  index: -1
+suihuo_011
+  rotate: false
+  xy: 575, 7
+  size: 63, 63
+  orig: 68, 68
+  offset: 2, 2
+  index: -1
+suihuo_012
+  rotate: false
+  xy: 692, 24
+  size: 55, 59
+  orig: 66, 66
+  offset: 4, 2
+  index: -1
+suihuo_013
+  rotate: false
+  xy: 889, 81
+  size: 52, 56
+  orig: 59, 64
+  offset: 4, 5
+  index: -1
+suihuo_014
+  rotate: false
+  xy: 889, 24
+  size: 52, 55
+  orig: 59, 64
+  offset: 4, 6
+  index: -1
+suihuo_015
+  rotate: true
+  xy: 539, 2
+  size: 46, 34
+  orig: 54, 43
+  offset: 5, 6
+  index: -1

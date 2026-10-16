@@ -1,0 +1,27 @@
+
+Season_fight_status_Defense.png
+size: 180,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Defense_line
+  rotate: true
+  xy: 2, 170
+  size: 8, 176
+  orig: 10, 180
+  offset: 1, 2
+  index: -1
+Defense_shield
+  rotate: false
+  xy: 62, 110
+  size: 63, 58
+  orig: 69, 62
+  offset: 3, 2
+  index: -1
+Defense_sword
+  rotate: false
+  xy: 2, 118
+  size: 58, 50
+  orig: 65, 56
+  offset: 4, 3
+  index: -1

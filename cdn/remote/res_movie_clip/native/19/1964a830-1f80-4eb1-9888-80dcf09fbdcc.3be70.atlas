@@ -1,0 +1,293 @@
+
+jidi_skill_long_2.png
+size: 1890,842
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_00002
+  rotate: true
+  xy: 1496, 46
+  size: 171, 168
+  orig: 283, 247
+  offset: 83, 47
+  index: -1
+c_00003
+  rotate: false
+  xy: 1290, 15
+  size: 204, 181
+  orig: 283, 247
+  offset: 57, 41
+  index: -1
+c_00004
+  rotate: true
+  xy: 1290, 198
+  size: 213, 185
+  orig: 283, 247
+  offset: 52, 32
+  index: -1
+c_00005
+  rotate: false
+  xy: 1603, 497
+  size: 221, 172
+  orig: 283, 247
+  offset: 46, 41
+  index: -1
+c_00006
+  rotate: false
+  xy: 1641, 671
+  size: 223, 169
+  orig: 283, 247
+  offset: 43, 45
+  index: -1
+c_00007
+  rotate: false
+  xy: 1551, 347
+  size: 214, 148
+  orig: 283, 247
+  offset: 40, 47
+  index: -1
+c_00008
+  rotate: false
+  xy: 1477, 219
+  size: 156, 126
+  orig: 283, 247
+  offset: 38, 67
+  index: -1
+c_00009
+  rotate: false
+  xy: 1635, 243
+  size: 120, 102
+  orig: 283, 247
+  offset: 76, 82
+  index: -1
+dimina_stone_1
+  rotate: true
+  xy: 1666, 94
+  size: 147, 92
+  orig: 150, 103
+  offset: 1, 9
+  index: -1
+dimina_stone_2
+  rotate: true
+  xy: 1544, 10
+  size: 34, 45
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+dimina_stone_3
+  rotate: true
+  xy: 1564, 530
+  size: 50, 35
+  orig: 52, 36
+  offset: 1, 1
+  index: -1
+dimina_stone_4
+  rotate: true
+  xy: 658, 144
+  size: 50, 48
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+dimina_stone_5
+  rotate: false
+  xy: 1666, 4
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+dimina_stone_6
+  rotate: false
+  xy: 711, 2
+  size: 25, 18
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+dimina_stone_7
+  rotate: false
+  xy: 1760, 100
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+dimina_stone_9
+  rotate: false
+  xy: 2, 505
+  size: 848, 335
+  orig: 848, 335
+  offset: 0, 0
+  index: -1
+guang_di
+  rotate: false
+  xy: 711, 22
+  size: 577, 389
+  orig: 699, 448
+  offset: 42, 14
+  index: -1
+lizi_0
+  rotate: false
+  xy: 2, 121
+  size: 588, 382
+  orig: 603, 406
+  offset: 0, 16
+  index: -1
+lizi_1
+  rotate: true
+  xy: 1767, 362
+  size: 133, 80
+  orig: 140, 113
+  offset: 3, 0
+  index: -1
+shitou_0
+  rotate: false
+  xy: 1757, 259
+  size: 77, 86
+  orig: 79, 88
+  offset: 1, 1
+  index: -1
+shitou_1
+  rotate: false
+  xy: 1307, 416
+  size: 242, 79
+  orig: 243, 81
+  offset: 1, 1
+  index: -1
+shitou_2
+  rotate: true
+  xy: 592, 196
+  size: 307, 99
+  orig: 309, 102
+  offset: 1, 1
+  index: -1
+suihuo_002
+  rotate: true
+  xy: 1603, 671
+  size: 34, 35
+  orig: 40, 41
+  offset: 3, 3
+  index: -1
+suihuo_003
+  rotate: false
+  xy: 1826, 500
+  size: 40, 41
+  orig: 46, 46
+  offset: 3, 3
+  index: -1
+suihuo_004
+  rotate: false
+  xy: 1786, 48
+  size: 46, 50
+  orig: 52, 54
+  offset: 3, 2
+  index: -1
+suihuo_005
+  rotate: false
+  xy: 1825, 130
+  size: 56, 58
+  orig: 61, 63
+  offset: 3, 3
+  index: -1
+suihuo_006
+  rotate: true
+  xy: 1826, 543
+  size: 59, 62
+  orig: 65, 66
+  offset: 3, 1
+  index: -1
+suihuo_007
+  rotate: false
+  xy: 1826, 604
+  size: 62, 65
+  orig: 68, 68
+  offset: 3, 0
+  index: -1
+suihuo_008
+  rotate: false
+  xy: 592, 128
+  size: 64, 66
+  orig: 69, 68
+  offset: 2, 0
+  index: -1
+suihuo_009
+  rotate: false
+  xy: 1477, 350
+  size: 64, 64
+  orig: 69, 68
+  offset: 2, 1
+  index: -1
+suihuo_010
+  rotate: false
+  xy: 1760, 194
+  size: 64, 63
+  orig: 69, 68
+  offset: 2, 2
+  index: -1
+suihuo_011
+  rotate: false
+  xy: 1760, 129
+  size: 63, 63
+  orig: 68, 68
+  offset: 2, 2
+  index: -1
+suihuo_012
+  rotate: true
+  xy: 1826, 190
+  size: 55, 59
+  orig: 66, 66
+  offset: 4, 2
+  index: -1
+suihuo_013
+  rotate: false
+  xy: 1836, 304
+  size: 52, 56
+  orig: 59, 64
+  offset: 4, 5
+  index: -1
+suihuo_014
+  rotate: false
+  xy: 1836, 247
+  size: 52, 55
+  orig: 59, 64
+  offset: 4, 6
+  index: -1
+suihuo_015
+  rotate: false
+  xy: 1496, 10
+  size: 46, 34
+  orig: 54, 43
+  offset: 5, 6
+  index: -1
+suolian_1
+  rotate: false
+  xy: 852, 582
+  size: 749, 123
+  orig: 749, 123
+  offset: 0, 0
+  index: -1
+suolian_2
+  rotate: false
+  xy: 852, 497
+  size: 710, 83
+  orig: 710, 83
+  offset: 0, 0
+  index: -1
+suolian_3
+  rotate: false
+  xy: 2, 8
+  size: 707, 111
+  orig: 707, 111
+  offset: 0, 0
+  index: -1
+suolian_4
+  rotate: false
+  xy: 711, 413
+  size: 594, 82
+  orig: 594, 82
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 852, 707
+  size: 787, 133
+  orig: 799, 182
+  offset: 2, 48
+  index: -1

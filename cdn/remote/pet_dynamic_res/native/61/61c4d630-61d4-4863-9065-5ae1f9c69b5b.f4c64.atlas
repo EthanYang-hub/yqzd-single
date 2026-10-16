@@ -1,0 +1,55 @@
+
+lihui_pet_cat.png
+size: 802,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 609, 107
+  size: 77, 121
+  orig: 77, 121
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 346, 186
+  size: 293, 454
+  orig: 293, 454
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 33
+  size: 342, 446
+  orig: 342, 446
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 346, 84
+  size: 100, 261
+  orig: 100, 261
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 648, 19
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 481
+  size: 26, 793
+  orig: 26, 793
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 2
+  size: 29, 644
+  orig: 29, 644
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+ui_pvp_jiesuan_2.png
+size: 1174,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 853, 3
+  size: 142, 32
+  orig: 152, 35
+  offset: 9, 1
+  index: -1
+H1
+  rotate: false
+  xy: 565, 7
+  size: 108, 101
+  orig: 122, 106
+  offset: 11, 2
+  index: -1
+H2
+  rotate: true
+  xy: 941, 37
+  size: 90, 86
+  orig: 95, 92
+  offset: 2, 3
+  index: -1
+H3
+  rotate: false
+  xy: 668, 123
+  size: 93, 95
+  orig: 103, 103
+  offset: 6, 4
+  index: -1
+H4
+  rotate: true
+  xy: 853, 129
+  size: 89, 87
+  orig: 96, 95
+  offset: 2, 4
+  index: -1
+a
+  rotate: false
+  xy: 942, 136
+  size: 90, 82
+  orig: 107, 145
+  offset: 4, 47
+  index: -1
+b
+  rotate: false
+  xy: 1034, 149
+  size: 67, 69
+  orig: 84, 83
+  offset: 4, 6
+  index: -1
+b5
+  rotate: false
+  xy: 997, 3
+  size: 141, 32
+  orig: 152, 35
+  offset: 9, 1
+  index: -1
+b6
+  rotate: true
+  xy: 1140, 77
+  size: 141, 32
+  orig: 152, 35
+  offset: 2, 1
+  index: -1
+b7
+  rotate: false
+  xy: 2, 2
+  size: 283, 216
+  orig: 284, 216
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 769, 26
+  size: 82, 95
+  orig: 99, 177
+  offset: 8, 71
+  index: -1
+d
+  rotate: false
+  xy: 1029, 67
+  size: 103, 67
+  orig: 114, 85
+  offset: 7, 9
+  index: -1
+e
+  rotate: false
+  xy: 287, 3
+  size: 276, 215
+  orig: 284, 216
+  offset: 7, 1
+  index: -1
+f1
+  rotate: true
+  xy: 565, 110
+  size: 108, 101
+  orig: 122, 106
+  offset: 11, 2
+  index: -1
+f2
+  rotate: true
+  xy: 853, 37
+  size: 90, 86
+  orig: 95, 92
+  offset: 2, 3
+  index: -1
+f3
+  rotate: true
+  xy: 675, 28
+  size: 93, 92
+  orig: 102, 99
+  offset: 3, 3
+  index: -1
+f4
+  rotate: true
+  xy: 763, 123
+  size: 95, 88
+  orig: 110, 95
+  offset: 5, 3
+  index: -1

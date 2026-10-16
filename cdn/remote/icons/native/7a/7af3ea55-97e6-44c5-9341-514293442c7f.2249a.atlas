@@ -1,0 +1,104 @@
+
+ui_tianshu_bg_fenwei_R.png
+size: 1929,1510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feng_R_1
+  rotate: false
+  xy: 526, 224
+  size: 535, 575
+  orig: 535, 575
+  offset: 0, 0
+  index: -1
+feng_R_2
+  rotate: false
+  xy: 933, 52
+  size: 31, 137
+  orig: 38, 171
+  offset: 5, 24
+  index: -1
+feng_R_4
+  rotate: true
+  xy: 811, 191
+  size: 31, 139
+  orig: 89, 210
+  offset: 54, 56
+  index: -1
+feng_R_5
+  rotate: true
+  xy: 2, 2
+  size: 178, 208
+  orig: 187, 211
+  offset: 4, 3
+  index: -1
+feng_R_6
+  rotate: false
+  xy: 2, 801
+  size: 1545, 350
+  orig: 1597, 401
+  offset: 52, 48
+  index: -1
+shi_R_1
+  rotate: true
+  xy: 632, 6
+  size: 181, 299
+  orig: 192, 329
+  offset: 9, 24
+  index: -1
+shi_R_2
+  rotate: true
+  xy: 212, 2
+  size: 178, 208
+  orig: 187, 211
+  offset: 4, 3
+  index: -1
+shi_R_3
+  rotate: true
+  xy: 1063, 273
+  size: 526, 410
+  orig: 526, 410
+  offset: 0, 0
+  index: -1
+shi_R_4
+  rotate: true
+  xy: 1577, 7
+  size: 1501, 350
+  orig: 1597, 391
+  offset: 96, 41
+  index: -1
+shuang_R_1
+  rotate: true
+  xy: 422, 2
+  size: 178, 208
+  orig: 187, 211
+  offset: 4, 3
+  index: -1
+shuang_R_2
+  rotate: true
+  xy: 670, 189
+  size: 33, 139
+  orig: 38, 171
+  offset: 4, 23
+  index: -1
+shuang_R_3
+  rotate: true
+  xy: 526, 189
+  size: 33, 142
+  orig: 89, 210
+  offset: 53, 55
+  index: -1
+shuang_R_4
+  rotate: true
+  xy: 2, 182
+  size: 617, 522
+  orig: 617, 522
+  offset: 0, 0
+  index: -1
+shuang_R_5
+  rotate: false
+  xy: 2, 1153
+  size: 1573, 355
+  orig: 1597, 401
+  offset: 24, 44
+  index: -1

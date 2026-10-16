@@ -1,0 +1,202 @@
+
+ui_fengdu_ludeng.png
+size: 380,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DL_1
+  rotate: true
+  xy: 350, 251
+  size: 14, 28
+  orig: 14, 30
+  offset: 0, 2
+  index: -1
+DL_10
+  rotate: true
+  xy: 257, 72
+  size: 65, 58
+  orig: 78, 70
+  offset: 7, 5
+  index: -1
+DL_12
+  rotate: true
+  xy: 257, 72
+  size: 65, 58
+  orig: 78, 70
+  offset: 7, 5
+  index: -1
+DL_2
+  rotate: true
+  xy: 195, 2
+  size: 66, 59
+  orig: 77, 70
+  offset: 6, 5
+  index: -1
+DL_3
+  rotate: true
+  xy: 350, 235
+  size: 14, 28
+  orig: 14, 30
+  offset: 0, 2
+  index: -1
+DL_5
+  rotate: true
+  xy: 350, 235
+  size: 14, 28
+  orig: 14, 30
+  offset: 0, 2
+  index: -1
+DL_4
+  rotate: true
+  xy: 195, 70
+  size: 67, 60
+  orig: 77, 70
+  offset: 6, 5
+  index: -1
+DL_6
+  rotate: true
+  xy: 195, 70
+  size: 67, 60
+  orig: 77, 70
+  offset: 6, 5
+  index: -1
+DL_7
+  rotate: true
+  xy: 350, 284
+  size: 15, 28
+  orig: 15, 30
+  offset: 0, 2
+  index: -1
+DL_8
+  rotate: true
+  xy: 256, 3
+  size: 65, 58
+  orig: 78, 69
+  offset: 7, 6
+  index: -1
+DL_9
+  rotate: true
+  xy: 350, 267
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+DL_11
+  rotate: true
+  xy: 350, 267
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+deng_1
+  rotate: true
+  xy: 2, 265
+  size: 110, 187
+  orig: 138, 193
+  offset: 20, 4
+  index: -1
+deng_1_2
+  rotate: true
+  xy: 191, 187
+  size: 112, 157
+  orig: 138, 193
+  offset: 25, 13
+  index: -1
+deng_1_3
+  rotate: true
+  xy: 191, 301
+  size: 74, 187
+  orig: 138, 193
+  offset: 17, 4
+  index: -1
+deng_a_1
+  rotate: false
+  xy: 350, 216
+  size: 27, 17
+  orig: 33, 22
+  offset: 3, 4
+  index: -1
+deng_a_2
+  rotate: false
+  xy: 316, 5
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+deng_a_3
+  rotate: true
+  xy: 282, 139
+  size: 46, 84
+  orig: 46, 102
+  offset: 0, 17
+  index: -1
+deng_b_1
+  rotate: false
+  xy: 350, 197
+  size: 27, 17
+  orig: 33, 22
+  offset: 3, 3
+  index: -1
+deng_b_2
+  rotate: false
+  xy: 317, 72
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+deng_b_3
+  rotate: true
+  xy: 195, 139
+  size: 46, 85
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+deng_c_1
+  rotate: true
+  xy: 2, 216
+  size: 47, 146
+  orig: 47, 169
+  offset: 0, 23
+  index: -1
+deng_d_1
+  rotate: true
+  xy: 2, 167
+  size: 47, 146
+  orig: 47, 169
+  offset: 0, 23
+  index: -1
+deng_e_1
+  rotate: false
+  xy: 51, 19
+  size: 46, 146
+  orig: 47, 169
+  offset: 1, 23
+  index: -1
+deng_f_1
+  rotate: false
+  xy: 2, 19
+  size: 47, 146
+  orig: 47, 169
+  offset: 0, 23
+  index: -1
+deng_g_1
+  rotate: false
+  xy: 99, 19
+  size: 46, 146
+  orig: 46, 169
+  offset: 0, 23
+  index: -1
+deng_h_1
+  rotate: false
+  xy: 147, 20
+  size: 46, 145
+  orig: 46, 168
+  offset: 0, 23
+  index: -1
+shu
+  rotate: false
+  xy: 2, 377
+  size: 373, 136
+  orig: 374, 137
+  offset: 0, 0
+  index: -1

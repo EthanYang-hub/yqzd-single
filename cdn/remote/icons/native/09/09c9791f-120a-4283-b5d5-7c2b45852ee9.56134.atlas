@@ -1,0 +1,20 @@
+
+ui_tianshuwudao_juexing_5.png
+size: 814,622
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1
+  rotate: false
+  xy: 2, 2
+  size: 404, 618
+  orig: 404, 618
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 408, 2
+  size: 404, 618
+  orig: 404, 618
+  offset: 0, 0
+  index: -1

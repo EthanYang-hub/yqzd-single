@@ -1,0 +1,132 @@
+
+zhandou_pet_runsheng.png
+size: 491,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1yanguang
+  rotate: true
+  xy: 383, 385
+  size: 104, 50
+  orig: 120, 52
+  offset: 13, 2
+  index: -1
+dai
+  rotate: true
+  xy: 445, 43
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1
+dang
+  rotate: false
+  xy: 229, 353
+  size: 59, 136
+  orig: 59, 136
+  offset: 0, 0
+  index: -1
+line1
+  rotate: false
+  xy: 2, 176
+  size: 112, 313
+  orig: 112, 313
+  offset: 0, 0
+  index: -1
+line2
+  rotate: false
+  xy: 445, 147
+  size: 42, 342
+  orig: 42, 342
+  offset: 0, 0
+  index: -1
+line3
+  rotate: true
+  xy: 2, 10
+  size: 90, 290
+  orig: 90, 290
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 116, 340
+  size: 111, 149
+  orig: 111, 149
+  offset: 0, 0
+  index: -1
+shou1a
+  rotate: false
+  xy: 195, 177
+  size: 71, 48
+  orig: 73, 50
+  offset: 1, 1
+  index: -1
+shou1b
+  rotate: true
+  xy: 364, 185
+  size: 84, 65
+  orig: 88, 65
+  offset: 1, 0
+  index: -1
+shou2a
+  rotate: true
+  xy: 290, 428
+  size: 61, 76
+  orig: 64, 78
+  offset: 1, 1
+  index: -1
+shou2b
+  rotate: true
+  xy: 383, 317
+  size: 66, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 116, 184
+  size: 154, 77
+  orig: 160, 79
+  offset: 1, 1
+  index: -1
+tui1a
+  rotate: false
+  xy: 195, 227
+  size: 91, 111
+  orig: 91, 112
+  offset: 0, 1
+  index: -1
+tui1b
+  rotate: false
+  xy: 288, 271
+  size: 93, 80
+  orig: 102, 80
+  offset: 9, 0
+  index: -1
+tui2a
+  rotate: false
+  xy: 288, 182
+  size: 74, 87
+  orig: 84, 87
+  offset: 10, 0
+  index: -1
+tui2b
+  rotate: true
+  xy: 294, 7
+  size: 93, 122
+  orig: 94, 122
+  offset: 0, 0
+  index: -1
+wq
+  rotate: true
+  xy: 2, 102
+  size: 72, 441
+  orig: 74, 443
+  offset: 1, 1
+  index: -1
+yan
+  rotate: false
+  xy: 2, 4
+  size: 10, 4
+  orig: 12, 6
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,41 @@
+
+ui_lp_bg.png
+size: 1021,603
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 236
+  size: 1017, 365
+  orig: 1017, 365
+  offset: 0, 0
+  index: -1
+huoxing_1
+  rotate: false
+  xy: 531, 35
+  size: 201, 199
+  orig: 242, 203
+  offset: 32, 1
+  index: -1
+huoxing_2
+  rotate: true
+  xy: 2, 2
+  size: 232, 273
+  orig: 233, 285
+  offset: 0, 6
+  index: -1
+huoxing_3
+  rotate: false
+  xy: 277, 4
+  size: 252, 230
+  orig: 263, 231
+  offset: 9, 0
+  index: -1
+huoxing_4
+  rotate: false
+  xy: 734, 78
+  size: 174, 156
+  orig: 239, 230
+  offset: 1, 36
+  index: -1

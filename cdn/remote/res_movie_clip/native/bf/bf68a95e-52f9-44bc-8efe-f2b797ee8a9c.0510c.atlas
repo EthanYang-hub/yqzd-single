@@ -1,0 +1,27 @@
+
+luxun_phyattack_02.png
+size: 335,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_hq_00000
+  rotate: false
+  xy: 229, 3
+  size: 104, 62
+  orig: 125, 71
+  offset: 4, 3
+  index: -1
+TX_hq_00002
+  rotate: false
+  xy: 2, 2
+  size: 112, 63
+  orig: 125, 71
+  offset: 3, 2
+  index: -1
+TX_hq_00004
+  rotate: false
+  xy: 116, 3
+  size: 111, 62
+  orig: 125, 71
+  offset: 3, 3
+  index: -1

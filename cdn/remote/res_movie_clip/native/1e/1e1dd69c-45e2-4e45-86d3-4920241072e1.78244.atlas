@@ -1,0 +1,34 @@
+
+rareSkill_wanshishuitan_boom_2.png
+size: 510,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7b76e021
+  rotate: false
+  xy: 259, 267
+  size: 236, 241
+  orig: 256, 256
+  offset: 8, 10
+  index: -1
+Morgana_Skin05_W_novaFog_tar
+  rotate: true
+  xy: 252, 5
+  size: 245, 239
+  orig: 256, 256
+  offset: 5, 4
+  index: -1
+fe752732
+  rotate: false
+  xy: 2, 252
+  size: 255, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+flash_Arcane_01
+  rotate: false
+  xy: 2, 2
+  size: 248, 248
+  orig: 256, 256
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,48 @@
+
+sanskill_bagua_1.png
+size: 407,382
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2bagua
+  rotate: false
+  xy: 277, 2
+  size: 121, 121
+  orig: 123, 123
+  offset: 1, 1
+  index: -1
+2waikuang
+  rotate: false
+  xy: 2, 124
+  size: 273, 256
+  orig: 284, 258
+  offset: 5, 1
+  index: -1
+di1
+  rotate: true
+  xy: 277, 125
+  size: 126, 128
+  orig: 128, 128
+  offset: 2, 0
+  index: -1
+di2
+  rotate: true
+  xy: 277, 253
+  size: 127, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_haze1red
+  rotate: false
+  xy: 2, 2
+  size: 121, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+witchDoctor_fetishArmy_flash_runes
+  rotate: false
+  xy: 125, 8
+  size: 115, 114
+  orig: 128, 128
+  offset: 5, 8
+  index: -1

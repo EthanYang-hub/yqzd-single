@@ -1,0 +1,62 @@
+
+ui_fuzhou_ka_effect.png
+size: 644,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai_1
+  rotate: false
+  xy: 573, 204
+  size: 69, 74
+  orig: 71, 75
+  offset: 1, 1
+  index: -1
+bai_2
+  rotate: false
+  xy: 418, 2
+  size: 91, 103
+  orig: 93, 104
+  offset: 1, 0
+  index: -1
+bai_3
+  rotate: true
+  xy: 511, 8
+  size: 101, 126
+  orig: 101, 127
+  offset: 0, 0
+  index: -1
+bai_4
+  rotate: true
+  xy: 260, 4
+  size: 101, 156
+  orig: 101, 157
+  offset: 0, 1
+  index: -1
+bai_5
+  rotate: false
+  xy: 470, 111
+  size: 101, 167
+  orig: 101, 168
+  offset: 0, 1
+  index: -1
+bai_6
+  rotate: false
+  xy: 260, 107
+  size: 103, 171
+  orig: 106, 172
+  offset: 0, 0
+  index: -1
+bai_7
+  rotate: false
+  xy: 365, 107
+  size: 103, 171
+  orig: 103, 171
+  offset: 0, 0
+  index: -1
+eye_lwy_t_mul_58_single
+  rotate: false
+  xy: 2, 22
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

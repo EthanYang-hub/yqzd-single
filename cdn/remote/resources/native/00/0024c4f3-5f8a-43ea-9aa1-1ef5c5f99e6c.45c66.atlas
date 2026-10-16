@@ -1,0 +1,223 @@
+
+ui_yinsipaihang.png
+size: 1884,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F1_01
+  rotate: true
+  xy: 844, 102
+  size: 93, 182
+  orig: 105, 185
+  offset: 2, 2
+  index: -1
+F1_0100
+  rotate: true
+  xy: 1212, 19
+  size: 93, 182
+  orig: 105, 186
+  offset: 2, 3
+  index: -1
+F1_02
+  rotate: true
+  xy: 1028, 114
+  size: 93, 182
+  orig: 104, 185
+  offset: 1, 2
+  index: -1
+F1_03
+  rotate: true
+  xy: 844, 8
+  size: 92, 182
+  orig: 106, 185
+  offset: 3, 2
+  index: -1
+F1_04
+  rotate: true
+  xy: 1212, 114
+  size: 93, 182
+  orig: 106, 185
+  offset: 3, 2
+  index: -1
+F1_05
+  rotate: false
+  xy: 1396, 25
+  size: 92, 182
+  orig: 106, 185
+  offset: 4, 2
+  index: -1
+F1_06
+  rotate: false
+  xy: 1490, 25
+  size: 92, 182
+  orig: 107, 185
+  offset: 4, 2
+  index: -1
+F1_07
+  rotate: true
+  xy: 1028, 19
+  size: 93, 182
+  orig: 107, 185
+  offset: 4, 2
+  index: -1
+F1_08
+  rotate: true
+  xy: 1549, 226
+  size: 90, 182
+  orig: 108, 185
+  offset: 5, 2
+  index: -1
+F1_09
+  rotate: false
+  xy: 1584, 42
+  size: 90, 182
+  orig: 108, 185
+  offset: 5, 2
+  index: -1
+Wizard_hydra_flameMask
+  rotate: true
+  xy: 254, 3
+  size: 113, 119
+  orig: 128, 128
+  offset: 7, 5
+  index: -1
+guang_1
+  rotate: true
+  xy: 2, 118
+  size: 149, 389
+  orig: 205, 506
+  offset: 44, 93
+  index: -1
+guang_2
+  rotate: true
+  xy: 393, 77
+  size: 190, 197
+  orig: 219, 227
+  offset: 22, 23
+  index: -1
+guang_3
+  rotate: true
+  xy: 845, 197
+  size: 172, 180
+  orig: 351, 234
+  offset: 88, 28
+  index: -1
+guang_4
+  rotate: true
+  xy: 593, 371
+  size: 55, 450
+  orig: 69, 493
+  offset: 6, 22
+  index: -1
+guang_5
+  rotate: false
+  xy: 2, 269
+  size: 589, 157
+  orig: 624, 278
+  offset: 10, 53
+  index: -1
+sui_1
+  rotate: true
+  xy: 2, 7
+  size: 109, 250
+  orig: 113, 254
+  offset: 2, 2
+  index: -1
+sui_2
+  rotate: true
+  xy: 592, 152
+  size: 109, 250
+  orig: 113, 254
+  offset: 2, 2
+  index: -1
+sui_3
+  rotate: true
+  xy: 592, 41
+  size: 109, 250
+  orig: 113, 254
+  offset: 2, 2
+  index: -1
+sui_4
+  rotate: true
+  xy: 1045, 317
+  size: 109, 250
+  orig: 113, 254
+  offset: 2, 2
+  index: -1
+sui_5
+  rotate: true
+  xy: 1297, 317
+  size: 109, 250
+  orig: 113, 254
+  offset: 2, 2
+  index: -1
+sui_6
+  rotate: true
+  xy: 1549, 318
+  size: 108, 250
+  orig: 113, 254
+  offset: 3, 2
+  index: -1
+sui_7
+  rotate: true
+  xy: 1027, 209
+  size: 106, 250
+  orig: 112, 254
+  offset: 4, 2
+  index: -1
+sui_8
+  rotate: true
+  xy: 1279, 209
+  size: 106, 250
+  orig: 112, 254
+  offset: 4, 2
+  index: -1
+sui_9
+  rotate: true
+  xy: 593, 263
+  size: 106, 250
+  orig: 112, 254
+  offset: 4, 2
+  index: -1
+yanluo_1
+  rotate: false
+  xy: 1755, 135
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+yanluo_2
+  rotate: true
+  xy: 1755, 39
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+zuiqiang_1
+  rotate: false
+  xy: 1801, 251
+  size: 81, 175
+  orig: 81, 175
+  offset: 0, 0
+  index: -1
+zuiqiang_2
+  rotate: true
+  xy: 1676, 86
+  size: 138, 77
+  orig: 138, 77
+  offset: 0, 0
+  index: -1
+zuiqiang_3
+  rotate: false
+  xy: 1676, 3
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+zuiqiang_4
+  rotate: true
+  xy: 375, 2
+  size: 73, 189
+  orig: 73, 189
+  offset: 0, 0
+  index: -1

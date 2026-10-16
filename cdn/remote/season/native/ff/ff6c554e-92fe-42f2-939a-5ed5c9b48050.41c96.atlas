@@ -1,0 +1,62 @@
+
+ui_mh_jianzhu_lianhuadeng3.png
+size: 306,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_mh_jianzhu_lianhuadeng-c-1
+  rotate: false
+  xy: 170, 3
+  size: 55, 66
+  orig: 66, 83
+  offset: 5, 16
+  index: -1
+ui_mh_jianzhu_lianhuadeng-c-2
+  rotate: false
+  xy: 227, 10
+  size: 25, 25
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+ui_mh_jianzhu_lianhuadeng-c-3
+  rotate: true
+  xy: 254, 10
+  size: 25, 24
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+ui_mh_jianzhu_lianhuadeng-c-4
+  rotate: true
+  xy: 280, 10
+  size: 25, 24
+  orig: 26, 27
+  offset: 0, 1
+  index: -1
+ui_mh_jianzhu_lianhuadeng-c-5
+  rotate: true
+  xy: 2, 2
+  size: 143, 140
+  orig: 143, 140
+  offset: 0, 0
+  index: -1
+ui_mh_jianzhu_lianhuadeng-c-6
+  rotate: true
+  xy: 144, 2
+  size: 67, 24
+  orig: 68, 25
+  offset: 0, 1
+  index: -1
+ui_mh_jianzhu_lianhuadeng-c-7
+  rotate: false
+  xy: 227, 37
+  size: 74, 32
+  orig: 75, 34
+  offset: 1, 2
+  index: -1
+ui_mh_jianzhu_lianhuadeng-c-8
+  rotate: false
+  xy: 144, 71
+  size: 149, 74
+  orig: 153, 77
+  offset: 2, 1
+  index: -1

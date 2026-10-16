@@ -1,0 +1,48 @@
+
+ui_long_anniu.png
+size: 630,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Yl_anniu_1
+  rotate: true
+  xy: 525, 92
+  size: 106, 103
+  orig: 118, 119
+  offset: 6, 8
+  index: -1
+Yl_anniu_3
+  rotate: false
+  xy: 392, 67
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+Yl_anniu_4
+  rotate: true
+  xy: 2, 2
+  size: 196, 197
+  orig: 202, 203
+  offset: 3, 3
+  index: -1
+Yl_anniu_5
+  rotate: false
+  xy: 201, 9
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+hua_1
+  rotate: true
+  xy: 392, 36
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+hua_2
+  rotate: false
+  xy: 525, 21
+  size: 87, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1

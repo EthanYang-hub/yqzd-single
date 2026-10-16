@@ -1,0 +1,55 @@
+
+ronghe_shou1_monster_3004.png
+size: 373,887
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi_1
+  rotate: false
+  xy: 249, 2
+  size: 122, 820
+  orig: 122, 820
+  offset: 0, 0
+  index: -1
+wuqi_3
+  rotate: true
+  xy: 93, 842
+  size: 43, 88
+  orig: 43, 88
+  offset: 0, 0
+  index: -1
+wuqi_4
+  rotate: true
+  xy: 2, 853
+  size: 32, 89
+  orig: 32, 89
+  offset: 0, 0
+  index: -1
+wuqi_5
+  rotate: false
+  xy: 2, 98
+  size: 245, 407
+  orig: 270, 417
+  offset: 25, 0
+  index: -1
+wuqi_guang_1
+  rotate: true
+  xy: 2, 507
+  size: 158, 207
+  orig: 158, 207
+  offset: 0, 0
+  index: -1
+zuobi_1
+  rotate: true
+  xy: 183, 824
+  size: 61, 118
+  orig: 61, 118
+  offset: 0, 0
+  index: -1
+zuobi_2
+  rotate: true
+  xy: 2, 667
+  size: 155, 226
+  orig: 155, 226
+  offset: 0, 0
+  index: -1

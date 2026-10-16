@@ -1,0 +1,244 @@
+
+monster_2023.png
+size: 1372,1372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1shen
+  rotate: false
+  xy: 2, 9
+  size: 211, 126
+  orig: 212, 126
+  offset: 0, 0
+  index: -1
+1shou1
+  rotate: false
+  xy: 1187, 122
+  size: 71, 51
+  orig: 71, 55
+  offset: 0, 4
+  index: -1
+1shou2
+  rotate: false
+  xy: 332, 654
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+1tou
+  rotate: true
+  xy: 1229, 655
+  size: 171, 115
+  orig: 174, 121
+  offset: 2, 2
+  index: -1
+1tui
+  rotate: false
+  xy: 668, 703
+  size: 29, 86
+  orig: 32, 86
+  offset: 0, 0
+  index: -1
+2shen
+  rotate: false
+  xy: 1045, 13
+  size: 122, 108
+  orig: 123, 108
+  offset: 0, 0
+  index: -1
+48c1b5b5
+  rotate: false
+  xy: 729, 165
+  size: 226, 228
+  orig: 256, 256
+  offset: 13, 12
+  index: -1
+4e37ba1a
+  rotate: false
+  xy: 1229, 528
+  size: 128, 125
+  orig: 128, 128
+  offset: 0, 1
+  index: -1
+5fe427e7
+  rotate: false
+  xy: 497, 158
+  size: 230, 232
+  orig: 256, 256
+  offset: 12, 12
+  index: -1
+die_1
+  rotate: false
+  xy: 668, 791
+  size: 270, 243
+  orig: 273, 245
+  offset: 2, 1
+  index: -1
+die_2
+  rotate: false
+  xy: 940, 791
+  size: 270, 243
+  orig: 273, 245
+  offset: 2, 1
+  index: -1
+die_3
+  rotate: false
+  xy: 699, 547
+  size: 270, 242
+  orig: 273, 245
+  offset: 2, 1
+  index: -1
+die_4
+  rotate: true
+  xy: 1176, 1100
+  size: 270, 184
+  orig: 273, 243
+  offset: 2, 1
+  index: -1
+die_5
+  rotate: true
+  xy: 1212, 828
+  size: 270, 158
+  orig: 272, 243
+  offset: 1, 1
+  index: -1
+die_6
+  rotate: false
+  xy: 492, 32
+  size: 183, 124
+  orig: 272, 243
+  offset: 88, 1
+  index: -1
+fe752732
+  rotate: false
+  xy: 971, 533
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+huo_060
+  rotate: true
+  xy: 677, 28
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+huo_061
+  rotate: false
+  xy: 1214, 370
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+huo_062
+  rotate: true
+  xy: 957, 123
+  size: 200, 228
+  orig: 200, 228
+  offset: 0, 0
+  index: -1
+huo_063
+  rotate: true
+  xy: 497, 392
+  size: 306, 200
+  orig: 306, 200
+  offset: 0, 0
+  index: -1
+huo_064
+  rotate: true
+  xy: 235, 212
+  size: 409, 260
+  orig: 409, 260
+  offset: 0, 0
+  index: -1
+huo_065
+  rotate: false
+  xy: 410, 1042
+  size: 406, 328
+  orig: 406, 328
+  offset: 0, 0
+  index: -1
+huo_066
+  rotate: true
+  xy: 2, 623
+  size: 411, 328
+  orig: 411, 328
+  offset: 0, 0
+  index: -1
+huo_067
+  rotate: false
+  xy: 2, 1036
+  size: 406, 334
+  orig: 406, 334
+  offset: 0, 0
+  index: -1
+huo_068
+  rotate: false
+  xy: 332, 700
+  size: 334, 334
+  orig: 334, 334
+  offset: 0, 0
+  index: -1
+huo_069
+  rotate: true
+  xy: 818, 1036
+  size: 334, 356
+  orig: 334, 356
+  offset: 0, 0
+  index: -1
+huo_070
+  rotate: false
+  xy: 235, 10
+  size: 255, 200
+  orig: 255, 200
+  offset: 0, 0
+  index: -1
+huo_071
+  rotate: false
+  xy: 957, 325
+  size: 255, 206
+  orig: 255, 206
+  offset: 0, 0
+  index: -1
+huo_072
+  rotate: false
+  xy: 699, 395
+  size: 255, 150
+  orig: 255, 150
+  offset: 0, 0
+  index: -1
+huo_073
+  rotate: false
+  xy: 915, 15
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+huo_074
+  rotate: false
+  xy: 785, 35
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huo_075
+  rotate: false
+  xy: 1187, 175
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 137
+  size: 231, 484
+  orig: 256, 512
+  offset: 14, 11
+  index: -1
+witchDoctor_fetishArmy_flash_runes
+  rotate: false
+  xy: 1214, 254
+  size: 115, 114
+  orig: 128, 128
+  offset: 5, 8
+  index: -1

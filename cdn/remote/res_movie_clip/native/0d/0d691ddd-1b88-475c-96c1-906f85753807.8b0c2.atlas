@@ -1,0 +1,20 @@
+
+petSkill_long_down.png
+size: 263,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aatrox_Passive_blood_smoke
+  rotate: false
+  xy: 2, 2
+  size: 223, 217
+  orig: 256, 256
+  offset: 14, 19
+  index: -1
+sui_4
+  rotate: false
+  xy: 227, 138
+  size: 34, 81
+  orig: 34, 82
+  offset: 0, 0
+  index: -1

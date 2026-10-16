@@ -1,0 +1,41 @@
+
+ui_fuzhoujiasu.png
+size: 808,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_1
+  rotate: true
+  xy: 667, 49
+  size: 73, 72
+  orig: 73, 74
+  offset: 0, 2
+  index: -1
+fire_2
+  rotate: true
+  xy: 589, 36
+  size: 86, 76
+  orig: 95, 91
+  offset: 0, 15
+  index: -1
+fire_3
+  rotate: false
+  xy: 741, 49
+  size: 65, 73
+  orig: 65, 75
+  offset: 0, 2
+  index: -1
+fire_4
+  rotate: true
+  xy: 501, 31
+  size: 91, 86
+  orig: 91, 89
+  offset: 0, 3
+  index: -1
+monk_boh_radius_golden_holyPower3
+  rotate: false
+  xy: 2, 2
+  size: 497, 120
+  orig: 500, 127
+  offset: 3, 7
+  index: -1

@@ -1,0 +1,55 @@
+
+UI_juedouchangdi.png
+size: 1985,990
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_juedouchangdi-10
+  rotate: true
+  xy: 1374, 436
+  size: 552, 559
+  orig: 595, 602
+  offset: 21, 21
+  index: -1
+UI_juedouchangdi-11
+  rotate: false
+  xy: 754, 369
+  size: 618, 619
+  orig: 618, 619
+  offset: 0, 0
+  index: -1
+UI_juedouchangdi-12
+  rotate: true
+  xy: 2, 69
+  size: 919, 750
+  orig: 1079, 750
+  offset: 80, 0
+  index: -1
+UI_juedouchangdi-6
+  rotate: true
+  xy: 754, 47
+  size: 320, 269
+  orig: 320, 269
+  offset: 0, 0
+  index: -1
+UI_juedouchangdi-7
+  rotate: true
+  xy: 1800, 221
+  size: 213, 183
+  orig: 213, 183
+  offset: 0, 0
+  index: -1
+UI_juedouchangdi-8
+  rotate: true
+  xy: 1025, 8
+  size: 359, 233
+  orig: 359, 233
+  offset: 0, 0
+  index: -1
+UI_juedouchangdi-9
+  rotate: false
+  xy: 1374, 2
+  size: 424, 432
+  orig: 424, 432
+  offset: 0, 0
+  index: -1

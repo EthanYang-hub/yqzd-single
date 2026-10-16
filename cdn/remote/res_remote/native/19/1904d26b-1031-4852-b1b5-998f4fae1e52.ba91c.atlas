@@ -1,0 +1,20 @@
+
+UI_zhanyaoduijue4.png
+size: 811,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_zhanyaoduijue-12
+  rotate: false
+  xy: 2, 20
+  size: 589, 358
+  orig: 594, 367
+  offset: 3, 4
+  index: -1
+UI_zhanyaoduijue-13
+  rotate: true
+  xy: 593, 2
+  size: 376, 216
+  orig: 382, 222
+  offset: 3, 3
+  index: -1

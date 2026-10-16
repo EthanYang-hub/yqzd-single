@@ -1,0 +1,13 @@
+
+roleSkill_spterra_blue_bullet.png
+size: 87,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zidan
+  rotate: false
+  xy: 2, 2
+  size: 83, 12
+  orig: 84, 12
+  offset: 1, 0
+  index: -1

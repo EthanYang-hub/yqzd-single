@@ -1,0 +1,27 @@
+
+ui_jiesuan.png
+size: 630,630
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI_bg_battle_bantoudibanUI02
+  rotate: false
+  xy: 2, 581
+  size: 626, 47
+  orig: 626, 47
+  offset: 0, 0
+  index: -1
+UI_bg_battle_jiesuanbeijing02
+  rotate: false
+  xy: 137, 397
+  size: 273, 182
+  orig: 300, 200
+  offset: 16, 0
+  index: -1
+jian
+  rotate: false
+  xy: 2, 453
+  size: 133, 126
+  orig: 149, 131
+  offset: 8, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+ui_xuanzhong.png
+size: 773,773
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cucai_1
+  rotate: false
+  xy: 2, 616
+  size: 242, 155
+  orig: 252, 171
+  offset: 2, 9
+  index: -1
+cucai_10
+  rotate: false
+  xy: 2, 122
+  size: 255, 165
+  orig: 259, 176
+  offset: 2, 9
+  index: -1
+cucai_11
+  rotate: false
+  xy: 259, 115
+  size: 255, 165
+  orig: 259, 176
+  offset: 2, 9
+  index: -1
+cucai_12
+  rotate: false
+  xy: 516, 115
+  size: 255, 165
+  orig: 259, 176
+  offset: 2, 9
+  index: -1
+cucai_2
+  rotate: false
+  xy: 246, 616
+  size: 242, 155
+  orig: 252, 171
+  offset: 2, 9
+  index: -1
+cucai_3
+  rotate: false
+  xy: 490, 616
+  size: 242, 155
+  orig: 252, 171
+  offset: 2, 9
+  index: -1
+cucai_4
+  rotate: false
+  xy: 2, 459
+  size: 242, 155
+  orig: 252, 171
+  offset: 2, 9
+  index: -1
+cucai_5
+  rotate: false
+  xy: 246, 456
+  size: 242, 158
+  orig: 252, 171
+  offset: 2, 9
+  index: -1
+cucai_6
+  rotate: false
+  xy: 490, 449
+  size: 248, 165
+  orig: 252, 176
+  offset: 2, 9
+  index: -1
+cucai_7
+  rotate: false
+  xy: 2, 289
+  size: 255, 165
+  orig: 259, 176
+  offset: 2, 9
+  index: -1
+cucai_8
+  rotate: false
+  xy: 259, 282
+  size: 255, 165
+  orig: 259, 176
+  offset: 2, 9
+  index: -1
+cucai_9
+  rotate: false
+  xy: 516, 282
+  size: 255, 165
+  orig: 259, 176
+  offset: 2, 9
+  index: -1

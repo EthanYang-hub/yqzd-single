@@ -1,0 +1,258 @@
+
+roleSkill_water_purple_1_ground.png
+size: 1239,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0392
+  rotate: false
+  xy: 247, 96
+  size: 113, 111
+  orig: 128, 128
+  offset: 6, 11
+  index: -1
+809
+  rotate: true
+  xy: 533, 14
+  size: 253, 256
+  orig: 256, 256
+  offset: 3, 0
+  index: -1
+Zyra_Skin02_W_Fire
+  rotate: false
+  xy: 791, 114
+  size: 153, 153
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+bai_1
+  rotate: true
+  xy: 2, 92
+  size: 115, 243
+  orig: 115, 243
+  offset: 0, 0
+  index: -1
+baoh_01
+  rotate: false
+  xy: 1122, 59
+  size: 50, 49
+  orig: 100, 100
+  offset: 2, 3
+  index: -1
+baoh_03
+  rotate: true
+  xy: 304, 16
+  size: 78, 72
+  orig: 100, 100
+  offset: 5, 11
+  index: -1
+baoh_04
+  rotate: true
+  xy: 225, 7
+  size: 83, 77
+  orig: 100, 100
+  offset: 7, 14
+  index: -1
+baoh_05
+  rotate: false
+  xy: 946, 96
+  size: 86, 77
+  orig: 100, 100
+  offset: 8, 17
+  index: -1
+baoh_06
+  rotate: false
+  xy: 1117, 110
+  size: 85, 73
+  orig: 100, 100
+  offset: 10, 22
+  index: -1
+baoh_07
+  rotate: false
+  xy: 931, 24
+  size: 84, 70
+  orig: 100, 100
+  offset: 13, 27
+  index: -1
+baoh_08
+  rotate: false
+  xy: 1017, 29
+  size: 51, 65
+  orig: 100, 100
+  offset: 46, 32
+  index: -1
+baoh_09
+  rotate: false
+  xy: 1070, 21
+  size: 47, 29
+  orig: 100, 100
+  offset: 49, 35
+  index: -1
+baoh_11
+  rotate: true
+  xy: 923, 2
+  size: 20, 16
+  orig: 100, 100
+  offset: 75, 46
+  index: -1
+bing_2
+  rotate: false
+  xy: 1034, 198
+  size: 102, 69
+  orig: 102, 69
+  offset: 0, 0
+  index: -1
+bing_3
+  rotate: true
+  xy: 791, 42
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+bing_4
+  rotate: true
+  xy: 2, 8
+  size: 82, 221
+  orig: 91, 221
+  offset: 0, 0
+  index: -1
+bing_7
+  rotate: true
+  xy: 1122, 2
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+bing_8
+  rotate: true
+  xy: 1167, 5
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+bing_di
+  rotate: false
+  xy: 2, 209
+  size: 529, 58
+  orig: 551, 63
+  offset: 12, 5
+  index: -1
+su2ibing_1
+  rotate: false
+  xy: 1210, 108
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+sui_1
+  rotate: true
+  xy: 378, 6
+  size: 28, 45
+  orig: 29, 45
+  offset: 1, 0
+  index: -1
+sui_2
+  rotate: false
+  xy: 1210, 78
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+sui_3
+  rotate: true
+  xy: 875, 5
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+sui_5
+  rotate: false
+  xy: 1174, 52
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+suibing_4
+  rotate: true
+  xy: 425, 10
+  size: 24, 35
+  orig: 36, 35
+  offset: 12, 0
+  index: -1
+suibing_5
+  rotate: true
+  xy: 1204, 151
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+suibing_6
+  rotate: true
+  xy: 462, 8
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+yanwu1_018
+  rotate: false
+  xy: 1070, 52
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+yanwu1_020
+  rotate: false
+  xy: 457, 45
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+yanwu1_022
+  rotate: false
+  xy: 378, 36
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+yanwu1_024
+  rotate: false
+  xy: 1034, 110
+  size: 81, 86
+  orig: 82, 86
+  offset: 0, 0
+  index: -1
+yanwu1_026
+  rotate: true
+  xy: 1138, 185
+  size: 82, 89
+  orig: 82, 89
+  offset: 0, 0
+  index: -1
+yanwu1_028
+  rotate: false
+  xy: 946, 175
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+yanwu1_030
+  rotate: false
+  xy: 362, 115
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+yanwu1_032
+  rotate: false
+  xy: 449, 115
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+yanwu1_034
+  rotate: false
+  xy: 791, 3
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: -1

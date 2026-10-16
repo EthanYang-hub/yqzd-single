@@ -1,0 +1,181 @@
+
+sanskill_hua.png
+size: 800,800
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire_1
+  rotate: false
+  xy: 668, 647
+  size: 59, 88
+  orig: 66, 99
+  offset: 4, 6
+  index: -1
+Fire_2
+  rotate: true
+  xy: 668, 737
+  size: 61, 114
+  orig: 66, 131
+  offset: 2, 4
+  index: -1
+Fire_3
+  rotate: true
+  xy: 260, 550
+  size: 49, 95
+  orig: 62, 106
+  offset: 5, 8
+  index: -1
+Fire_4
+  rotate: false
+  xy: 735, 353
+  size: 63, 116
+  orig: 69, 131
+  offset: 4, 4
+  index: -1
+di
+  rotate: false
+  xy: 426, 335
+  size: 144, 73
+  orig: 144, 73
+  offset: 0, 0
+  index: -1
+die_1
+  rotate: false
+  xy: 236, 330
+  size: 188, 210
+  orig: 193, 256
+  offset: 3, 11
+  index: -1
+die_2
+  rotate: false
+  xy: 260, 601
+  size: 186, 197
+  orig: 190, 215
+  offset: 2, 11
+  index: -1
+die_3
+  rotate: false
+  xy: 236, 133
+  size: 186, 195
+  orig: 190, 215
+  offset: 2, 11
+  index: -1
+die_4
+  rotate: false
+  xy: 424, 136
+  size: 180, 192
+  orig: 187, 210
+  offset: 5, 11
+  index: -1
+die_5
+  rotate: false
+  xy: 606, 233
+  size: 157, 112
+  orig: 182, 192
+  offset: 23, 11
+  index: -1
+die_6
+  rotate: true
+  xy: 536, 463
+  size: 157, 124
+  orig: 182, 209
+  offset: 23, 11
+  index: -1
+die_7
+  rotate: true
+  xy: 662, 471
+  size: 157, 104
+  orig: 182, 209
+  offset: 23, 11
+  index: -1
+die_8
+  rotate: false
+  xy: 606, 136
+  size: 144, 95
+  orig: 182, 209
+  offset: 36, 11
+  index: -1
+eye_lwy_t_hit_00_single
+  rotate: false
+  xy: 2, 542
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+eye_lwy_t_sun_38_single
+  rotate: true
+  xy: 2, 36
+  size: 247, 232
+  orig: 256, 256
+  offset: 5, 0
+  index: -1
+guangxiao
+  rotate: true
+  xy: 572, 347
+  size: 114, 161
+  orig: 130, 182
+  offset: 6, 16
+  index: -1
+hua1
+  rotate: true
+  xy: 435, 26
+  size: 108, 189
+  orig: 108, 189
+  offset: 0, 0
+  index: -1
+hua1_g
+  rotate: false
+  xy: 426, 410
+  size: 108, 189
+  orig: 108, 189
+  offset: 0, 0
+  index: -1
+hua1_guang
+  rotate: true
+  xy: 236, 11
+  size: 120, 197
+  orig: 120, 200
+  offset: 0, 3
+  index: -1
+hua2
+  rotate: true
+  xy: 626, 32
+  size: 102, 168
+  orig: 102, 168
+  offset: 0, 0
+  index: -1
+hua2_g
+  rotate: false
+  xy: 564, 630
+  size: 102, 168
+  orig: 102, 168
+  offset: 0, 0
+  index: -1
+hua2_guang
+  rotate: false
+  xy: 448, 622
+  size: 114, 176
+  orig: 114, 179
+  offset: 0, 3
+  index: -1
+huaban1
+  rotate: false
+  xy: 27, 12
+  size: 22, 22
+  orig: 24, 25
+  offset: 1, 1
+  index: -1
+huaban2
+  rotate: true
+  xy: 2, 3
+  size: 31, 23
+  orig: 33, 25
+  offset: 1, 1
+  index: -1
+speed_blur02_32
+  rotate: true
+  xy: 2, 285
+  size: 255, 232
+  orig: 256, 256
+  offset: 1, 16
+  index: -1

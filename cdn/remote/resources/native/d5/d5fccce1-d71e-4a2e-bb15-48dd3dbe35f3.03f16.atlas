@@ -1,0 +1,20 @@
+
+ui_kuilei_ka_guang.png
+size: 324,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DH_elementalArrow_FirewallColor
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+barbarian_frenzySwipes_alpha
+  rotate: false
+  xy: 260, 196
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+zhandou_renwu_leidian_1_effect.png
+size: 402,402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electricity 010_00010
+  rotate: false
+  xy: 204, 203
+  size: 196, 197
+  orig: 200, 197
+  offset: 4, 0
+  index: -1
+Electricity 010_00014
+  rotate: false
+  xy: 2, 203
+  size: 200, 197
+  orig: 200, 197
+  offset: 0, 0
+  index: -1

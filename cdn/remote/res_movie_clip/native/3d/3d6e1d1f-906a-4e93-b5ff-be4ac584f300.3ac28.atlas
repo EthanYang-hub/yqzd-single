@@ -1,0 +1,181 @@
+
+roleSkill_thunder_jjc.png
+size: 863,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0099
+  rotate: false
+  xy: 295, 8
+  size: 103, 102
+  orig: 128, 128
+  offset: 12, 14
+  index: -1
+00991
+  rotate: false
+  xy: 400, 6
+  size: 103, 102
+  orig: 128, 128
+  offset: 12, 14
+  index: -1
+Electricity 016_00000
+  rotate: false
+  xy: 707, 110
+  size: 84, 82
+  orig: 122, 219
+  offset: 8, 0
+  index: -1
+Electricity 016_00002
+  rotate: true
+  xy: 162, 16
+  size: 94, 131
+  orig: 122, 219
+  offset: 16, 0
+  index: -1
+Electricity 016_00004
+  rotate: true
+  xy: 2, 23
+  size: 105, 158
+  orig: 122, 219
+  offset: 14, 0
+  index: -1
+dianzhu_1
+  rotate: true
+  xy: 204, 300
+  size: 99, 256
+  orig: 105, 256
+  offset: 2, 0
+  index: -1
+dianzhu_3
+  rotate: true
+  xy: 452, 193
+  size: 104, 253
+  orig: 107, 256
+  offset: 3, 3
+  index: -1
+dianzhu_4
+  rotate: true
+  xy: 462, 299
+  size: 104, 254
+  orig: 107, 256
+  offset: 1, 2
+  index: -1
+flare1_blueelec
+  rotate: false
+  xy: 2, 130
+  size: 190, 199
+  orig: 200, 200
+  offset: 10, 0
+  index: -1
+flare1_tc_512_blue2
+  rotate: false
+  xy: 2, 331
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+sansheguang
+  rotate: false
+  xy: 792, 249
+  size: 69, 75
+  orig: 73, 83
+  offset: 1, 2
+  index: -1
+shandian_1
+  rotate: true
+  xy: 462, 405
+  size: 126, 256
+  orig: 126, 256
+  offset: 0, 0
+  index: -1
+shandian_2
+  rotate: true
+  xy: 204, 401
+  size: 130, 256
+  orig: 137, 256
+  offset: 0, 0
+  index: -1
+shandian_3
+  rotate: true
+  xy: 194, 178
+  size: 120, 256
+  orig: 124, 256
+  offset: 1, 0
+  index: -1
+sui_0
+  rotate: false
+  xy: 793, 184
+  size: 58, 63
+  orig: 128, 128
+  offset: 30, 27
+  index: -1
+sui_01
+  rotate: false
+  xy: 793, 119
+  size: 58, 63
+  orig: 128, 128
+  offset: 30, 27
+  index: -1
+sui_1
+  rotate: true
+  xy: 505, 17
+  size: 91, 106
+  orig: 128, 128
+  offset: 10, 22
+  index: -1
+sui_11
+  rotate: false
+  xy: 613, 2
+  size: 91, 106
+  orig: 128, 128
+  offset: 10, 22
+  index: -1
+sui_2
+  rotate: false
+  xy: 707, 194
+  size: 83, 103
+  orig: 128, 128
+  offset: 16, 12
+  index: -1
+sui_21
+  rotate: true
+  xy: 720, 326
+  size: 83, 103
+  orig: 128, 128
+  offset: 16, 12
+  index: -1
+sui_3
+  rotate: false
+  xy: 706, 18
+  size: 73, 90
+  orig: 128, 128
+  offset: 18, 22
+  index: -1
+sui_31
+  rotate: false
+  xy: 781, 18
+  size: 73, 90
+  orig: 128, 128
+  offset: 18, 22
+  index: -1
+torchFlare
+  rotate: false
+  xy: 720, 411
+  size: 120, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+zilei_1
+  rotate: true
+  xy: 452, 110
+  size: 81, 251
+  orig: 131, 256
+  offset: 18, 5
+  index: -1
+zilei_2
+  rotate: true
+  xy: 194, 112
+  size: 64, 256
+  orig: 121, 256
+  offset: 30, 0
+  index: -1

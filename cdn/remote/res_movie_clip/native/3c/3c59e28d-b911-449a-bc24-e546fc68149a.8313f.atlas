@@ -1,0 +1,258 @@
+
+petSkill_horse.png
+size: 725,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+552c1e4f51933bd6162582db69025cb8048492507dc3-tgQ0eY_fw1200
+  rotate: false
+  xy: 2, 225
+  size: 588, 60
+  orig: 589, 64
+  offset: 0, 2
+  index: -1
+FF_0
+  rotate: false
+  xy: 547, 57
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+FF_1
+  rotate: false
+  xy: 538, 8
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+FF_10
+  rotate: true
+  xy: 594, 10
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+FF_11
+  rotate: true
+  xy: 483, 4
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+FF_12
+  rotate: false
+  xy: 360, 2
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+FF_13
+  rotate: true
+  xy: 2, 2
+  size: 44, 65
+  orig: 45, 65
+  offset: 1, 0
+  index: -1
+FF_14
+  rotate: false
+  xy: 164, 59
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+FF_15
+  rotate: false
+  xy: 295, 63
+  size: 67, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+FF_16
+  rotate: false
+  xy: 493, 164
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+FF_17
+  rotate: true
+  xy: 564, 157
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+FF_18
+  rotate: false
+  xy: 404, 63
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+FF_19
+  rotate: false
+  xy: 547, 105
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+FF_2
+  rotate: true
+  xy: 459, 63
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+FF_20
+  rotate: false
+  xy: 164, 2
+  size: 72, 55
+  orig: 72, 55
+  offset: 0, 0
+  index: -1
+FF_21
+  rotate: false
+  xy: 477, 103
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+FF_22
+  rotate: true
+  xy: 232, 59
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+FF_23
+  rotate: false
+  xy: 623, 161
+  size: 61, 65
+  orig: 62, 65
+  offset: 1, 0
+  index: -1
+FF_24
+  rotate: false
+  xy: 603, 55
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+FF_25
+  rotate: false
+  xy: 238, 2
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+FF_26
+  rotate: false
+  xy: 364, 63
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+FF_27
+  rotate: true
+  xy: 623, 102
+  size: 57, 61
+  orig: 58, 61
+  offset: 1, 0
+  index: -1
+FF_28
+  rotate: true
+  xy: 295, 2
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+FF_29
+  rotate: true
+  xy: 418, 3
+  size: 58, 63
+  orig: 59, 63
+  offset: 1, 0
+  index: -1
+FF_3
+  rotate: false
+  xy: 406, 108
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1
+FF_4
+  rotate: false
+  xy: 326, 165
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+FF_5
+  rotate: false
+  xy: 412, 164
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+FF_6
+  rotate: false
+  xy: 326, 124
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+FF_8
+  rotate: false
+  xy: 69, 7
+  size: 84, 39
+  orig: 85, 39
+  offset: 1, 0
+  index: -1
+FF_9
+  rotate: true
+  xy: 686, 178
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+fire_1
+  rotate: false
+  xy: 2, 130
+  size: 180, 93
+  orig: 180, 93
+  offset: 0, 0
+  index: -1
+huomiao_3
+  rotate: false
+  xy: 2, 130
+  size: 180, 93
+  orig: 180, 93
+  offset: 0, 0
+  index: -1
+fire_2
+  rotate: false
+  xy: 184, 127
+  size: 140, 96
+  orig: 140, 96
+  offset: 0, 0
+  index: -1
+huomiao_6
+  rotate: false
+  xy: 184, 127
+  size: 140, 96
+  orig: 140, 96
+  offset: 0, 0
+  index: -1
+fire_4
+  rotate: false
+  xy: 592, 228
+  size: 121, 57
+  orig: 121, 57
+  offset: 0, 0
+  index: -1
+fire_5
+  rotate: false
+  xy: 2, 48
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: -1

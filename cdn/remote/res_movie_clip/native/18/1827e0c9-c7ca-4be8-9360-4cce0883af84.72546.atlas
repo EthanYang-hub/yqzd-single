@@ -1,0 +1,41 @@
+
+effect_buff_xuruo.png
+size: 247,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou
+  rotate: false
+  xy: 2, 135
+  size: 108, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 112, 209
+  size: 133, 36
+  orig: 140, 60
+  offset: 0, 12
+  index: -1
+ziseyanwu0001
+  rotate: false
+  xy: 2, 65
+  size: 108, 68
+  orig: 120, 80
+  offset: 0, 5
+  index: -1
+ziseyanwu0002
+  rotate: false
+  xy: 112, 135
+  size: 81, 72
+  orig: 120, 80
+  offset: 11, 1
+  index: -1
+ziseyanwu0003
+  rotate: false
+  xy: 112, 60
+  size: 75, 73
+  orig: 120, 80
+  offset: 17, 1
+  index: -1

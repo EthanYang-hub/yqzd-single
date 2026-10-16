@@ -1,0 +1,20 @@
+
+ui_duanwu_qiandao.png
+size: 545,599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: true
+  xy: 301, 26
+  size: 571, 242
+  orig: 571, 242
+  offset: 0, 0
+  index: -1
+A2
+  rotate: true
+  xy: 2, 2
+  size: 595, 297
+  orig: 595, 297
+  offset: 0, 0
+  index: -1

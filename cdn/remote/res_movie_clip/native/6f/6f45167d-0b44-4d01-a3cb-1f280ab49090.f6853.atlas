@@ -1,0 +1,48 @@
+
+buff_zengshang.png
+size: 259,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ThousandPounder_blood_color
+  rotate: true
+  xy: 150, 125
+  size: 87, 103
+  orig: 128, 128
+  offset: 19, 13
+  index: -1
+a1
+  rotate: true
+  xy: 2, 103
+  size: 109, 146
+  orig: 112, 148
+  offset: 0, 1
+  index: -1
+a2
+  rotate: true
+  xy: 2, 3
+  size: 98, 139
+  orig: 103, 143
+  offset: 0, 3
+  index: -1
+a3
+  rotate: false
+  xy: 150, 2
+  size: 101, 121
+  orig: 104, 137
+  offset: 2, 14
+  index: -1
+a4
+  rotate: true
+  xy: 2, 214
+  size: 65, 177
+  orig: 75, 198
+  offset: 3, 11
+  index: -1
+storm_doodad_nexus_planetsflyby_glow_line
+  rotate: true
+  xy: 181, 272
+  size: 7, 76
+  orig: 7, 76
+  offset: 0, 0
+  index: -1

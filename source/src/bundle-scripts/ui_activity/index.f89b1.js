@@ -1,0 +1,1 @@
+"use strict";var t,i;System.register("chunks:///_virtual/ui_activity",[],(function(){return{execute:function(){}}})),t="virtual:///prerequisite-imports/ui_activity",i="chunks:///_virtual/ui_activity",System.register(t,[i],(function(t,i){return{setters:[function(i){var e={};for(var u in i)"default"!==u&&"__esModule"!==u&&(e[u]=i[u]);t(e)}],execute:function(){}}})); 

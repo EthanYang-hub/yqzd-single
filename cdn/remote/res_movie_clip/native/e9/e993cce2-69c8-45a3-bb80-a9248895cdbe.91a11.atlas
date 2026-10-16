@@ -1,0 +1,237 @@
+
+elite monster_003.png
+size: 1740,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong
+  rotate: false
+  xy: 1430, 2
+  size: 46, 110
+  orig: 46, 115
+  offset: 0, 5
+  index: -1
+die_0
+  rotate: false
+  xy: 248, 87
+  size: 164, 180
+  orig: 256, 256
+  offset: 40, 38
+  index: -1
+die_1
+  rotate: false
+  xy: 414, 87
+  size: 158, 180
+  orig: 256, 256
+  offset: 46, 38
+  index: -1
+die_2
+  rotate: false
+  xy: 730, 87
+  size: 144, 180
+  orig: 256, 256
+  offset: 60, 38
+  index: -1
+die_3
+  rotate: false
+  xy: 1006, 87
+  size: 122, 180
+  orig: 256, 256
+  offset: 82, 38
+  index: -1
+die_4
+  rotate: false
+  xy: 1130, 88
+  size: 104, 179
+  orig: 256, 256
+  offset: 100, 39
+  index: -1
+die_5
+  rotate: true
+  xy: 415, 3
+  size: 82, 175
+  orig: 256, 256
+  offset: 122, 43
+  index: -1
+die_6
+  rotate: true
+  xy: 942, 24
+  size: 61, 174
+  orig: 256, 256
+  offset: 143, 43
+  index: -1
+glow_01
+  rotate: false
+  xy: 1611, 7
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+guangyun
+  rotate: false
+  xy: 883, 21
+  size: 57, 64
+  orig: 65, 71
+  offset: 4, 4
+  index: -1
+heyan_0
+  rotate: true
+  xy: 942, 3
+  size: 19, 28
+  orig: 256, 256
+  offset: 122, 93
+  index: -1
+heyan_1
+  rotate: true
+  xy: 1223, 4
+  size: 26, 50
+  orig: 256, 256
+  offset: 121, 99
+  index: -1
+heyan_10
+  rotate: false
+  xy: 789, 19
+  size: 92, 66
+  orig: 256, 256
+  offset: 97, 156
+  index: -1
+heyan_11
+  rotate: false
+  xy: 592, 9
+  size: 88, 76
+  orig: 256, 256
+  offset: 95, 149
+  index: -1
+heyan_12
+  rotate: true
+  xy: 1478, 23
+  size: 94, 38
+  orig: 256, 256
+  offset: 98, 192
+  index: -1
+heyan_13
+  rotate: true
+  xy: 2, 3
+  size: 15, 20
+  orig: 256, 256
+  offset: 98, 200
+  index: -1
+heyan_14
+  rotate: false
+  xy: 38, 6
+  size: 17, 12
+  orig: 256, 256
+  offset: 99, 205
+  index: -1
+heyan_15
+  rotate: false
+  xy: 24, 4
+  size: 12, 14
+  orig: 256, 256
+  offset: 109, 209
+  index: -1
+heyan_2
+  rotate: false
+  xy: 682, 16
+  size: 58, 69
+  orig: 256, 256
+  offset: 121, 98
+  index: -1
+heyan_3
+  rotate: false
+  xy: 1316, 6
+  size: 112, 100
+  orig: 256, 256
+  offset: 114, 103
+  index: -1
+heyan_4
+  rotate: true
+  xy: 1355, 114
+  size: 153, 98
+  orig: 256, 256
+  offset: 64, 75
+  index: -1
+heyan_5
+  rotate: true
+  xy: 1236, 108
+  size: 159, 117
+  orig: 256, 256
+  offset: 61, 77
+  index: -1
+heyan_6
+  rotate: true
+  xy: 876, 87
+  size: 180, 128
+  orig: 256, 256
+  offset: 61, 72
+  index: -1
+heyan_7
+  rotate: true
+  xy: 574, 87
+  size: 180, 154
+  orig: 256, 256
+  offset: 53, 63
+  index: -1
+heyan_8
+  rotate: true
+  xy: 1455, 119
+  size: 148, 146
+  orig: 256, 256
+  offset: 56, 74
+  index: -1
+heyan_9
+  rotate: false
+  xy: 1603, 125
+  size: 135, 142
+  orig: 256, 256
+  offset: 58, 79
+  index: -1
+huan_1
+  rotate: false
+  xy: 2, 20
+  size: 244, 247
+  orig: 256, 256
+  offset: 5, 5
+  index: -1
+shenti
+  rotate: true
+  xy: 248, 2
+  size: 83, 165
+  orig: 91, 186
+  offset: 0, 21
+  index: -1
+tou
+  rotate: false
+  xy: 742, 17
+  size: 45, 68
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 1573, 28
+  size: 89, 36
+  orig: 208, 140
+  offset: 0, 104
+  index: -1
+youtui
+  rotate: false
+  xy: 1518, 27
+  size: 53, 90
+  orig: 55, 92
+  offset: 2, 2
+  index: -1
+zuobi
+  rotate: true
+  xy: 1118, 26
+  size: 59, 103
+  orig: 74, 103
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 1223, 32
+  size: 54, 91
+  orig: 54, 95
+  offset: 0, 4
+  index: -1

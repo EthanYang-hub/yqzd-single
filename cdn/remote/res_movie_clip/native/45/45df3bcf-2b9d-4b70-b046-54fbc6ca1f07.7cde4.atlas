@@ -1,0 +1,62 @@
+
+monster_3015_2_bullet.png
+size: 1671,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_GC_a1
+  rotate: true
+  xy: 1529, 66
+  size: 62, 140
+  orig: 63, 142
+  offset: 1, 1
+  index: -1
+B_GC_a2
+  rotate: true
+  xy: 1040, 7
+  size: 121, 344
+  orig: 121, 344
+  offset: 0, 0
+  index: -1
+B_GC_b1
+  rotate: true
+  xy: 1386, 2
+  size: 62, 140
+  orig: 63, 142
+  offset: 0, 1
+  index: -1
+B_GC_b2
+  rotate: true
+  xy: 2, 6
+  size: 122, 344
+  orig: 122, 344
+  offset: 0, 0
+  index: -1
+B_GC_c1
+  rotate: true
+  xy: 1386, 66
+  size: 62, 141
+  orig: 63, 142
+  offset: 0, 1
+  index: -1
+B_GC_c2
+  rotate: true
+  xy: 348, 6
+  size: 122, 344
+  orig: 122, 344
+  offset: 0, 0
+  index: -1
+B_GC_d1
+  rotate: true
+  xy: 1528, 2
+  size: 62, 140
+  orig: 63, 142
+  offset: 0, 1
+  index: -1
+B_GC_d2
+  rotate: true
+  xy: 694, 6
+  size: 122, 344
+  orig: 122, 344
+  offset: 0, 0
+  index: -1

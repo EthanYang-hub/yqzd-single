@@ -1,0 +1,62 @@
+
+lihui_pet_nezha.png
+size: 471,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 16
+  size: 134, 318
+  orig: 134, 318
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 138, 44
+  size: 82, 108
+  orig: 82, 116
+  offset: 0, 2
+  index: -1
+3
+  rotate: true
+  xy: 248, 45
+  size: 76, 98
+  orig: 77, 100
+  offset: 1, 2
+  index: -1
+4
+  rotate: false
+  xy: 138, 128
+  size: 189, 206
+  orig: 189, 208
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 329, 123
+  size: 129, 211
+  orig: 129, 218
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 460, 36
+  size: 8, 298
+  orig: 8, 298
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 2
+  size: 12, 467
+  orig: 12, 467
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 138, 20
+  size: 14, 322
+  orig: 14, 322
+  offset: 0, 0
+  index: -1

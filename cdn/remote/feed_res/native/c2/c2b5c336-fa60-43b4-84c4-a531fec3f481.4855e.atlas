@@ -1,0 +1,20 @@
+
+roleSkill_wind_white.png
+size: 399,399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+psienergy4
+  rotate: false
+  xy: 2, 321
+  size: 195, 19
+  orig: 196, 20
+  offset: 0, 0
+  index: -1
+zidan_1
+  rotate: false
+  xy: 2, 342
+  size: 395, 55
+  orig: 420, 55
+  offset: 16, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+ui_zhounian_zhuye_lihui.png
+size: 1486,1486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: true
+  xy: 165, 1414
+  size: 70, 235
+  orig: 70, 235
+  offset: 0, 0
+  index: -1
+A2
+  rotate: true
+  xy: 639, 1399
+  size: 85, 251
+  orig: 85, 251
+  offset: 0, 0
+  index: -1
+A3
+  rotate: true
+  xy: 2, 448
+  size: 733, 740
+  orig: 733, 750
+  offset: 0, 5
+  index: -1
+A4
+  rotate: true
+  xy: 547, 1183
+  size: 214, 279
+  orig: 214, 279
+  offset: 0, 0
+  index: -1
+A5
+  rotate: true
+  xy: 1145, 1378
+  size: 106, 262
+  orig: 106, 262
+  offset: 0, 0
+  index: -1
+B1
+  rotate: true
+  xy: 402, 1414
+  size: 70, 235
+  orig: 70, 235
+  offset: 0, 0
+  index: -1
+B2
+  rotate: true
+  xy: 892, 1399
+  size: 85, 251
+  orig: 85, 251
+  offset: 0, 0
+  index: -1
+B3
+  rotate: true
+  xy: 744, 448
+  size: 733, 740
+  orig: 733, 740
+  offset: 0, 0
+  index: -1
+B4
+  rotate: true
+  xy: 265, 1199
+  size: 213, 280
+  orig: 213, 280
+  offset: 0, 0
+  index: -1
+B5
+  rotate: true
+  xy: 2, 1306
+  size: 106, 261
+  orig: 106, 261
+  offset: 0, 0
+  index: -1
+lihui_ming
+  rotate: true
+  xy: 2, 1432
+  size: 52, 161
+  orig: 53, 161
+  offset: 1, 0
+  index: -1

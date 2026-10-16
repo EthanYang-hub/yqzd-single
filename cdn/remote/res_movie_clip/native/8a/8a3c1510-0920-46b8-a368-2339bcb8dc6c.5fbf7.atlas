@@ -1,0 +1,139 @@
+
+zhandou_renwu_head.png
+size: 221,925
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZK_1
+  rotate: false
+  xy: 128, 589
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+skin_001_tou
+  rotate: true
+  xy: 105, 101
+  size: 150, 102
+  orig: 152, 102
+  offset: 2, 0
+  index: -1
+skin_001_tou_1
+  rotate: false
+  xy: 172, 82
+  size: 19, 17
+  orig: 19, 19
+  offset: 0, 1
+  index: -1
+skin_001_tou_2
+  rotate: true
+  xy: 116, 641
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+skin_002_tou
+  rotate: true
+  xy: 2, 37
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+skin_003_tou
+  rotate: true
+  xy: 128, 781
+  size: 142, 88
+  orig: 142, 88
+  offset: 0, 0
+  index: -1
+skin_004_tou_1
+  rotate: true
+  xy: 2, 655
+  size: 268, 124
+  orig: 268, 124
+  offset: 0, 0
+  index: -1
+skin_004_tou_2
+  rotate: true
+  xy: 105, 253
+  size: 143, 108
+  orig: 143, 108
+  offset: 0, 0
+  index: -1
+skin_006_2
+  rotate: false
+  xy: 193, 84
+  size: 18, 15
+  orig: 20, 17
+  offset: 1, 1
+  index: -1
+skin_006_3
+  rotate: true
+  xy: 2, 147
+  size: 148, 101
+  orig: 148, 101
+  offset: 0, 0
+  index: -1
+skin_006_yan
+  rotate: true
+  xy: 2, 470
+  size: 183, 112
+  orig: 183, 112
+  offset: 0, 0
+  index: -1
+skin_007_1
+  rotate: false
+  xy: 77, 74
+  size: 21, 71
+  orig: 21, 71
+  offset: 0, 0
+  index: -1
+skin_007_2
+  rotate: false
+  xy: 77, 2
+  size: 20, 70
+  orig: 20, 70
+  offset: 0, 0
+  index: -1
+skin_007_3
+  rotate: true
+  xy: 216, 624
+  size: 59, 3
+  orig: 59, 3
+  offset: 0, 0
+  index: -1
+skin_007_4
+  rotate: true
+  xy: 2, 297
+  size: 171, 101
+  orig: 171, 101
+  offset: 0, 0
+  index: -1
+skin_009_1
+  rotate: true
+  xy: 216, 616
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+skin_009_head_1
+  rotate: true
+  xy: 128, 685
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+skin_009_head_2
+  rotate: true
+  xy: 116, 398
+  size: 189, 100
+  orig: 189, 100
+  offset: 0, 0
+  index: -1
+zhuiyuan_2
+  rotate: false
+  xy: 100, 31
+  size: 70, 68
+  orig: 71, 69
+  offset: 0, 0
+  index: -1

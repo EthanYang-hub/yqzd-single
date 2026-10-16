@@ -1,0 +1,69 @@
+
+ui_shuijing_gui_hit.png
+size: 1887,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3a730
+  rotate: true
+  xy: 1699, 3
+  size: 115, 186
+  orig: 121, 191
+  offset: 2, 3
+  index: -1
+88718
+  rotate: false
+  xy: 1699, 120
+  size: 184, 334
+  orig: 283, 338
+  offset: 96, 1
+  index: -1
+huoxing_1
+  rotate: true
+  xy: 1052, 28
+  size: 426, 264
+  orig: 449, 422
+  offset: 12, 21
+  index: -1
+huoxing_2
+  rotate: false
+  xy: 2, 14
+  size: 545, 440
+  orig: 560, 458
+  offset: 12, 13
+  index: -1
+huoxing_3
+  rotate: false
+  xy: 1318, 100
+  size: 295, 354
+  orig: 488, 369
+  offset: 25, 13
+  index: -1
+huoxing_4
+  rotate: false
+  xy: 549, 22
+  size: 501, 432
+  orig: 551, 457
+  offset: 47, 8
+  index: -1
+storm_soulsb02
+  rotate: false
+  xy: 1615, 283
+  size: 36, 171
+  orig: 36, 171
+  offset: 0, 0
+  index: -1
+trDun_1
+  rotate: false
+  xy: 1508, 4
+  size: 189, 94
+  orig: 189, 94
+  offset: 0, 0
+  index: -1
+trDun_2
+  rotate: false
+  xy: 1318, 2
+  size: 188, 96
+  orig: 188, 96
+  offset: 0, 0
+  index: -1

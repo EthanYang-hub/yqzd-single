@@ -1,0 +1,13 @@
+
+ui_san_gongfeng.png
+size: 880,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diceng
+  rotate: false
+  xy: 2, 2
+  size: 876, 134
+  orig: 876, 134
+  offset: 0, 0
+  index: -1

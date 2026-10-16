@@ -1,0 +1,27 @@
+
+ui_zhounian_leijikuang.png
+size: 870,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leiji_1
+  rotate: false
+  xy: 763, 51
+  size: 105, 46
+  orig: 105, 46
+  offset: 0, 0
+  index: -1
+leiji_2
+  rotate: false
+  xy: 633, 22
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+leiji_3
+  rotate: true
+  xy: 2, 2
+  size: 95, 629
+  orig: 95, 629
+  offset: 0, 0
+  index: -1

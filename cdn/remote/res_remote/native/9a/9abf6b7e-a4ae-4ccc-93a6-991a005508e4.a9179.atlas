@@ -1,0 +1,62 @@
+
+ui_zhounian_dangao_effect.png
+size: 2007,759
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 905, 235
+  size: 646, 522
+  orig: 680, 551
+  offset: 11, 12
+  index: -1
+huaban-3904063212
+  rotate: false
+  xy: 1125, 41
+  size: 190, 192
+  orig: 200, 200
+  offset: 8, 3
+  index: -1
+huaban-5591070652
+  rotate: true
+  xy: 1855, 121
+  size: 175, 130
+  orig: 200, 148
+  offset: 19, 0
+  index: -1
+huaban-5591070652-2
+  rotate: false
+  xy: 1317, 103
+  size: 175, 130
+  orig: 200, 148
+  offset: 19, 0
+  index: -1
+huaban-6432876890
+  rotate: true
+  xy: 905, 18
+  size: 215, 218
+  orig: 238, 240
+  offset: 15, 11
+  index: -1
+huaban-6485003623
+  rotate: false
+  xy: 2, 39
+  size: 901, 718
+  orig: 1200, 876
+  offset: 200, 73
+  index: -1
+huaban-6485016613
+  rotate: false
+  xy: 1553, 298
+  size: 452, 459
+  orig: 512, 512
+  offset: 25, 31
+  index: -1
+huaban-7130596270
+  rotate: false
+  xy: 1553, 2
+  size: 300, 294
+  orig: 300, 300
+  offset: 0, 6
+  index: -1

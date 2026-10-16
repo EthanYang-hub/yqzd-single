@@ -1,0 +1,125 @@
+
+ui_shuijing_yudeng.png
+size: 2033,1102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1138, 27
+  size: 437, 240
+  orig: 437, 240
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1841, 326
+  size: 190, 278
+  orig: 206, 296
+  offset: 8, 17
+  index: -1
+10
+  rotate: false
+  xy: 1770, 3
+  size: 91, 87
+  orig: 112, 96
+  offset: 18, 7
+  index: -1
+11
+  rotate: false
+  xy: 1792, 92
+  size: 97, 82
+  orig: 113, 139
+  offset: 3, 37
+  index: -1
+13
+  rotate: false
+  xy: 855, 269
+  size: 719, 831
+  orig: 719, 831
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 417, 23
+  size: 32, 30
+  orig: 43, 39
+  offset: 3, 5
+  index: -1
+3
+  rotate: true
+  xy: 855, 2
+  size: 265, 281
+  orig: 266, 281
+  offset: 1, 0
+  index: -1
+4
+  rotate: false
+  xy: 1577, 119
+  size: 213, 208
+  orig: 213, 208
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1576, 606
+  size: 326, 494
+  orig: 470, 558
+  offset: 144, 17
+  index: -1
+6
+  rotate: false
+  xy: 1576, 329
+  size: 263, 275
+  orig: 263, 275
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1904, 723
+  size: 48, 377
+  orig: 48, 377
+  offset: 0, 0
+  index: -1
+8_1
+  rotate: true
+  xy: 2, 12
+  size: 41, 413
+  orig: 41, 413
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1792, 176
+  size: 131, 148
+  orig: 159, 174
+  offset: 11, 15
+  index: -1
+heiwu
+  rotate: false
+  xy: 2, 55
+  size: 851, 1045
+  orig: 851, 1045
+  offset: 0, 0
+  index: -1
+suoian_1
+  rotate: false
+  xy: 1954, 918
+  size: 55, 182
+  orig: 55, 182
+  offset: 0, 0
+  index: -1
+suoian_2
+  rotate: true
+  xy: 1925, 184
+  size: 140, 103
+  orig: 140, 103
+  offset: 0, 0
+  index: -1
+xue
+  rotate: true
+  xy: 1577, 15
+  size: 102, 191
+  orig: 102, 191
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+ui_shuijing_hit_down.png
+size: 268,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0240
+  rotate: true
+  xy: 147, 143
+  size: 123, 119
+  orig: 128, 128
+  offset: 5, 1
+  index: -1
+C
+  rotate: false
+  xy: 2, 132
+  size: 143, 134
+  orig: 163, 184
+  offset: 7, 4
+  index: -1

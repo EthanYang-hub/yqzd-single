@@ -1,0 +1,83 @@
+
+UI_saiji_jifensai2.png
+size: 1529,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0185
+  rotate: true
+  xy: 1172, 17
+  size: 143, 138
+  orig: 179, 179
+  offset: 15, 22
+  index: -1
+UI_saiji_jifensai2-1
+  rotate: true
+  xy: 805, 262
+  size: 209, 216
+  orig: 212, 221
+  offset: 1, 3
+  index: -1
+UI_saiji_jifensai2-2
+  rotate: false
+  xy: 1325, 265
+  size: 202, 206
+  orig: 202, 215
+  offset: 0, 6
+  index: -1
+UI_saiji_jifensai2-3
+  rotate: false
+  xy: 503, 178
+  size: 300, 293
+  orig: 303, 298
+  offset: 2, 2
+  index: -1
+UI_saiji_jifensai2-3-1
+  rotate: true
+  xy: 805, 10
+  size: 250, 134
+  orig: 288, 153
+  offset: 17, 16
+  index: -1
+UI_saiji_jifensai2-3-2
+  rotate: false
+  xy: 503, 78
+  size: 281, 98
+  orig: 291, 219
+  offset: 4, 107
+  index: -1
+UI_saiji_jifensai2-3-3
+  rotate: false
+  xy: 1023, 264
+  size: 300, 207
+  orig: 303, 291
+  offset: 2, 2
+  index: -1
+UI_saiji_jifensai2-3-4
+  rotate: false
+  xy: 1023, 162
+  size: 291, 100
+  orig: 299, 250
+  offset: 4, 6
+  index: -1
+UI_saiji_jifensai2-3-5
+  rotate: false
+  xy: 941, 14
+  size: 229, 146
+  orig: 272, 293
+  offset: 4, 2
+  index: -1
+UI_saiji_jifensai2-4
+  rotate: false
+  xy: 2, 2
+  size: 499, 469
+  orig: 540, 494
+  offset: 9, 22
+  index: -1
+huaban-4350039697
+  rotate: false
+  xy: 1325, 62
+  size: 202, 201
+  orig: 203, 203
+  offset: 0, 2
+  index: -1

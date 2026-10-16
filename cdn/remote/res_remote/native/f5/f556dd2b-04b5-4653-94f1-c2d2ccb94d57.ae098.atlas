@@ -1,0 +1,13 @@
+
+ui_lp_bg_guang.png
+size: 446,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 442, 281
+  orig: 442, 281
+  offset: 0, 0
+  index: -1

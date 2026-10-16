@@ -1,0 +1,20 @@
+
+ui_jishi_jvqi.png
+size: 150,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WD_Gargantuan_rageCloud
+  rotate: false
+  xy: 2, 12
+  size: 112, 118
+  orig: 126, 127
+  offset: 7, 6
+  index: -1
+firestreak3
+  rotate: false
+  xy: 116, 2
+  size: 32, 128
+  orig: 32, 128
+  offset: 0, 0
+  index: -1

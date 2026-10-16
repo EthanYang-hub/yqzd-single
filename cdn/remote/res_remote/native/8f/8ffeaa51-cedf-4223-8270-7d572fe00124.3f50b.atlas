@@ -1,0 +1,27 @@
+
+ui_zhounian_chou_1.png
+size: 897,490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11111
+  rotate: false
+  xy: 2, 2
+  size: 716, 486
+  orig: 720, 487
+  offset: 2, 1
+  index: -1
+A1
+  rotate: false
+  xy: 720, 309
+  size: 175, 179
+  orig: 180, 185
+  offset: 3, 3
+  index: -1
+A2
+  rotate: false
+  xy: 720, 128
+  size: 175, 179
+  orig: 180, 185
+  offset: 3, 3
+  index: -1

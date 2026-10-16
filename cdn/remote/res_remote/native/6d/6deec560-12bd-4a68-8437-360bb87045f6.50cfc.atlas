@@ -1,0 +1,34 @@
+
+ui_zhanqi_shengji.png
+size: 618,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1111
+  rotate: true
+  xy: 526, 84
+  size: 92, 90
+  orig: 94, 98
+  offset: 0, 2
+  index: -1
+fireRingRays_diff
+  rotate: false
+  xy: 178, 2
+  size: 173, 174
+  orig: 192, 191
+  offset: 8, 9
+  index: -1
+fireRing_diff
+  rotate: false
+  xy: 353, 3
+  size: 171, 173
+  orig: 192, 192
+  offset: 10, 9
+  index: -1
+flash_blind_blend
+  rotate: false
+  xy: 2, 2
+  size: 174, 174
+  orig: 192, 192
+  offset: 9, 9
+  index: -1

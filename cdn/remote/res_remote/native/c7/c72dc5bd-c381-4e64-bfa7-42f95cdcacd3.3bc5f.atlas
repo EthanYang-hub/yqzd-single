@@ -1,0 +1,139 @@
+
+ui_zhigou.png
+size: 1459,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gui_1
+  rotate: false
+  xy: 1061, 251
+  size: 299, 122
+  orig: 299, 122
+  offset: 0, 0
+  index: -1
+gui_2
+  rotate: false
+  xy: 1183, 141
+  size: 138, 108
+  orig: 138, 108
+  offset: 0, 0
+  index: -1
+gui_3
+  rotate: true
+  xy: 1323, 167
+  size: 82, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+gui_4
+  rotate: false
+  xy: 1182, 46
+  size: 82, 24
+  orig: 83, 24
+  offset: 1, 0
+  index: -1
+pi_5
+  rotate: false
+  xy: 1182, 46
+  size: 82, 24
+  orig: 83, 24
+  offset: 1, 0
+  index: -1
+gui_5
+  rotate: false
+  xy: 1182, 72
+  size: 110, 31
+  orig: 110, 31
+  offset: 0, 0
+  index: -1
+gui_6
+  rotate: false
+  xy: 1183, 105
+  size: 115, 34
+  orig: 115, 35
+  offset: 0, 0
+  index: -1
+gui_7
+  rotate: false
+  xy: 1061, 454
+  size: 394, 77
+  orig: 394, 77
+  offset: 0, 0
+  index: -1
+gui_8
+  rotate: true
+  xy: 953, 533
+  size: 500, 504
+  orig: 500, 504
+  offset: 0, 0
+  index: -1
+gui_9
+  rotate: false
+  xy: 2, 15
+  size: 544, 538
+  orig: 558, 544
+  offset: 9, 2
+  index: -1
+pi_10
+  rotate: false
+  xy: 2, 15
+  size: 544, 538
+  orig: 558, 544
+  offset: 9, 2
+  index: -1
+pi_2
+  rotate: true
+  xy: 1362, 225
+  size: 148, 84
+  orig: 148, 84
+  offset: 0, 0
+  index: -1
+pi_222
+  rotate: false
+  xy: 2, 555
+  size: 949, 478
+  orig: 1059, 482
+  offset: 87, 2
+  index: -1
+pi_3
+  rotate: false
+  xy: 1349, 200
+  size: 82, 23
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+pi_4
+  rotate: false
+  xy: 1182, 20
+  size: 82, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+pi_6
+  rotate: false
+  xy: 1061, 109
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+pi_7
+  rotate: true
+  xy: 1061, 2
+  size: 105, 119
+  orig: 105, 119
+  offset: 0, 0
+  index: -1
+pi_8
+  rotate: false
+  xy: 1061, 375
+  size: 394, 77
+  orig: 394, 77
+  offset: 0, 0
+  index: -1
+pi_9
+  rotate: false
+  xy: 548, 19
+  size: 511, 512
+  orig: 517, 518
+  offset: 3, 3
+  index: -1

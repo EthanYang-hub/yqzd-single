@@ -1,0 +1,90 @@
+
+elite monster_004_bullet.png
+size: 322,57
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuzhou_0
+  rotate: true
+  xy: 220, 19
+  size: 36, 15
+  orig: 64, 32
+  offset: 14, 9
+  index: -1
+fuzhou_1
+  rotate: false
+  xy: 220, 2
+  size: 36, 15
+  orig: 64, 32
+  offset: 14, 9
+  index: -1
+fuzhou_2
+  rotate: true
+  xy: 237, 19
+  size: 36, 15
+  orig: 64, 32
+  offset: 14, 9
+  index: -1
+fuzhou_3
+  rotate: true
+  xy: 254, 19
+  size: 36, 15
+  orig: 64, 32
+  offset: 14, 9
+  index: -1
+fuzhou_4
+  rotate: false
+  xy: 258, 2
+  size: 36, 15
+  orig: 64, 32
+  offset: 14, 9
+  index: -1
+fuzhou_5
+  rotate: true
+  xy: 271, 19
+  size: 36, 15
+  orig: 64, 32
+  offset: 14, 9
+  index: -1
+fuzhou_6
+  rotate: true
+  xy: 288, 19
+  size: 36, 15
+  orig: 64, 32
+  offset: 14, 9
+  index: -1
+fuzhou_7
+  rotate: true
+  xy: 305, 19
+  size: 36, 15
+  orig: 64, 32
+  offset: 14, 9
+  index: -1
+yanwu_01
+  rotate: true
+  xy: 63, 4
+  size: 51, 47
+  orig: 64, 64
+  offset: 7, 8
+  index: -1
+yanwu_02
+  rotate: true
+  xy: 112, 4
+  size: 51, 45
+  orig: 64, 64
+  offset: 7, 8
+  index: -1
+yanwu_03
+  rotate: false
+  xy: 2, 2
+  size: 59, 53
+  orig: 64, 64
+  offset: 2, 8
+  index: -1
+yanwu_04
+  rotate: true
+  xy: 159, 5
+  size: 50, 59
+  orig: 64, 64
+  offset: 5, 0
+  index: -1

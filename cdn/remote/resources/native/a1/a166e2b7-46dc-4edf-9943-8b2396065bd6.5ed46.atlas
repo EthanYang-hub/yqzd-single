@@ -1,0 +1,27 @@
+
+ui_guidianshengji.png
+size: 766,342
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12
+  rotate: false
+  xy: 2, 13
+  size: 324, 327
+  orig: 342, 343
+  offset: 12, 5
+  index: -1
+2
+  rotate: false
+  xy: 607, 183
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 328, 2
+  size: 277, 338
+  orig: 277, 338
+  offset: 0, 0
+  index: -1

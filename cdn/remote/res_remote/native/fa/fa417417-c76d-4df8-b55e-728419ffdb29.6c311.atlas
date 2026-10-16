@@ -1,0 +1,55 @@
+
+ui_saiji_rukou3.png
+size: 649,1053
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aaa1
+  rotate: false
+  xy: 523, 826
+  size: 115, 225
+  orig: 152, 269
+  offset: 1, 32
+  index: -1
+aaa2
+  rotate: false
+  xy: 523, 509
+  size: 103, 195
+  orig: 130, 218
+  offset: 2, 15
+  index: -1
+aaa3
+  rotate: false
+  xy: 523, 706
+  size: 112, 118
+  orig: 114, 132
+  offset: 2, 0
+  index: -1
+anniu_C_1
+  rotate: false
+  xy: 557, 253
+  size: 90, 254
+  orig: 90, 254
+  offset: 0, 0
+  index: -1
+anniu_C_2
+  rotate: false
+  xy: 557, 173
+  size: 77, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+anniu_C_3
+  rotate: false
+  xy: 2, 379
+  size: 519, 672
+  orig: 566, 717
+  offset: 16, 32
+  index: -1
+anniu_C_4
+  rotate: false
+  xy: 2, 2
+  size: 553, 375
+  orig: 553, 375
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+roleSkill_jishi.png
+size: 339,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: false
+  xy: 280, 23
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+A1
+  rotate: false
+  xy: 188, 95
+  size: 149, 163
+  orig: 161, 180
+  offset: 4, 4
+  index: -1
+A2
+  rotate: true
+  xy: 2, 90
+  size: 168, 184
+  orig: 181, 197
+  offset: 7, 5
+  index: -1
+nocturne_cyber_q_waveys_black
+  rotate: false
+  xy: 2, 2
+  size: 91, 86
+  orig: 97, 89
+  offset: 3, 1
+  index: -1
+smoke_blue
+  rotate: false
+  xy: 188, 4
+  size: 90, 89
+  orig: 128, 128
+  offset: 20, 21
+  index: -1

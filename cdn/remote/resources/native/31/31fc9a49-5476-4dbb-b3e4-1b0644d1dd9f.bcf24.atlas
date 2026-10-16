@@ -1,0 +1,13 @@
+
+ui_yuandan_bg_anniu5.png
+size: 66,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bu_5
+  rotate: false
+  xy: 2, 2
+  size: 62, 435
+  orig: 62, 435
+  offset: 0, 0
+  index: -1

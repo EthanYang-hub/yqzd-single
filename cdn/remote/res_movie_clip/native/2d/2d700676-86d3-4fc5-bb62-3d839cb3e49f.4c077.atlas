@@ -1,0 +1,237 @@
+
+monster_2028.png
+size: 1699,787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_10
+  rotate: false
+  xy: 1082, 262
+  size: 85, 117
+  orig: 144, 186
+  offset: 59, 1
+  index: -1
+a_11
+  rotate: false
+  xy: 1082, 78
+  size: 73, 117
+  orig: 144, 186
+  offset: 71, 1
+  index: -1
+a_2
+  rotate: true
+  xy: 1170, 409
+  size: 119, 162
+  orig: 144, 186
+  offset: 25, 1
+  index: -1
+a_3
+  rotate: true
+  xy: 1170, 288
+  size: 119, 162
+  orig: 144, 186
+  offset: 25, 1
+  index: -1
+a_4
+  rotate: true
+  xy: 1169, 167
+  size: 119, 159
+  orig: 144, 186
+  offset: 25, 1
+  index: -1
+a_5
+  rotate: false
+  xy: 1261, 17
+  size: 119, 148
+  orig: 144, 186
+  offset: 25, 1
+  index: -1
+a_6
+  rotate: true
+  xy: 1554, 83
+  size: 119, 141
+  orig: 144, 186
+  offset: 25, 1
+  index: -1
+a_7
+  rotate: true
+  xy: 924, 380
+  size: 97, 125
+  orig: 144, 186
+  offset: 47, 1
+  index: -1
+a_8
+  rotate: true
+  xy: 1051, 381
+  size: 96, 117
+  orig: 144, 186
+  offset: 48, 1
+  index: -1
+a_9
+  rotate: true
+  xy: 1382, 11
+  size: 88, 117
+  orig: 144, 186
+  offset: 56, 1
+  index: -1
+huo_060
+  rotate: true
+  xy: 1591, 657
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+huo_061
+  rotate: false
+  xy: 1564, 204
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+huo_062
+  rotate: true
+  xy: 1334, 231
+  size: 200, 228
+  orig: 200, 228
+  offset: 0, 0
+  index: -1
+huo_063
+  rotate: true
+  xy: 924, 479
+  size: 306, 200
+  orig: 306, 200
+  offset: 0, 0
+  index: -1
+huo_064
+  rotate: true
+  xy: 332, 376
+  size: 409, 260
+  orig: 409, 260
+  offset: 0, 0
+  index: -1
+huo_065
+  rotate: true
+  xy: 594, 379
+  size: 406, 328
+  orig: 406, 328
+  offset: 0, 0
+  index: -1
+huo_066
+  rotate: true
+  xy: 2, 374
+  size: 411, 328
+  orig: 411, 328
+  offset: 0, 0
+  index: -1
+huo_067
+  rotate: false
+  xy: 338, 40
+  size: 406, 334
+  orig: 406, 334
+  offset: 0, 0
+  index: -1
+huo_068
+  rotate: false
+  xy: 746, 43
+  size: 334, 334
+  orig: 334, 334
+  offset: 0, 0
+  index: -1
+huo_069
+  rotate: false
+  xy: 2, 16
+  size: 334, 356
+  orig: 334, 356
+  offset: 0, 0
+  index: -1
+huo_070
+  rotate: false
+  xy: 1334, 585
+  size: 255, 200
+  orig: 255, 200
+  offset: 0, 0
+  index: -1
+huo_071
+  rotate: true
+  xy: 1126, 530
+  size: 255, 206
+  orig: 255, 206
+  offset: 0, 0
+  index: -1
+huo_072
+  rotate: false
+  xy: 1334, 433
+  size: 255, 150
+  orig: 255, 150
+  offset: 0, 0
+  index: -1
+huo_073
+  rotate: true
+  xy: 1591, 527
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+huo_074
+  rotate: false
+  xy: 1424, 101
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huo_075
+  rotate: false
+  xy: 1591, 448
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1
+monster_2028-1
+  rotate: true
+  xy: 1330, 171
+  size: 58, 92
+  orig: 59, 96
+  offset: 1, 4
+  index: -1
+monster_2028-1-1
+  rotate: true
+  xy: 1157, 107
+  size: 58, 92
+  orig: 59, 96
+  offset: 1, 4
+  index: -1
+monster_2028-2
+  rotate: true
+  xy: 1591, 362
+  size: 84, 96
+  orig: 84, 96
+  offset: 0, 0
+  index: -1
+monster_2028-3
+  rotate: true
+  xy: 1082, 3
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+monster_2028-4
+  rotate: false
+  xy: 338, 2
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+monster_2028-5
+  rotate: true
+  xy: 1150, 8
+  size: 68, 109
+  orig: 71, 114
+  offset: 3, 5
+  index: -1
+monster_2028-6
+  rotate: false
+  xy: 1082, 197
+  size: 85, 63
+  orig: 85, 64
+  offset: 0, 1
+  index: -1
