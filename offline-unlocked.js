@@ -161,6 +161,8 @@
     PetQualityUp.prototype.onClickAutoQualityUp=PetQualityUp.prototype.onClickQualityUp;
     for(const cfg of c.MagicArtifactBaseCfg.list){cfg.open=1;const weapon=own(r.magic.magicWeapon,cfg.id,()=>new d.GDMagicWeapon());weapon.cfgId=cfg.id;weapon.level=Math.max(1,weapon.level);}
     for(const cfg of c.MagicArtifactStoneCfg.list){const stone=own(r.magic.gemstone,cfg.id,()=>new d.GDGemstone());stone.cfgId=cfg.id;stone.level=Math.max(1,stone.level);}
+    // 手机性能保护：卸下法器但保留拥有、升级和淬炼进度。
+    r.magic.onUseMagic=0;
     r.magic.refineLevel=Math.max(1,r.magic.refineLevel);if(!r.magic.onUsePlan)r.magic.onUsePlan=1;
     // 老存档可能只有空方案；补齐词条才能通过原界面的淬炼检查，已有词条和锁定保持原样。
     const slots=mp.getMaxTemperEntrySlotCount(),plans=mp.getMaxTemperPlanCount();
@@ -272,7 +274,7 @@
   function magicAction(cmd,p){
     const magic=r.magic,id=Number(p.magicId),weapon=magic.magicWeapon.get(id),cfg=c.MagicArtifactBaseCfg.getById(id);
     if(cmd==='magic_upgrademagicweapon'){if(!weapon||!cfg)throw new Error('法器不存在');weapon.level=Math.min(cfg.cost.length,weapon.level+1);}
-    else if(cmd==='magic_usemagicweapon'){if(!weapon)throw new Error('法器不存在');magic.onUseMagic=id;}
+    else if(cmd==='magic_usemagicweapon'){throw new Error('法器战斗已停用，避免特效导致卡顿');}
     else if(cmd==='magic_changemagicweaponname'){if(!weapon)throw new Error('法器不存在');weapon.name=String(p.name||'').slice(0,20);}
     else if(cmd==='magic_upgradegemstone'){const id=Number(p.gemstoneId),stone=magic.gemstone.get(id),cfg=c.MagicArtifactStoneCfg.getById(id);if(!stone||!cfg)throw new Error('敕令不存在');stone.level=Math.min(cfg.cost.length,stone.level+1);}
     else if(cmd==='magic_embedgemstone'){if(!weapon)throw new Error('法器不存在');const pos=Number(p.position),stone=Number(p.gemstoneId);if(p.equipped){if(!magic.gemstone.has(stone))throw new Error('敕令不存在');weapon.chessboard.set(pos,stone);}else weapon.chessboard.delete(pos);}
@@ -315,7 +317,8 @@
     if(pet)for(const [id,level]of pet.passiveSkill)for(const skill of c.PetSkillCfg.getById(id)?.skillId||[])fighter.petSkill.set(skill,level);
     r.roleBase.skill.forEach((level,id)=>{fighter.skillLevel.set(id,level);});
     r.desire.plan.get(r.desire.planOnUsed)?.forEach(id=>{for(const skill of c.DesireCfg.getById(r.desire.bag.get(id)?.cfgId)?.skill||[])fighter.equipSkills.set(skill,1);});
-    const weapon=r.magic.magicWeapon.get(r.magic.onUseMagic);if(weapon){fighter.magic.level=r.magic.refineLevel;Object.assign(fighter.magic.weapon,{cfgId:weapon.cfgId,level:weapon.level,name:weapon.name});for(const skill of c.MagicArtifactBaseCfg.getById(weapon.cfgId)?.skill||[])fighter.magic.skills.set(skill,weapon.level);}
+    // 战斗数据不携带法器或技能，即使导入带装备的旧存档也不会生成法器特效。
+    fighter.magic.level=0;Object.assign(fighter.magic.weapon,{cfgId:0,level:0,name:''});fighter.magic.skills.clear();
   }
   globalThis.LocalUnlocked={prepare,handle,grantItem,activatePurchase,battleData};
 })();
