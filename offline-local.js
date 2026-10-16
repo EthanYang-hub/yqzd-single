@@ -34,6 +34,7 @@
     if (!Number.isFinite(amount) || amount <= 0) return;
     const item = state.configs.ItemCfg.getById(Number(id));
     if (!item) throw new Error('未知道具 ' + id);
+    if(globalThis.LocalUnlocked?.grantItem(Number(id),amount))return;
     // 使用配置中的道具类型，避免把货币错误加入普通背包。
     const type = state.configs.ItemType;
     if (item.type === type.GOLD || item.type === type.GOLD_STAGE) role.gold += amount;
@@ -96,12 +97,10 @@
     if(params.useRetain)throw new Error('暂不支持存储兑换次数');
     if(!Number.isSafeInteger(num)||num<1||num>9999)throw new Error('兑换数量需要为 1 至 9999');
     const used=role.exchange.get(id)||0,prices=Array.isArray(cfg.price)?cfg.price:[cfg.price];
-    if(cfg.dailyLimit>=0&&used+num>cfg.dailyLimit)throw new Error('超过当日兑换次数');
     let cost=0;for(let i=0;i<num;i++)cost+=prices[Math.min(used+i,prices.length-1)];
     const amount=cfg.sendNum*num;
     if(!Number.isSafeInteger(cost)||cost<0||!Number.isSafeInteger(amount)||amount<=0)throw new Error('兑换配置无效');
-    if(role.diamond<cost)throw new Error('元宝不足');
-    consumeItem(10004,cost);addItem(id,amount);role.exchange.set(id,used+num);commitEconomy();
+    addItem(id,amount);role.exchange.set(id,used+num);commitEconomy();
     return [rewardItem(id,amount)];
   }
   function randomInteger(min,max) {
@@ -118,16 +117,15 @@
   }
   function recruit(params) {
     const id=Number(params.recruitId),num=Number(params.recruitNumber),role=state.server.ROLE,c=state.configs;
-    if(![1,2].includes(id)||Number(params.activityId||0)!==0)throw new Error('此召唤奖池尚未完成本地适配');
+    if(!c.DrawCfg.getById(id))throw new Error('召唤奖池不存在');
     if(![1,10,50,100].includes(num))throw new Error('不支持的召唤次数');
     const cfg=c.DrawCfg.getById(id),current=role.recruit.items.get(id);
     const record=hydrate(new state.defs.GDRecruitItem(),current?plain(current):{});
     if(!record.basePrizeMax)record.basePrizeMax=randomInteger(cfg.basePrizeMaxTime[0],cfg.basePrizeMaxTime[1]);
-    if(id===2&&(record.basePrizeCount>0||record.count+num>record.basePrizeMax))throw new Error('新人召唤已结束或剩余次数不足');
     const type=Number(params.recruitType),types=state.defs.ERecruitType;
     // 本地普通/新人召唤免费，不受卦纸、元宝或广告冷却限制。
     const ticketCost=0,diamondCost=0;
-    if(![types.ticket,types.diamond,types.free].includes(type))throw new Error('不支持的召唤方式');
+    if(![types.ticket,types.diamond,types.free,types.purpose].includes(type))throw new Error('不支持的召唤方式');
     const base=new Map(),coins=new Map(),drawList=[],guaranteedDraws=[];let great=false;
     // 每十抽中的第5/10抽分别保底黄/红天书，占用原抽数；其余八抽保留原奖池。
     const guaranteePools=[0,1].map(rare=>c.DrawCfg.getById(1).basePrizeList.filter(entry=>{
@@ -144,7 +142,7 @@
     for(let i=0;i<num;i++) {
       let row;
       const forced=(id===2?record.count:record.baseCount)+1>=record.basePrizeMax;
-      const position=record.count%10+1,rare=position===5?0:position===10?1:null;
+      const position=record.count%10+1,rare=[1,2].includes(id)?(position===5?0:position===10?1:null):null;
       if(rare!==null) {
         row=drawEntry(guaranteePools[rare],'DrawWeightbasePrize');
         guaranteedDraws.push({count:record.count+1,position,item:row.Drawid,rare});great=true;
@@ -166,7 +164,7 @@
       }
     }
     // 所有奖项验证完毕后统一发放，再写入存档。
-    if(type===types.free)record.lastFreeTime=now();
+    record.lastFreeTime=0;
     role.recruit.items.set(id,record);
     const common=id===1?record:role.recruit.items.get(1);
     if(common)common.weekCount+=num;
@@ -185,8 +183,7 @@
     if(level>=cfg.levelMax)throw new Error('符咒已达到最高等级');
     const piece=cfg.pieceItem[level], cost=cfg.cost[level], gold=cfg.goldCost[level];
     if(!Number.isFinite(cost)||!Number.isFinite(gold))throw new Error('符咒升级配置缺失');
-    if(itemCount(piece)<cost||role.gold<gold)throw new Error('符咒碎片或铜钱不足');
-    consumeItem(piece,cost);role.gold-=gold;map.set(key,level+1);
+    map.set(key,level+1);
     const attrs=role.hero.attribute.attributes,k=state.configs.BattleAttributeKey;
     for(const [field,attr] of Object.entries({atkAbs:k.ATK_ABS,hpAbs:k.HP_ABS,atkPct:k.ATK_PCT,hpPct:k.HP_PCT,fireDmg:k.DMG_FIRE,waterDmg:k.DMG_WATER,terraDmg:k.DMG_SOIL,windDmg:k.DMG_WIND,allDmg:k.DMG_ALL,redDmg:k.DMG_RED,PVPDmg:k.DMG_PVP,PVPredDmg:k.DMG_PVP_RED})) {
       const values=cfg[field];if(!values?.length)continue;
@@ -202,7 +199,7 @@
     const cfg=c.AttrGrowCfg.getById(Number(growId));
     if(!cfg)throw new Error('修炼升级配置不存在');
     const current=role.attrLevel.get(cfg.attrType)||0;
-    const limit=c.LevelCfg.getById(role.level)?.attrLimit.get(String(cfg.attrType))||0;
+    const limit=Math.max(...c.AttrGrowCfg.list.filter(row=>row.attrType===cfg.attrType).map(row=>row.level));
     if(limit<=0)throw new Error('该修炼项目尚未解锁');
     if(current>=limit)throw new Error('已达到当前角色等级的修炼上限');
     if(cfg.level!==current+1)throw new Error('修炼等级已变化，请重试');
@@ -214,12 +211,10 @@
       if(!c.ItemCfg.getById(item.item)||!Number.isSafeInteger(item.num)||item.num<0)throw new Error('修炼材料配置无效');
       costs.set(item.item,(costs.get(item.item)||0)+item.num);
     }
-    for(const [id,count] of costs)if(itemCount(id)<count)throw new Error(id===10003?'铜钱不足':'修炼材料不足');
     const attrs=role.hero.attribute.attributes,k=c.BattleAttributeKey;
     const weightedPower=()=>{let sum=0;attrs.forEach((value,key)=>{sum+=value*(c.AttrCfg.getById(key)?.power||0)});return sum;};
     const beforePower=weightedPower();
     // 修炼配置的 stat 是累计值，只叠加本次差额，保留存档中的其他属性和手动修改。
-    for(const [id,count] of costs)consumeItem(id,count);
     role.attrLevel.set(cfg.attrType,cfg.level);
     attrs.set(cfg.attrType,(attrs.get(cfg.attrType)||0)+cfg.stat-(previous?.stat||0));
     attrs.set(k.ATK_V,Math.floor((attrs.get(k.ATK_ABS)||0)*(1+(attrs.get(k.ATK_PCT)||0)/10000)));
@@ -251,9 +246,7 @@
     const role=state.server.ROLE,c=state.configs,node=c.SkillBookEvolutionCfg.getById(nodeId);
     if(!node)return false;
     const book=c.SkillBookCfg.getById(node.skillBookBelong);
-    if(!book||(role.skill.epicSkillLevel.get(book.id)||0)<book.levelMax)return false;
-    const root=c.SkillBookEvolutionCfg.list.find(x=>x.skillBookBelong===book.id&&x.evolutionPath===1);
-    return Boolean(root&&(node.id===root.id||(role.skill.epicAwakening.get(book.id)?.get(root.id)||0)>=root.maxLevel));
+    return Boolean(book&&role.skill.epicSkillLevel.get(book.id));
   }
   function validateEvolutionApplied(data) {
     if(data===undefined)return {attributes:[],power:0};
@@ -295,7 +288,7 @@
     const role=state.server.ROLE,c=state.configs,node=c.SkillBookEvolutionCfg.getById(nodeId);
     if(!node)throw new Error('悟道节点不存在');
     const book=c.SkillBookCfg.getById(node.skillBookBelong);
-    if(!book||(role.skill.epicSkillLevel.get(book.id)||0)<book.levelMax)throw new Error('天书满阶后才能顿悟');
+    if(!book||!role.skill.epicSkillLevel.get(book.id))throw new Error('天书尚未获得');
     const levels=role.skill.epicAwakening.get(book.id)||new Map(),level=levels.get(nodeId)||0;
     if(level>=node.maxLevel)throw new Error('该悟道节点已达最高等级');
     if(!awakeningNodeUnlocked(nodeId))throw new Error('请先完成此天书的顿悟');
@@ -313,8 +306,7 @@
     if (params.battleType !== d.EBattleType.stage) throw new Error('此战斗类型尚未完成单机适配');
     const stage = c.StagePointCfg.getById(params.id);
     if (!stage) throw new Error('关卡不存在：' + params.id);
-    const cost=stage.stamina * Math.max(1,Math.floor(params.enterRatio||1));
-    if(role.energy.energyValue<cost)throw new Error('体力不足');
+    const cost=(stage.localOriginalStamina??stage.stamina) * Math.max(1,Math.floor(params.enterRatio||1));
     const battle = new d.BattleData();
     Object.assign(battle, { id: now(), roleId: role.id, type: params.battleType, stageId: params.id,
       randomSeed: Math.floor(Math.random() * 2147483647), version: env.BATTLE_VERSION, maxRound: 0 });
@@ -336,12 +328,12 @@
     role.skill.epicSkillLevel.forEach((level, id) => fighter.skillLevel.set(id, level));
     role.skill.equipSkill.forEach(id => fighter.equipSkills.set(id, role.skill.epicSkillLevel.get(id) || 1));
     addLocalFashionBattleData(fighter);
+    globalThis.LocalUnlocked?.battleData(fighter);
     battle.leftTeam.roleId = role.id;
     battle.leftTeam.name = role.userInfo.name;
     battle.leftTeam.power = role.fightPower;
     battle.leftTeam.team.set(1, fighter);
     state.activeBattle = { id: battle.id, stageId: params.id, seed: battle.randomSeed, staminaCost:cost };
-    role.energy.energyValue -= cost;
     role.stage.battleId = battle.id;
     role.stage.battleType = params.battleType;
     role.stage.enterAt = now();
@@ -483,20 +475,17 @@ function drawLocalGhostCard(p,ad=false) {
   if(![1,2,3].includes(group)||![1,2].includes(type))throw new Error('鬼店抽取参数无效');
   if(type===2) {
     const cost=c.ConstantCfg.config.attrGrowCostSp[0];
-    if(itemCount(cost.item)<cost.num)throw new Error('五帝钱不足');
     const a=ghostPick(group,2),b=ghostPick(group,2,[a.id]);
     const record=ghostGroupRecord(group);
-    consumeItem(cost.item,cost.num);record.spCards=[a.id,b.id];record.spTimesTotal++;
+    record.spCards=[a.id,b.id];record.spTimesTotal++;
     commitLocalCardFashion();return [a.id,b.id];
   }
   const num=ad?1:Number(p.num??1);
   if(![1,10].includes(num))throw new Error('鬼店购买次数无效');
   const times=group===1?r.attrCard.timesTotal:(r.attrCard.record.get(group)?.timesTotal||0);
   const total=ad?0:ghostBatchCost(times,group,num);
-  if(!ad&&r.gold<total)throw new Error('铜钱不足');
   const record=ghostGroupRecord(group),cards=[];
   // 先验证十次合计价格，再逐次发卡和计算五帝钱进度，最后统一保存。
-  if(!ad)consumeItem(10003,total);
   for(let i=0;i<num;i++) {
     const price=ghostDrawCost(record.timesTotal,group);
     const prefix=group===1&&record.timesTotal<c.AttrCostCfg.list.length?price.row.prefixN:0;
@@ -523,7 +512,7 @@ function claimHangUp() {
   if(!cfg)throw new Error('挂机章节配置不存在');
   // 旧初始存档 lastRewardTime=0，原界面已显示满上限；按同样上限结算一次。
   const end=now(),last=Math.max(0,Number(role.hangUp.lastRewardTime)||0);
-  const elapsed=Math.min(constant.HangUpTimeMax,Math.max(0,Math.floor((end-last)/1000)));
+  const elapsed=constant.HangUpTimeMax;
   if(elapsed<constant.HangUpRewardPeriod)throw new Error('挂机时间过短，请稍后再来');
   const units=Math.floor(elapsed/constant.HangUpTimeUnit),items=[],remainders=new Map();
   if(units<=0)throw new Error('暂无可领取的挂机奖励');
@@ -536,7 +525,7 @@ function claimHangUp() {
   for(const entry of items)addItem(entry.id,entry.count);
   role.hangUp.rewardItems=remainders;
   // 仅消耗完整计奖周期，保留尚不足一分钟的时间；达到上限时清除溢出时间。
-  role.hangUp.lastRewardTime=(end-last>=constant.HangUpTimeMax*1000)?end:last+units*constant.HangUpTimeUnit*1000;
+  role.hangUp.lastRewardTime=end-constant.HangUpTimeMax*1000;
   commitEconomy();
   return items.map(entry=>rewardItem(entry.id,entry.count));
 }
@@ -579,15 +568,14 @@ function sweepHangUp(params) {
   const perSweep=prices.length?prices[Math.min(role.hangUp.sweepNum,prices.length-1)]:0;
   const cost=perSweep*times;
   if(!Number.isSafeInteger(cost)||cost<0)throw new Error('扫荡体力配置无效');
-  if(role.energy.energyValue<cost)throw new Error('体力不足');
   const rewards=new Map();
   for(let i=0;i<times;i++) {
     const ids=[phase.SweepRewardId,...(phase.SweepProbId||[]),...(phase.SweepRareRewardID||[])];
     for(const id of ids)for(const item of rollConfiguredReward(id))rewards.set(item.id,(rewards.get(item.id)||0)+item.count);
   }
-  const exp=cost*constant.strengthExp;
+  const expPrices=constant.localOriginalSweepCost||prices;
+  const exp=(expPrices.length?expPrices[Math.min(role.hangUp.sweepNum,expPrices.length-1)]*times:cost)*constant.strengthExp;
   if(exp>0)rewards.set(10001,(rewards.get(10001)||0)+exp);
-  role.energy.energyValue-=cost;
   role.hangUp.sweepNum+=times;
   for(const [id,count] of rewards)addItem(id,count);
   commitEconomy();
@@ -598,7 +586,7 @@ function sweepHangUp(params) {
   const LOCAL_FIRST_GIFT_IDS=new Set([201,202,203,211,212,213,221,222,223]);
   function isRepeatableMallGood(id) {
     const cfg=state.configs.MallConfig.getById(Number(id));
-    return !!cfg&&(LOCAL_FIRST_GIFT_IDS.has(cfg.id)||[701,301,601,501].includes(cfg.shopType));
+    return !!cfg;
   }
   function prepareLocalMall(refresh=false) {
     for(const cfg of state.configs.MallConfig.list)if(isRepeatableMallGood(cfg.id))cfg.conditions.clear();
@@ -650,7 +638,8 @@ function sweepHangUp(params) {
     if(!Number.isSafeInteger(num)||num<1||num>9999)throw new Error('领取数量需要为 1 至 9999');
     const cfg=blackMarket?c.RandomMallConfig.getById(id):c.MallConfig.getById(id);
     if(!cfg||(!blackMarket&&!isRepeatableMallGood(id)))throw new Error('该商品尚未完成本地适配');
-    const items=blackMarket?cfg.reward.map(x=>({id:x.item,count:x.num*num})):fixedRewards(cfg.reward.id).map(x=>({id:x.id,count:x.count*num}));
+    const items=blackMarket?cfg.reward.map(x=>({id:x.item,count:x.num*num})):cfg.reward?fixedRewards(cfg.reward.id).map(x=>({id:x.id,count:x.count*num})):[];
+    if(!blackMarket)globalThis.LocalUnlocked?.activatePurchase(cfg);
     return grantLocalGiftItems(items);
   }
   function useLocalBagItem(params) {
@@ -732,6 +721,7 @@ function sweepHangUp(params) {
       if (saved.format !== 1 || !saved.role || !Number.isFinite(saved.role.gold)) throw new Error('不支持的存档格式');
       state.evolutionApplied=validateEvolutionApplied(saved.evolutionApplied);
       hydrate(server.ROLE, saved.role);
+      await globalThis.LocalUnlocked.prepare(state,{addItem,rewardItem,remember,fixedRewards,grantLocalGiftItems,hydrate,plain});
       refreshLocalEvolutionStats();
       unlockLocalCosmetics();
       prepareLocalMall();
@@ -755,6 +745,7 @@ function sweepHangUp(params) {
       const cmd = options.cmd.toLowerCase(), p = options.params || {}, role = state.server.ROLE;
       console.info('[offline RPC]', cmd);
       try {
+        const unlocked=await globalThis.LocalUnlocked.handle(cmd,p);if(unlocked!==undefined)return response(options,unlocked);
         const mallReply=handleLocalMall(options,p,cmd);if(mallReply)return mallReply;
         if(['hero_fashiontakeon','hero_fashiononshow','hero_fashionsuitshow','hero_fashionlevelup','hero_fashionsuitlevelup'].includes(cmd)){changeLocalCosmetics(cmd,p);return response(options);}
         if(cmd==='role_drawattrcard')return response(options,{cardId:drawLocalGhostCard(p)});
