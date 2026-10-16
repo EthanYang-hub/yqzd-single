@@ -4,6 +4,13 @@
   const NativeXHR = g.XMLHttpRequest, nativeFetch = g.fetch.bind(g);
   const NativeSocket = g.WebSocket, NativeImage = g.Image;
   const origin = location.origin, cache = new Map(), memory = new Map();
+  const iosDevice=/iPhone|iPad|iPod/i.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+  const androidDevice=/Android/i.test(navigator.userAgent),mobileDevice=iosDevice||androidDevice;
+  const renderPixelRatio=g.devicePixelRatio||1;
+  const assetBytes=new Map(),assetPending=new Map(),codeBytes=new Map();let assetByteCount=0;
+  const assetMemoryLimit=32*1024*1024;
+  let diskCachePromise;
+  function assetDiskCache(){return diskCachePromise||(diskCachePromise=g.caches?g.caches.open('yqzd-public-assets-v1').catch(()=>null):Promise.resolve(null));}
   // 由页面位置识别站点前缀，同时支持本地根目录和 GitHub Pages 项目目录。
   const sitePath = new URL('../', document.baseURI).pathname.replace(/\/$/, '');
   const status = text => { const el = document.getElementById('local-status'); if (el) el.textContent = text; };
@@ -31,13 +38,42 @@
       super(parsed.href, protocols);
     }
   };
-  function readBytes(path) {
-    const url = localURL(path); if (memory.has(url)) return memory.get(url).slice();
+  function cachedBytes(url) {
+    if(codeBytes.has(url))return codeBytes.get(url);
+    if (memory.has(url)) return memory.get(url).slice();
     const persisted = localStorage.getItem('yqzd-file:' + url.slice(origin.length));
     if (persisted != null) return Uint8Array.from(atob(persisted), c => c.charCodeAt(0));
+    if(assetBytes.has(url)){const bytes=assetBytes.get(url);assetBytes.delete(url);assetBytes.set(url,bytes);return bytes;}
+    return null;
+  }
+  function rememberAsset(url,bytes){
+    // 同步 require 不能可靠经过 Service Worker；预读代码必须保留到后续场景加载。
+    const path=new URL(url).pathname;
+    if(path.startsWith(sitePath+'/source/')&&/\.(js|json)$/.test(path)){codeBytes.set(url,bytes);return;}
+    if(bytes.byteLength>assetMemoryLimit)return;
+    if(assetBytes.has(url)){assetByteCount-=assetBytes.get(url).byteLength;assetBytes.delete(url);}
+    while(assetByteCount+bytes.byteLength>assetMemoryLimit&&assetBytes.size){const key=assetBytes.keys().next().value;assetByteCount-=assetBytes.get(key).byteLength;assetBytes.delete(key);}
+    assetBytes.set(url,bytes);assetByteCount+=bytes.byteLength;
+  }
+  function readBytes(path) {
+    const url=localURL(path),existing=cachedBytes(url);if(existing)return existing;
     const xhr = new NativeXHR(); xhr.open('GET', url, false); xhr.overrideMimeType('text/plain; charset=x-user-defined'); xhr.send();
     if (xhr.status !== 200) throw new Error('Missing local file (' + xhr.status + '): ' + url);
-    return Uint8Array.from(xhr.responseText, c => c.charCodeAt(0) & 255);
+    const bytes=Uint8Array.from(xhr.responseText,c=>c.charCodeAt(0)&255);rememberAsset(url,bytes);return bytes;
+  }
+  async function readBytesAsync(path,signal) {
+    const url=localURL(path),existing=cachedBytes(url);if(existing)return existing;
+    if(assetPending.has(url))return assetPending.get(url);
+    const pending=(async()=>{
+      // 公共资源按需缓存；角色存档仍只走原有本地存储。
+      const persistent=new URL(url).pathname.startsWith(sitePath+'/cdn/'),disk=persistent?await assetDiskCache():null;
+      let response;
+      if(disk)try{response=await disk.match(url);}catch{}
+      if(!response){response=await nativeFetch(url,{signal});if(!response.ok)throw new Error('Missing local file ('+response.status+'): '+url);if(disk)disk.put(url,response.clone()).catch(()=>{});}
+      const bytes=new Uint8Array(await response.arrayBuffer());rememberAsset(url,bytes);return bytes;
+    })();
+    assetPending.set(url,pending);
+    try{return await pending;}finally{assetPending.delete(url);}
   }
   function decode(bytes, encoding) {
     if (!encoding || encoding === 'binary') return bytes.buffer.slice(bytes.byteOffset, bytes.byteOffset + bytes.byteLength);
@@ -63,17 +99,18 @@
     accessSync(path) { readBytes(typeof path === 'object' ? path.path : path); return {success: true}; },
     unlinkSync(path) { const url = localURL(path); memory.delete(url); localStorage.removeItem('yqzd-file:' + url.slice(origin.length)); },
     rmdirSync() { throw new Error('Recursive local cache deletion is unsupported'); },
-    readFile(opts) { Promise.resolve().then(() => done(opts, {data: fs.readFileSync(opts.filePath, opts.encoding)})).catch(e => fail(opts, e)); },
+    readFile(opts) { readBytesAsync(opts.filePath).then(bytes=>done(opts,{data:decode(bytes,opts.encoding)})).catch(e=>fail(opts,e)); },
     writeFile(opts) { Promise.resolve().then(() => { writeBytes(opts.filePath, opts.data, opts.encoding); done(opts); }).catch(e => fail(opts, e)); },
-    access(opts) { if(memory.has(localURL(opts.path))) {done(opts);return;} nativeFetch(localURL(opts.path), {method: 'HEAD'}).then(r => { if (!r.ok) throw new Error('Missing local file: ' + opts.path); done(opts); }).catch(e => fail(opts, e)); },
-    copyFile(opts) { Promise.resolve().then(() => { writeBytes(opts.destPath, readBytes(opts.srcPath)); done(opts); }).catch(e => fail(opts, e)); },
+    // 离线时用同一条缓存读取路径检查文件，避免 HEAD 请求绕过缓存。
+    access(opts) { readBytesAsync(opts.path).then(()=>done(opts)).catch(e=>fail(opts,e)); },
+    copyFile(opts) { readBytesAsync(opts.srcPath).then(bytes=>{writeBytes(opts.destPath,bytes);done(opts);}).catch(e=>fail(opts,e)); },
     unlink(opts) { try { fs.unlinkSync(opts.filePath); done(opts); } catch (e) { fail(opts, e); } },
     readdir(opts) { fail(opts, new Error('Directory inventory is not exposed by the local HTTP server')); },
     unzip(opts) { fail(opts, new Error('Local bundle ZIP must be extracted by build_local.py before launch')); }
   };
   const canvas = document.getElementById('GameCanvas');
   if (!canvas) throw new Error('Missing GameCanvas');
-  canvas.width = Math.round(innerWidth * devicePixelRatio); canvas.height = Math.round(innerHeight * devicePixelRatio);
+  canvas.width = Math.round(innerWidth * renderPixelRatio); canvas.height = Math.round(innerHeight * renderPixelRatio);
   g.canvas = canvas; g.screencanvas = canvas; g.GameGlobal = g; g.global = g;
   // WeChat's instantiate accepts a package filename; native browsers require bytes.
   const wasmHost = Object.create(g.WebAssembly);
@@ -90,7 +127,7 @@
   function on(name, cb) { if (!listeners.has(name)) listeners.set(name, new Set()); listeners.get(name).add(cb); }
   function off(name, cb) { if (cb) listeners.get(name)?.delete(cb); else listeners.delete(name); }
   function emit(name, event) { for (const cb of listeners.get(name) || []) cb(event); }
-  function info() { return {brand: 'local', model: 'Browser', platform: 'windows', system: 'Windows 10', SDKVersion: '3.10.0', version: '8.0.60', language: navigator.language || 'zh_CN', pixelRatio: devicePixelRatio, devicePixelRatio, screenWidth: innerWidth, screenHeight: innerHeight, windowWidth: innerWidth, windowHeight: innerHeight, statusBarHeight: 0, benchmarkLevel: 50, deviceOrientation: innerWidth > innerHeight ? 'landscape' : 'portrait', safeArea: {left:0, top:0, right:innerWidth, bottom:innerHeight, width:innerWidth, height:innerHeight}}; }
+  function info() { return {brand: 'local', model: iosDevice?'iPhone/iPad':'Browser', platform: iosDevice?'ios':androidDevice?'android':'windows', system: iosDevice?'iOS':androidDevice?'Android':'Windows 10', SDKVersion: '3.10.0', version: '8.0.60', language: navigator.language || 'zh_CN', pixelRatio: renderPixelRatio, devicePixelRatio:renderPixelRatio, screenWidth: innerWidth, screenHeight: innerHeight, windowWidth: innerWidth, windowHeight: innerHeight, statusBarHeight: 0, benchmarkLevel: 50, deviceOrientation: innerWidth > innerHeight ? 'landscape' : 'portrait', safeArea: {left:0, top:0, right:innerWidth, bottom:innerHeight, width:innerWidth, height:innerHeight}}; }
   function media(kind) {
     const el = document.createElement(kind), api = {destroy: () => { el.pause(); el.removeAttribute('src'); el.load(); }, play: () => el.play().catch(e => emit('audioError', e)), pause: () => el.pause(), stop: () => { el.pause(); el.currentTime = 0; }, seek: n => { el.currentTime = n; }};
     for (const key of ['src','autoplay','loop','volume','muted','currentTime','duration','paused','playbackRate']) Object.defineProperty(api, key, {get: () => el[key], set: v => { el[key] = key === 'src' ? localURL(v) : v; }});
@@ -115,7 +152,7 @@
     },
     downloadFile(opts) {
       const controller=new AbortController(), progress=[];
-      Promise.resolve().then(()=>nativeFetch(localURL(opts.url),{signal:controller.signal})).then(async r=>{ if(!r.ok)throw new Error('Missing cached resource '+opts.url); const bytes=new Uint8Array(await r.arrayBuffer());const path=opts.filePath || localURL(opts.url);if(opts.filePath)writeBytes(path,bytes);for(const cb of progress)cb({progress:100,totalBytesWritten:bytes.length,totalBytesExpectedToWrite:bytes.length});done(opts,{statusCode:r.status,tempFilePath:path,filePath:path}); }).catch(e=>fail(opts,e));
+      readBytesAsync(opts.url,controller.signal).then(bytes=>{const path=opts.filePath || localURL(opts.url);if(opts.filePath)writeBytes(path,bytes);for(const cb of progress)cb({progress:100,totalBytesWritten:bytes.length,totalBytesExpectedToWrite:bytes.length});done(opts,{statusCode:200,tempFilePath:path,filePath:path}); }).catch(e=>fail(opts,e));
       return {abort:()=>controller.abort(),onProgressUpdate:cb=>progress.push(cb),offProgressUpdate(){}};
     },
     saveFile(opts) { fs.copyFile({...opts,srcPath:opts.tempFilePath,destPath:opts.filePath}); },
@@ -185,6 +222,16 @@
   }
   g.require = requireLocal;g.hortorRequire=s=>requireLocal(s);g.__wxRequire=requireLocal;
   g.LocalWX = {localURL,require:requireLocal,fs,wx,status,cache,beforeBoot:null,afterEnv:null,
-    boot(){status('正在启动本地游戏…');this.beforeBoot?.();try{requireLocal('/source/game.js');}catch(e){console.error(e);status('启动中断：'+e.message);throw e;}}
+    async boot(){
+      status('正在加载游戏代码…');this.beforeBoot?.();
+      try{
+        const response=await nativeFetch(localURL('/source-preload.json')+'?v='+(g.LOCAL_GAME_REVISION||'local'));
+        if(!response.ok)throw new Error('代码清单加载失败');
+        const files=await response.json();let cursor=0,loaded=0;
+        // 提前并发读取代码，原同步 require 执行时只访问内存，避免网络卡住触控。
+        await Promise.all(Array.from({length:6},async()=>{while(cursor<files.length){const path=files[cursor++];await readBytesAsync('/'+path);loaded++;status('正在加载游戏代码 '+loaded+'/'+files.length+'…');}}));
+        status('正在启动本地游戏…');requireLocal('/source/game.js');
+      }catch(e){console.error(e);status('启动中断：'+e.message);throw e;}
+    }
   };
 })(globalThis);
