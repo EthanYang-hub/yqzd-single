@@ -7,6 +7,10 @@
   const iosDevice=/iPhone|iPad|iPod/i.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
   const androidDevice=/Android/i.test(navigator.userAgent),mobileDevice=iosDevice||androidDevice;
   const renderPixelRatio=g.devicePixelRatio||1;
+  const antialiasKey='yqzd.graphics.extra-antialias.v1';
+  let extraAntialias=!mobileDevice;
+  try{const saved=localStorage.getItem(antialiasKey);if(saved==='0'||saved==='1')extraAntialias=saved==='1';}catch{}
+  const graphics=g.LocalGraphics={extraAntialias,context:null};
   const assetBytes=new Map(),assetPending=new Map(),codeBytes=new Map();let assetByteCount=0;
   const assetMemoryLimit=32*1024*1024;
   let diskCachePromise;
@@ -110,6 +114,18 @@
   };
   const canvas = document.getElementById('GameCanvas');
   if (!canvas) throw new Error('Missing GameCanvas');
+  // 保留原生像素尺寸；手机默认省去全屏多重采样，贴图与光效仍按原尺寸绘制。
+  const nativeCanvasContext=canvas.getContext.bind(canvas);
+  canvas.getContext=function(type,options){
+    const webgl=['webgl','experimental-webgl','webgl2'].includes(type);
+    const context=nativeCanvasContext(type,webgl?{...options,antialias:extraAntialias}:options);
+    if(webgl&&context&&!graphics.context){
+      const attrs=context.getContextAttributes();
+      graphics.context={antialias:attrs?.antialias??null,samples:context.getParameter(context.SAMPLES),
+        alpha:attrs?.alpha??null,preserveDrawingBuffer:attrs?.preserveDrawingBuffer??null};
+    }
+    return context;
+  };
   canvas.width = Math.round(innerWidth * renderPixelRatio); canvas.height = Math.round(innerHeight * renderPixelRatio);
   g.canvas = canvas; g.screencanvas = canvas; g.GameGlobal = g; g.global = g;
   // WeChat's instantiate accepts a package filename; native browsers require bytes.
@@ -237,6 +253,18 @@
   g.LocalWX = {localURL,require:requireLocal,fs,wx,status,cache,beforeBoot:null,afterEnv:null,
     async boot(){
       status('正在加载游戏代码…');this.beforeBoot?.();
+      const panel=document.getElementById('local-tools');
+      if(panel){
+        panel.style.maxHeight='calc(100vh - 24px)';panel.style.overflowY='auto';
+        const section=document.createElement('section'),label=document.createElement('label'),check=document.createElement('input'),apply=document.createElement('button'),hint=document.createElement('small');
+        section.style.cssText='border-top:1px solid #809180;margin-top:8px;padding-top:8px';
+        check.type='checkbox';check.checked=extraAntialias;label.append(check,'额外抗锯齿（更耗性能）');
+        apply.type='button';apply.textContent='应用并重开';apply.disabled=true;
+        check.onchange=()=>{apply.disabled=check.checked===extraAntialias;};
+        apply.onclick=()=>{try{localStorage.setItem(antialiasKey,check.checked?'1':'0');location.reload();}catch{hint.textContent='浏览器无法保存设置';}};
+        hint.textContent='分辨率不变。关闭可减轻绘制压力，图形边缘可能略有区别。';hint.style.display='block';
+        section.append(label,document.createElement('br'),apply,hint);panel.append(section);
+      }
       try{
         const response=await nativeFetch(localURL('/source-preload.json')+'?v='+(g.LOCAL_GAME_REVISION||'local'));
         if(!response.ok)throw new Error('代码清单加载失败');

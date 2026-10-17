@@ -25,6 +25,7 @@
       jsHeap:!!performance.memory,indexedDB:!!globalThis.indexedDB},
     recording:{sampleIntervalMs:1000,persistIntervalMs:15000,maxSamples:MAX_SAMPLES,maxSessions:MAX_SESSIONS},
     renderOptimizations:globalThis.LocalRender?{uiSpineCache:globalThis.LocalRender.uiSpineCache}:null,
+    graphics:globalThis.LocalGraphics?{extraAntialias:globalThis.LocalGraphics.extraAntialias,context:globalThis.LocalGraphics.context}:null,
     limits:['Frame gaps do not identify a CPU/GPU/thermal cause by themselves.','JS heap excludes GPU textures and is unavailable in many Safari versions.']};}
   function canvasSize(){const c=document.getElementById('GameCanvas');return c?[c.width,c.height]:null;}
   function database(){
@@ -116,6 +117,7 @@
       textureBytes:device?.memoryStatus?.textureSize??null,canvas:canvasSize(),
       engineMs:round(costs.engine.ms),engineMaxMs:round(costs.engine.max),engineFrames:costs.engine.calls,renderFrames:costs.render.calls,
       spineActive,spineCached,graphicsAPI:device?.gfxAPI??null,uiSpinePrepared:globalThis.LocalRender?.prepared??0,audio:globalThis.LocalAudio?.getStats()||null,
+      antialias:globalThis.LocalGraphics?.context?.antialias??null,msaaSamples:globalThis.LocalGraphics?.context?.samples??null,
       battleMs:round(costs.battle.ms),battleMaxMs:round(costs.battle.max),renderMs:round(costs.render.ms),renderMaxMs:round(costs.render.max),recorderMs:round(performance.now()-begin)};
     drawPeak=0;Object.values(costs).forEach(c=>{c.ms=c.max=c.calls=0;});
     current.samples.push(row);trim(current.samples,MAX_SAMPLES);state.samples=current.samples.length;state.last=row;
