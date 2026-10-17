@@ -73,7 +73,7 @@
       const bytes=new Uint8Array(await response.arrayBuffer());rememberAsset(url,bytes);return bytes;
     })();
     assetPending.set(url,pending);
-    try{return await pending;}finally{assetPending.delete(url);}
+    try{return await pending;}catch(error){g.localPerformanceLogs?.resourceFailure(url,error);throw error;}finally{assetPending.delete(url);}
   }
   function decode(bytes, encoding) {
     if (!encoding || encoding === 'binary') return bytes.buffer.slice(bytes.byteOffset, bytes.byteOffset + bytes.byteLength);
