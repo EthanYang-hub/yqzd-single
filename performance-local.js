@@ -24,6 +24,7 @@
       resource:!!globalThis.PerformanceObserver?.supportedEntryTypes?.includes('resource'),
       jsHeap:!!performance.memory,indexedDB:!!globalThis.indexedDB},
     recording:{sampleIntervalMs:1000,persistIntervalMs:15000,maxSamples:MAX_SAMPLES,maxSessions:MAX_SESSIONS},
+    renderOptimizations:globalThis.LocalRender?{uiSpineCache:globalThis.LocalRender.uiSpineCache}:null,
     limits:['Frame gaps do not identify a CPU/GPU/thermal cause by themselves.','JS heap excludes GPU textures and is unavailable in many Safari versions.']};}
   function canvasSize(){const c=document.getElementById('GameCanvas');return c?[c.width,c.height]:null;}
   function database(){
@@ -104,6 +105,8 @@
     if(next!==world){unhook();world=next||null;hook(cc?.director,'tick',costs.engine);hook(cc?.director.root,'frameMove',costs.render);hook(world,'update',costs.battle);event(world?'battle-enter':'battle-leave',{stage:world?.options?.battleData?.stageId||null});}
     const times=frameTimes.sort((a,b)=>a-b);frameTimes=[];
     const ctx=world?.sceneEntity?.getComponent(contextClass),device=cc?.director.root?.device;
+    let spineActive=0,spineCached=0;
+    cc?.director.getSystem('SKELETON')?._skeletons?.forEach(s=>{spineActive++;if(s.isAnimationCached())spineCached++;});
     const row={at:Date.now(),elapsedMs:round(elapsed),fps:round(times.length*1000/elapsed),
       p50FrameMs:round(times[Math.floor(times.length*.5)]),p95FrameMs:round(times[Math.floor(times.length*.95)]),maxFrameMs:round(times.at(-1)),
       framesOver33ms:times.filter(t=>t>33.4).length,framesOver50ms:times.filter(t=>t>50).length,
@@ -111,7 +114,8 @@
       enemies:ctx?.awakenedEnemies.length??null,bullets:ctx?.awakenedBullets.length??null,effects:ctx?.awakenedEffects.length??null,
       drawCallsPeak:drawPeak,triangles:device?.numTris??null,jsHeapBytes:performance.memory?.usedJSHeapSize??null,
       textureBytes:device?.memoryStatus?.textureSize??null,canvas:canvasSize(),
-      engineMs:round(costs.engine.ms),engineMaxMs:round(costs.engine.max),audio:globalThis.LocalAudio?.getStats()||null,
+      engineMs:round(costs.engine.ms),engineMaxMs:round(costs.engine.max),engineFrames:costs.engine.calls,renderFrames:costs.render.calls,
+      spineActive,spineCached,graphicsAPI:device?.gfxAPI??null,uiSpinePrepared:globalThis.LocalRender?.prepared??0,audio:globalThis.LocalAudio?.getStats()||null,
       battleMs:round(costs.battle.ms),battleMaxMs:round(costs.battle.max),renderMs:round(costs.render.ms),renderMaxMs:round(costs.render.max),recorderMs:round(performance.now()-begin)};
     drawPeak=0;Object.values(costs).forEach(c=>{c.ms=c.max=c.calls=0;});
     current.samples.push(row);trim(current.samples,MAX_SAMPLES);state.samples=current.samples.length;state.last=row;

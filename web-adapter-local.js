@@ -214,7 +214,20 @@
       if(path.endsWith('.json'))module.exports=JSON.parse(source);
       else new Function('require','module','exports','__filename','__dirname',source+'\n//# sourceURL='+url)(s=>requireLocal(s,url),module,module.exports,path,path.slice(0,path.lastIndexOf('/')));
       if(path.endsWith('/engine-adapter.5d553.js')) {
-        g.System.import('cc').then(cc=>{const manager=cc.assetManager.cacheManager; manager.cacheEnabled=false;manager.autoClear=false;manager.clearLRU=()=>{};});
+        g.System.import('cc').then(cc=>{
+          const manager=cc.assetManager.cacheManager;manager.cacheEnabled=false;manager.autoClear=false;manager.clearLRU=()=>{};
+          // 仅缓存重复的 UI 光效；战斗角色、技能和挂点动画继续按原逻辑更新。
+          const names=new Set(['ui_tianshu_jueixng_guang','ui_tianshu_jueixng_guang_2','ui_zidong_anniu']);
+          const proto=cc.sp.Skeleton.prototype,onEnable=proto.onEnable;
+          const stats=g.LocalRender={uiSpineCache:1,prepared:0};
+          proto.onEnable=function(){
+            if(names.has(this.skeletonData?.name)&&!this.customMaterial&&!this.sockets.length){
+              const mode=cc.sp.Skeleton.AnimationCacheMode.SHARED_CACHE;
+              if(this._cacheMode!==mode){this.setAnimationCacheMode(mode);stats.prepared++;}
+            }
+            return onEnable.call(this);
+          };
+        });
       }
       if(path.endsWith('/hortor/env.js')) {Object.assign(g.env,{APP_CDN:localURL('/source'),APP_CDNS:[localURL('/source')],APP_SERVER:localURL('/local'),APP_SERVER_AUDIT:localURL('/local'),APP_MANIFEST_URL:'local/manifest'});g.LocalWX.afterEnv?.(g.env);}
       return module.exports;
