@@ -138,7 +138,7 @@
     env: {USER_DATA_PATH: '/user'}, getSystemInfoSync: info, getWindowInfo: info, getDeviceInfo: info, getAppBaseInfo: info,
     getSystemInfo(opts) { done(opts, info()); }, getFileSystemManager: () => fs,
     createCanvas: () => document.createElement('canvas'), createOffscreenCanvas: o => new OffscreenCanvas(o?.width || 1, o?.height || 1),
-    createImage: () => new NativeImage(), createInnerAudioContext: () => media('audio'),
+    createImage: () => new NativeImage(), createInnerAudioContext: () => g.LocalAudio?g.LocalAudio.create({read:readBytesAsync,localURL,media:()=>media('audio')}):media('audio'),
     createWebAudioContext: () => new (g.AudioContext || g.webkitAudioContext)(),
     getStorageSync(key) { const val=localStorage.getItem('yqzd-wx:'+key); return val == null ? '' : JSON.parse(val); },
     setStorageSync(key,value) { localStorage.setItem('yqzd-wx:'+key, JSON.stringify(value)); },

@@ -1,8 +1,8 @@
 /* 只缓存本站静态资源，保持角色本地存档独立。构建脚本注入版本号。 */
-const REVISION='e0c40a98fc45';
+const REVISION='d5fd6b632884';
 const ROOT=new URL('./',self.location.href),PUBLIC_CACHE='yqzd-public-assets-v1';
 const SITE_CACHE='yqzd-site-'+encodeURIComponent(ROOT.pathname)+'-'+REVISION;
-const SHELL=['index.html','web-adapter-local.js','offline-local.js','offline-assets.js','offline-unlocked.js','performance-local.js','source-preload.json','initial-role.json','manifest.webmanifest','offline-assets.json'];
+const SHELL=['index.html','web-adapter-local.js','offline-local.js','offline-assets.js','offline-unlocked.js','performance-local.js','audio-local.js','source-preload.json','initial-role.json','manifest.webmanifest','offline-assets.json'];
 const canonical=request=>{const url=new URL(request.url);if(request.mode==='navigate'||url.pathname.startsWith(ROOT.pathname+'cdn/'))url.search='';else if(url.searchParams.get('v')===REVISION)url.searchParams.delete('v');if(url.pathname===ROOT.pathname)url.pathname+='index.html';return url.href;};
 async function cachedResponse(request,response){
   const range=request.headers.get('Range');if(!range)return response;

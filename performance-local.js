@@ -11,7 +11,7 @@
   const state={enabled:false,samples:0,last:null,storage:'pending',message:''};
   let sessions=[],current=null,cc,manager,contextClass,enginePending,dbPromise,raf=0,timer=0,saveTimer=0;
   let frameTimes=[],frameAt=0,drawPeak=0,windowAt=0,observers=[],hooks=[],world=null,starting;
-  const costs={battle:{ms:0,max:0,calls:0},render:{ms:0,max:0,calls:0}};
+  const costs={engine:{ms:0,max:0,calls:0},battle:{ms:0,max:0,calls:0},render:{ms:0,max:0,calls:0}};
   const round=n=>Number.isFinite(n)?Math.round(n*100)/100:null;
   const trim=(items,limit)=>{if(items.length>limit)items.splice(0,items.length-limit);};
   const storageFlag=value=>{try{localStorage.setItem(ENABLED,value?'1':'0');}catch{}};
@@ -99,9 +99,9 @@
     windowAt=begin;
     if(document.hidden){frameTimes=[];return;}
     void attachEngine();
-    if(cc&&!hooks.length)hook(cc.director.root,'frameMove',costs.render);
+    if(cc&&!hooks.length){hook(cc.director,'tick',costs.engine);hook(cc.director.root,'frameMove',costs.render);}
     const next=manager?.getCurrentBattleForDebug?.()||null;
-    if(next!==world){unhook();world=next||null;hook(cc?.director.root,'frameMove',costs.render);hook(world,'update',costs.battle);event(world?'battle-enter':'battle-leave',{stage:world?.options?.battleData?.stageId||null});}
+    if(next!==world){unhook();world=next||null;hook(cc?.director,'tick',costs.engine);hook(cc?.director.root,'frameMove',costs.render);hook(world,'update',costs.battle);event(world?'battle-enter':'battle-leave',{stage:world?.options?.battleData?.stageId||null});}
     const times=frameTimes.sort((a,b)=>a-b);frameTimes=[];
     const ctx=world?.sceneEntity?.getComponent(contextClass),device=cc?.director.root?.device;
     const row={at:Date.now(),elapsedMs:round(elapsed),fps:round(times.length*1000/elapsed),
@@ -111,6 +111,7 @@
       enemies:ctx?.awakenedEnemies.length??null,bullets:ctx?.awakenedBullets.length??null,effects:ctx?.awakenedEffects.length??null,
       drawCallsPeak:drawPeak,triangles:device?.numTris??null,jsHeapBytes:performance.memory?.usedJSHeapSize??null,
       textureBytes:device?.memoryStatus?.textureSize??null,canvas:canvasSize(),
+      engineMs:round(costs.engine.ms),engineMaxMs:round(costs.engine.max),audio:globalThis.LocalAudio?.getStats()||null,
       battleMs:round(costs.battle.ms),battleMaxMs:round(costs.battle.max),renderMs:round(costs.render.ms),renderMaxMs:round(costs.render.max),recorderMs:round(performance.now()-begin)};
     drawPeak=0;Object.values(costs).forEach(c=>{c.ms=c.max=c.calls=0;});
     current.samples.push(row);trim(current.samples,MAX_SAMPLES);state.samples=current.samples.length;state.last=row;
