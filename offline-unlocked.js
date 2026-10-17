@@ -91,6 +91,10 @@
   const freeArray=(array)=>Array.isArray(array)?array.map(x=>typeof x==='number'?0:Array.isArray(x)?freeArray(x):x&&typeof x==='object'&&'num'in x?Object.assign(x,{num:0}):x):array;
   async function prepare(next,helpers){
     state=next;tools=helpers;c=state.configs;d=state.defs;r=state.server.ROLE;ui=state.uiSignals;
+    // 鬼店强运按原配置升满；登录后由原属性差额结算统一刷新并保存。
+    for(const cfg of c.AttrCardCfg.list)if(cfg.attrType===c.BattleAttributeKey.SKILL_LEVELUP){
+      const max=Math.max(...cfg.levelMax);r.attrCard.cardLevel.set(cfg.id,Math.max(r.attrCard.cardLevel.get(cfg.id)||0,max));
+    }
     r.unlockModuleIds=c.UnlockCfg.list.map(x=>x.id);
     for(const cfg of c.UnlockCfg.list){cfg.condition.clear();cfg.showCondition.clear();cfg.close=0;cfg.punishClose=0;}
     const helper=state.roleHelper;
@@ -118,6 +122,29 @@
     cultivationItem.refreshView=function(){const result=refreshCultivation.call(this);for(const label of this.btn_up.getComponentsInChildren(cc.Label))label.string='一键升满';return result;};
     cultivationItem._checkUpgradeResources=function(){return c.AttrGrowCfg.list.some(x=>x.attrType===this.curType&&x.level>(r.attrLevel.get(this.curType)||0));};
     cultivationItem.playLevelUpAnimation=function(){this.stopLevelAnimation();this.refreshView();};
+    const {BattleCardComponent}=await System.import('chunks:///_virtual/battle-card-comp.ts');
+    const cardView=BattleCardComponent.prototype,refreshCards=cardView.refreshCardList;
+    cardView.refreshCardList=function(){
+      const result=refreshCards.call(this),root=this.cardRoot,layout=root?.getComponent(cc.Layout),rect=root?.getComponent(cc.UITransform);
+      if(!layout||!rect)return result;
+      // 多手牌分两行，保留战场与卡牌交互；少于11张恢复原布局。
+      const base=this.localHandLayoutBase??=( {type:layout.type,resize:layout.resizeMode,constraint:layout.constraint,
+        position:root.position.clone(),scale:root.scale.clone(),height:rect.height,
+        labels:[this.label_cardCount.node,this.label_cardFull.node].map(node=>({node,position:node.position.clone()}))} );
+      const count=this.cardList.length;
+      if(count>10){
+        const first=root.children[0]?.getComponent(cc.UITransform),width=first?.width||88,height=first?.height||132,columns=Math.ceil(count/2);
+        layout.type=cc.Layout.Type.GRID;layout.resizeMode=cc.Layout.ResizeMode.NONE;
+        layout.startAxis=cc.Layout.AxisDirection.HORIZONTAL;layout.constraint=cc.Layout.Constraint.FIXED_COL;layout.constraintNum=columns;
+        rect.setContentSize(columns*width+(columns-1)*layout.spacingX,2*height+layout.spacingY);
+        root.setScale(.67,.67,1);root.setPosition(base.position.x,base.position.y+25,base.position.z);
+        for(const item of base.labels)item.node.setPosition(item.position.x,item.position.y+55,item.position.z);
+      }else{
+        layout.type=base.type;layout.resizeMode=base.resize;layout.constraint=base.constraint;rect.height=base.height;
+        root.setScale(base.scale);root.setPosition(base.position);for(const item of base.labels)item.node.setPosition(item.position);
+      }
+      layout.updateLayout(true);return result;
+    };
     const [shop,pill,pet,desire,base,gacha,pillUI,petLevel]=await Promise.all(['shop-helper.ts','pill-module.ts','pet-helper.ts','desire-module.ts','base-land-helper.ts','ui-desire-gacha-page.ts','ui-pill.ts','pet-level-up.ts'].map(n=>System.import('chunks:///_virtual/'+n)));
     shop.shopHelper.getMallBuyTimes=()=>0;shop.shopHelper.getShopCanBuy=()=>true;shop.shopHelper.checkMallCfgDown=()=>false;
     shop.shopHelper.getCurLifeCardType=shop.shopHelper.getCurMouthCardType=()=>1;

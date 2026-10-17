@@ -1,5 +1,5 @@
 /* 只缓存本站静态资源，保持角色本地存档独立。构建脚本注入版本号。 */
-const REVISION='2344c564a174';
+const REVISION='cc704e94b7c1';
 const ROOT=new URL('./',self.location.href),PUBLIC_CACHE='yqzd-public-assets-v1';
 const SITE_CACHE='yqzd-site-'+encodeURIComponent(ROOT.pathname)+'-'+REVISION;
 const SHELL=['index.html','web-adapter-local.js','offline-local.js','offline-assets.js','offline-unlocked.js','performance-local.js','audio-local.js','source-preload.json','initial-role.json','manifest.webmanifest','offline-assets.json'];
