@@ -9,7 +9,7 @@
   panel.append(section);
   const [toggle,markButton,exportButton,clearButton]=section.querySelectorAll('button'),status=section.querySelector('[role=status]');
   const state={enabled:false,samples:0,last:null,storage:'pending',message:''};
-  let sessions=[],current=null,cc,manager,contextClass,enginePending,dbPromise,raf=0,timer=0,saveTimer=0;
+  let sessions=[],current=null,cc,manager,contextClass,effectClass,enginePending,dbPromise,raf=0,timer=0,saveTimer=0;
   let frameTimes=[],frameAt=0,drawPeak=0,windowAt=0,observers=[],hooks=[],world=null,starting;
   const costs={engine:{ms:0,max:0,calls:0},battle:{ms:0,max:0,calls:0},render:{ms:0,max:0,calls:0}};
   const round=n=>Number.isFinite(n)?Math.round(n*100)/100:null;
@@ -83,8 +83,8 @@
   async function attachEngine(){
     if(cc||enginePending||!globalThis.localGame?.state.ready)return;
     enginePending=true;
-    try{const modules=await Promise.all([System.import('cc'),System.import('chunks:///_virtual/battle-manager.ts'),System.import('chunks:///_virtual/comp-battle-context.ts')]);
-      cc=modules[0];manager=modules[1].BattleManager.ins;contextClass=modules[2].CompBattleContext;
+    try{const modules=await Promise.all([System.import('cc'),System.import('chunks:///_virtual/battle-manager.ts'),System.import('chunks:///_virtual/comp-battle-context.ts'),System.import('chunks:///_virtual/comp-effect.ts')]);
+      cc=modules[0];manager=modules[1].BattleManager.ins;contextClass=modules[2].CompBattleContext;effectClass=modules[3].CompHolderEffect;
     }catch(error){event('engine-monitor-unavailable',{message:safeText(error.message)});}
     finally{enginePending=false;}
   }
@@ -108,11 +108,16 @@
     const ctx=world?.sceneEntity?.getComponent(contextClass),device=cc?.director.root?.device;
     let spineActive=0,spineCached=0;
     cc?.director.getSystem('SKELETON')?._skeletons?.forEach(s=>{spineActive++;if(s.isAnimationCached())spineCached++;});
+    let effectViews=0,detachedEffects=0;
+    // 区分可见效果与归池后的残留实体，避免把实体总数当作实际绘制负担。
+    if(ctx&&effectClass)for(const e of ctx.awakenedEffects){const c=e.getComponent(effectClass),v=c?.view;
+      if(v&&'compHoleEffect' in v){if(v.compHoleEffect!==c||!v.inst)detachedEffects++;else if(v.node?.activeInHierarchy)effectViews++;}}
     const row={at:Date.now(),elapsedMs:round(elapsed),fps:round(times.length*1000/elapsed),
       p50FrameMs:round(times[Math.floor(times.length*.5)]),p95FrameMs:round(times[Math.floor(times.length*.95)]),maxFrameMs:round(times.at(-1)),
       framesOver33ms:times.filter(t=>t>33.4).length,framesOver50ms:times.filter(t=>t>50).length,
       stage:world?.options?.battleData?.stageId||null,tick:world?.battleTime?.battleTick??null,battleState:world?.battleState?.curState??null,speed:world?.battleTime?.timeScale??null,
       enemies:ctx?.awakenedEnemies.length??null,bullets:ctx?.awakenedBullets.length??null,effects:ctx?.awakenedEffects.length??null,
+      friends:ctx?.awakenedFriends.length??null,summons:ctx?.awakenedSummons.length??null,effectViews:ctx?effectViews:null,detachedEffects:ctx?detachedEffects:null,
       drawCallsPeak:drawPeak,triangles:device?.numTris??null,jsHeapBytes:performance.memory?.usedJSHeapSize??null,
       textureBytes:device?.memoryStatus?.textureSize??null,canvas:canvasSize(),
       engineMs:round(costs.engine.ms),engineMaxMs:round(costs.engine.max),engineFrames:costs.engine.calls,renderFrames:costs.render.calls,
